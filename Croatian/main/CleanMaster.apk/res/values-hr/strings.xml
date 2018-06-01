@@ -122,6 +122,8 @@
   <string name="clean_content_three">3 stavke</string>
   <string name="clean_content_two">2 stavke</string>
   <string name="clean_content_zero">Ništa</string>
+  <string name="clean_long_msg">"Čišćenej datoteka %1$d ,%2$d dovršeno 
+%3$d%% stavka/sek preostalo vrijeme:%4$s"</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Widget u panelu obavijesti</string>

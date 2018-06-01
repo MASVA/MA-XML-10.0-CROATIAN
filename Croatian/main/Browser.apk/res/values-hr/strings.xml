@@ -55,7 +55,9 @@
   <string name="action_menu_useful_page_added">Dodano na početnu stranicu</string>
   <string name="action_menu_user_center">Profil</string>
   <string name="action_modify_bookmark">Izmijeni oznaku</string>
+  <string name="action_one_touch">Otvori obavijesti</string>
   <string name="action_put_in_search_box">Stavi %s u okvir za pretraživanje</string>
+  <string name="action_skip">Preskoči</string>
   <string name="actionbar_share">Podijeli</string>
   <string name="actionbar_textselection_title">Odabir teksta</string>
   <string name="actionbar_web_search">Pretraživanje weba</string>
@@ -320,6 +322,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="enable_geolocation_confirm_message">Isključivanje usluga lokacije utječe na preporuke koje primate.</string>
   <string name="enter_developer_mode">Ulaz u Developer mod</string>
   <string name="enter_incongnito_mode">Ulaz u Anoniman mod</string>
+  <string name="enter_infoflow_guide">Kliznite gore da biste vidjeli vijesti</string>
   <string name="enter_the_group_name">Unesi naziv grupe</string>
   <string name="enter_the_password">Unesi zaporku</string>
   <string name="enter_the_user_name">Unesi korisničko ime</string>
@@ -384,9 +387,11 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="homepage_more_sites">Više web stranica</string>
   <string name="homepage_search_hint">Pretraži</string>
   <string name="homepage_top_card_menu">Na vrh</string>
+  <string name="hot_words_item_ads_mark">Oglasi</string>
   <string name="ignore_add_pwa_dialog_today">Ne prikazuj danas</string>
   <string name="in_incognito">Anoniman mod je aktivan, neće ostati povijest preglednika.</string>
   <string name="in_secureaccess">Preglednik u sigurnom načinu rada</string>
+  <string name="info_flow_description">Info kanal</string>
   <string name="isReplacePage">Datoteka već postoji, zamijeniti je?</string>
   <string name="is_first_history_item">Ovo je prva stranica u povijesti Preglednika</string>
   <string name="is_first_tab">Ovo je prva kartica</string>
@@ -439,6 +444,7 @@ Napustiti ovu stranicu?"</string>
   <string name="menu_title_open_file_management">Otvori aplik. Datoteke</string>
   <string name="menu_title_pause_all">Pauziraj sve</string>
   <string name="menu_title_resume_all">Pokreni sve</string>
+  <string name="message_notice_push">Najnovije stvari više se ne propuštaju!</string>
   <string name="miui_autologin_bar_error">"Ne mogu se prijaviti"</string>
   <string name="miui_autologin_bar_title">Prijavite se s Mi Računom</string>
   <string name="miui_bookmark_action_bar_add_group_title">Dodaj grupu</string>
@@ -696,6 +702,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Desktop</string>
+  <string name="pref_navscreen_layoutstate_title">Upravljanje s više prozora</string>
   <string name="pref_notifications_hint">Obavijesti</string>
   <string name="pref_notifications_receive">Obavijesti</string>
   <string name="pref_notifications_title">Obavijesti</string>
@@ -781,6 +788,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="readmode_recommend_message">"Pročitali ste sve dijelove ove knjige. Odaberite drugu"</string>
   <string name="readmode_refresh">Osvježi</string>
   <string name="readmodelist_bookmarks_to_show">Popis čitanja</string>
+  <string name="refresh_description">Osvježi</string>
   <string name="refuse_permissions_request">Ograniči</string>
   <string name="remember_passwords_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="remove_bookmark">Izbriši oznaku</string>
@@ -807,17 +815,18 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="save_file">Spremi datoteku %s</string>
   <string name="save_file_already_exist_alert_message">Datoteka s istim nazivom već postoji, želite li je zamijeniti?</string>
   <string name="save_file_already_exist_alert_title">Zamijeniti datoteku?</string>
+  <string name="save_file_suffix">datoteka</string>
   <string name="save_form_data_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="save_image_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_image_success">Slika spremljena</string>
   <string name="save_page_capture_tip">Otvori panel obavijesti za prikaz snimke zaslona.</string>
   <string name="save_page_capture_to_camera">Snimka zaslona spremljena</string>
-  <string name="save_to_bookmark">Spremi u oznake</string>
   <string name="save_password_message">Zapamtiti ovu zaporku?</string>
   <string name="save_password_never">Nikad</string>
   <string name="save_password_notnow">Ne sada</string>
   <string name="save_password_remember">Zapamti</string>
   <string name="save_to">Spremi u</string>
+  <string name="save_to_bookmark">Spremi u oznake</string>
   <string name="save_to_camera">Spremi u Galeriju</string>
   <string name="save_to_camera_failed">"Ne mogu spremiti sliku"</string>
   <string name="save_to_camera_success">Spremljeno u Galeriju</string>
@@ -861,6 +870,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="share_image_text">"Uživam u predivnoj slici"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
   <string name="share_video">Podijeli videozapis</string>
+  <string name="short_video_description">Video kanal</string>
+  <string name="short_video_tip">Pogledaj! Zabavni videozapis</string>
   <string name="show_check_security_url_check_tip_dialog_description">Preglednik treba povezivanje s s internetom da radi normalno. Za poboljšanje sigurnosti i primanje relevantnih preporuka, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Preglednik treba povezivanje s s internetom da radi normalno. Da biste primali relevantne preporuke, omogućite Pregledniku dobivanje poveznica web stranica koje posjećujete i pristup informacijama o vašoj lokaciji.</string>
   <string name="show_security_tip_dialog_title">Uvjeti pružanja usluge</string>
@@ -916,6 +927,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="suggest_access_music">Mi Glazba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne mogu otvoriti ovu aplikaciju"</string>
+  <string name="suggestion_clear_record_message">Potvrđujete li prazan unos?</string>
   <string name="suggestion_express_button_query_more">VIŠE</string>
   <string name="suggestion_express_button_text_query">UPIT</string>
   <string name="suggestion_express_exception_net">Pogreška mreže. Provjerite mrežnu vezu</string>
@@ -943,6 +955,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="time_picker_dialog_second_subsecond_separator">.</string>
   <string name="time_picker_dialog_title">Postavite vrijeme</string>
   <string name="title_bar_loading">Učitavanje…</string>
+  <string name="title_notice_push">Obavijest podsjetnika</string>
   <string name="too_many_windows_dialog_message">"Preglednik ne može otvoriti novu karticu dok ne zatvorite drugu karticu"</string>
   <string name="too_many_windows_dialog_title">"Ne mogu otvoriti više kartica"</string>
   <string name="transfer_prompt_0">Reprciraj videozapis</string>

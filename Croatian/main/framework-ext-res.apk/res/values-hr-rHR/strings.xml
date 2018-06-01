@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources> 
+<resources>
   <string name="activity_package_delete_confirm_title">Važno upozorenje</string>
   <string name="add_frequent_phrases">Dodaj česte izraze</string>
   <string name="all_call_livetalk_enable">Korištenje paketa nadoplate za domaće i međunarodne pozive</string>
@@ -17,10 +17,10 @@
   <string name="auto_disable_screenbuttons_prompts_ok">U redu</string>
   <string name="auto_disable_screenbuttons_prompts_title">Onemogućiti Navigacijske tipke?</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dodirnite ponovno za izlaz</string>
-  <string name="autofill">Autom. popuni</string>
   <string name="auto_start_warning_allow">Dopusti</string>
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>
+  <string name="autofill">Autom. popuni</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Deinstaliraj</string>
   <string name="button_text_delete_timer">Deinstaliraj (%d)</string>
@@ -152,8 +152,8 @@
   <string name="status_bar_toggle_lock">Zaklj.</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Bešumno</string>
-  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_network_type">Mreža</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Način čitanja</string>
   <string name="status_bar_toggle_power_mode">Performanse</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
@@ -171,6 +171,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="super_resolution_maintain_tips">"Super razlucija još nije dostupna."</string>
   <string name="switch_brand_desc_tv">Sigurnosne usluge pruža Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Jedan uređaj.</string>
   <string name="switching_tv">Promjena…</string>
@@ -184,5 +185,7 @@
   <string name="twohours">1 sat</string>
   <string name="unknown_caller">Nepoznati broj</string>
   <string name="user_switching_dialog_text">Promjena…</string>
+  <string name="wifi_assistant_wifi_no_internet">Ova WLAN mreža nema pristup internetu</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Dodirni za prikaz detalja</string>
   <string name="xspace_resolver_activity_title">Odaberite aplikaciju</string>
 </resources>

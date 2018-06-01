@@ -3,6 +3,7 @@
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="add_screen">Dodaj tipku zaslona</string>
+  <string name="announce_for_checked">%1$s, provjereno</string>
   <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani početni zaslon</string>
   <string name="announce_for_close_default_preview">Zatvorene zadane postavke početnog zaslona</string>
   <string name="announce_for_close_folder">Zatvorena mapa</string>
@@ -22,10 +23,13 @@
   <string name="announce_for_drop_workspace">Zaslon broj %1$d, broj linije %2$d, broj reda %3$d</string>
   <string name="announce_for_edit_mode">Ulaz u način editiranja</string>
   <string name="announce_for_edit_mode_disable">Izlaz iz načina editiranja</string>
+  <string name="announce_for_move">Pomakni u red %1$d kolonu %2$d</string>
+  <string name="announce_for_move_hotseat">Pomakni na poziciju %1$d</string>
   <string name="announce_for_open_default_preview">Otvorili ste zadane postavke početnog zaslona</string>
   <string name="announce_for_open_folder">Otvorena mapa %1$s</string>
   <string name="announce_for_open_launcher_menu">Otvoreni izbornik</string>
   <string name="announce_for_show_uninstall_dialog">Pojavio se dijalog za deinstalaciju. Otkažite ili potvrdite.</string>
+  <string name="announce_for_unchecked">%1$s, neprovjereno</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
   <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
@@ -61,6 +65,7 @@
   <string name="aqi_quality_index_light_pollution">Upozorenje</string>
   <string name="aqi_quality_index_moderate">Umjereno</string>
   <string name="aqi_quality_index_unhealthy">Nezdravo</string>
+  <string name="backup_fail">Ne mogu napraviti sig. kopiju Pokretača.</string>
   <string name="bad_wallpaper_source_prompt">"Ne mogu učitati pozadinu"</string>
   <string name="buffering">Međupohrana…</string>
   <string name="cancel_action">Odustani</string>
@@ -180,6 +185,7 @@
   <string name="guide_install_app_title">Potražiti i preuzeti aplikaciju?</string>
   <string name="guide_tips_editing_mode">Pritisni &amp; drži za pokupiti widget</string>
   <string name="home_screen">Početni zaslon</string>
+  <string name="icon_reorganize_channel">Raspored ikona</string>
   <string name="image_too_small_message">"Izvorna slika nije dovoljno velika"</string>
   <string name="install">Instaliraj</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
@@ -229,6 +235,9 @@
   <string name="normal_wallpaper">Slika pozadine</string>
   <string name="notification_installed">Uspješno instalirano</string>
   <string name="notification_open_button">Otvori</string>
+  <string name="notification_reset_description">%1$s%1$s Ne mogu resetirati Pokretač na %2$s</string>
+  <string name="notification_reset_duration">Za 2 sata,</string>
+  <string name="notification_reset_title">Autom. čišćenje je završeno</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
@@ -265,7 +274,8 @@
   <string name="preferences_general_title">Dodatne postavke</string>
   <string name="preferences_title">Postavke Pokretača</string>
   <string name="preferred_app_settings_not_selected">Nije odabrano</string>
-  <string name="process"/>	  
+  <string name="process"/>
+  <string name="quick_app">Brze aplik.</string>
   <string name="recents_config_title">Nedavno</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
@@ -274,7 +284,10 @@
   <string name="recommend_apps_switch_title">Promovirane aplik.</string>
   <string name="recommend_apps_tips">"Ova se značajka mora povezati s internetom da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
   <string name="recommend_loading">Samo trenutak</string>
+  <string name="refresh">Osvježi</string>
+  <string name="reset_fail">Resetiranje nije uspjelo</string>
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
+  <string name="reset_title">Resetiraj</string>
   <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan.</string>
   <string name="screen_number">Zaslon %d</string>

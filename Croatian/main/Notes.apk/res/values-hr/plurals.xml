@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Još %d sek.</item>
+        <item quantity="one">Još %d sek.</item>
+     </plurals>
+     <plurals name="word_count">
+        <item quantity="other">Znakova: %s</item>
+        <item quantity="one">%s znak</item>
+     </plurals>
     <plurals name="note_count_in_folder">
         <item quantity="other">%1$s bilješki</item>
         <item quantity="one">1 bilješka</item>

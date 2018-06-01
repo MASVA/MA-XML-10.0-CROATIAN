@@ -208,4 +208,8 @@
         <item quantity="other">Instalirani su izdavači certifikata</item>
         <item quantity="one">Instalirani su izdavači certifikata</item>
      </plurals>
+     <plurals name="autofill_picker_some_suggestions">
+          <item quantity="other">%1$s prijedloga za automatsko popunjavanje</item>
+          <item quantity="one">%1$s prijedlog za automatsko popunjavanje</item>
+     </plurals>
 </resources>

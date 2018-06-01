@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="battery_options">
+        <item>Uvijek prikaži postotak</item>
+	    <item>Prikaži postotak prilikom punjenja (zadano)</item>
+	    <item>"Ne prikazuj ovu ikonu"</item>
+     </string-array>
+     <string-array name="clock_options">
+        <item>Prikaži sat, minute i sekunde</item>
+        <item>Prikaži sat i minute (zadano)</item>
+        <item>"Ne prikazuj ovu ikonu"</item>
+    </string-array>
+	<string-array name="miui_volume_timer_segments_title">
+        <item>Isključeno</item>
+        <item>Pola sata</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>8 sati</item>
+     </string-array>
+	  <string-array name="nav_bar_buttons">
+        <item>Međuspremnik</item>
+        <item>Keycode</item>
+        <item>Promjena tipkovnice</item>
+        <item>Ništa</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normalan</item>
+        <item>Kompaktan</item>
+        <item>Nalijevo</item>
+        <item>Nadesno</item>
+     </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Skeniranje…</item>

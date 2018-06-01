@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="first_guide_contents">
+        <item>Dobro došli u Bilješke!</item>
+        <item>Izradite bilješku</item>
+        <item>U svojim bilješkama možete koristiti tekst, slike i snimke glasa. Bogata knjižnica stilova i fontova učinit će da vaše jednostavne šablone izgledaju zapanjujuće</item>
+        <item>Kontrolne liste i podsjetnici dolaze da vam pomognu kada vam je potreban osnovni i učinkoviti alat za planiranje vašeg sljedećeg putovanja ili sastavljanje popisa za kupovinu.</item>
+        <item>Podijelite bilješke</item>
+        <item>Snimke zaslona možete generirati u Bilješkama automatski, a zatim ih podijelite s prijateljima.</item>
+        <item>Izradi &amp; promjeni između mapa</item>
+        <item>Pritisnite strelicu ispod da biste stvorili novu mapu ili prebacivali između postojećih.</item>
+     </string-array>
+	 <string-array name="second_guide_contents">
+        <item>Glasovne bilješke</item>
+        <item>Izradite bilješke pomoću našeg ugrađenog tekst-u-govor alata koji pričvršćuje izvorne snimke vašeg glasa u bilješke.</item>
+     </string-array>
     <string-array name="folder_operations">
         <item>Preimenuj</item>
         <item>Izbriši</item>

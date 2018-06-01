@@ -71,6 +71,10 @@
         <item>Telefon</item>
         <item>Pad</item>
     </string-array>
+	<string-array name="pref_navscreen_layoutstate_choices">
+        <item>Okomiti prikaz</item>
+        <item>Vodoravni prikaz</item>
+     </string-array>
 	<string-array name="pre_webapp_text_sizes">
         <item>Veći</item>
         <item>Veliki</item>
@@ -94,7 +98,7 @@
          <item>Izbriši</item>
          <item>Ne hvala</item>
      </string-array>
-	   <string-array name="suggestion_weather_condition_message">
+	<string-array name="suggestion_weather_condition_message">
     <item>Vedro</item>
     <item>Djelomična naoblaka</item>
     <item>Oblačno</item>

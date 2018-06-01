@@ -110,7 +110,7 @@
  Ako ponovo uključite mobilne podatke, vaš mobilni operater može vam naplatiti dodatne troškove."</item>
      </plurals>
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">Korišteno prije (%d) dana</item>
+        <item quantity="other">Korišteno prije dana: %d</item>
         <item quantity="one">Jučer korišteno</item>
     </plurals>
     <plurals name="search_app_count_txt">
@@ -421,5 +421,13 @@
 	 <plurals name="net_booster_expire_notification_tip">
          <item quantity="other">%d d preostalo prije završetka sesije povećanja brzine mreže. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</item>
          <item quantity="one">%d d preostao prije završetka sesije povećanja brzine mreže. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</item>
+     </plurals>
+	 <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
      </plurals>
 </resources>

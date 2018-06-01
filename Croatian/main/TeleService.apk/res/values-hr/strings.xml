@@ -1674,7 +1674,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="puk_unlock_failed">PUK otključavanje nije uspjelo.</string>
   <string name="puk_unlock_success">PUK otključavanje uspješno.</string>
   <string name="puk_unlocked">Vaša je SIM kartica odblokirana. Telefon se odblokira…</string>
-  <string name="quick_dial_setting_title">Brzo biranje</string>
   <string name="purchase">Kupi</string>
   <string name="purchase_confirm">Kupi</string>
   <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.- No conflicts with your current plan.- Top up and start calling.- There are no complicated settings."</string>
@@ -1688,6 +1687,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="purchase_summary">Uštedite do 70%</string>
   <string name="purchase_title">Kupovina</string>
   <string name="query">Upit</string>
+  <string name="quick_dial_setting_title">Brzo biranje</string>
   <string name="quickly_verify">Provjeri</string>
   <string name="radio_off_during_emergency_call">Nije moguće uključiti način rada u zrakoplovu tijekom hitnog poziva.</string>
   <string name="radio_off_error">Uključite radio prije pregleda ovih postavki.</string>
@@ -2107,11 +2107,11 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="verifying">Provjera…</string>
   <string name="vibrate_after_connected_summary">Vibracija nakon javljanja</string>
   <string name="vibrate_after_connected_title">Vibracija nakon povezivanja</string>
+  <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vice_card_data_in_use_alert">Mogu se generirati dodatne naknade.</string>
   <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
   <string name="vice_slot_volte_data_switch_title">Koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici</string>
-  <string name="vibrate_on_ring_title">Vibracija kod poziva</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_change_pin_error_invalid">Novi PIN sadrži nevažeće znakove.</string>
@@ -2129,6 +2129,19 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="voice_privacy_summary">Omogući poboljšani način privatnosti</string>
   <string name="voice_report_incoming_call">Pozivanje</string>
   <string name="voice_report_unknown_num">Nepoznat broj</string>
+  <string name="voice_service_cannot_call_notification_content">Tijekom pokušaja upućivanja poziva možete se suočiti s problemima povezivanja.</string>
+  <string name="voice_service_cannot_call_notification_title">"Nije moguće upućivati pozive u trenutnoj mreži"</string>
+  <string name="voice_service_switch_summary">Uključite se da biste mogli koristiti funkciju VoLTE poziva u VoLTE mrežama</string>
+  <string name="voice_service_switch_title">Koristi VoLTE usluge poziva</string>
+  <string name="voice_service_warning_dialog_body">"Ovaj uređaj podržava VoLTE pozive u 4G mrežama. Provjerite da li li mreže s kojima je uređaj povezan podržavaju tu funkciju. VoLTE usluge pruža vaš mobilni operater. Kontaktirajte svog lokalnog operatera kako biste saznali je li VoLTE podržan u vašem području.
+
+Ako vidite _ na traci statusa, VoLTE pozivi nisu dostupni. Ako ne možete upućivati ili primati pozive, ili ako su vaši pozivi prekinuti, provjerite je li vaša mreža kompatibilna s VoLTE-om.
+
+Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koristiti slušalice za upućivanje poziva."</string>
+  <string name="voice_service_warning_dialog_cancel">Odustani</string>
+  <string name="voice_service_warning_dialog_ok">Shvaćam</string>
+  <string name="voice_service_warning_dialog_ok_timer">Shvaćam (%d)</string>
+  <string name="voice_service_warning_dialog_title">VoLTE pozivi</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_change_pin_dialog_title">Promjena PIN-a</string>

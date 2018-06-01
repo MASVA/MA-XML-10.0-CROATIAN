@@ -60,8 +60,8 @@
   <string name="other_settings_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
-  <string name="other_settings_user_experience_summary_index">Detalji</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o Privatnosti</string>
+  <string name="other_settings_user_experience_summary_index">Detalji</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
@@ -76,8 +76,10 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
+  <string name="sim_card_detection_mobile_not_available">"SIM kartica se ne može povezati na mrežu"</string>
   <string name="sim_dectection_next">Nastavi</string>
   <string name="sim_redetection">Provjeri ponovno</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">"Vaša se SIM kartica nije mogla povezati s važećom mobilnom mrežom. Provjerite imate li dovoljno sredstava na svom računu i pokušajte ponovno."</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="system_navigation_mode">Način navigacije sustavom</string>
@@ -89,8 +91,8 @@ Morate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego 
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="voice_assist_desp">Recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
   <string name="voice_assist_title">Probudi sa glasom</string>
-  <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="welcome">Dobrodošli</string>
 </resources>

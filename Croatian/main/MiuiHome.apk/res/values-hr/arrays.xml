@@ -49,6 +49,6 @@
     <string-array name="editing_mode_entries">
         <item>Pozadina</item>
         <item>Widgeti</item>
-	<item>Postavke</item>
+	    <item>Postavke</item>
     </string-array>
 </resources> 

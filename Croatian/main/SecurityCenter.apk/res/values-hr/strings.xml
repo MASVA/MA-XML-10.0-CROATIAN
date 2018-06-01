@@ -2,8 +2,8 @@
 <resources>
   <string name="Call_ADRESS">Lokalna lista blokiranih</string>
   <string name="Call_BLACKLIST">Lista blokiranih poziva</string>
-  <string name="Calnetwork_blocked_switch_wifiEFIX">Lista blokiranih predbrojeva</string>
   <string name="Call_PRIVATE_CALL">Privatni pozivi</string>
+  <string name="Calnetwork_blocked_switch_wifiEFIX">Lista blokiranih predbrojeva</string>
   <string name="MALICIOUS_URL">Zlonamjeran URL</string>
   <string name="PAST_BLOCK">Ranije blokirano</string>
   <string name="Phonepass">Dopusti pozive</string>
@@ -723,8 +723,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="data_usage_leisure_warning_body">Dodirnite za pregled detalja uporabe podataka.</string>
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
-  <string name="data_usage_mobile_dialog_title">"Već ste iskoristili 5GB mobilnih podataka. MIUI će isključiti mobilne podatke."</string>
   <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
+  <string name="data_usage_mobile_dialog_title">"Već ste iskoristili 5GB mobilnih podataka. MIUI će isključiti mobilne podatke."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
   <string name="data_usage_mobile_limit_title">Postignuto ograničenje podataka</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
@@ -811,13 +811,13 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_msg_stop_paysafety_scan">Zaustaviti sigurnosnu provjeru plaćanja?</string>
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
   <string name="dialog_no_longer_alert">"Ne prikazuj ponovno”</string>
-  <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobilna podatkovna veza će nakon toga biti ograničena za sve aplikacije.</string>
   <string name="dialog_restrict_all_mobile_title">Ograniči %s mobilnu podatkovnu vezu</string>
   <string name="dialog_restrict_all_wlan_summary">WLAN veza će nakon toga biti ograničena za sve aplikacije.</string>
   <string name="dialog_restrict_all_wlan_title">Ograniči korištenje WLAN veze</string>
   <string name="dialog_restrict_negative">Ograniči</string>
   <string name="dialog_restrict_positive">Odustani</string>
+  <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
   <string name="dialog_roaming_message">Aplikacije na popisu dopuštenih će se moći povezivati na podatkovne usluge u međunarodnom roamingu. Dodati ovu aplikaciju na popis dopuštenih?</string>
   <string name="dialog_roaming_title">Međunarodni roaming</string>
   <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
@@ -868,15 +868,15 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dlg_remove_whitelist">Ukloniti ove brojeve iz iznimaka?</string>
   <string name="dlg_remove_whitelist_ing">Uklanjanje…</string>
   <string name="dlg_remove_whitelist_title">Ukloni</string>
-  <string name="dlg_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji Sigurnost da se poveže s internetom?"</string>
   <string name="dlg_retore">Vratiti SMS poruke u aplikaciju?</string>
+  <string name="dlg_retore_ok">Vrati</string>
+  <string name="dlg_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji Sigurnost da se poveže s internetom?"</string>
+  <string name="dlg_title_not_open_stranger_identify">ID pozivatelja</string>
   <string name="dlg_update_btn_contiue">Nastavi</string>
   <string name="dlg_update_btn_open">Dopusti</string>
   <string name="dlg_update_data_content">"Niste povezani na WLAN. Korištenje mobilnih podataka može generirati dodatne naknade. Nastaviti svejedno?"</string>
   <string name="dlg_update_date_title">Upozorenje</string>
   <string name="dlg_update_updating">Ažuriranje…</string>
-  <string name="dlg_retore_ok">Vrati</string>
-  <string name="dlg_title_not_open_stranger_identify">ID pozivatelja</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
   <string name="dlg_white_antispam_hint">Iznimke</string>
   <string name="dlg_white_antispam_message">Dodati ovaj broj u iznimke?</string>
@@ -921,8 +921,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Očisti smeće</string>
-  <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
+  <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
   <string name="exit_dialog_release_storage_title">Oslobodi prostor</string>
   <string name="exit_dialog_scan_message">"Rezultat performansi vašeg uređaja niži je od 75 bodova. Optimizirati sada?"</string>
@@ -1018,6 +1018,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gamebooster_main_activity_back">Natrag</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
+  <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
+  <string name="gamebox_wechat_not_find">Instalirajte WeChat i pokušajte ponovo.</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
@@ -1025,7 +1027,6 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
-  <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -1033,6 +1034,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_msg_quickly_answer_summary">Brzi odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obavijesti s transparentnom pozadinom</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentna</string>
+  <string name="gb_new_feature">Nova značajka</string>
   <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke."</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
@@ -1060,6 +1062,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gs_game_net_priority_detail">Ograničite brzinu preuzimanja da imate dovoljno propusnosti za igranje</string>
   <string name="gs_game_performance">Performanse</string>
   <string name="gs_game_shortcut">Poboljšajte svoje iskustvo igranja</string>
+  <string name="gs_gamebox">Prečaci unutar igre</string>
+  <string name="gs_gamebox_detail">Prikaži prečac panela unutar igre</string>
   <string name="gs_only_self_start_for_list">Ograničite pozadinske procese da uštedite bateriju za igranje</string>
   <string name="gs_open_game_booster">Ubrzavanje brzine</string>
   <string name="gs_performance_mode">Način za performanse</string>
@@ -1404,8 +1408,8 @@ podatkovnu vezu"</string>
   <string name="menu_mark">Prijavi broj</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report">Prijavi pogrešku</string>
-  <string name="menu_setting_traffic">Postavi ručno</string>
   <string name="menu_restore">Vrati u inbox</string>
+  <string name="menu_setting_traffic">Postavi ručno</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Sigurnost</string>
@@ -1430,6 +1434,8 @@ podatkovnu vezu"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
+  <string name="midrop_post_notification_contentText">"Pokušajte Mi Drop. Brz je i bez oglasa."</string>
+  <string name="midrop_post_notification_contentTitle">Trebate prenijeti datoteke?</string>
   <string name="mixed_need_to_confirm">Unesite ponovno za potvrdu</string>
   <string name="mixed_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="mixed_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
@@ -2211,6 +2217,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="scanning_bar_system_text">Dopuštenja aplikacija</string>
   <string name="scanning_bar_system_title">Skeniranje sustava…</string>
   <string name="score_pts">%</string>
+  <string name="screenrecord_not_find">Instalirajte najnoviju verziju Snimača zaslona i pokušajte ponovo.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne mogu pronaći nijednu aplikaciju"</string>
   <string name="section_clear_acc_item_title">"%s. Ako još uvijek nema dovoljno prostora za pohranu, pokušajte koristiti Čistač."</string>

@@ -617,6 +617,7 @@ Okrenite uređaj, govorite u gornji mikrofon, trebali bi čuti glas u zvučniku"
   <string name="fpc_pn_calibration">Snimite i spremite PN sliku</string>
   <string name="get_sensor_info">DOBIVANJE INFO. O SENZORU</string>
   <string name="hint">To bi moglo potrajati dugo, pričekajte.</string>
+  <string name="hwversion_label">HW verzija</string>
   <string name="image_quality_test">TEST KVALITETE SLIKE</string>
   <string name="info">Info</string>
   <string name="init">Pokretanje</string>
