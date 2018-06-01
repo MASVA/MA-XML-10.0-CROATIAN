@@ -1093,7 +1093,7 @@
         <item>Prirodno</item>
         <item>Standardno</item>
      </string-array>
-	      <string-array name="select_logd_size_lowram_titles">
+	 <string-array name="select_logd_size_lowram_titles">
         <item>Isključeno</item>
         <item>64 KB</item>
         <item>256 KB</item>
@@ -1157,12 +1157,12 @@
          <item>Zadano</item>	         
         <item>Mobilni hotspot</item>
 	</string-array>
-	     <string-array name="automatic_storage_management_days">
+    <string-array name="automatic_storage_management_days">
         <item>Starije od 30 dana</item>
         <item>Starije od 60 dana</item>
         <item>Starije od 90 dana</item>
      </string-array>
-	      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+	 <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>16 bitova po uzorku</item>
         <item>24 bita po uzorku</item>
@@ -1173,7 +1173,8 @@
         <item>16 bitova po uzorku</item>
         <item>24 bita po uzorku</item>
         <item>32 bita po uzorku</item>
-        <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>Mono</item>
         <item>Stereo</item>
@@ -1183,7 +1184,7 @@
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
-        <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizirano za kvalitetu audioreprodukcije</item>
         <item>Uravnotežena kvaliteta audioreprodukcije i veze</item>
         <item>Optimizirano za kvalitetu veze</item>
@@ -1195,7 +1196,7 @@
         <item>Optimizirano za kvalitetu veze (330 kbps/303 kbps)</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
     </string-array>
-        <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
@@ -1234,11 +1235,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
-       <string-array name="debug_hw_renderer_entries">
+    <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (zadano)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
-       <string-array name="select_logpersist_summaries">
+    <string-array name="select_logpersist_summaries">
         <item>Isključeno</item>
         <item>Svi međuspremnici zapisa</item>
         <item>Sve osim međuspremnika zapisnika radija</item>
@@ -1250,13 +1251,13 @@
         <item>Sve osim radija</item>
         <item>samo jezgra</item>
     </string-array>
-        <string-array name="vip_mode_text">
+    <string-array name="vip_mode_text">
         <item>Od bilo koga</item>
         <item>Samo od kontakata</item>
         <item>Samo od favorita</item>
         <item>Ništa</item>
      </string-array>
-        <string-array name="wifi_calling_mode_choices_v2">
+     <string-array name="wifi_calling_mode_choices_v2">
         <item>WLAN</item>
         <item>Mobilni uređaj</item>
         <item>Samo WLAN</item>
