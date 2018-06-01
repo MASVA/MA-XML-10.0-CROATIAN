@@ -638,6 +638,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_rise">Spustite glavu</string>
   <string name="face_unlock_rotated_left">Okrenite glavu udesno</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>
+  <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>
   <string name="fingerprint_add_title">Dodajte otisak prsta</string>
@@ -649,6 +650,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku ili pokušajte koristiti otisak prsta za nekoliko sek.”</string>
   <string name="fingerprint_not_identified_msg_lock">Previše neuspjelih pokušaja. Upišite zaporku.</string>
   <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
+  <string name="fingerprint_not_recognized">Nije prepoznato</string>
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
   <string name="float_incall_ignore">Ignoriraj</string>
@@ -731,6 +733,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
+  <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
   <string name="input_pin_code">Unesite PIN</string>

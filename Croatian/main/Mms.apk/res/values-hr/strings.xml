@@ -408,6 +408,9 @@
   <string name="no_subject_view">(Nema predmeta)</string>
   <string name="non_english_subject_limit">Najviše 13 znakova za ne-Engleski predmet</string>
   <string name="nosend_message">"Nemoj slati"</string>
+  <string name="notification_channel_description">Obavijesti iz Poruka</string>
+  <string name="notification_channel_name">Poruke</string>
+  <string name="notification_copy">Kopiraj OTP</string>
   <string name="notification_failed_multiple">Broj poruka koje nije moguće poslati: %s.</string>
   <string name="notification_failed_multiple_title">Poruke nisu poslane</string>
   <string name="notification_multiple">[%s]</string>
@@ -707,6 +710,7 @@
   <string name="to_count">%d primatelja</string>
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
+  <string name="toast_pending_hangup_msg">Poruka će biti poslana nakon završetka poziva</string>
   <string name="today">Danas</string>
   <string name="too_many_attachments">"Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano."</string>
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
@@ -738,6 +742,7 @@ Provedeni pokušaj: %s."</string>
   <string name="url_fraud_visit">&lt;u&gt;Posjeti svejedno&lt;/u&gt;</string>
   <string name="url_result_safe">Ova poveznica je sigurna</string>
   <string name="url_scanning">Provjera poveznice…</string>
+  <string name="url_scan_again">Provjeri ponovno</string>
   <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement3">" i "</string>
