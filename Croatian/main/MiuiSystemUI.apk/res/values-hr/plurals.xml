@@ -51,7 +51,7 @@
      </plurals>
      <plurals name="incorrect_pukcode_remaining_attempts">
         <item quantity="other">Netočan PUK kod, preostalo %d pokušaja</item>
-        <item quantity="other">Netočan PUK kod, preostao %d pokušaj</item>
+        <item quantity="one">Netočan PUK kod, preostao %d pokušaj</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
         <item quantity="other">Još %d hr do pune baterije</item>
