@@ -164,6 +164,7 @@
 Ušteda baterije isključuje se automatski dok se uređaj puni."</string>
   <string name="beforeOneMonthDurationPast">Prije 1 mjesec</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth zvuk</string>
+  <string name="browse">Preglednik</string>
   <string name="bugreport_message">Time će se prikupiti podaci o trenutačnom stanju vašeg uređaja koje ćete nam poslati u e-poruci. Za pripremu izvješća o bugu potrebno je nešto vremena pa vas molimo za strpljenje.</string>
   <string name="bugreport_option_full_summary">Ta vam opcija omogućuje minimalno ometanje sustava kad uređaj ne reagira ili je prespor ili kada su vam potrebni svi odjeljci izvješća. Ne omogućuje vam da unesete više pojedinosti ili izradite dodatne snimke zaslona.</string>
   <string name="bugreport_option_full_title">Potpuno izvješće</string>
@@ -885,6 +886,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="notification_channel_foreground_service">Izvođenje aplikacija u pozadini</string>
   <string name="notification_channel_hotspot">Obavijesti WLAN Hotspota</string>
   <string name="notification_channel_mobile_data_alert">Upozorenja o mobilnim podacima</string>
+  <string name="notification_channel_mobile_data_status">Status mobilnih podataka</string>
   <string name="notification_channel_network_alert">Upozorenja</string>
   <string name="notification_channel_network_alerts">Mrežna upozorenja</string>
   <string name="notification_channel_network_available">Mreža je dostupna</string>
@@ -905,6 +907,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Slušatelj obavijesti</string>
   <string name="notification_ranker_binding_label">Usluga rangiranja obavijesti</string>
+  <string name="notification_reply_button_accessibility">Odgovori</string>
   <string name="notification_title">Pogreška prijave za račun %1$s</string>
   <string name="notification_work_profile_content_description">Radni profil</string>
   <string name="now_string_shortest">sad</string>
@@ -1884,6 +1887,8 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_storage_stop_title">USB pohrana se koristi</string>
   <string name="usb_storage_title">USB povezan</string>
   <string name="usb_supplying_notification_title">Napajanje priključenog uređaja USB-om</string>
+  <string name="usb_unsupported_audio_accessory_message">Priključeni uređaj nije kompatibilan s ovim telefonom. Dodirnite da biste saznali više.</string>
+  <string name="usb_unsupported_audio_accessory_title">Otkriven analogni audio pribor</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
   <string name="use_physical_keyboard">Fizička tipkovnica</string>
   <string name="user_creation_account_exists">Želite li dopustiti aplikaciji %1$s da izradi novog korisnika s računom %2$s?</string>
@@ -2004,7 +2009,14 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="whichViewApplication">Otvaranje pomoću aplikacije</string>
   <string name="whichViewApplicationLabel">Otvori</string>
   <string name="whichViewApplicationNamed">Otvaranje pomoću aplikacije %1$s</string>
+  <string name="wifi_available_action_all_networks">Sve mreže</string>
+  <string name="wifi_available_action_connect">Poveži</string>
+  <string name="wifi_available_content_failed_to_connect">Dodirnite da biste vidjeli sve mreže</string>
   <string name="wifi_available_sign_in">Prijavite se na WLAN mrežu</string>
+  <string name="wifi_available_title">Povežite se s otvorenom WLAN mrežom</string>
+  <string name="wifi_available_title_connected">Povežite se s WLAN mrežom</string>
+  <string name="wifi_available_title_connecting">Povezivanje na WLAN mrežu</string>
+  <string name="wifi_available_title_failed_to_connect">Ne mogu se povezati na WLAN mrežu</string>
   <string name="wifi_calling_off_summary">Isključeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s traži povezivanje s WLAN mrežom %2$s</string>
   <string name="wifi_connect_alert_title">Dopustiti povezivanje?</string>

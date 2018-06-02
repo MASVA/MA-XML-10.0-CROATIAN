@@ -124,6 +124,7 @@
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
         <item>Pozivni snop za funkciju glGetError</item>
+	</string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nikad ne upotrebljavaj HDCP provjeru</item>
         <item>Upotrebljavaj HDCP provjeru samo za DRM sadržaj</item>
@@ -166,7 +167,6 @@
         <item>4000 (povećanje razlučivosti)</item>
         <item>4000 (poveć. razlučiv., sigurno)</item>
         <item>720 p, 1080 p (dvojni zaslon)</item>
-    </string-array>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Isključeno</item>

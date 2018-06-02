@@ -156,6 +156,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="account_settings_menu_auto_sync_personal">Autom. sinkroniz. osobne podatke</string>
   <string name="account_settings_menu_auto_sync_work">Autom. sinkroniz. radne podatke</string>
   <string name="account_settings_title">Računi</string>
+  <string name="account_sync_title">Sinkronizacija računa</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="action_drag_label_move_bottom">Premjesti na dno</string>
   <string name="action_drag_label_move_down">Premjesti dolje</string>
@@ -6799,6 +6800,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="zen_mode_repeat_callers">Uzastopni pozivi</string>
   <string name="zen_mode_repeat_callers_summary">Ako ista osoba nazove dvaput unutar %d min, dopusti poziv</string>
   <string name="zen_mode_rule_name">Naziv pravila</string>
+  <string name="zen_mode_rule_delete_button">Izbriši</string>
   <string name="zen_mode_rule_name_hint">Unesite naziv pravila</string>
   <string name="zen_mode_rule_name_warning">Naziv pravila već se upotrebljava</string>
   <string name="zen_mode_rule_not_found_text">Pravilo nije pronađeno.</string>
