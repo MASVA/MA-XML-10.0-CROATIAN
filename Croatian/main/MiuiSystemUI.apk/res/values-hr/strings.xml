@@ -1694,7 +1694,6 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_remove_user_title">Ukloniti korisnika?</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="velocity_tracker_impl">platforma</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
   <string name="voice_assist_label">otvaranje glasovne pomoći</string>
