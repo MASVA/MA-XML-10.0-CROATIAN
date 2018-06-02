@@ -21,6 +21,7 @@
   <string name="cal_edit_mode">Uređivanje</string>
   <string name="cal_paste">Zalijepi</string>
   <string name="cal_text_copied">Tekst kopiran</string>
+  <string name="cancel">Odustani</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
   <string name="check_phone_io_error">"Ne mogu se povezati na mrežu</string>
   <string name="choose_currency">Odaberite valutu</string>
@@ -41,16 +42,17 @@
   <string name="convertion_unit_weight">Konverzija mase</string>
   <string name="copyright">Autorska prava</string>
   <string name="currency_update_time_format">Devizni tečaj osigurava Webull (%s)</string>
-  <string name="day">dan</string>
-  <string name="dateformat">dd/MM/yyyy</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
   <string name="date_time_done">Gotovo</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
-  <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
+  <string name="dateformat">dd/MM/yyyy</string>
+  <string name="day">dan</string>
+  <string name="degDesc">Kut</string>
   <string name="deleteDesc">izbriši</string>
   <string name="description_content">Pored osnovnih značajki, Kalkulator također radi kao višenamjenski pretvarač te za izračun hipoteka, kredita i poreza</string>
   <string name="description_title">O Kalkulatoru</string>
   <string name="deselect_all">Poništi odabir</string>
+  <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
   <string name="email">E-pošta</string>
   <string name="error">Pogreška</string>
   <string name="error_fomrat">Pogreška formata</string>
@@ -120,6 +122,8 @@
   <string name="im">IM</string>
   <string name="immersion_button_close_description">Zatvori</string>
   <string name="income_type"/>
+  <string name="install">Instaliraj</string>
+  <string name="install_scanner_to_continued_use">Skener je deinstaliran. Instalirati ga ponovno?</string>
   <string name="instruction">Instrukcije</string>
   <string name="item_title_aa_payment">Podijeli račun</string>
   <string name="item_title_area_conversion">Površina</string>
@@ -218,6 +222,7 @@
   <string name="mortgage_tab_commercial_loan">Komercijalno</string>
   <string name="mortgage_years_amount">Trajanje kredita</string>
   <string name="name">Ime</string>
+  <string name="negDesc">Promjeni između temperatura ispod i iznad nule</string>
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
   <string name="network_confirm_title">Potrebno dopuštenje</string>
   <string name="nickname">Prezime</string>
@@ -253,12 +258,17 @@
   <string name="preference_use_degress_summary">Zamjenski radijani s kutovima u trigonometrijskim funkcijama</string>
   <string name="preference_use_degress_title">Koristi kutove</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="rate_data_provider">Kamate su osigurane od strane hexun.com</string>
+  <string name="reciprocalDesc">Recipročan</string>
   <string name="sar">RF Informacije o izloženosti</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="scannerDesc">Skener</string>
+  <string name="scanner_had_been_uninstalled">Skener je deinstaliran</string>
   <string name="search_input_description">Traži</string>
   <string name="search_mode_button_back_description">Natrag</string>
+  <string name="secondFunctionDesc">Prijeđi na drugu funkciju</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_item">Odaberi stavke</string>
   <string name="send">Pošalji</string>
@@ -306,10 +316,10 @@
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="sync_one_time_sync">Sinkronizacija (%1$s)</string>
-    <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
+  <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Unesite svoj bonus prije poreza</string>
-  <string name="tax_birth">Rođenje</string>
   <string name="tax_annual_bonus_number">Bonus</string>
+  <string name="tax_birth">Rođenje</string>
   <string name="tax_cal_method_annual">Izračun godišnjeg bonusa</string>
   <string name="tax_cal_method_fixed_salary">Izračun stalnog prihoda</string>
   <string name="tax_cal_method_format">Osobni prihod %s</string>
@@ -339,6 +349,7 @@
   <string name="tax_thershold_native">%s (domaći)</string>
   <string name="tax_threshold">Porezni prag</string>
   <string name="tax_unemployment">Nezaposlen</string>
+  <string name="tax_update_time_format">Podaci dobiveni od HeXun (%s)</string>
   <string name="the_anti_aggression_day"/>
   <string name="the_arbor_day"/>
   <string name="the_armed_forces_day"/>
@@ -384,12 +395,12 @@
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_bar">Konverzija duljine</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
-  <string name="title_bar">Konverzija duljine</string>
   <string name="unit_data_display_area_acre">Ral</string>
   <string name="unit_data_display_area_are">Are</string>
   <string name="unit_data_display_area_ha">Hektar</string>
@@ -496,14 +507,14 @@
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
-  <string name="xiaomi_mobile">Mi Mobile</string>
-  <string name="yesterday">Jučer</string>
   <string name="wf_word_figure">Financijski znakovi</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Pohrana nije dostupna, molimo provjerite SD karticu.</string>
+  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
 Veličina: %2$s"</string>
-   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
 Veličina Delta ažuriranja: %2$s"</string>
-   <string name="xiaomi_update_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_dialog_title">%1$s ažuriranje!</string>
+  <string name="yesterday">Jučer</string>
 </resources>
