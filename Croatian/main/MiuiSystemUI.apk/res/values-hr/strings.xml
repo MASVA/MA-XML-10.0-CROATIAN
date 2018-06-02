@@ -1208,9 +1208,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="plugins">Dodaci</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
-  <string name="power_charging">%1$s – %2$s do napunjenosti</string>
   <string name="power_charging_duration">%1$s - %2$s do napunjenosti</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s – još približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
   <string name="power_notification_controls_description">"Napredne kontrole obavijesti omogućuju vam da postavite razinu važnosti za obavijesti aplikacije od 0 do 5. 
@@ -1245,7 +1243,6 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još otprilike %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
-  <string name="profile_owned_footer">Profil se možda nadzire</string>
   <string name="profile_owned_footer">Profil se možda nadzire</string>
   <string name="qs_customize">Omogući dugotrajnu prilagodbu u Brzim postavkama</string>
   <string name="qs_customize_info">Info</string>
@@ -1525,7 +1522,6 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_settings_airplane">Zrakoplovni način</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Automatski zakreni zaslon</string>
-  <string name="status_bar_settings_battery_meter_format"/>
   <string name="status_bar_settings_mute_label">Bez zv.</string>
   <string name="status_bar_settings_notifications">Obavijesti</string>
   <string name="status_bar_settings_settings_button">Postavke</string>
