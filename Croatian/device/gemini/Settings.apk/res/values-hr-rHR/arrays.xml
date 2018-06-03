@@ -38,19 +38,35 @@
         <item>Upotrebljavaj HDCP provjeru samo za DRM sadržaj</item>
         <item>Uvijek upotrebljavaj HDCP provjeru</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Isključeno</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </string-array>
+   <string-array name="select_logd_size_summaries">
+        <item>Isključeno</item>
+        <item>64 KB po međusprem. zapisnika</item>
+        <item>256 KB po međusprem. zapisnika</item>
+        <item>1 MB po međusprem. zapisnika</item>
+        <item>4 MB po međusprem. zapisnika</item>
+        <item>16 MB po međusprem. zapisnika</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
         <item>Isključeno</item>
         <item>64 KB</item>
         <item>256 KB</item>
         <item>1 MB</item>
         <item>4 MB</item>
         <item>16 MB</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
+     </string-array>
+	 <string-array name="select_logd_system_levels">
         <item>Isključeno</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
+        <item>Pogreška</item>
+        <item>Upozori</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija isključena</item>

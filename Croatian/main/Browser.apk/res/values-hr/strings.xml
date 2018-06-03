@@ -972,10 +972,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_search_menu_title">Traži</string>
   <string name="mw_snippets_disabled_generic_prompt">Predlaganje sadržaja</string>
   <string name="mw_snippets_disabled_signed_out_instructions">Prijavite se u Chrome ako želite da vam Google predlaže sadržaje.</string>
-  <string name="mw_status_bar_notification_info_overflow">999+</string>
   <string name="mw_time_picker_dialog_am">AM</string>
-  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Postavite vrijeme</string>

@@ -4091,7 +4091,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url_title">"URL za PAC: "</string>
   <string name="proxy_warning_limited_support">Preglednik upotrebljava HTTP proxy poslužitelj, ali druge aplikacije ne mogu ga upotrebljavati.</string>
-  <string name="query_hint_text">Postavke pretraživanja</string>
+  <string name="query_hint_text">Pretraži postavke</string>
   <string name="quick_launch_assign_application">Dodjela aplikacije</string>
   <string name="quick_launch_clear_cancel_button">Odustani</string>
   <string name="quick_launch_clear_dialog_message">Vaš prečac za stavku %1$s (%2$s) bit će izbrisan.</string>
@@ -4562,7 +4562,7 @@ Za prikvačivanje zaslona:
   <string name="search_gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje;Dvaput dodirnite za buđenje;buđenje zaslona;Dvaput dodirnite zaslon;Dvaput dodirnite</string>
   <string name="search_gps">GPS;Pristup lokaciji;Usluge lociranja</string>
   <string name="search_handy_mode">Rad jednom rukom;Rad jednom rukom;Rad jednom rukom;Jedna ruka</string>
-  <string name="search_hint">"Postavke pretraživanja"</string>
+  <string name="search_hint">Pretraži postavke</string>
   <string name="search_home_key">Početna;Tipka Početna;Tipka Početna</string>
   <string name="search_input_hint">Postavke pretraživanja</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
@@ -4581,7 +4581,8 @@ Za prikvačivanje zaslona:
   <string name="search_manage_device_admin">Administratori uređaja;Admin;Administrator</string>
   <string name="search_manage_notification_access_title">Pristup obavijesti;Obavijesti;Dopuštenje obavijesti</string>
   <string name="search_master_clear_title">Vraćanje na tvorničke postavke</string>
-  <string name="search_menu">Traži</string>
+  <string name="search_menu">Pretraži postavke</string>
+  <string name="search_menu_title">Traži</string>
   <string name="search_micloud">Sinkr.;Mi Cloud;Cloud sinkr;Sinkr sa Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Postavke zvuka;Postavke zvuka</string>
   <string name="search_music_equalizer">Equalizer</string>
