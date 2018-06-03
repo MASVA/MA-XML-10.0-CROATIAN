@@ -246,7 +246,7 @@
   <string name="cleaner_scan_exit_dialog_title">Zaustavi skeniranje</string>
   <string name="cleaner_scan_finish">Uspješno skenirano</string>
   <string name="cleaner_scan_no_result">"Ne mogu osloboditi dodatni prostor za pohranu"</string>
-  <string name="cleaner_scan_ok">Shvaćam</string>
+  <string name="cleaner_scan_ok">Razumijem</string>
   <string name="cleaner_scan_title">Skeniranje albuma…</string>
   <string name="cleaner_screen_shot_action">Očisti</string>
   <string name="cleaner_screen_shot_description">Izbrišite snimke zaslona koje više ne trebate.</string>
@@ -623,7 +623,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
   <string name="grayscale">Tonovi sive</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
-  <string name="have_known">Shvaćam</string>
+  <string name="have_known">Razumijem</string>
   <string name="hidden_album_display_name">Skriveni album</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
@@ -1187,7 +1187,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="slim_cost_time_minute_and_second">preostalo %1$d min %2$d sek</string>
   <string name="slim_cost_time_second">preostalo %d sek</string>
   <string name="slim_description_dialog_detail">Smanjite veličinu lokalnih fotografija. Izvorne datoteke pohranjuju se u Mi Cloudu.</string>
-  <string name="slim_description_dialog_ok">Shvaćam</string>
+  <string name="slim_description_dialog_ok">Razumijem</string>
   <string name="slim_description_dialog_slim_after">"Poslije:  167KB"</string>
   <string name="slim_description_dialog_slim_before">"Prije:  3.07MB"</string>
   <string name="slim_dialog_message">Optimizirane HD fotografije bit će preuzete s Mi Clouda umjesto izvornih datoteka.</string>

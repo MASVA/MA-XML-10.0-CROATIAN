@@ -57,7 +57,7 @@
   <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
   <string name="backup_update">Ažuriraj</string>
   <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
-  <string name="btn_got_it">Shvaćam</string>
+  <string name="btn_got_it">Razumijem</string>
   <string name="button_backup">Sig. kopija</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_clean_garbage">Oslobodite prostor</string>

@@ -302,7 +302,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_get_verify_code">Nabavite kod</string>
   <string name="passport_getting_activator_phone">Dobivanje podataka o SIM-u…</string>
   <string name="passport_getting_verify_code">Nabava</string>
-  <string name="passport_i_know">Shvaćam</string>
+  <string name="passport_i_know">Razumijem</string>
   <string name="passport_identification_expired">Kôd za potvrdu istekao je, počnite ispočetka</string>
   <string name="passport_identitfication_expired">Provjera koda je istekla, započnite ispočetka</string>
   <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Mi Račun koristi IMEI za identitifikaciju uređaja na kojeg ste se prijavili/prijavljujete, kako bi održali svoj Mi Račun sigurnim."</string>

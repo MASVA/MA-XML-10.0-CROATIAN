@@ -188,7 +188,7 @@
   <string name="dialog_msg_stop_scan">"Zaustaviti skeniranje u tijeku?"</string>
   <string name="dialog_msg_uninstall_apps">Deinstalirati ove aplikacije?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Deinstalirati te aplikacije uključujući i njihove dvojne aplikacije?</string>
-  <string name="dialog_ok_add_white_list_error">Shvaćam</string>
+  <string name="dialog_ok_add_white_list_error">Razumijem</string>
   <string name="dialog_title_add_white_list_error">Pažnja</string>
   <string name="dialog_title_backup_and_uninstall_apps">Napravi Sig.kopiju i deinstaliraj</string>
   <string name="dialog_title_check_all">Odaberi sve</string>

@@ -331,7 +331,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_update_label_text">Novo</string>
   <string name="app_manager_usage_record_title">Korištenje aplikacije</string>
   <string name="app_manager_wake_path_card_title">Povijest lančanog pokretanja (2 dana)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">Shvaćam</string>
+  <string name="app_manager_wakepath_dialog_buttontext">Razumijem</string>
   <string name="app_manager_wakepath_dialog_summary">Lančano se pokretanje događa kada neka aplikacija pokrene drugu aplikaciju u pozadini. To može istrošiti bateriju i smanjiti performanse sustava. MIUI bi normalno blokirao lančano pokretanje.</string>
   <string name="app_manager_wakepath_dialog_title">O lančanom pokretanju</string>
   <string name="app_managere_not_have_app">Prazno</string>
@@ -573,7 +573,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Zanemariti ovo upozorenje?</string>
   <string name="button_text_known">U redu</string>
-  <string name="button_text_let_me_select">Shvaćam</string>
+  <string name="button_text_let_me_select">Razumijem</string>
   <string name="button_text_next_step">Dalje</string>
   <string name="button_text_next_step_timer">Dalje (%d)</string>
   <string name="button_text_open_now">Otvori</string>
@@ -1143,7 +1143,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="history_details_title">Detalji povijesti</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
-  <string name="i_know">Shvaćam</string>
+  <string name="i_know">Razumijem</string>
   <string name="im">IM</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="info_antispam_close">AntiSpam je isključen</string>
@@ -2533,7 +2533,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="summary_virus_update">Dobijte najnovije definicije virusa automatski</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilnih podataka u roamingu.</string>
   <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
-  <string name="sys_app_prot_cracked_confirm">Shvaćam</string>
+  <string name="sys_app_prot_cracked_confirm">Razumijem</string>
   <string name="sys_app_prot_cracked_login">Prijavite se s Mi Računom</string>
   <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
 

@@ -60,6 +60,10 @@
   <string name="PERSOSUBSTATE_SIM_ICCID_ERROR">ICCID zahtjev za otključavanje neuspješan.</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_IN_PROGRESS">Zahtjev za ICCID otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_ICCID_SUCCESS">ICCID otključavanje neuspješno.</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_ENTRY">IMPI PIN otključavanje</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_ERROR">Zahtjev za IMPI otključavanje nije uspjelo.</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_IN_PROGRESS">Zahtjevanje IMPI otključavanja…</string>
+  <string name="PERSOSUBSTATE_SIM_IMPI_SUCCESS">IMPI otključavanje uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ENTRY">Otključavanje PIN-a SIM mreže</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_ERROR">Zahtjev za otključavanje SIM mreže nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_IN_PROGRESS">Zahtjevanje otključavanja SIM-a mreže…</string>
@@ -101,12 +105,31 @@
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Zahtjev za SP EHPLMN otključavanje…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN otključavanje uspješno.</string>
   <string name="Result_title">Kontakti SIM kartice</string>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
   <string name="accessibility_no_wifi">WLAN je isključen.</string>
   <string name="accessibility_settings_activity_title">Pristupačnost</string>
   <string name="accessibility_wifi_off">WLAN je isključen.</string>
   <string name="accessibility_wifi_one_bar">WLAN signal ima jedan stupac.</string>
+  <string name="accessibility_wifi_security_type_none">Otvori mrežu</string>
+  <string name="accessibility_wifi_security_type_secured">Osiguraj mrežu</string>
   <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
   <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
   <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
@@ -135,6 +158,7 @@
   <string name="additional_gsm_call_settings_with_label">Dodatne postavke (%s)</string>
   <string name="administrative_disable">Administracija je isključena</string>
   <string name="administrative_enable">Administracija je uključena</string>
+  <string name="advanced_options_title">Napredno</string>
   <string name="advanced_settings">Izborne postavke</string>
   <string name="advanced_settings_hide">▽ Dodirnite kako bi sakrili sve</string>
   <string name="advanced_settings_show">▷ Dodirnite da biste prikazali sve</string>
@@ -215,6 +239,7 @@
   <string name="autoip_summary">Dodaj IP prefiks za međunarodne brojeve</string>
   <string name="autoip_summary_more">, %d ukupno</string>
   <string name="autoip_support_local_numbers">Uvijek koristi IP prefiks</string>
+  <string name="available_via_carrier">Dostupno putem %1$s</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="back">Natrag</string>
   <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovo.</string>
@@ -241,9 +266,13 @@
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano s medijskim zvukom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Koristi za medijski zvuk</string>
   <string name="bluetooth_connected">Povezan</string>
+  <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (bez medija)</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija), baterija %1$s</string>
   <string name="bluetooth_connected_no_headset">Povezano (bez telefona)</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona), baterija %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona ili medija)</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona ili medija), battery %1$s</string>
   <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama)</string>
   <string name="bluetooth_connecting">Povezivanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogući apsolutnu glasnoću</string>
@@ -307,6 +336,8 @@ brzina uzorkovanja"</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Odaberi kodek za Bluetooth Audio</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Odaberite verziju AVRCP-a za Bluetooth</string>
   <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_show_devices_without_names">Prikaži Bluetooth uređaje bez naziva</string>
+  <string name="bluetooth_show_devices_without_names_summary">Prikazivat će se Bluetooth uređaji bez naziva (samo MAC adrese)</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Snimi sve Bluetooth HCI pakete u datoteci</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
@@ -406,6 +437,7 @@ brzina uzorkovanja"</string>
   <string name="call_barring_incoming">Zabrana dolaznih poziva</string>
   <string name="call_barring_outgoing">Zabrana odlaznih poziva</string>
   <string name="call_barring_sum">Postavke zabrane glasovnih poziva</string>
+  <string name="call_category">Pozivanje</string>
   <string name="call_description_recording">Snimanje…</string>
   <string name="call_forward_option">Prosljeđivanje poziva</string>
   <string name="call_forwarding_number_hint">Prosljedi pozive na</string>
@@ -485,6 +517,7 @@ brzina uzorkovanja"</string>
   <string name="carrier_info">Informacije o davatelju usluge</string>
   <string name="carrier_name">(Naziv davatelja usluge)</string>
   <string name="carrier_settings"/>
+  <string name="carrier_settings_euicc">Davatelj usluge</string>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Postavke davatelja usluge</string>
   <string name="category_personal">Osobno</string>
@@ -587,6 +620,7 @@ brzina uzorkovanja"</string>
   <string name="connect_disconnect_vibrate_title">Zavibriraj kada se odgovori na vaš poziv</string>
   <string name="connect_disconnect_vibrate_weak">Slaba vibracija</string>
   <string name="connect_later">Povezivanje s tom mrežom trenutačno nije moguće. Pokušajte kasnije.</string>
+  <string name="connected_via_carrier">Povezano putem mreže %1$s</string>
   <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>
   <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
@@ -624,6 +658,9 @@ brzina uzorkovanja"</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
   <string name="data_enable_summary">Dopusti upotrebu podataka</string>
   <string name="data_enabled">Podaci su omogućeni</string>
+  <string name="data_usage_disable_mobile">Želite li isključiti mobilne podatke?</string>
+  <string name="data_usage_template">Potrošeno je %1$s mobilnih podataka u sljedećem razdoblju: %2$s</string>
+  <string name="data_usage_title">Potrošnja podataka</string>
   <string name="data_usage_uninstalled_apps">Uklonjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Uklonjene aplikacije i korisnici</string>
   <string name="deactivate_all">Otkaži sve</string>
@@ -679,6 +716,7 @@ brzina uzorkovanja"</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
   <string name="dial">Biranje</string>
+  <string name="dialFailed_low_battery">Vaš videopoziv ne može se uspostaviti zbog slabe baterije.</string>
   <string name="dial_emergency_empty_error">Pozivanje nije moguće. Nazovite broj hitne službe.</string>
   <string name="dial_emergency_error">Pozivanje nije moguće. %s nije broj hitne službe.</string>
   <string name="dial_pad_autocomplete">Samodovršavanje biranja brojeva</string>
@@ -900,6 +938,7 @@ brzina uzorkovanja"</string>
   <string name="feedback">Pov. informacija</string>
   <string name="flash_when_ring_summary">Obavijesti Bljeskalicom o dolaznim pozivima</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
+  <string name="forbidden_network">(zabranjeno)</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
   <string name="force_allow_on_external_summary">Aplikacije se mogu zapisivati u vanjsku pohranu neovisno o vrijednostima manifesta</string>
   <string name="force_hw_ui">Nametni GPU renderiranje</string>
@@ -1030,6 +1069,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keep_wait_call_back">Nastavi s čekanjem</string>
+  <string name="keywords_carrier_settings_euicc">operater, esim, sim, euicc</string>
   <string name="labelCDMAMore">Postavke CDMA poziva</string>
   <string name="labelCF">Preusmjeravanje poziva</string>
   <string name="labelCFB">Kad je broj zauzet</string>
@@ -1208,11 +1248,27 @@ to start using Top-up package"</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
   <string name="mo_call_type_title">MO Vrsta Poziva</string>
   <string name="mobile_data">"Mobilni podaci: "</string>
+  <string name="mobile_data_activate_button">DODAJ PODATKE</string>
+  <string name="mobile_data_activate_cancel_button">ODUSTANI</string>
+  <string name="mobile_data_activate_diag_message">Možda ćete trebati dodati podatke putem operatera %s</string>
+  <string name="mobile_data_activate_diag_title">Želite li dodati podatke?</string>
+  <string name="mobile_data_activate_footer">Mobilne podatke ili roaminga paket možete dodati putem svojeg operatera %s.</string>
+  <string name="mobile_data_activate_prepaid">Više nema mobilnih podataka</string>
+  <string name="mobile_data_activate_prepaid_summary">Dodajte mobilne podatke putem operatera %s</string>
+  <string name="mobile_data_activate_roaming_plan">Nema roaming paketa</string>
+  <string name="mobile_data_activate_roaming_plan_summary">Dodajte roaming paket putem operatera %s</string>
   <string name="mobile_data_alert">Promet podataka može se generirati na sekundarnoj kartici</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
   <string name="mobile_data_off">Isklj.</string>
   <string name="mobile_data_on">Uklj.</string>
+  <string name="mobile_data_settings_summary">Pristupanje podacima pomoću mobilne mreže</string>
+  <string name="mobile_data_settings_title">Mobilni podaci</string>
+  <string name="mobile_data_status_no_plan_subtext">Više nema mobilnih podataka</string>
+  <string name="mobile_data_status_roaming_turned_off_subtext">Podatkovni roaming je isključen</string>
+  <string name="mobile_data_status_roaming_turned_on_subtext">Podatkovni roaming je isključen</string>
+  <string name="mobile_data_status_roaming_with_plan_subtext">Roaming je u tijeku, podatkovni paket je aktivan</string>
+  <string name="mobile_data_status_roaming_without_plan_subtext">Roaming je u tijeku, potreban je podatkovni paket</string>
   <string name="mobile_network_settings_not_available">Postavke mobilne mreže nisu dostupne za tog korisnika</string>
   <string name="mobile_networks">Postavke Mobilne mreže</string>
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
@@ -1271,7 +1327,9 @@ to start using Top-up package"</string>
   <string name="network_info_message">Mrežna poruka</string>
   <string name="network_lte">LTE (preporučeno)</string>
   <string name="network_message">Mrežna poruka</string>
+  <string name="network_operator_category">Mreža</string>
   <string name="network_query_error">Pogreška tijekom pretraživanja mreža.</string>
+  <string name="network_select_title">Mreža</string>
   <string name="network_settings_auto_select_title">Ručno odabrati mrežu?</string>
   <string name="network_settings_automatically_option">Autom. odaberi željenu mrežu (%s)</string>
   <string name="network_settings_confirm_message">Vaš će uređaj prekinuti vezu s mrežom tijekom traženja dostupnih mreža.</string>
@@ -1539,10 +1597,12 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="power_charging_duration_usb">%1$s – %2$s do napunjenosti putem USB-a</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
   <string name="power_discharging_duration">%1$s – još približno %2$s</string>
+  <string name="power_discharging_duration_enhanced">^1 – još otprilike ^2 na temelju vaše upotrebe</string>
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
-  <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
+  <string name="power_remaining_charging_duration_only">Još ^1 do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
+  <string name="power_remaining_duration_only_short_enhanced">Još ^1 na temelju vaše upotrebe</string>
   <string name="prefered_network_type_3g_promp">Prije nego što odaberete 3G kao svoju preferiranu vrstu mreže, trebali biste isključiti VoLTE. Isključiti sada?</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; vibracija</string>
@@ -1798,6 +1858,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="screen_zoom_summary_very_large">Veće</string>
   <string name="search_antispam_setting">Lista blokiranih</string>
   <string name="search_app_name">Telefon</string>
+  <string name="search_menu_title">Pretraživanje</string>
   <string name="search_networks">Pretraži mreže</string>
   <string name="selectContact">Odaberi kontakt</string>
   <string name="select_application">Odaberite aplikaciju</string>
@@ -1864,6 +1925,8 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_card_summary_no_sim_card">Umetnite SIM karticu</string>
   <string name="sim_cards_network_mode_changed_summary">Dodirnite za prikaz postavki SMS-a i poziva.</string>
   <string name="sim_cards_network_mode_changed_title">Otkrivena nova SIM kartica</string>
+  <string name="sim_change_data_message">Želite li za mobilne podatke upotrijebiti %1$s umjesto %2$s?</string>
+  <string name="sim_change_data_title">Promijeniti podatkovni SIM?</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Broj</string>
   <string name="sim_description_default">SIM kartica %s</string>
@@ -1875,6 +1938,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="sim_no_activated">"Ne mogu potvrditi SIM karticu"</string>
   <string name="sim_roaming_settings_summary">Poveži se mobilnim podatkovnim mrežama u Roamingu</string>
   <string name="sim_roaming_settings_title">Mi Roaming</string>
+  <string name="sim_selection_required_pref">Odabir je obvezan</string>
   <string name="sim_service_setting">Mi SIM &amp; Mi Roaming</string>
   <string name="sim_unknown">Nepoznato</string>
   <string name="sim_unlock_failed">SIM zahtjev otključavanja neuspješan.</string>
@@ -1910,12 +1974,19 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="smart_divert_title">Smart-Divert</string>
   <string name="sp_unlock_failed">SIM zahtjev otključavanja Davatelja usluga neuspješno.</string>
   <string name="sp_unlock_success">SIM otključavanje Davatelja usluga uspješno.</string>
+  <string name="speed_label_fast">Brzo</string>
+  <string name="speed_label_medium">Srednje</string>
+  <string name="speed_label_okay">U redu</string>
+  <string name="speed_label_slow">Sporo</string>
+  <string name="speed_label_very_fast">Vrlo brzo</string>
+  <string name="speed_label_very_slow">Vrlo sporo</string>
   <string name="sports_news_settings">Vijesti iz sporta</string>
   <string name="srvcc_message">4G voice call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
   <string name="srvcc_video_message">Video call has been downgraded to 2G/3G voice call, because the 4G network is not available.</string>
   <string name="status_hint_label_incoming_wifi_call">Dolazni WLAN poziv</string>
   <string name="status_hint_label_wifi_call">WLAN poziv</string>
   <string name="stk_cc_ss_to_dial_error">SS zahtjev izmijenjen je u DIAL zahtjev.</string>
+  <string name="stk_cc_ss_to_dial_video_error">SS zahtjev izmijenjen je u Video DIAL zahtjev.</string>
   <string name="stk_cc_ss_to_ss_error">SS zahtjev izmijenjen je u novi SS zahtjev.</string>
   <string name="stk_cc_ss_to_ussd_error">SS zahtjev izmijenjen je u USSD zahtjev.</string>
   <string name="stock_quotes_disable">Onemogućene su burzovne kotacije</string>
@@ -2100,6 +2171,8 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="ussdRunning">Pokrenut je USSD kôd…</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ut_not_support">UT nije dostupan</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verified">Provjereno</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
@@ -2112,6 +2185,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
   <string name="vice_slot_volte_data_switch_title">Koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici</string>
+  <string name="video_calling_settings_title">Videopozivanje putem mobilnog operatera</string>
   <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte.
 Obratite se davatelju usluge ako problem potraje."</string>
   <string name="vm_change_pin_error_invalid">Novi PIN sadrži nevažeće znakove.</string>
@@ -2139,8 +2213,8 @@ Ako vidite _ na traci statusa, VoLTE pozivi nisu dostupni. Ako ne možete upući
 
 Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koristiti slušalice za upućivanje poziva."</string>
   <string name="voice_service_warning_dialog_cancel">Odustani</string>
-  <string name="voice_service_warning_dialog_ok">Shvaćam</string>
-  <string name="voice_service_warning_dialog_ok_timer">Shvaćam (%d)</string>
+  <string name="voice_service_warning_dialog_ok">Razumijem</string>
+  <string name="voice_service_warning_dialog_ok_timer">Razumijem (%d)</string>
   <string name="voice_service_warning_dialog_title">VoLTE pozivi</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
@@ -2199,6 +2273,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek dopusti slobodno traženje Wi-Fi mreže</string>
   <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili blokirajte slobodno traženje WLAN mreža na temelju količine podatkovnog prometa na sučelju.</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_call_setting">Postavke WLAN poziva</string>
@@ -2215,10 +2290,14 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
   <string name="wifi_calling_settings_key">WLAN</string>
+  <string name="wifi_calling_settings_title">WLAN pozivi</string>
   <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
   <string name="wifi_calling_title">WLAN pozivi</string>
   <string name="wifi_calling_use_call_assistant">Koristi Asistenta poziva</string>
   <string name="wifi_calling_use_call_assistant_summary">Neka aplikacije ili usluge upravljaju mrežama korištene za pozive</string>
+  <string name="wifi_cant_connect">Povezivanje nije uspjelo</string>
+  <string name="wifi_cant_connect_to_ap">Povezivanje s aplikacijom \"%1$s\" nije uspjelo</string>
+  <string name="wifi_check_password_try_again">Provjerite zaporku i pokušajte ponovo</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
   <string name="wifi_disabled_by_recommendation_provider">Niste povezani jer je mreža loše kvalitete</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>

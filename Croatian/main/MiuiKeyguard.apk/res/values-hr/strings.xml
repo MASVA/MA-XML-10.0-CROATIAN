@@ -174,7 +174,7 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
   <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
-  <string name="phone_locked_foget_password_ok">Shvaćam</string>
+  <string name="phone_locked_foget_password_ok">Razumijem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća +&lt;/font&gt;istovremeno dok ne vidite Mi logo.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; resetiraj\"&lt;/font&gt; i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>
@@ -193,7 +193,7 @@ Prijavite se na i.mi.com, idite na "Pronađi uređaj", odaberite uređaj i priti
   <string name="unlockscreen_recharge_completed">Baterija napunjena</string>
   <string name="unlockscreen_recharging_message">Punjenje %d%%</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Otpusti za prikaz pojedinosti</string>
-  <string name="wireless_charge_dialog_cancel">Shvaćam</string>
+  <string name="wireless_charge_dialog_cancel">Razumijem</string>
   <string name="wireless_charge_dialog_title">Postavite uređaj na sredinu baze za punjenje</string>
   <string name="wireless_charge_stop">Bežično punjenje je zaustavljeno</string>
   <string name="wireless_current_charge">Punjenje</string>

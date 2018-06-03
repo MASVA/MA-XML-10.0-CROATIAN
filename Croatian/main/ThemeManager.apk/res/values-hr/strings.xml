@@ -103,7 +103,7 @@
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
   <string name="in_the_end">Nema više stavki za prikazivanje</string>
   <string name="incompatible_dialog_message">Ova tema nije u potpunosti kompatibilna sa MIUI 9. Neki elementi mogu biti prikazani na pogrešan način.</string>
-  <string name="incompatible_dialog_ok">Shvaćam</string>
+  <string name="incompatible_dialog_ok">Razumijem</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
   <string name="internal_online_precust_gorgeous_color_name">Prekrasna boja</string>
@@ -131,7 +131,7 @@
   <string name="lockstyle_personal_settings">Prilagođeno</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvona je postavljena za obje SIM kartice.</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Shvaćam</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Razumijem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne prikazuj ponovno"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemi s kompatibilnošću</string>
   <string name="my_gifts">Pokloni</string>
@@ -469,7 +469,7 @@
   <string name="title_system_wallpaper_resource">Slike pozadine sustava</string>
   <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
   <string name="uid_change_dialog_message">"Izbrisali ste ažuriranja. Ponovno pokrenite uređaj da bi mogli koristiti teme."</string>
-  <string name="uid_change_dialog_ok">Shvaćam</string>
+  <string name="uid_change_dialog_ok">Razumijem</string>
   <string name="uid_change_dialog_title">Ponovni pokreni</string>
   <string name="up_to_the_end">"To je sve za sada. Vratite se kasnije."</string>
   <string name="wallpaper_apply">Postavi</string>

@@ -443,7 +443,7 @@
   <string name="file_deleted_success">Datoteka izbrisana</string>
   <string name="file_defailt_save_path">Privici se prema zadanim postavkama spremaju u mapu %s. Mapu možete promijeniti u Postavkama.</string>
   <string name="file_default_save_path_title">Zadana lokacija za privitke</string>
-  <string name="file_save_path_dialog_cancel">Shvaćam</string>
+  <string name="file_save_path_dialog_cancel">Razumijem</string>
   <string name="file_save_path_dialog_ok">Promjeni sada</string>
   <string name="file_not_found">"Ne mogu pronaći datoteku"</string>
   <string name="file_not_found_redownload">"Ne mogu pronaći datoteku"</string>

@@ -436,7 +436,7 @@
   <string name="steps_misport_dialog_title">Još niste instalirali Mi Fit.</string>
   <string name="steps_misport_download">Preuzmi</string>
   <string name="steps_misport_go">Dopusti</string>
-  <string name="steps_misport_ok">Shvaćam</string>
+  <string name="steps_misport_ok">Razumijem</string>
   <string name="steps_misport_tip">Prijavite se u Mi Fit pomoću svog Mi Računa i omogućite Mi Fit-u autom. pokretanje u Sigurnost - Dopuštenja.</string>
   <string name="steps_sport">Mi Fit</string>
   <string name="steps_sport_des">Dobijte točne informacije iz aplikacije Mi Fit.</string>

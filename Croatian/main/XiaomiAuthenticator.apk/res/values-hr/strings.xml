@@ -2,7 +2,7 @@
 <resources>
   <string name="about_preference_screen_title">Detalji</string>
   <string name="about_preference_title">Detalji</string>
-  <string name="acknowledge_btn">Shvaćam</string>
+  <string name="acknowledge_btn">Razumijem</string>
   <string name="action_settings">Postavke</string>
   <string name="activation_page">Nije aktivirano</string>
   <string name="activation_page_btn_txt">Aktiviraj</string>

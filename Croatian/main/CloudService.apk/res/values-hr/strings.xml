@@ -411,7 +411,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_privacy_warning_content">"Ne mogu uključiti usluge Mi Cloud. Pričekajte trenutak ili dva i pokušajte ponovno."</string>
   <string name="micloud_privacy_warning_title">Pažnja</string>
   <string name="micloud_proceed">Nastavi</string>
-  <string name="micloud_request_permission_confirm">Shvaćam</string>
+  <string name="micloud_request_permission_confirm">Razumijem</string>
   <string name="micloud_request_permission_content">Mi Cloud treba dopuštenja za sinkronizaciju podataka. Dopustite Mi Cloudu pristup Kalendaru, Kontaktima, Mi Računu, statusu SIM kartice, povijesti poziva i porukama.</string>
   <string name="micloud_request_permission_title">Mi Cloud treba dopuštenja</string>
   <string name="micloud_sec_dspt">i podijelite stvari sa svojim prijateljima.</string>

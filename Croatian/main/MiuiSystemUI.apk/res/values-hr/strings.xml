@@ -428,7 +428,7 @@ brzina uzorkovanja"</string>
   <string name="clock_seconds_desc">Prikazuju se sekunde na satu na traci statusa. Može utjecati na trajanje baterije.</string>
   <string name="compat_mode_off">Rastegni i ispuni zaslon</string>
   <string name="compat_mode_on">Zumiraj i ispuni zaslon</string>
-  <string name="confirm">Shvaćam</string>
+  <string name="confirm">Razumijem</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="confirm_pin_msg">Unesite PIN ponovno</string>
@@ -984,7 +984,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="long_screenshot_stop">Gotovo</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
   <string name="long_screenshot_top_msg_manual">Obrežite snimku zaslona i dodirnite tipku da biste završili</string>
-  <string name="low_temperature_button_ok">Shvaćam</string>
+  <string name="low_temperature_button_ok">Razumijem</string>
   <string name="low_temperature_warning_message">Temperatura je preniska. Vaš telefon se može isključiti u bilo kojem trenutku. Pazite da spremite sve važne izmjene.</string>
   <string name="low_temperature_warning_title">Upozorenje niske temperature</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
@@ -1183,7 +1183,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="phone_locked_foget_password_method">Zaboravljena zaporka?</string>
   <string name="phone_locked_foget_password_method_content">Morate &lt;font color="#a5220e"&gt;izbrisati sve podatke&lt;/font&gt; na vašem uređaju, uključujući fotografije i kontakte, a zatim postavite novu zaporku Zaklj. zaslona.</string>
   <string name="phone_locked_foget_password_method_next">Dalje</string>
-  <string name="phone_locked_foget_password_ok">Shvaćam</string>
+  <string name="phone_locked_foget_password_ok">Razumijem</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">Isključite uređaj, pritisnite i držite &lt;font color="#a5220e"&gt;Tipku za uključivanje&lt;/font&gt; i &lt;font color="#a5220e"&gt;Glasnoća +&lt;/font&gt;istovremeno dok ne vidite Mi logo.</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">Odaberite &lt;font color="#a5220e"&gt;\"Izbriši &amp;amp; resetiraj\"&lt;/font&gt; i pričekajte dok se uređaj ne ponovo pokrene.</string>
   <string name="phone_locked_forget_password_suggesstions_title">Kako izbrisati podatke?</string>

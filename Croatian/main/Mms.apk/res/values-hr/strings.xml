@@ -255,7 +255,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Otpusti za osvježiti…</string>
   <string name="hybrid_service_unavailiable">"Usluga nije dostupna"</string>
   <string name="hybrid_try_again">Pokušajte ponovno</string>
-  <string name="i_know">Shvaćam</string>
+  <string name="i_know">Razumijem</string>
   <string name="importing_progress_private_message">Uvoz…</string>
   <string name="in_sms">Poruka</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>

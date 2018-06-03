@@ -346,7 +346,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_result_website_intro">Ukupno&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; stavki | Izvor: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Veličina: %1$s</string>
   <string name="sniff_search_install">Instaliraj</string>
-  <string name="sniff_shortcut_cloudconfig_btn">Shvaćam</string>
+  <string name="sniff_shortcut_cloudconfig_btn">Razumijem</string>
   <string name="sniff_shortcut_cloudconfig_context">Ažuriranje izvora…</string>
   <string name="sniff_shortcut_cloudconfig_title">Samo trenutak…</string>
   <string name="sniff_shortcut_create">Prečac napravljen</string>

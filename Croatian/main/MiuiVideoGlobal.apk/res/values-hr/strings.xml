@@ -34,7 +34,7 @@
   <string name="lp_brightness">Jačina svjetline</string>
   <string name="lp_fullscreen">Cijeli zaslon</string>
   <string name="lp_setting">Postavke</string>
-  <string name="lp_videoView_error_button">Shvaćam</string>
+  <string name="lp_videoView_error_button">Razumijem</string>
   <string name="lp_videoView_error_text_unknown">Ne mogu reproducirati ovaj videozapis.</string>
   <string name="lp_videoView_error_title">Ne mogu reproducirati</string>
   <string name="lp_volume">Glasnoća</string>
