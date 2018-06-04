@@ -358,6 +358,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="switching_files">Premještanje datoteka…</string>
   <string name="switching_photos">Premještanje fotografija…</string>
   <string name="temporary_no_set">Ne sada</string>
+  <string name="this_function_can_not_use_in_second_space">Ova se funkcija može koristiti samo u Prvom prostoru</string>
   <string name="title_choose_app_status">Odaberite vrstu aplikacije</string>
   <string name="title_switch_file">Izbrisati ove datoteke?</string>
   <string name="title_switch_photo">Izbrisati ove fotografije?</string>

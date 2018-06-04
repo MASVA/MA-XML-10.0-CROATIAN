@@ -197,9 +197,9 @@
   <string name="delete_failed_retry">"Ne mogu izbrisati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
-  <string name="delete_files">Izbrisati ovoliko (%1$d) datoteka?</string>
+  <string name="delete_files">Izbrisati datoteke: %1$d?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
-  <string name="delete_folders">Izbrisati ovoliko (%1$d) mapa?</string>
+  <string name="delete_folders">Izbrisati mape: %1$d?</string>
   <string name="delete_selected_tasks">Izbrisati odabrane zadatke?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="delete_video">Izbriši</string>
@@ -223,7 +223,6 @@
   <string name="dislike_video">"Nisam zainteresiran"</string>
   <string name="dlg_error_unmount_text">"Ne mogu ukloniti USB pohranu."</string>
   <string name="download">Preuzmi</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">"Ne mogu preuzeti"</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirni na vezu ispod za pregled: </string>
@@ -270,7 +269,7 @@
   <string name="fail_to_rename">Datoteka s istim nazivom već postoji.</string>
   <string name="favorite_photo">Fotografije</string>
   <string name="favorite_ringtone">Zvukovi zvona</string>
-  <string name="favorite_screen_cap">Snimak zaslona</string>
+  <string name="favorite_screen_cap">Snimka zaslona</string>
   <string name="female">Žena</string>
   <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
   <string name="file_info_canread">Čitljivo: </string>
@@ -326,7 +325,7 @@
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
   <string name="homepage_tab_category">Kategorije</string>
-  <string name="homepage_tab_file_view_phone">Pohrana</string>
+  <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_recent">Nedavno</string>
   <string name="hot_app">Popularne aplik.</string>
   <string name="hot_comments">Aktualno</string>
@@ -422,8 +421,8 @@
   <string name="message_comment_prefix">"Komentar: "</string>
   <string name="message_my_received_notification">Nova poruka</string>
   <string name="message_my_received_praise">Moji lajkovi</string>
-  <string name="message_praise_comment">" lajkao ovaj komentar"</string>
-  <string name="message_praise_video">" lajkao ovaj video"</string>
+  <string name="message_praise_comment">" se sviđa ovaj komentar"</string>
+  <string name="message_praise_video">" se sviđa ovaj video"</string>
   <string name="message_reply_prefix">Odgovor</string>
   <string name="message_title">Moje poruke</string>
   <string name="mi_router_label">Router</string>
@@ -900,9 +899,9 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
   <string name="support_mtp">MTP će uskoro biti podržan </string>
   <string name="swap_tip_1">Povucite lijevo ili desno</string>
-  <string name="swap_tip_2">da gledate druge videozapise</string>
+  <string name="swap_tip_2">da gledate druge dostupne</string>
   <string name="subtitle_report_video">Šalje %1$s</string>
-  <string name="sys_size_enable">" dostupno"</string>
+  <string name="sys_size_enable">" videozapise"</string>
   <string name="system_alert">Internet povezivanje</string>
   <string name="system_sticker_control">Prikaži popularne videozapise</string>
   <string name="system_sticker_control_tip">Prikaži popularne naljepnice u Datotekama</string>

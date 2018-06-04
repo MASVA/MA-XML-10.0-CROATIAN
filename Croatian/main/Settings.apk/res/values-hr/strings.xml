@@ -1970,7 +1970,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>
   <string name="error_name_empty">Polje naziva ne može biti prazno.</string>
   <string name="error_title"/>
-  <string name="estimated_charging_time_left">Do potpune napunjenosti</string>
+  <string name="estimated_charging_time_left">Do potpune pune baterije</string>
   <string name="estimated_time_description">Procjena se može mijenjati ovisno o upotrebi</string>
   <string name="estimated_time_left">Procijenjeno preostalo vrijeme</string>
   <string name="ethernet">Ethernet</string>
@@ -3839,10 +3839,10 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
-  <string name="power_charging_duration">%1$s - %2$s do napunjenosti</string>
-  <string name="power_charging_duration_ac">%1$s – %2$s do napunjenosti putem utičnice</string>
-  <string name="power_charging_duration_usb">%1$s – %2$s do napunjenosti putem USB-a</string>
-  <string name="power_charging_duration_wireless">%1$s – %2$s do napunjenosti bežičnim putem</string>
+  <string name="power_charging_duration">%1$s - %2$s do pune baterije</string>
+  <string name="power_charging_duration_ac">%1$s – %2$s do pune baterije putem utičnice</string>
+  <string name="power_charging_duration_usb">%1$s – %2$s do pune baterije putem USB-a</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s do pune baterije bežičnim putem</string>
   <string name="power_checker">Provjera energije</string>
   <string name="power_discharge_remaining">%1$s preostalo</string>
   <string name="power_discharging_duration">%1$s - još približno %2$s</string>
@@ -3858,7 +3858,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="power_optimize">Ušteda baterije</string>
   <string name="power_overcounted">Previše obračunato</string>
   <string name="power_phone">Glasovni pozivi</string>
-  <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
+  <string name="power_remaining_charging_duration_only">Još %1$s do pune baterije</string>
   <string name="power_remaining_duration_only">Još otprilike %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
   <string name="power_screen">Zaslon</string>
@@ -5540,7 +5540,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
   <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
   <string name="total">DND</string>
-  <string name="total_info">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
+  <string name="total_info">Utišaj zvukove za %1$s osim alarma</string>
+  <string name="total_info_sub">i isključi vibraciju</string>
   <string name="total_memory">Ukupna memorija</string>
   <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>

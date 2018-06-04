@@ -311,6 +311,7 @@
   <string name="toast_feedback_submitting">Slanje…</string>
   <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
   <string name="toast_fill_brackets">Vašem izvješću nedostaju neke informacije</string>
+  <string name="toast_loading_app_id">Dobivanje informacija…</string>
   <string name="toast_log_not_exists">"Traženi zapis ne postoji ii je izbrisan"</string>
   <string name="toast_log_too_large">"Ne mogu učitati. Datoteka je prevelika."</string>
   <string name="toast_module_required">Odaberi stavku</string>

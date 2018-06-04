@@ -547,7 +547,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="expanded_confirm_disable_notification">Sakrij</string>
   <string name="expanded_header_battery_charged">Napunjeno</string>
   <string name="expanded_header_battery_charging">Punjenje</string>
-  <string name="expanded_header_battery_charging_with_time">%s do napunjenosti</string>
+  <string name="expanded_header_battery_charging_with_time">%s do pune baterije</string>
   <string name="expanded_header_battery_not_charging">Ne puni se</string>
   <string name="expanded_notification_manager">Upravljaj obavijestima</string>
   <string name="experimental">Eksperimentalno</string>
@@ -809,9 +809,9 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charging_info_tip_text5">Baterija kada se dulje puni postaje toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
   <string name="keyguard_fancy_colon"></string>
-  <string name="keyguard_indication_charging_time">Punjenje (%s do napunjenosti)</string>
-  <string name="keyguard_indication_charging_time_fast">Brzo punjenje (%s do napunjenosti)</string>
-  <string name="keyguard_indication_charging_time_slowly">Sporo punjenje (%s do napunjenosti)</string>
+  <string name="keyguard_indication_charging_time">Punjenje (%s do pune baterije)</string>
+  <string name="keyguard_indication_charging_time_fast">Brzo punjenje (%s do pune baterije)</string>
+  <string name="keyguard_indication_charging_time_slowly">Sporo punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_trust_disabled">Uređaj će ostati zaključan dok ga ručno ne otključate</string>
   <string name="keyguard_instructions_when_pattern_disabled">Pritisnite Izbornik da biste otključali.</string>
   <string name="keyguard_left_bankcard">Kalkulator</string>
@@ -1208,7 +1208,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="plugins">Dodaci</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
-  <string name="power_charging_duration">%1$s - %2$s do napunjenosti</string>
+  <string name="power_charging_duration">%1$s - %2$s do pune baterije</string>
   <string name="power_discharging_duration">%1$s – još približno %2$s</string>
   <string name="power_discharging_duration_short">%1$s – još %2$s</string>
   <string name="power_notification_controls_description">"Napredne kontrole obavijesti omogućuju vam da postavite razinu važnosti za obavijesti aplikacije od 0 do 5. 
@@ -1240,10 +1240,14 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
 
 "<b>Razina 0</b>" 
 – blokiraj sve obavijesti aplikacije"</string>
-  <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
+  <string name="power_remaining_charging_duration_only">Još %1$s do pune baterije</string>
   <string name="power_remaining_duration_only">Još otprilike %1$s</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
   <string name="profile_owned_footer">Profil se možda nadzire</string>
+  <string name="prompt_danger">Opasno</string>
+  <string name="prompt_detecting">Otkrivanje</string>
+  <string name="prompt_safe">Sigurno</string>
+  <string name="prompt_unknown">Nepoznato</string>
   <string name="qs_customize">Omogući dugotrajnu prilagodbu u Brzim postavkama</string>
   <string name="qs_customize_info">Info</string>
   <string name="qs_customize_remove">Ukloni</string>
@@ -1304,7 +1308,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_dnd_priority_label">Samo prioritetno</string>
   <string name="quick_settings_done">Gotovo</string>
   <string name="quick_settings_drivemode_label">Automobil. način</string>
-  <string name="quick_settings_dual_location_label">GPS</string>
+  <string name="quick_settings_dual_location_label">Dvojni GPS</string>
   <string name="quick_settings_edit_label">Uredi</string>
   <string name="quick_settings_flashlight_label">Svjetiljka</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -1322,7 +1326,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_night_display_label">Noćno svjetlo</string>
   <string name="quick_settings_notifications_label">Obavijesti</string>
   <string name="quick_settings_papermode_label">Način čitanja</string>
-  <string name="quick_settings_powermode_label">Način Performansi</string>
+  <string name="quick_settings_powermode_label">Performanse</string>
   <string name="quick_settings_quietmode_label">DND</string>
   <string name="quick_settings_reset_confirmation_button">Sakrij</string>
   <string name="quick_settings_reset_confirmation_message">Ponovo će se pojaviti kada je sljedeći put uključite u postavkama.</string>
@@ -1330,7 +1334,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_rotation_locked_label">Izmjenjivanje je zaključano</string>
   <string name="quick_settings_rotation_locked_landscape_label">Vodoravno</string>
   <string name="quick_settings_rotation_locked_portrait_label">Okomito</string>
-  <string name="quick_settings_rotation_unlocked_label">Automatsko izmjenjivanje</string>
+  <string name="quick_settings_rotation_unlocked_label">Autom. izmj.</string>
   <string name="quick_settings_rssi_emergency_only">Samo hitni pozivi</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screenbutton_label">Tipke</string>
@@ -1519,6 +1523,10 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_recent_remove_item_title">Ukloni sa popisa</string>
   <string name="status_bar_recording_back">Vrati se na snimanje zvuka</string>
   <string name="status_bar_recording_pause">Snimanje zvuka je pauzirano</string>
+  <string name="status_bar_safepay_risk">Pronađeni rizici plaćanja</string>
+  <string name="status_bar_safepay_safe">Nema pronađenih rizika plaćanja</string>
+  <string name="status_bar_safepay_scanning">Provjera okoline plaćanja</string>
+  <string name="status_bar_safepay_unknown">"Ne mogu provjeriti okolinu plaćanja"</string>
   <string name="status_bar_settings_airplane">Zrakoplovni način</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Automatski zakreni zaslon</string>
