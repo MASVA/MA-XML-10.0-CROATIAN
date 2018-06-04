@@ -78,4 +78,13 @@
         <item>Pješčana oluja dolazi, nosite masku!</item>
         <item>Ugodan dan!</item>
     </string-array>
+    <string-array name="timer_duration">
+        <item>Ukupno %1$s</item>
+        <item>Ukupno %2$s</item>
+        <item>Ukupno %1$s%2$s</item>
+        <item>Ukupno %3$s</item>
+        <item>Ukupno %1$s%3$s</item>
+        <item>Ukupno %2$s%3$s</item>
+        <item>Ukupno %1$s%2$s%3$s</item>
+    </string-array>
 </resources>

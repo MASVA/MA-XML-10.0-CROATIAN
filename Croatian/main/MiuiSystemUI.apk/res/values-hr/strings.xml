@@ -1107,6 +1107,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="no_tiles_add">No tiles to add</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava Podijeljeni zaslon"</string>
+  <string name="notice_audition">Zvukovi prirode</string>
   <string name="notification_all_categories">Sve kategorije</string>
   <string name="notification_app_settings">Prilagodite: %1$s</string>
   <string name="notification_channel_alerts">Upozorenja</string>
