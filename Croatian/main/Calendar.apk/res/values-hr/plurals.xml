@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays_ago_at">
-         <item quantity="other">%1$d dana</item>
-         <item quantity="one">%1$d dan</item>
+        <item quantity="other">%1$d dana prije u %2$s</item>
+        <item quantity="one">%1$d dan prije u %2$s</item>
     </plurals>
 	<plurals name="birthday_event_description_days_ago">
          <item quantity="other">%1$d dana ranije</item>
@@ -17,8 +17,8 @@
          <item quantity="one">Možete unijeti do %1$d dan</item>
      </plurals>
     <plurals name="Ndays_after_at">
-         <item quantity="other">%1$d dana</item>
-         <item quantity="one">%1$d dan</item>
+        <item quantity="other">Za %1$d dana u %2$s</item>
+        <item quantity="one">Za %1$d dan u %2$s</item>
     </plurals>
     <plurals name="Nminutes">
         <item quantity="other">%d min. ranije</item>
