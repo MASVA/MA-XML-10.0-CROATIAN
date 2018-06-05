@@ -220,6 +220,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_defaults_setting">Zadane aplikacije</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za pohranu</string>
+  <string name="app_manager_details_title">Informacije o aplikaciji</string>
   <string name="app_manager_details_traffic_title">Uporaba podataka</string>
   <string name="app_manager_disable">"Ne dopusti"</string>
   <string name="app_manager_disable_dlg_text">Ako onemogućite tu aplikaciju, druge aplikacije možda neće moći raditi normalno.</string>

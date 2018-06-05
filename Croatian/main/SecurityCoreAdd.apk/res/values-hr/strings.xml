@@ -138,7 +138,7 @@ Dva prostora. Jedan uređaj."</string>
   <string name="import_application_desc">"Uvezite aplikacije u Drugi prostor.
 Također, možete ih preuzeti zasebno."</string>
   <string name="import_contacts">Uvezi kontakte</string>
-  <string name="import_contacts_desc">Napravite Uvezeni kontakte privatnim</string>
+  <string name="import_contacts_desc">Napravi uvezene kontakte privatnima</string>
   <string name="import_contacts_suc">Uvezeni privatni kontakti</string>
   <string name="import_file_suc">Stavke uvezene u mape</string>
   <string name="import_now">Uvoz</string>
@@ -175,8 +175,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="not_support_multiple_users">"Višestruki prostori nisu podržani"</string>
   <string name="notificationSetPassword">Postavite zaporku</string>
   <string name="notificationSetPasswordDes">Zaštitite podatke Drugog prostora</string>
-  <string name="notificationSummary">Promjenite prostor iz panela obavijesti</string>
-  <string name="notificationTitle">Prečac panela obavijesti</string>
+  <string name="notificationSummary">Promjenite prostor iz Panela obavijesti</string>
+  <string name="notificationTitle">Prečac Panela obavijesti</string>
   <string name="notification_from_owner_user">Prikaži obavijesti iz Prvog prostora</string>
   <string name="notification_from_second_user">Prikaži obavijesti iz Drugog prostora</string>
   <string name="notification_recommend_title">Top 12 Aplik. za Drugi prostor</string>

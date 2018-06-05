@@ -1194,7 +1194,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="pip_close">Zatvori PIP</string>
   <string name="pip_fullscreen">Cijeli zaslon</string>
   <string name="pip_menu_title">Izbornik slike u slici</string>
-  <string name="pip_notification_message">Ako ne želite da %s upotrebljava ovu značajku, dodirnite da otvoriti postavke i isključite je.</string>
+  <string name="pip_notification_message">Ako ne želite da %s upotrebljava ovu značajku, dodirnite da otvorite postavke i isključite je.</string>
   <string name="pip_notification_title">%s je u slici u slici</string>
   <string name="pip_notification_unknown_title">(Program bez naslova)</string>
   <string name="pip_pause">Pauza</string>
@@ -1478,7 +1478,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
-  <string name="snooze_option_15_min">15 minuteA</string>
+  <string name="snooze_option_15_min">15 minuta</string>
   <string name="snooze_option_1_hour">1 sat</string>
   <string name="snooze_option_2_hour">2 sata</string>
   <string name="snooze_option_30_min">30 minuta</string>
