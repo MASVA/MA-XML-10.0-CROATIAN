@@ -165,7 +165,6 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="face_score_info">Rezultat: %.1f</string>
   <string name="front_camera_hint_text_rotate">Zakrenite telefon</string>
-  <string name="hibernate_hint">Dodirnite zaslon da biste probudili kameru</string>
   <string name="front_camera_hint_text_place">Snimanje selfija bit će lakše\nako zakrenete telefon</string>
   <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
 izraz lica koji će biti sintetiziran u fotografiju"</string>
