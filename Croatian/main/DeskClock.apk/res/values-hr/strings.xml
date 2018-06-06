@@ -129,6 +129,7 @@
   <string name="more_settings">Više postavki</string>
   <string name="never">Jednom</string>
   <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
+  <string name="open_keep_screen">Zaslon će ostati uključen</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Melodija zvona</string>
   <string name="reset">Resetiraj</string>
@@ -145,6 +146,7 @@
   <string name="shutdown_alarm_disable_summary">Alarm se neće oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_enable_summary">Alarm će se oglasiti nakon isključenja</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>
+  <string name="shut_down_keep_screen">"Zaslon neće ostati uključen"</string>
   <string name="silent_alarm_summary">Bešumno</string>
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="slider_text">Povucite gore za isklj. alarma</string>
@@ -210,7 +212,7 @@
   <string name="volume_button_setting_title">Tipke za glasnoću</string>
   <string name="workday_alarm_clock">Alarm u radne dane</string>
   <string name="worldclock_empty_text">Nema satova</string>
-  <string name="worldclock_input_hint_text">Unesite zemlju ili grad</string>
+  <string name="worldclock_input_hint_text">Unesite grad</string>
   <string name="worldclock_search_city">Odaberite grad</string>
   <string name="worldclock_title">Sat</string>
   <string name="worldclock_world_time">Vremenske zone</string>

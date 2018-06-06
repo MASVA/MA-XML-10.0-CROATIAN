@@ -1038,7 +1038,6 @@ Ako vam je potrebno više informacija, obratite se administratoru."</string>
   <string name="monitoring_description_do_header_generic">Vašim uređajem upravlja aplikacija %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s upotrebljava aplikaciju %2$s za upravljanje vašim uređajem.</string>
   <string name="monitoring_description_do_learn_more">Saznajte više</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
   <string name="monitoring_description_managed_profile_ca_certificate">Vaša je organizacija instalirala izdavač certifikata na vašem radnom profilu. Vaš sigurni mrežni promet možda se nadzire ili modificira.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Vaš je radni profil povezan s aplikacijom %1$s koja može nadzirati vašu aktivnost na mreži, uključujući e-poruke, aplikacije i web-lokacije.</string>
   <string name="monitoring_description_management">"Vašem uređajem upravlja vaša organizacija.\n\nVaš administrator može nadzirati i upravljati postavkama, korporativnom pristupu, aplikacijama, podacima povezanim o vašem uređaju i informacijama o lokaciji vašeg uređaja.\n\nZa više informacija obratite se administratoru."</string>
@@ -1064,7 +1063,6 @@ Više informacija možete saznati od administratora.
 
 Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="monitoring_description_vpn_settings">Otvorite postavke VPN-a</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">CA certifikati</string>
   <string name="monitoring_subtitle_network_logging">Mrežno bilježenje</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1124,7 +1122,6 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_default_channel_desc">Ova aplikacija nema kategorije obavijesti</string>
   <string name="notification_done">Gotovo</string>
   <string name="notification_group_collapse_button_text">Presavij</string>
-  <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_header_default_channel">Obavijesti</string>
   <string name="notification_header_title">Obavijesti</string>

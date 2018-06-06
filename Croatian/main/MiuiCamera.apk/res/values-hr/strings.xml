@@ -3,7 +3,7 @@
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
   <string name="accessibility_ai_scene_off">AI kamera je isključena</string>
-  <string name="accessibility_ai_scene_on">AI kamera</string>
+  <string name="accessibility_ai_scene_on">AI kamera je uključena</string>
   <string name="accessibility_audio_shutter_bg">Pozadina zvuka okidača</string>
   <string name="accessibility_back_preview_status">Pregled stražnje kamere</string>
   <string name="accessibility_beauty_panel_closed">Izbornik Uljepšaj je skriven</string>
@@ -120,11 +120,18 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="dual_camera_lowlight_toast">"Izgleda kao da je premračno."</string>
   <string name="dual_camera_too_close_toast">Kamera je preblizu objekta.</string>
   <string name="dual_camera_use_hint">"Provjerite da objekat nije dalje od 2 metra."</string>
+  <string name="edit_chin">Brada</string>
   <string name="edit_eye_large">Velike oči</string>
   <string name="edit_face_ruddy">Rumen</string>
   <string name="edit_face_slender">Vitko</string>
+  <string name="edit_lips">Usne</string>
+  <string name="edit_neck">Vrat</string>
+  <string name="edit_nose">Nos</string>
+  <string name="edit_risorius">Risorius</string>
   <string name="edit_skin_smooth">Smooth</string>
   <string name="edit_skin_white">Ton</string>
+  <string name="edit_slim_nose">Nos</string>
+  <string name="edit_smile">Osmijeh</string>
   <string name="effect_setting_top_text">Filteri</string>
   <string name="error_fail_to_start_audio_capture">"Ne mogu pokrenuti snimanje zvuka"</string>
   <string name="face_age_info">Godine: %d</string>
@@ -158,6 +165,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="face_score_info">Rezultat: %.1f</string>
   <string name="front_camera_hint_text_rotate">Zakrenite telefon</string>
+  <string name="hibernate_hint">Dodirnite zaslon da biste probudili kameru</string>
   <string name="front_camera_hint_text_place">Snimanje selfija bit će lakše\nako zakrenete telefon</string>
   <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
 izraz lica koji će biti sintetiziran u fotografiju"</string>
@@ -199,6 +207,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="pano_how_to_use_prompt_to_move">Započnite se polako kretati</string>
   <string name="photos_portrait_type_description">Fotografije portreta imaju dubinski efekt koji zadržava objekt u fokusu i zamućuje ostatak pozadine.</string>
   <string name="photos_portrait_type_name">Portret</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D Uljepšanje</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_fairytale">Djetinjstvo</string>
