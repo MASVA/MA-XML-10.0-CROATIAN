@@ -285,9 +285,11 @@
   <string name="recommend_apps_tips">"Ova se značajka mora povezati s internetom da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
   <string name="recommend_loading">Samo trenutak</string>
   <string name="refresh">Osvježi</string>
-  <string name="reset_fail">Resetiranje nije uspjelo</string>
+  <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>
+  <string name="reset_description_others">Možete vratiti raspored iz %1$s</string>
+  <string name="reset_fail">"Ne mogu vratiti"</string>
   <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
-  <string name="reset_title">Resetiraj</string>
+  <string name="reset_title">Vrati</string>
   <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan.</string>
   <string name="screen_number">Zaslon %d</string>

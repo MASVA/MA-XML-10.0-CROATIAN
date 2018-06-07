@@ -108,7 +108,7 @@
     <string-array name="wind_unit_detail">
         <item>Beaufort ljestvica</item>
         <item>Kilometara na sat (km/h)</item>
-        <item>Metara u sekundi (m/s))</item>
+        <item>Metara u sekundi (m/s)</item>
         <item>Milja na sat (mph)</item>
         <item>Knot (kn)</item>
     </string-array>

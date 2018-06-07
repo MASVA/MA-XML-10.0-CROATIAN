@@ -451,6 +451,7 @@ brzina uzorkovanja"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo – žuto)</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
+  <string name="data_connection_no_internet">Nema interneta</string>
   <string name="data_saver">Ušteda podataka</string>
   <string name="data_usage_disabled_dialog">"Dosegli ste vaše postavljeno ograničenje uporabe podataka. 
 
@@ -1114,6 +1115,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_channel_disabled">Više nećete primati te obavijesti.</string>
   <string name="notification_channel_general">Općenite poruke</string>
   <string name="notification_channel_location">Lokacija</string>
+  <string name="notification_channel_screenbutton">Tipka zaslona</string>
   <string name="notification_channel_screenshot">Snimke zaslona</string>
   <string name="notification_channel_storage">Pohrana</string>
   <string name="notification_channel_switch_accessibility">Dopusti obavijesti za ovaj kanal</string>
@@ -1125,7 +1127,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_header_default_channel">Obavijesti</string>
   <string name="notification_header_title">Obavijesti</string>
-  <string name="notification_hidden_by_policy_text">Sadržaj je skriven</string>
+  <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
   <string name="notification_hidden_text">Primljena nova poruka</string>
   <string name="notification_info_channel_disabled_text">"Nećete primiti %2$s obavijesti od %1$s."</string>
   <string name="notification_info_channel_enabled_text">Primiti ćete %2$s obavijesti od %1$s.</string>
@@ -1322,6 +1324,9 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_nfc_off">NFC je onemogućen</string>
   <string name="quick_settings_nfc_on">NFC je omogućen</string>
   <string name="quick_settings_night_display_label">Noćno svjetlo</string>
+  <string name="quick_settings_night_secondary_label_on_at">U %s</string>
+  <string name="quick_settings_night_secondary_label_on_at_sunset">Od izlaska sunca</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Do izlaska sunca</string>
   <string name="quick_settings_notifications_label">Obavijesti</string>
   <string name="quick_settings_papermode_label">Način čitanja</string>
   <string name="quick_settings_powermode_label">Performanse</string>
@@ -1338,6 +1343,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_screenbutton_label">Tipke</string>
   <string name="quick_settings_screenlock_label">Zaklj. zaslon</string>
   <string name="quick_settings_screenshot_label">Snimka zaslona</string>
+  <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_settings_label">Postavke</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_tethering_label">Dijeljenje veze</string>
