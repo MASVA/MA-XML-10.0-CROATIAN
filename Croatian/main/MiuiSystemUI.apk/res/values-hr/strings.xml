@@ -31,7 +31,7 @@
   <string name="accessibility_action_divider_top_50">Gornji zaslon na 50%</string>
   <string name="accessibility_action_divider_top_70">Gornji zaslon na 70%</string>
   <string name="accessibility_action_divider_top_full">Gornji zaslon u cijeli zaslon</string>
-  <string name="accessibility_airplane_mode">Zrakoplovni način</string>
+  <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_ambient_display_charging">Punjenje</string>
   <string name="accessibility_assistant">Izbornik prečaca.</string>
   <string name="accessibility_back">Natrag</string>
@@ -259,7 +259,7 @@
   <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
   <string name="add_tile">Dodavanje pločice</string>
   <string name="adjust_button_width">Prilagodite širinu gumba</string>
-  <string name="airplane_mode">Zrakoplovni način</string>
+  <string name="airplane_mode">Zrakoplov</string>
   <string name="alarm_template">u %1$s</string>
   <string name="alarm_template_far">u %1$s</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
@@ -1166,7 +1166,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
-  <string name="oldman_airplane_mode_text">Zrakoplovni način</string>
+  <string name="oldman_airplane_mode_text">Zrakoplov</string>
   <string name="oldman_incall_text">Natrag na poziv</string>
   <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
@@ -1305,7 +1305,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_dnd_none_label">Potpuna tišina</string>
   <string name="quick_settings_dnd_priority_label">Samo prioritetno</string>
   <string name="quick_settings_done">Gotovo</string>
-  <string name="quick_settings_drivemode_label">Automobil. način</string>
+  <string name="quick_settings_drivemode_label">Auto. način</string>
   <string name="quick_settings_dual_location_label">Dvojni GPS</string>
   <string name="quick_settings_edit_label">Uredi</string>
   <string name="quick_settings_flashlight_label">Svjetiljka</string>
@@ -1341,7 +1341,6 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_settings_label">Postavke</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_tethering_label">Dijeljenje veze</string>
-  <string name="quick_settings_tiles">zadano</string>
   <string name="quick_settings_time_label">Vrijeme</string>
   <string name="quick_settings_user_label">Ja</string>
   <string name="quick_settings_user_new_user">Novi korisnik</string>
@@ -1425,12 +1424,12 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="screenshot_dlg_cancel">Odustani</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
-  <string name="screenshot_failed_title">"Ne mogu napraviti snimak zaslona."</string>
+  <string name="screenshot_failed_title">"Ne mogu napraviti snimku zaslona."</string>
   <string name="screenshot_failed_to_capture_text">"Aplikacija ili vaša organizacija ne dopušta snimanje zaslona"</string>
   <string name="screenshot_failed_to_save_text">Zaslon nije snimljen zbog ograničenog prostora za pohranu.</string>
   <string name="screenshot_failed_to_save_unknown_text">Prilikom spremanja snimke zaslona pojavio se problem.</string>
   <string name="screenshot_feedback_txt">Povratna inf.</string>
-  <string name="screenshot_insert_failed">Ne mogu učitati snimak zaslona. Napravite novu ili pregledajte sliku u Galeriji.</string>
+  <string name="screenshot_insert_failed">Ne mogu učitati snimku zaslona. Napravite novu ili pregledajte sliku u Galeriji.</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_saved_text">"Dodirnite za prikaz snimke zaslona."</string>
   <string name="screenshot_saved_title">"Zaslon je snimljen."</string>
