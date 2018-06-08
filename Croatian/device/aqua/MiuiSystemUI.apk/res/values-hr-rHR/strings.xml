@@ -304,7 +304,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
    <string name="kilobyte_per_second">KB/s</string>
    <string name="label_view">Prikaži</string>
    <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
-   <string name="list_delimeter">", "</string>
    <string name="lland">L Land</string>
    <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za potpune sigurnosne kopije na računalu</string>
    <string name="local_backup_password_summary_none">Potpune sigurnosne kopije na stolnom računalu trenutačno nisu zaštićene</string>

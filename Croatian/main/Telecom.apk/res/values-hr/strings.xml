@@ -136,7 +136,7 @@ brzina uzorkovanja"</string>
   <string name="cant_call_due_to_ongoing_unknown_call">Poziv se ne može uspostaviti zbog poziva u drugoj aplikaciji.</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
-  <string name="change_default_dialer_dialog_affirmative">Postavi zadano</string>
+  <string name="change_default_dialer_dialog_affirmative">Postavi kao zadanu aplikaciju</string>
   <string name="change_default_dialer_dialog_negative">Odustani</string>
   <string name="change_default_dialer_dialog_title">Želite li postaviti %s kao zadanu aplikaciju telefona?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Koristiti %s kao zadanu aplikaciju telefona?</string>

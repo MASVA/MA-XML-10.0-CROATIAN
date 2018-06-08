@@ -629,7 +629,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="fingerprint_not_identified_msg">"Previše neuspjelih pokušaja. Upišite zaporku ili pokušajte koristiti otisak prsta za nekoliko sek.”</string>
   <string name="fingerprint_not_identified_msg_lock">Previše neuspjelih pokušaja. Upišite zaporku.</string>
   <string name="fingerprint_not_identified_title">"Unesite zaporku"</string>
-  <string name="fingerprint_not_recognized">Nije prepoznato</string>
+  <string name="fingerprint_not_recognized">Otisak nije prepoznat</string>
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
   <string name="float_incall_ignore">Ignoriraj</string>
@@ -794,12 +794,8 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charged">Napunjeno</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
   <string name="keyguard_charging_info_click_to_detail">Prikaži detalje</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Potrošeno</string>
-  <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Danas %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Jučer %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Zadnje punjenje</string>
@@ -809,7 +805,6 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
   <string name="keyguard_charging_info_tip_text5">Baterija kada se dulje puni postaje toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
-  <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">Punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_charging_time_fast">Brzo punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_charging_time_slowly">Sporo punjenje (%s do pune baterije)</string>
@@ -948,7 +943,6 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="left_keycode">Lijevi kôd tipke</string>
   <string name="left_nav_bar_button_type">Vrsta dodatnog lijevog gumba</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="local_backup_password_summary_change">Dodirnite za promjenu ili uklanjanje zaporke za potpune Sig. kopije Poč. zaslona</string>
   <string name="local_backup_password_summary_none">Potpune Sig. kopije Poč. zaslona trenutno nisu zaštićene</string>
   <string name="local_backup_password_title">Zaporka Sig. kopije Poč. zaslona</string>
@@ -1326,7 +1320,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_night_display_label">Noćno svjetlo</string>
   <string name="quick_settings_night_secondary_label_on_at">U %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Od izlaska sunca</string>
-  <string name="quick_settings_night_secondary_label_until_sunrise">Do izlaska sunca</string>
+  <string name="quick_settings_night_secondary_label_until_sunrise">Do zalaska sunca</string>
   <string name="quick_settings_notifications_label">Obavijesti</string>
   <string name="quick_settings_papermode_label">Način čitanja</string>
   <string name="quick_settings_powermode_label">Performanse</string>
