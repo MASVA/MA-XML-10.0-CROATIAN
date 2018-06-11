@@ -1699,6 +1699,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_type_title">Poželjni tip mreže</string>
   <string name="preferred_networks"/>
   <string name="preferred_phone_account">Željeni račun poziva</string>
+  <string name="preferred_wificall_title">Postavke mreže</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_num">Privatni broj</string>
   <string name="proceed">Nastavi</string>
@@ -2268,6 +2269,9 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wapi_password_length_is_min">Zaporka ne može biti dulja od 8 znakova</string>
   <string name="wapi_password_length_is_min_to_max">Zaporka mora biti: 8-64 znakova</string>
   <string name="wapi_yes">da</string>
+  <string name="wfcmode_mobile_preferred">Preferirana Mobilna mreža</string>
+  <string name="wfcmode_wifi_only">WLAN samo</string>
+  <string name="wfcmode_wifi_preferred">Preferiran WLAN</string>
   <string name="whole_calls">Svi pozivi</string>
   <string name="wifi_aggressive_handover">Aktivni prijelaz s WLAN-a na mob. mrežu</string>
   <string name="wifi_aggressive_handover_summary">Ako je omogućeno, WLAN će aktivno prebacivati podatkovnu vezu mobilnoj mreži kada je WLAN signal slab.</string>
@@ -2276,7 +2280,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
-  <string name="wifi_call_setting">Postavke WLAN poziva</string>
+  <string name="wifi_call_setting">WLAN pozivi</string>
   <string name="wifi_calling">WLAN pozivi</string>
   <string name="wifi_calling_call_assistant">Asistent poziva</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguraj</string>
@@ -2329,6 +2333,8 @@ Provjerite valjanost certifikata"</string>
 Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
+  <string name="wificall_switch_summary">Vaš uređaj može prebacivati između WLAN-a i VoLTE-a kada je veza loša</string>
+  <string name="wificall_switch_title">Upućivanje poziva pomoću WLAN-a</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>

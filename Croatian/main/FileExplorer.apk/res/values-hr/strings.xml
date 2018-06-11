@@ -326,6 +326,7 @@
   <string name="has_installed">Instalirano</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
+  <string name="homepage_tab_file_view_phone">Pohrana</string>
   <string name="homepage_tab_recent">Nedavno</string>
   <string name="hot_app">Popularne aplik.</string>
   <string name="hot_comments">Aktualno</string>

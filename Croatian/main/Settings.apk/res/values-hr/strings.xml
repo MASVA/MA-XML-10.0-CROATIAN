@@ -956,20 +956,31 @@ brzina uzorkovanja"</string>
   <string name="bootloader_apply_step_5">Budite sigurni da znate kako se koristi Fastboot način rada prije nego što ga uključite.</string>
   <string name="bootloader_apply_title">Važno upozorenje</string>
   <string name="bootloader_device_bind_already">Uspješno dodan. Mi Račun je sada povezan s ovim uređajem.</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">"Nije moguće dodati više računa na ovu SIM karticu."</string>
   <string name="bootloader_device_bind_fail">"Ne mogu provjeriti, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprema za dodavanje računa i uređaja…</string>
   <string name="bootloader_device_bind_no_account">Prijavite se prvo na svoj Mi Račun</string>
   <string name="bootloader_device_bind_no_network">Povežite se s mrežom i pokušajte ponovno</string>
+  <string name="bootloader_device_bind_no_sim">Umetnite SIM karticu i pokušajte ponovo.</string>
+  <string name="bootloader_device_bind_server_code">"Ne mogu dodati. Kod pogreške:"</string>
+  <string name="bootloader_device_bind_sim_invalid">SIM kartica nije valjana. Zamijenite je i pokušajte ponovo.</string>
   <string name="bootloader_locked_answer_1">"Zaključavamo uređaje kako bi bili sigurni da su osigurani ta da vaši osobni podaci ne budu otkriveni trećim osobama. Ako trebate ući u Fastboot način rada i flashati uređaj, možete ga otključati."</string>
   <string name="bootloader_locked_answer_1_warning">"Zapamtite: Nećete biti u mogućnosti koristiti \"Pronađi uređaj\" nakon što je telefon otključan."</string>
-  <string name="bootloader_locked_answer_2">"Dodirnite tipku ispod za povezivanje Mi Računa s ovim uređajem. Zatim idite na MIUI web stranicu za preuzimanje alata za otključavanje i instalirajte ga na računalo. Ovdje je adresa:"</string>
+  <string name="bootloader_locked_answer_2">"1. Provjerite jeste li već umetnuli SIM karticu u uređaj.
+2. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
+3. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun i uređaj</string>
   <string name="bootloader_locked_question_1">Zašto bi uređaji trebali biti zaključani?</string>
   <string name="bootloader_locked_question_2">Razumijem rizik, ali i dalje želim otključati svoj uređaj.</string>
   <string name="bootloader_status">Mi Unlock status</string>
   <string name="bootloader_status_locked">Zaključan</string>
   <string name="bootloader_status_locked_info">Ovaj uređaj je zaključan</string>
-  <string name="bootloader_status_locked_summary">Telefon je osiguran</string>
+  <string name="bootloader_status_locked_summary">Telefon je siguran</string>
+  <string name="bootloader_status_privacy_dialog_message">Mi Unlock treba pristup vašem Mi Računu, CPU ID-u, IMEI, IMSI-u kako bi normalno funkcionirao. Prikupljamo, upotrebljavamo i obrađujemo vaše podatke u skladu s našim %s. Slažete li se?</string>
+  <string name="bootloader_status_privacy_dialog_no">Odustani</string>
+  <string name="bootloader_status_privacy_dialog_title">Potrebno je dopuštenje</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Pravila o Privatnosti</string>
+  <string name="bootloader_status_privacy_dialog_yes">Slažem se</string>
   <string name="bootloader_status_summary">Provjerite da li je uređaj zaključan</string>
   <string name="bootloader_status_unlocked">Otključan</string>
   <string name="bootloader_status_unlocked_info">Ovaj uređaj je otključan</string>
@@ -1556,6 +1567,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Prikaži više</string>
   <string name="device_miui_version">MIUI verzija</string>
+  <string name="device_miui_version_for_POCO">MIUI verzija (Za POCO)</string>
   <string name="device_miui_version_update">Dostupno je MIUI ažuriranje</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
@@ -3042,8 +3054,6 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
   <string name="miui_lab_super_resolution_title">Super rezolucija</string>
-  <string name="miui_lab_taplus_desc">Pritisnite i držite stavke da biste aktivirali radnje</string>
-  <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Briše sve podatke na telefonu</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
@@ -5458,6 +5468,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="talkback_title">TalkBack</string>
   <string name="tap_to_wake">Dodirnite za aktivaciju</string>
   <string name="tap_to_wake_summary">Dvaput dodirnite bilo gdje na zaslonu da biste aktivirali uređaj</string>
+  <string name="taplus_title">Taplus</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="telephony_monitor_toast">Da biste primijenili promjenu koju je izvršio TelephonyMonitor, ponovo pokrenite uređaj.</string>

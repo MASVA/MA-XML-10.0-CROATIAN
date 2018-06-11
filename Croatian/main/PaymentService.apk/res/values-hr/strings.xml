@@ -116,7 +116,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_reg_btn_using_other_phone">Koristi alternativan broj telefona</string>
   <string name="passport_reg_failed">"Ne mogu postaviti račun"</string>
   <string name="passport_reg_new">Izradi Mi Račun besplatno</string>
-  <string name="passport_reg_prompt">"Nemate Mi Račun? Kreirajte ga besplatno."</string>
+  <string name="passport_reg_prompt">"Nemate Mi Račun? Izradite ga besplatno."</string>
   <string name="passport_reg_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
   <string name="passport_reg_success">Račun izrađen</string>
   <string name="passport_reg_success_summary">%1$s je povezan s vašim Mi Računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>

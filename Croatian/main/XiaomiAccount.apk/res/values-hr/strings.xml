@@ -349,7 +349,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_quick_login_step2_title">Provjera u 2 koraka</string>
   <string name="passport_quick_login_title">Unesite vašu zaporku</string>
   <string name="passport_quick_register">Prijavi se</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;"Nemate Mi račun? Izradite ga."&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">"Nemate Mi račun? Izradite ga."</string>
   <string name="passport_re_get_verify_code">Nabavite kôd ponovno</string>
   <string name="passport_re_register">Prijavite se ponovno</string>
   <string name="passport_recycle_account_prompt">Je li ovo vaš Mi Račun?</string>
@@ -358,7 +358,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_reg_failed">"Ne mogu postaviti račun"</string>
   <string name="passport_reg_new">Izradi Mi Račun besplatno</string>
   <string name="passport_reg_new_account">Izradi novi račun</string>
-  <string name="passport_reg_prompt">"Nemate Mi Račun? Kreirajte ga besplatno."</string>
+  <string name="passport_reg_prompt">"Nemate Mi Račun? Izradite ga besplatno."</string>
   <string name="passport_reg_recycle_account_no">Ne</string>
   <string name="passport_reg_recycle_account_yes">Da</string>
   <string name="passport_reg_success">Račun izrađen</string>
