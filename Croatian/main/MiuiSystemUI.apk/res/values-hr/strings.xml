@@ -820,7 +820,6 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_missing_sim_instructions_long">SIM kartica nedostaje ili nije čitljiva. Umetnite SIM karticu.</string>
   <string name="keyguard_missing_sim_message">U telefonu nema SIM kartice.</string>
   <string name="keyguard_missing_sim_message_short">Nema SIM kartice</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Mreža je zaključana</string>
   <string name="keyguard_password_enter_password_code">Unesite zaporku da biste otključali</string>
   <string name="keyguard_password_enter_pin_code">Unesite PIN kôd</string>
