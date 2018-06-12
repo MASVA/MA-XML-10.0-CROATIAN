@@ -3042,6 +3042,9 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_lab_ai_cloud_closed">"AI pred-učitavanje još nije dostupno."</string>
+  <string name="miui_lab_ai_preload_desc">AI pred-učitavanje povećava brzinu pokretanja aplikacije</string>
+  <string name="miui_lab_ai_preload_title">AI pred-učitavanje</string>
   <string name="miui_lab_drive_mode_desc">Upotrijebite glasovne kontrole &amp; slušajte WeChat poruke</string>
   <string name="miui_lab_drive_mode_title">Autombil. način</string>
   <string name="miui_lab_feature_applied">Postavljeno</string>
@@ -5383,7 +5386,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="super_resolution_desc">Učinite slike oštrijima pomoću AI algoritma</string>
   <string name="super_resolution_maintain">"Super rezolucija još nije dostupna."</string>
   <string name="super_resolution_no_app_tips">Prvo preuzmite WeChat i Toutiao.</string>
-  <string name="super_resolution_reboot_tips">Ponovo pokrenite aplikacije kako bi ova značajka funkcionirala nakon što je uključite.</string>
+  <string name="super_resolution_reboot_tips">Ova značajka omogućuje snimanje mutnih slika u WeChat i Toutiao crisperu. Ponovo pokrenite aplikacije nakon što uključite ovu značajku.</string>
   <string name="super_resolution_title">Super rezolucija</string>
   <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
   <string name="supplicant_state_label">Stanje suplikanta:</string>

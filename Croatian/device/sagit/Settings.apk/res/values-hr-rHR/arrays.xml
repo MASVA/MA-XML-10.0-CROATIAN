@@ -299,6 +299,22 @@
         <item>Posljednjih 30 dana</item>
         <item>Postavi ciklus uporabe…</item>
      </string-array>
+	 <string-array name="select_logd_size_summaries">
+        <item>Isključeno</item>
+        <item>64 KB po međusprem. zapisnika</item>
+        <item>256 KB po međusprem. zapisnika</item>
+        <item>1 MB po međusprem. zapisnika</item>
+        <item>4 MB po međusprem. zapisnika</item>
+        <item>16 MB po međusprem. zapisnika</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Isključeno</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Isključeno</item>
         <item>Svi međuspremnici zapisa</item>

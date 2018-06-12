@@ -119,7 +119,7 @@
         <item>Ovaj otisak prsta je dodan, koristite drugi prst</item>
     </string-array>	
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Da biste telefonirali i slali pozive putem Wi-Fi-ja, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite Wi-Fi pozive u Postavkama.</item>
+        <item>Da biste telefonirali i slali pozive putem WLAN-a, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite WLAN pozive u Postavkama.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrirajte se kod mobilnog operatera</item>

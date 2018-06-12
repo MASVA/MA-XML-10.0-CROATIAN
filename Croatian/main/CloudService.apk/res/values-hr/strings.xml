@@ -329,7 +329,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_see_unsynced_data">Provjerite podatke za sinkronizaciju</string>
   <string name="micloud_main_space_full">Cloud pohrana je puna</string>
   <string name="micloud_main_space_full_message">Kupite više prostora za pohranu u Mi Cloudu</string>
-  <string name="micloud_main_space_full_title">Nema dovoljno prostora za pohranu, sinkronizaciju pauzirana</string>
+  <string name="micloud_main_space_full_title">Nema dovoljno prostora za pohranu, sinkr. pauzirana</string>
   <string name="micloud_main_space_low">Još ima malo prostora</string>
   <string name="micloud_main_stop_sync">Sinkr. zaustavljena</string>
   <string name="micloud_main_suggest_master_sync">"Ne mogu sve sinkronizirati"</string>
@@ -346,7 +346,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_sync_pending">Čekanje na sinkronizaciju</string>
   <string name="micloud_main_sync_setting">Postavke sinkr.</string>
   <string name="micloud_main_sync_stop">Sinkr. zaustavljena</string>
-  <string name="micloud_main_synced_data_count">Sinkronizirano (%d) stavaka</string>
+  <string name="micloud_main_synced_data_count">Sinkr. stavaka %d</string>
   <string name="micloud_main_syncing">Sinkroniziram…</string>
   <string name="micloud_main_title_master_sync_off">Autom. sinkr. isključena</string>
   <string name="micloud_main_title_not_synced">Nije sinkronizirano</string>
@@ -359,7 +359,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_wait_wlan">Čeka se WLAN</string>
   <string name="micloud_main_wait_wlan_charge">Povežite se s WLAN mrežom i potpuno napunite uređaj da nastavite sinkronizaciju.</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Povežite se s WLAN mrežom, isključite zaslon i potpuno napunite uređaj da nastavite sinkronizaciju.</string>
-  <string name="micloud_main_wlan_sync_data_count">Stavaka (%d) čeka na sinkr.</string>
+  <string name="micloud_main_wlan_sync_data_count">Stavke (%d) čekaju na sinkr.</string>
   <string name="micloud_manage_space_data">Upravljaj podacima Mi Clouda</string>
   <string name="micloud_member">Mi Cloud članstvo</string>
   <string name="micloud_member_advantage">Nabavite više prostora za pohranu.</string>
