@@ -2297,7 +2297,6 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_calling_preference_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
-  <string name="wifi_calling_settings_key">WLAN</string>
   <string name="wifi_calling_settings_title">WLAN pozivi</string>
   <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
   <string name="wifi_calling_title">WLAN pozivi</string>

@@ -1502,7 +1502,6 @@ možda prati"</string>
   <string name="status_bar_network_flow_limit">"  Mjesečno ograničenje: %1$s  "</string>
   <string name="status_bar_network_flow_purchase">"  Kupljeno &gt;"</string>
   <string name="status_bar_network_flow_today">Danas: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Bez obavijesti</string>
   <string name="status_bar_no_recent_apps">Ovdje se pojavljuju vaši nedavni zasloni</string>
   <string name="status_bar_notification_app_settings_title">Postavke aplikacije %s</string>

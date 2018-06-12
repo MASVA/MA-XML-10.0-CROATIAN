@@ -1880,7 +1880,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Off</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-  <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">Promjena TTY načina nije dopuštena tijekom videopoziva</string>
   <string name="tty_mode_not_allowed_vt_call">Izmjena TTY načina rada nije dopuštena tijekom VT poziva</string>
   <string name="tty_mode_option_summary">Postavi način TTY</string>
@@ -1968,7 +1967,6 @@ Obratite se davatelju usluge ako problem potraje."</string>
   <string name="wifi_calling_preference_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
-  <string name="wifi_calling_settings_key">WLAN</string>
   <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
   <string name="wifi_calling_title">WLAN pozivi</string>
   <string name="wifi_calling_use_call_assistant">Koristi Asistenta poziva</string>
