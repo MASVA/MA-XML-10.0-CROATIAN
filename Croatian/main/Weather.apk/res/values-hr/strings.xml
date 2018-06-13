@@ -159,6 +159,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
   <string name="night_not_disturb_settings_summary">Utišaj upozorenja između 23:00 i 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne ometaj noću"</string>
+  <string name="no_data">Nema podataka</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="no_vote_ratio">Protiv %1$s%%</string>
   <string name="open">Otvori</string>

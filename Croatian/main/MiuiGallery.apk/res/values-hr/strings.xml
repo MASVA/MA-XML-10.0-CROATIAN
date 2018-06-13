@@ -235,6 +235,8 @@
   <string name="change_to_face_mode">Prikaži samo lice</string>
   <string name="change_to_photo_mode">Prikaži pune preglede</string>
   <string name="change_to_visible">Vratiti ovu osobu?</string>
+  <string name="checked">Odabrano</string>
+  <string name="checked_something">Odabrano %s</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Odnos</string>
   <string name="choose_people">"Odaberite album osobe"</string>
@@ -438,7 +440,8 @@
   <string name="enable_face_album_title">Poredaj po osobama</string>
   <string name="enable_slim_title">Optimiziraj</string>
   <string name="enabling_face_feature">Samo trenutak…</string>
-  <string name="enter_email_hint">"Unesite adresu E-pošte"</string>
+  <string name="enter_choice_mode">Otvori dijalog za dijeljenje</string>
+  <string name="enter_email_hint">"Unesite adresu e-pošte"</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
   <string name="error_build_thumbnail_action">Preuzmi izvornu datoteku</string>
   <string name="error_build_thumbnail_msg">"Ne mogu preuzeti minijaturu. Pokušajte preuzeti izvornu datoteku."</string>
@@ -501,6 +504,7 @@
   <string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
   <string name="error_unknown_tip">Dogodila se pogreška.</string>
   <string name="exit">Izlaz</string>
+  <string name="exit_choice_mode">Izlaz iz dijaloškog okvira</string>
   <string name="exit_share">Napusti album</string>
   <string name="exit_share_failed">"Ne mogu izaći iz %1$s"</string>
   <string name="exit_share_in_process">Izlaz iz albuma "%s"…</string>
@@ -536,6 +540,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="fancy_color_desc">Boje</string>
   <string name="fast_share_auto_render">Uljepšaj</string>
   <string name="fast_share_auto_render_finish">Uljepšano</string>
+  <string name="feature_guidance_photo_effects">Efekti za fotografije</string>
   <string name="filllight">Dopunsko svjetlo</string>
   <string name="filter_bi_memory">Memorija</string>
   <string name="filter_bi_mono">Mono</string>
@@ -655,6 +660,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="image_invalid_path">Pogrešna putanja</string>
   <string name="image_not_found">"Ne mogu pronaći sliku"</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke i pokušajte ponovno.</string>
+  <string name="image_with_time">Fotografija je snimljena %s</string>
+  <string name="image_with_time_and_location">Fotografija je snimljena %1$s. Lokacija: %2$s.</string>
   <string name="impunity_declaration_settings">Obavijest povezivanja s internetom</string>
   <string name="impunity_declaration_summary">Prikaži obavijest povezivanja s internetom svaki put kad se otvori aplikacija Galerija</string>
   <string name="initializing_cloud">Pokretanje…</string>
@@ -1210,6 +1217,7 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="sticker">Naljepnica</string>
   <string name="storage_description_primary">Unutarnja pohrana</string>
   <string name="storage_description_sdcard">SD kartica</string>
+  <string name="storage_description_usb">USB pohrana</string>
   <string name="storage_description_xspace">Podaci dvojnih aplikacija</string>
   <string name="storage_no_space">Nema dovoljno prostora za pohranu</string>
   <string name="straighten">Prilagodi</string>
@@ -1280,6 +1288,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="turn_off_and_move">Isključi i premjesti</string>
   <string name="turn_on_and_remove">Uključi i premjesti</string>
   <string name="turn_on_sync">Uključi sinkr.</string>
+  <string name="unchecked">Poništi odabir</string>
+  <string name="unchecked_something">Poništi odabir %s</string>
   <string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
   <string name="unpublish_succeeded">Album nije objavljen!</string>
   <string name="unpublishing">Otkazivanje…</string>
@@ -1387,6 +1397,8 @@ Napravite više fotografija vaših prijatelja!"</string>
   <string name="video_editor_watermark">Vodeni žig</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>
+  <string name="video_with_time">Videozapis snimljen %s</string>
+  <string name="video_with_time_and_location">Videozapis snimljen %1$s. Lokacija: %2$s.</string>
   <string name="view_baby_album">Prikaži dječji album</string>
   <string name="view_by_gallery_tip">MIUI Galerija</string>
   <string name="view_face_album">Prikaži album</string>

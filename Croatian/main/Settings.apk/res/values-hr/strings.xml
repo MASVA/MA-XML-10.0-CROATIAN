@@ -6290,12 +6290,13 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_cellular_data_fallback_summary">Koristite mobilne podatke kada WLAN nema pristup internetu. Moguća je naplata potrošnje podataka.</string>
   <string name="wifi_cellular_data_fallback_title">Automatski prijeđi na mobilne podatke</string>
   <string name="wifi_certificate">Certifikat</string>
+  <string name="wifi_click_login_wlan">Potrebna prijava/autorizacija</string>
   <string name="wifi_click_login_wlan">Povezano. Potrebna je provjera.</string>
   <string name="wifi_click_share_wlan">Dodirnite za dijeljenje zaporke</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_off">Wi‑Fi se ne uključuje ponovno automatski</string>
-  <string name="wifi_configure_settings_preference_summary_wakeup_on">Wi‑Fi se automatski ponovo uključuje</string>
-  <string name="wifi_configure_settings_preference_title">Postavke Wi‑Fi-ja</string>
+  <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN se ne uključuje ponovno automatski</string>
+  <string name="wifi_configure_settings_preference_summary_wakeup_on">WLAN se automatski ponovo uključuje</string>
+  <string name="wifi_configure_settings_preference_title">Postavke WLAN-a</string>
   <string name="wifi_configure_titlebar">Konfiguriraj WLAN</string>
   <string name="wifi_configured_ap_list">Prethodno konfigurirane pristupne točke</string>
   <string name="wifi_connect">Poveži</string>

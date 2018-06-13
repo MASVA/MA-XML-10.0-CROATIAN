@@ -60,6 +60,7 @@
   
 i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="audio_focus_exit_button_text">Isključi</string>
+  <string name="back_bokeh_use_hint">"Pazite da objekt nije udaljen više od 1.5 metara."</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Uljepšanje</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Uljepšaj</string>

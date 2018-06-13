@@ -23,6 +23,7 @@
   <string name="account_has_been_set">Promjeni</string>
   <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
   <string name="account_mibi_center">Mi Krediti</string>
+  <string name="account_mibi_charge">Plaćanje Mi Kredita</string>
   <string name="account_mipay_info">Mi pay</string>
   <string name="account_no_set">Ništa</string>
   <string name="account_none">Ništa</string>
@@ -215,8 +216,9 @@
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; će dobiti sljedeća dopuštenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se s Mi Računom</string>
   <string name="other_devices_title">Ostali uređaji</string>
+  <string name="passport_Resend">Pošalji ponovno</string>
   <string name="passport_access_denied">Pristup odbijen</string>
-  <string name="passport_account_hint_text">Email/Broj telefona/ID Mi Računa</string>
+  <string name="passport_account_hint_text">E-pošta/Broj telefona/ID Mi Računa</string>
   <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -224,7 +226,7 @@
   <string name="passport_account_not_actived">"Vaš račun nije aktiviran"</string>
   <string name="passport_account_notice">Račun</string>
   <string name="passport_account_set_password">Postavi zaporku</string>
-  <string name="passport_account_set_password_prompt">Postavite zaporku za svoj račun da biste se sljedeći put prijavili..</string>
+  <string name="passport_account_set_password_prompt">Postavite zaporku za svoj račun da biste se sljedeći put prijavili.</string>
   <string name="passport_account_set_password_title">Postavi zaporku</string>
   <string name="passport_active_email_visit">Provjerite svoju poštu na %s</string>
   <string name="passport_activing_account">Aktivacija…</string>
@@ -235,6 +237,7 @@
   <string name="passport_back">Natrag</string>
   <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
   <string name="passport_barcode_add_account_prompt">Da povežete račun, skenirajte ponovno QR kôd nakon što se prijavite.</string>
+  <string name="passport_btn_change_account">Promjena računa</string>
   <string name="passport_btn_return">Natrag</string>
   <string name="passport_button_cancel">Odustani</string>
   <string name="passport_change_account">Promjena računa</string>
@@ -273,6 +276,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_empty_pwd">Unesite zaporku</string>
   <string name="passport_error_empty_username">Unesite ID vašeg računa</string>
   <string name="passport_error_empty_vcode">Unesite kod za provjeru</string>
+  <string name="passport_error_empty_voice_code">Unesite captcha</string>
   <string name="passport_error_illegal_pwd">Nevažeća zaporka</string>
   <string name="passport_error_invalid_dev_id">"ID vašeg uređaja nije valjan."</string>
   <string name="passport_error_invalid_phone_num">Nevažeći broj telefona</string>
@@ -313,13 +317,16 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_input_phone_hint">Unesite broj telefona</string>
   <string name="passport_input_vcode_hint">Unesite kod za provjeru</string>
   <string name="passport_input_voice_captcha_hint">Unesite glasovni kôd za provjeru</string>
+  <string name="passport_input_voice_hint">Unesite glasovni kôd</string>
   <string name="passport_instant_login">Prijavi se</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
+  <string name="passport_license_info_collapse">Sažmi</string>
++ <string name="passport_license_info_open">Detalji</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
   <string name="passport_login_instead_reg">Koristi ovaj broj</string>
-  <string name="passport_login_instead_reg_with_email">Koristi ovu E-poštu</string>
+  <string name="passport_login_instead_reg_with_email">Koristi ovu e-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_other_account">Drugi račun</string>
   <string name="passport_login_prompt">Jedan Mi Račun. Sve Mi usluge.</string>
@@ -327,8 +334,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_recycle_account_yes">Da</string>
   <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavu</string>
-  <string name="passport_login_with_email_or_id">Prijavite se adresom E-pošte ili ID Mi Računa</string>
+  <string name="passport_login_with_email_or_id">Prijavite se adresom e-pošte ili ID Mi Računa</string>
   <string name="passport_message_dialog_title">SMS s kodovima provjere</string>
+  <string name="passport_new_user_register">Izradi račun</string>
   <string name="passport_next">Dalje</string>
   <string name="passport_no">Ne</string>
   <string name="passport_notification_title">Pogreška prijave za %1$s</string>
@@ -377,6 +385,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_register_by_email">Izradi račun koristeći adresu e-pošte</string>
   <string name="passport_register_restricted">Previše je računa povezanih s ovim brojem, pokušajte s drugim</string>
   <string name="passport_register_restricted_title">"Ne mogu koristiti ovaj broj telefona"</string>
+  <string name="passport_register_using_other_ways">Ostali načini registriranja</string>
   <string name="passport_registered_phone_num">Telefon: %s</string>
   <string name="passport_registered_phone_user_ID">ID korisnika: %s</string>
   <string name="passport_registered_phone_user_name">Korisničko ime: %s</string>
@@ -440,6 +449,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_password">Pogrešna zaporka</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
+  <string name="passport_wrong_voice">Uneseni kôd nije ispravan</string>
   <string name="passport_yes">Da</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>

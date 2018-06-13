@@ -1019,6 +1019,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_phone">"Uređaj"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
+  <string name="preference_show_firewall_calllog">Prikaži blokirane pozive u povijesti poziva</string>
   <string name="preference_show_yellowpage_tab_description">Yellow pages  možda neće ispravno raditi kada je ova značajka isključena.</string>
   <string name="preference_show_yellowpage_tab_title">Prikaži Yellow pages </string>
   <string name="preference_simple_mode_description">Prikaži slike i ostale informacije o kontaktima u popisnom pregledu</string>
