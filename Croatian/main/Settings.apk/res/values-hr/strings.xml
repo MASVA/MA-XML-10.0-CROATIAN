@@ -6291,7 +6291,6 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_cellular_data_fallback_title">Automatski prijeđi na mobilne podatke</string>
   <string name="wifi_certificate">Certifikat</string>
   <string name="wifi_click_login_wlan">Potrebna prijava/autorizacija</string>
-  <string name="wifi_click_login_wlan">Povezano. Potrebna je provjera.</string>
   <string name="wifi_click_share_wlan">Dodirnite za dijeljenje zaporke</string>
   <string name="wifi_config_info">WLAN konfiguracija</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN se ne uključuje ponovno automatski</string>

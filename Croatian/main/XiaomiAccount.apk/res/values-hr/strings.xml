@@ -321,7 +321,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_instant_login">Prijavi se</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_license_info_collapse">Sažmi</string>
-+ <string name="passport_license_info_open">Detalji</string>
+  <string name="passport_license_info_open">Detalji</string>
   <string name="passport_loading">Učitavanje…</string>
   <string name="passport_login">Prijavite se</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>
