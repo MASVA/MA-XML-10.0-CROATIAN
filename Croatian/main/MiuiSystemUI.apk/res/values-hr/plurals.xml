@@ -104,6 +104,10 @@
         <item quantity="other">U skupini je još %s obavijesti.</item>
         <item quantity="one">U skupini je još %s obavijest.</item>
     </plurals>
+	<plurals name="notification_num_channels">
+        <item quantity="other">%d kategorija obavijesti</item>
+        <item quantity="one">%d kategorija obavijesti</item>
+     </plurals>
      <plurals name="notification_num_channels_desc">
         <item quantity="other">1 od %d kategorija obavijesti iz ove aplikacije</item>
         <item quantity="one">1 od %d kategorije obavijesti iz ove aplikacije</item>

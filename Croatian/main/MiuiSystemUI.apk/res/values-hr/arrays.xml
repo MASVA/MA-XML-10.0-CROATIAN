@@ -137,7 +137,7 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Isključeno</item>
-        <item>Pola sata</item>
+        <item>30 min.</item>
         <item>1 sat</item>
         <item>2 sata</item>
         <item>8 sati</item>

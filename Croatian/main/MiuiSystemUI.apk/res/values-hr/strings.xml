@@ -1108,11 +1108,12 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_channel_disabled">Više nećete primati te obavijesti.</string>
   <string name="notification_channel_general">Općenite poruke</string>
   <string name="notification_channel_location">Lokacija</string>
-  <string name="notification_channel_screenbutton">Tipka zaslona</string>
+  <string name="notification_channel_screenbutton">Tipke</string>
   <string name="notification_channel_screenshot">Snimke zaslona</string>
   <string name="notification_channel_storage">Pohrana</string>
   <string name="notification_channel_switch_accessibility">Dopusti obavijesti za ovaj kanal</string>
   <string name="notification_channel_tv_pip">Slika u slici</string>
+  <string name="notification_channel_usb">USB</string>
   <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
   <string name="notification_default_channel_desc">Ova aplikacija nema kategorije obavijesti</string>
   <string name="notification_done">Gotovo</string>
@@ -1120,7 +1121,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_header_default_channel">Obavijesti</string>
   <string name="notification_header_title">Obavijesti</string>
-  <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
+  <string name="notification_hidden_by_policy_text">Sadržaj je skriven</string>
   <string name="notification_hidden_text">Primljena nova poruka</string>
   <string name="notification_info_channel_disabled_text">"Nećete primiti %2$s obavijesti od %1$s."</string>
   <string name="notification_info_channel_enabled_text">Primiti ćete %2$s obavijesti od %1$s.</string>
@@ -1139,7 +1140,6 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_menu_remove_from_filter_title">Važno</string>
   <string name="notification_menu_snooze_description">opcije odgode obavijesti</string>
   <string name="notification_more_settings">Više postavki</string>
-  <string name="notification_num_channels">Broj kategorija obavijesti: %d</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>
   <string name="notification_otg_gamestick_out">Igrači kontroler nije povezan</string>
   <string name="notification_otg_keyboard_in">Tipkovnica je povezana</string>
@@ -1304,6 +1304,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_dual_location_label">Dvojni GPS</string>
   <string name="quick_settings_edit_label">Uredi</string>
   <string name="quick_settings_flashlight_label">Svjetiljka</string>
+  <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
   <string name="quick_settings_ime_label">Način unosa</string>
   <string name="quick_settings_inversion_label">Zamjena boja</string>
