@@ -3917,7 +3917,6 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_all_app_display_loading">Samo trenutak…</string>
   <string name="status_bar_settings_app_notification_preferences">Postavke aplikacije</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
