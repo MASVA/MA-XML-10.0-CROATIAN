@@ -1020,6 +1020,9 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
+  <string name="gamebox_type_close">"Ne prikazuj"</string>
+  <string name="gamebox_type_float">POpravljem+n prečac</string>
+  <string name="gamebox_type_gesture">Povuci za prikaz</string>
   <string name="gamebox_wechat_not_find">Instalirajte WeChat i pokušajte ponovo.</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>

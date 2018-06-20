@@ -1060,6 +1060,7 @@ brzina uzorkovanja"</string>
   <string name="cancel_alert">Odbaciti nespremljene promjene?</string>
   <string name="cancel_all_caps">ODUSTANI</string>
   <string name="cancel_button">Odustani</string>
+  <string name="cancel_description">Odustani</string>
   <string name="cancel_download_buton_text">Odustani</string>
   <string name="cant_sync_dialog_message">Sinkronizacija za tu stavku trenutačno je onemogućena. Da biste promijenili tu postavku, privremeno uključite pozadinske podatke i automatsku sinkronizaciju.</string>
   <string name="cant_sync_dialog_title">Ne mogu ručno sinkronizrati</string>
@@ -1220,6 +1221,7 @@ brzina uzorkovanja"</string>
   <string name="confirm_action">U redu</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_convert_to_fbe_warning">Želite li doista izbrisati korisničke podatke i prijeći na enkripciju datoteka?</string>
+  <string name="confirm_description">Potvrdi</string>
   <string name="confirm_download_cancelation_dialog_message">Otkazati preuzimanje ažuriranja?</string>
   <string name="confirm_enable_multi_window_text">UPOZORENJE: ovo je vrlo eksperimentalna značajka koja omogućuje istovremeno vršenje više radnji na zaslonu putem korisničkog sučelja nedavnih aplikacija. Neke se aplikacije mogu srušiti ili možda neće funkcionirati pravilno kada se upotrebljavaju s tom značajkom.</string>
   <string name="confirm_enable_multi_window_title">Želite li omogućiti način rada s više prozora?</string>
@@ -2009,6 +2011,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne mogu isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne mogu isključiti"</string>
+  <string name="fallback_home_title">Samo trenutak…</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="file_privacy_password_role_instruction">Vaše privatne datoteke će biti pohranjene ovdje.</string>
   <string name="filter">Filtar</string>
@@ -2441,6 +2444,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="key_combination_power_back">Power + Natrag</string>
   <string name="key_combination_power_home">Power + Početna</string>
   <string name="key_combination_power_menu">Power + Izbornik</string>
+  <string name="key_fsg_dialog_message">"Koristite geste na cijelom zaslonu za navigaciju. Značajke vezane uz tipke sada nisu dostupne. Promjeniti na tipke?"</string>
+  <string name="key_fsg_dialog_negative">Odustani</string>
+  <string name="key_fsg_dialog_positive">Promjeni</string>
   <string name="key_gesture_function_dialog_message">%1$s je prečac za %2$s. Zamijeniti sa %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Odustani</string>
   <string name="key_gesture_function_dialog_positive">Zamjeni</string>

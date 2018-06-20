@@ -67,7 +67,7 @@
   <string name="done">Gotovo</string>
   <string name="edit_header_done_description">Gotovo</string>
   <string name="edit_header_home_description">Natrag</string>
-  <string name="edit_header_lock_description">Tajna bilješka</string>
+  <string name="edit_header_lock_description">Skrivena bilješka</string>
   <string name="empty_folder_hint">"Nema mapa
 Dodirnite + da napravite mapu"</string>
   <string name="empty_folder_import_notes">Uvezi bilješke</string>
@@ -100,7 +100,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
   <string name="loading_text">Samo trenutak…</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
-  <string name="menu_add_audio_description">Dodaj audio bilješku</string>
+  <string name="menu_add_audio_description">Dodaj glasovnu bilješku</string>
   <string name="menu_add_description">Dodaj bilješku</string>
   <string name="menu_add_folder">Dodaj u mapu</string>
   <string name="menu_add_folder_description">Dodaj mapu</string>
@@ -168,7 +168,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="rich_text_size_description">Veličina</string>
   <string name="rich_text_underline_description">Podvučeno</string>
   <string name="root_folder_name">Brza bilješka</string>
-  <string name="save_to_gallery_failure_message">"Ne mogu spremiti u Galeriju"</string>
+  <string name="save_to_gallery_failure_message">"Ne mogu spremiti"</string>
   <string name="save_to_gallery_icon_name">Spremi u Galeriju</string>
   <string name="save_to_gallery_success_message">Uspješno spremljeno</string>
   <string name="search">Bilješke</string>
@@ -186,7 +186,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, dodajte račun ponovno.</string>
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, dodajte račun ponovno.</string>
   <string name="snippet_audio_stub">Glasovna bilješka</string>
-  <string name="snippet_image_stub">[Slika]</string>
+  <string name="snippet_image_stub">Slikovna bilješka</string>
   <string name="snippet_image_template">[Slika %1$s]</string>
   <string name="sns_action_send">Pošalji</string>
   <string name="sns_choose_quality_high">Visoka (%1$s)</string>
