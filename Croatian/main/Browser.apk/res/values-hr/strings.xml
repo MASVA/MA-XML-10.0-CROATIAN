@@ -248,7 +248,6 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="data_traffic_prompt_title">Korištenje uporabe podataka</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja.</string>
-  <string name="data_traffic_prompt_title">Upozorenje uporabe podataka</string>
   <string name="date_picker_dialog_clear">Očisti</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Postavi</string>
