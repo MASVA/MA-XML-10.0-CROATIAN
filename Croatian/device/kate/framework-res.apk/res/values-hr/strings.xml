@@ -463,7 +463,6 @@ Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_reordering_delete_drop_target_text">Ukloni</string>
   <string name="kg_sim_pin_instructions">Unesite PIN za SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Pokušajte ponovo za %1$d s.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Netočno ste napisali zaporku %d puta. 
 
