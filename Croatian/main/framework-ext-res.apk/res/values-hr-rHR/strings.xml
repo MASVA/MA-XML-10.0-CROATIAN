@@ -55,10 +55,6 @@
   <string name="global_actions_reboot">"Ponovno pokreni"</string>
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumno"</string>
-  <string name="group_name_contacts">Kontakti</string>
-  <string name="group_name_coworkers">Kolege</string>
-  <string name="group_name_family">Obitelj</string>
-  <string name="group_name_friends">Prijatelji</string>
   <string name="handy_mode_enter_dlg_msg">Ući u Rad jednom rukom?</string>
   <string name="handy_mode_enter_dlg_title">Rad jednom rukom</string>
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
