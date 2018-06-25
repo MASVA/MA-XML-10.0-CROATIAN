@@ -5000,7 +5000,7 @@ Možda je PIN netočan."</string>
   <string name="sim_lock_settings_summary_on">Zaključano</string>
   <string name="sim_lock_settings_title">Zaključavanje SIM kartice</string>
   <string name="sim_management_title">SIM kartice &amp; mobilne mreže</string>
-  <string name="sim_management_title_cr_kolbi">SIM kartice &amp; mobilne mreže</string>
+  <string name="sim_management_title_singlesim">SIM kartica &amp; mobilne mreže</string>
   <string name="sim_missing">SIM nedostaje ili pogreška</string>
   <string name="sim_multi_sims_summary">Odaberite SIM putem kojeg želite upotrebljavati mobilni prijenos podataka.</string>
   <string name="sim_multi_sims_title">Pronađeno je više SIM kartica</string>

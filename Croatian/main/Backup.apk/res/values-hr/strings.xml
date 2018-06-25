@@ -129,6 +129,7 @@
   <string name="enable_encrypt_summery2">"Vaše Sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Mi Računom da im možete pristupiti."</string>
   <string name="enable_encrypt_title">Šifriraj Sig. kopije</string>
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
+  <string name="err_acquire_system_service">"Nije moguće pokrenuti uslugu sustava."</string>
   <string name="err_authentication_failed">Provjera nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
   <string name="err_bakfile_not_exist">"Sigurnosna kopija ne postoji."</string>
