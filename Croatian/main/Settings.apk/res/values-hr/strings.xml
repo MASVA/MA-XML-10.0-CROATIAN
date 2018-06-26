@@ -2724,11 +2724,14 @@ Za uređaj i radni profil možete postaviti novo zaključavanje zaslona, ali će
   <string name="lockpassword_choose_lock_generic_header">Odaberite Zaklj. zaslona</string>
   <string name="lockpassword_choose_your_password_header">Postavite svoju zaporku</string>
   <string name="lockpassword_choose_your_password_second_space">"Postavite zaporku
-  za Drugi prostor"</string>
+za Drugi prostor.
+Taj PIN mora sadržavati onoliko znamenki
+kao i PIN za Prvi prostor"</string>
   <string name="lockpassword_choose_your_pattern_header">Odaberite uzorak</string>
   <string name="lockpassword_choose_your_pin_header">Odaberite PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Postavite PIN 
  za Drugi prostor"</string>
+  <string name="lockpassword_choose_your_pin_title">Unesite 4-16 znamenki</string>
   <string name="lockpassword_confirm_for_second_user">Potvrdite zaporku za Drugi prostor</string>
   <string name="lockpassword_confirm_passwords_dont_match">Zaporke se ne podudaraju</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN-ovi se ne podudaraju</string>
