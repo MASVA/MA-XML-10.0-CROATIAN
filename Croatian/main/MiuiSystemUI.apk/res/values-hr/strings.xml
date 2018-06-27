@@ -107,6 +107,8 @@
   <string name="accessibility_location_active">Zahtjevi za lokaciju aktivni su</string>
   <string name="accessibility_managed_profile">Radni profil</string>
   <string name="accessibility_menu">Izbornik</string>
+  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podržava Podijeljeni zaslon."</string>
+  <string name="accessibility_menu_item_split_enable">Aplikacija podržava Podijeljeni zaslon</string>
   <string name="accessibility_multi_user_switch_inactive">Trenutačan korisnik %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Prikaz profila</string>
   <string name="accessibility_multi_user_switch_switcher">Promjena korisnika</string>
@@ -223,6 +225,8 @@
   <string name="accessibility_settings">Postavke</string>
   <string name="accessibility_settings_button">Postavke sustava.</string>
   <string name="accessibility_signal_full">Signal je pun.</string>
+  <string name="accessibility_splite_screen_primary">Dodaj u podijeljeni zaslon primarne aplikacije</string>
+  <string name="accessibility_splite_screen_secondary">Dodaj u podijeljeni zaslon sekundarne aplikacije</string>
   <string name="accessibility_status_bar_headphones">Slušalice su povezane</string>
   <string name="accessibility_status_bar_headset">Slušalice su povezane</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>

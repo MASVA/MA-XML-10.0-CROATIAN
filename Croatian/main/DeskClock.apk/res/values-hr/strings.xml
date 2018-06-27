@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Dodaj alarm</string>
+  <string name="add_clock">Dodaj sat</string>
   <string name="add_timezone_title">Dodaj vremensku zonu</string>
   <string name="alarm_alert">Zadani zvuk alarma</string>
   <string name="alarm_alert_alert_silenced">Alarm utišan nakon %d min.</string>
@@ -38,6 +39,7 @@
   <string name="close_alarm">Isključi</string>
   <string name="common_settings">Postavke</string>
   <string name="confirm_abort">Odbaci</string>
+  <string name="content_desc_keep_screen">Tipka \"Drži zaslon uklj.\"</string>
   <string name="control_set_alarm">Postavi alarm</string>
   <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
   <string name="day">1 dan</string>
