@@ -4404,7 +4404,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
   <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
-  <string name="screen_paper_mode_summary">"Smanji emisiju plave svjetlosti zaslona"</string>
+  <string name="screen_paper_mode_summary">"Način čitanja čini boje vašeg zaslona toplijima, omogućujući vašim očima da se opuste."</string>
   <string name="screen_paper_mode_time_summary">Odredite vrijeme za uključivanje i isključivanje Načina čitanja</string>
   <string name="screen_paper_mode_time_title">Planirano</string>
   <string name="screen_paper_mode_title">Način čitanja</string>

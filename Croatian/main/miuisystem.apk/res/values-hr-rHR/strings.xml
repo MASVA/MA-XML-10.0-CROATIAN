@@ -18,6 +18,9 @@
   <string name="cloud_state_disabled">Sinkr. s Mi Cloudom je isključena</string>
   <string name="cloud_state_finished">Sinkronizirano s Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinkronizirano s Mi Cloudom</string>
+  <string name="country">Country</string>
+  <string name="cowboy">Cowboy</string>
+  <string name="crystal">Crystal</string>
   <string name="cold_dews"/>
   <string name="cta_button_continue">Slažem se</string>
   <string name="cta_button_quit">Izlaz</string>
