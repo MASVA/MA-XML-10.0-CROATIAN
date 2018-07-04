@@ -1002,6 +1002,9 @@ Pokušajte ponovo za %d sek."</string>
   <string name="memory_clear_result_giga">%1$sGB očišćeno</string>
   <string name="memory_clear_result_mega">%1$sMB očišćeno</string>
   <string name="menu_ime">Promjena tipkovnice</string>
+  <string name="miui_guide_dialog_button_negative_text">Postavke</string>
+  <string name="miui_guide_dialog_button_positive_text">Razumijem</string>
+  <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
   <string name="miui_ringer_count_down">Odbrojavanje</string>
   <string name="miui_ringer_count_down_time">Odbrojavanje: %s</string>
@@ -1011,8 +1014,10 @@ Pokušajte ponovo za %d sek."</string>
   <string name="miui_ringer_total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="miui_toast_zen_dnd_to_off">Zvukovi i vibracije vraćeni su u normalu</string>
   <string name="miui_toast_zen_standard_to_off">Melodije zvona vraćene su u normalu</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
   <string name="miui_toast_zen_to_dnd">Zvukovi utišani i vibracija isključena</string>
   <string name="miui_toast_zen_to_standard">Melodije zvona za pozive i obavijesti utišane</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Melodije zvona, kao i obavijesti i zvukovi medija, bit će utišani.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Mobilni podaci</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>

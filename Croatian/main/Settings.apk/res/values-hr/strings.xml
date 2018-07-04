@@ -2112,6 +2112,8 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati na internet putem WLAN-a kad je ova značajka isključena."</string>
   <string name="firmware_version">Android verzija</string>
+  <string name="flash_drive_backup_restore">Sigurnosno kopiranje ili vraćanje pomoću USB-a</string>
+  <string name="flash_drive_backup_restore_summary">Spojite USB pogon</string>
   <string name="floating_window_switch_label">Uključi skočne prozore</string>
   <string name="floating_window_switch_label_disable">Isključi skočne prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
@@ -5158,10 +5160,11 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Prikaži naziv operatera kada je uređaj zaključan</string>
   <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>
-  <string name="status_bar_settings_show_floating_notification_summary">"Plutajuće obavijesti automatski će nestati nakon što se prikažu na vrhu zaslona"</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Dopusti važne obavijesti na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži uporabu podataka</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obavijesti Zaklj. zaslona</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Dopusti važne obavijesti na Zaklj. zaslonu</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>

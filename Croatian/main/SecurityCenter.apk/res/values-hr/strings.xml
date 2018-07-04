@@ -973,6 +973,12 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću WLAN-a kada je ova stavka isključena.​"</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
   <string name="flow_rank_title">Uporaba podataka</string>
+  <string name="fod_authentication_shift_button">Odustani</string>
+  <string name="fod_button_finger">Koristi otisak prsta</string>
+  <string name="fod_button_password">Unesite zaporku</string>
+  <string name="fod_finger_notice_title">Stavite prst na zaslon</string>
+  <string name="fod_finger_windows_tips">Potvrdite otisak prsta</string>
+  <string name="fod_tips_split_screen_more_than_half">Unesite zaporku</string>
   <string name="forbid_autobright_summary">"Svjetlina zaslona ostat će ista kada igrate igre"</string>
   <string name="forbid_autobright_title">Popravi svjetlinu zaslona</string>
   <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
