@@ -1278,6 +1278,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="title_other_devices">Ostali dostupni uređaji</string>
   <string name="title_paired_devices">Upareni uređaji</string>
   <string name="toast_call_detail_error">"Nije moguće pročitati pojedinosti za traženi poziv"</string>
+  <string name="toast_call_no_SoundRecorder">Aplikacija Snimač nije dostupna</string>
+  <string name="toast_call_no_notes">Aplikacija Bilješke nije dostupna</string>
   <string name="toast_copy_done">"Gotovo"</string>
   <string name="toast_copying">Kopiranje…</string>
   <string name="toast_displaying_all_contacts">Prikaz svih kontakata</string>

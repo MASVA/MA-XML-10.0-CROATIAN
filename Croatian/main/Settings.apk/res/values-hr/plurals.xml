@@ -346,6 +346,10 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Prikaži %d skrivenih stavki</item>
         <item quantity="one">Prikaži %d skrivenu stavku</item>
      </plurals>
+	 <plurals name="show_reset_countdown">
+        <item quantity="other">Još %1$d koraka do vraćanja na tvorničke postavke</item>
+        <item quantity="one">Još %1$d korak do vraćanja na tvorničke postavke</item>
+    </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">%d aplikacija može upotrebljavati neograničene podatke</item>
         <item quantity="one">%d aplikacija može upotrebljavati neograničene podatke</item>

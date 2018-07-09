@@ -1804,6 +1804,13 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
+  <string name="wireless_change_to_ac_charging">Promjenjeno na punjenje žicom</string>
+  <string name="wireless_charge_current">Punjenje</string>
+  <string name="wireless_charge_dialog_cancel">Razumijem</string>
+  <string name="wireless_charge_dialog_title">Postavite uređaj na sredinu baze za punjenje</string>
+  <string name="wireless_charge_reset_device">Punjenje je sporo. Promjenite položaj telefona.</string>
+  <string name="wireless_charge_reset_device_detail">Provjerite je li položaj vašeg uređaja na bazi za punjenje ispravan</string>
+  <string name="wireless_charge_stop">Bežično punjenje je zaustavljeno</string>
   <string name="wrong_password">Netočna zaporka</string>
   <string name="zen_alarm_warning">Nećete čuti sljedeći alarm %1$s</string>
   <string name="zen_alarm_warning_indef">Nećete čuti sljedeći alarm %1$s ako to ne isključite prije njega</string>

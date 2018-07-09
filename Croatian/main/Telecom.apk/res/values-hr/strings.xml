@@ -145,7 +145,7 @@ brzina uzorkovanja"</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
-  <string name="close">Zatvori</string>
+  <string name="close">Isključi</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>

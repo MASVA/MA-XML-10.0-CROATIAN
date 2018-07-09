@@ -441,7 +441,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
   <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
   <string name="passport_vcode_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
-  <string name="passport_verification_failed">Autentikacija nije uspjela</string>
+  <string name="passport_verification_failed">Ne mogu potvrditi račun</string>
   <string name="passport_verify">Provjeri</string>
   <string name="passport_verifying_activator_phone">Potvrđivanje sigurnosti telefona…</string>
   <string name="passport_wait_for_sms_prompt">"Započeti sada ponovno? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
