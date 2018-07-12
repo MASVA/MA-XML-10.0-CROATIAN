@@ -1266,4 +1266,8 @@
         <item>WLAN</item>
         <item>Mobilni uređaj</item>
     </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Grafika</item>
+        <item>Postotak</item>
+    </string-array>
 </resources>

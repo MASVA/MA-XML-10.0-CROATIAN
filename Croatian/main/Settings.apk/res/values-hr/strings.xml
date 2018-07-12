@@ -4321,6 +4321,7 @@ UT sučelje: %5$s"</string>
   <string name="retail_demo_reset_next">Dalje</string>
   <string name="retail_demo_reset_title">Potrebna je zaporka</string>
   <string name="retry">"Pokušajte ponovno"</string>
+  <string name="rgb_manage_facerecoginition_text">Upravljaj podacima 2D lica</string>
   <string name="ring_volume_option_title">Glasnoća zvona</string>
   <string name="ring_volume_title">Glasnoća zvona</string>
   <string name="ringtone_mute">Utišano</string>
@@ -5385,7 +5386,8 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="storageuse_settings_title">Uporaba pohrane</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
-  <string name="structure_add_facerecoginition_text">Dodaj 3D lice</string>
+  <string name="structure_add_facerecoginition_text">Dodajte 3D lice</string>
+  <string name="structure_manage_facerecoginition_text">Upravljaj podacima 3D lica</string>
   <string name="sub_activate_failed">Aktivacija nije uspjela.</string>
   <string name="sub_activate_not_supported">Aktivacija nije podržana</string>
   <string name="sub_activate_success">Uspješno aktivirano.</string>

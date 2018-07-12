@@ -376,6 +376,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="apps_item_virus_summary_uninstalled">Aplik.</string>
   <string name="apps_list_header_title_sms">Provjera aplikacije za slanje poruka</string>
   <string name="apps_list_header_title_sms_access">Ograniči pristup na kodove za potvrdu</string>
+  <string name="ask_create_shortcut">Izraditi prečac Poč. zaslona?</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kada je baterija napunjena do %s</string>
   <string name="auto_back_booster">Zaustavi ubrzanje</string>
@@ -824,7 +825,6 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
   <string name="dialog_roaming_warning_message">Nakon uključivanja međunarodnog roaminga podataka, operater će vam naplatiti naknadu. Uključiti svejedno?</string>
   <string name="dialog_roaming_warning_ok">Uključi</string>
-  <string name="dialog_text">Izradi prečac Početnog zaslona za Ubrzavanje brzine igranja</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -1012,13 +1012,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="game_booster_title">Ubrzanje</string>
   <string name="game_booster_total">Brzina ubrzana %1$s puta, dodano %2$s vremena igranja</string>
   <string name="game_bootser_tab_settings">Postavke ubrzanja</string>
-  <string name="game_improve_text1">Očisti predmemoriju pozadine radi oslobađanja memorije za igranje</string>
-  <string name="game_improve_text2">Očisti predmemoriju pozadine radi oslobađanja memorije za igranje i poboljšati performanse procesora</string>
-  <string name="game_improve_title">Optimiziraj performanse</string>
   <string name="game_more_improve">Ograničite pozadinske aktivnosti i brzinu preuzimanja da uštedite bateriju i propusnost za igranje</string>
-  <string name="game_net_text1">Ograničite brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
-  <string name="game_net_text2">Povećajte brzinu veze mrežne igre ograničavajući brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
-  <string name="game_net_title">Optimiziraj brzinu veze</string>
   <string name="game_setting">Postavke igre</string>
   <string name="gamebooster_lowbattery_notification_summary">Napunite uređaj prije nego što se isključi.</string>
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manje od 5%%</string>
@@ -1027,16 +1021,27 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
   <string name="gamebox_type_close">"Ne prikazuj"</string>
-  <string name="gamebox_type_float">POpravljem+n prečac</string>
+  <string name="gamebox_type_float">Prečac popravljen</string>
   <string name="gamebox_type_gesture">Povuci za prikaz</string>
   <string name="gamebox_wechat_not_find">Instalirajte WeChat i pokušajte ponovo.</string>
   <string name="garbage_clean_detail">Detalji</string>
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_create_icon_summary">Izradi prečac Poč. zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
+  <string name="gb_first_window_antimsg_summary_quick_answer">Koristi brze odgovore</string>
+  <string name="gb_first_window_antimsg_summary_transparent_show">Pogledajte tekst na prozirnoj pozadini</string>
+  <string name="gb_first_window_antimsg_title">Zgodne obavijesti</string>
+  <string name="gb_first_window_gamebox_summary_four">Brisanje predmemorije, snimanje zaslona i izrada snimke zaslona</string>
+  <string name="gb_first_window_gamebox_summary_six">Koristite brze odgovore, snimajte zaslona i izradaite snimke zaslona</string>
+  <string name="gb_first_window_handsfree_summary">Uključi zvučnik automatski</string>
+  <string name="gb_first_window_handsfree_title">Hands-free pozivi</string>
+  <string name="gb_first_window_start">Počnite igrati</string>
+  <string name="gb_first_window_summary">Povećajte brzinu i performanse na razini sustava</string>
+  <string name="gb_first_window_title">Ubrzivač igre</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -1178,8 +1183,6 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="international_Ad">Oglas</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
-  <string name="intro_improve">Povećajte svoje iskustvo igranja na razini sustava</string>
-  <string name="intro_skip">Preskoči</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
@@ -1327,6 +1330,7 @@ podatkovnu vezu"</string>
   <string name="main_traffic_used_text">iskorišteno</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Dodajte ručno autom. pokret. aplikacije</string>
+  <string name="manage_hybrid_permissions">"Upravljanje dopuštenja aplikacija"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
@@ -2226,8 +2230,6 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safepay_alert_dialog_button_unknown">Provjeri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Pronađen rizik! Prekini trenutno plaćanje!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne mogu provjeriti sigurnost plaćanja. Povežite se na internet i pokušajte ponovno.&lt;/font&gt;"</string>
-  <string name="save_energy_text">"Ograniči automatsko pokretanje i sinkronizaciju aplikacija u pozadini kako bi dobili najviše iz baterije uređaja"</string>
-  <string name="save_energy_title">Optimiziraj bateriju</string>
   <string name="saving_conflict_dialog_cancel">Odustani</string>
   <string name="saving_conflict_dialog_ok">U redu</string>
   <string name="saving_conflict_dialog_title">Pažnja</string>

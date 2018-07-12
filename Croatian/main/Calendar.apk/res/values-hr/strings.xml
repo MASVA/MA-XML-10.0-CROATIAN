@@ -99,6 +99,7 @@
   <string name="delete_this_event_title">Izbrisati ovaj događaj?</string>
   <string name="description_label">Opis:</string>
   <string name="directory_searching_fmt">Pretraživanje %s…</string>
+  <string name="discard_label">Odustani</string>
   <string name="does_not_repeat">Jednokratni događaj</string>
   <string name="done">Natrag</string>
   <string name="edit_date_calculate_days_backward_error_hint">"Ne mogu izračunati unaprijed"</string>
