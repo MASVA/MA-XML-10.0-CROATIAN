@@ -272,7 +272,6 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
   <string name="resource_detail_recommend_other_themes">Korisnicima se još sviđa</string>
   <string name="resource_detail_update_log_title">Ažuriranja</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Detalji %1$s</string>
   <string name="resource_download">Preuzimanje</string>
   <string name="resource_download_notification_title_many">Preuzeto tema: %1$s</string>
@@ -334,7 +333,6 @@
   <string name="resource_pack_price_info">Izvorna cijena: %1$s</string>
   <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
   <string name="resource_present">Poklon</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Besplatno</string>
   <string name="resource_price_unit">Mi Kredita</string>
   <string name="resource_purchase_common_error">Dogodila se pogreška, pokušajte ponovno.</string>

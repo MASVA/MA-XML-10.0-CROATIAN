@@ -1443,10 +1443,8 @@ podatkovnu vezu"</string>
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Sigurnost</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
   <string name="menu_text_networkassistants">Potrošnja podataka</string>
-  <string name="menu_text_networkassistants_2">%s</string>
   <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
   <string name="menu_text_networkassistants_remain">Preostalo: %s</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
@@ -1455,8 +1453,6 @@ podatkovnu vezu"</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povećaj brzinu</string>
   <string name="menu_text_power_manager">Potrošnja baterije</string>
-  <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
   <string name="menu_white">Dodaj u iznimke</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
