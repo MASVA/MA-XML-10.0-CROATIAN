@@ -5100,6 +5100,8 @@ Možda je PIN netočan."</string>
   <string name="sound_settings_summary">Glasnoća zvona na %1$s</string>
   <string name="sound_settings_summary_silent">Softver zvona postavljen na nečujno</string>
   <string name="sound_settings_summary_vibrate">Softver zvona postavljen na vibraciju</string>
+  <string name="sound_stereo_mode_summary">Dostupno samo kada reproducirate zvuk putem zvučnika</string>
+  <string name="sound_stereo_mode_title">Stereo zvuk</string>
   <string name="sound_vibrate_settings">Zvuk &amp; vibracija</string>
   <string name="sound_work_settings">Zvukovi radnog profila</string>
   <string name="special_access">Poseban pristup</string>
@@ -5788,6 +5790,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unlock_set_unlock_summary">Postavite zaključavanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja zaključavanja zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>
   <string name="unmount_inform_text">USB Memorija bit će isključena.</string>
+  <string name="unmute_sound_title">Uključi zvuk</string>
   <string name="unrestrict_max_aspect_ratio_title">Te su aplikacije optimizirane za cijeli zaslon</string>
   <string name="unrestricted_app_summary">Dopusti neograničen pristup podacima kada je Ušteda podataka uključena</string>
   <string name="unrestricted_app_title">Neograničena potroš. podataka</string>

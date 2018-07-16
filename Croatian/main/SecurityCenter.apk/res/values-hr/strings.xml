@@ -353,7 +353,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
   <string name="applock_add_account_setting">Račun &amp; privatnost</string>
   <string name="applock_bind_account_title">Zaboravljena zaporka</string>
-  <string name="applock_close_dialog_summary">Aplikacije više neće biti zaštićene i vaša će se zaporka izbrisati nakon isključivanja Zaklj. aplikacija.</string>
+  <string name="applock_close_dialog_summary">Sve skrivene aplikacije bit će vidljive, njihovi prečaci Poč. zaslona bit će obnovljeni, a zaporka za Zaklj. aplikacije bit će izbrisana. Želite li isključiti Zaklj. aplikacija?</string>
   <string name="applock_close_dialog_title">Isključiti Zaklj. aplikacija?</string>
   <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
@@ -1798,7 +1798,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_btn_analyze">Analiziraj potrošnju baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Planirano uklj./isklj.</string>
-  <string name="power_center_back">Natrag u Baterija</string>
+  <string name="power_center_back">Natrag</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
@@ -2099,6 +2099,20 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="preferred_app_entries_launcher">Pokretač</string>
   <string name="preferred_app_entries_messaging">Poruke</string>
   <string name="preferred_app_entries_music">Glazba</string>
+  <string name="privacy_apps">Skrivene aplikacije</string>
+  <string name="privacy_apps_category_title">Skrivene aplikacije</string>
+  <string name="privacy_apps_checkbox_remind_choice">"Ne prikazuj ponovno"</string>
+  <string name="privacy_apps_close">Zatvori</string>
+  <string name="privacy_apps_enable_summary">Premjesti aplikacije u skrivenu mapu i ukloni njihove prečace Poč. zaslona</string>
+  <string name="privacy_apps_go_to_use">Start</string>
+  <string name="privacy_apps_manage">Upravljaj Skrivenim aplikacijama</string>
+  <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
+  <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacija zahtijeva postavljanje zaključavanja zaslona aplikacije. Obavijesti za skrivene aplikacije bit će isključene. Sakriti tu aplikaciju?</string>
+  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Kada sakrijete aplikaciju, premjestiti će se u skrivenu mapu. Prečac Poč. zaslona će biti sakriven također.
+Ova značajka nije podržana za aplikacije sustava."</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Nakon unosa zaporke pojavit će se mapa s skrivenim aplikacijama.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"Raširite dva prsta na zaslonu. Vidjet ćete poruku koja traži da unesete zaporku za Zaklj. aplikacije."</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Uvjeti Pružanja Usluge</string>
   <string name="privacy_dialog_message">"Kada se povežete s internetom, ta će poruka, zajedno s informacijama o mobilnom operateru, biti šifrirana i poslana na Mi poslužitelje kako bismo poboljšali nadzor nad uporabom podataka."</string>
