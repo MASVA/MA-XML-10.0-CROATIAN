@@ -225,8 +225,8 @@
   <string name="accessibility_settings">Postavke</string>
   <string name="accessibility_settings_button">Postavke sustava.</string>
   <string name="accessibility_signal_full">Signal je pun.</string>
-  <string name="accessibility_splite_screen_primary">Dodaj u podijeljeni zaslon primarne aplikacije</string>
-  <string name="accessibility_splite_screen_secondary">Dodaj u podijeljeni zaslon sekundarne aplikacije</string>
+  <string name="accessibility_splite_screen_primary">Dodana kao primarna aplikacija u podijeljenom zaslonu</string>
+  <string name="accessibility_splite_screen_secondary">Dodana kao sekundarna aplikacija u podijeljenom zaslonu</string>
   <string name="accessibility_status_bar_headphones">Slušalice su povezane</string>
   <string name="accessibility_status_bar_headset">Slušalice su povezane</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -1611,6 +1611,8 @@ Povucite dolje za zaključavanje"</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje lica je manje sigurna od uzorka, PIN-a, ili zaporke. Kada je ta značajka uključena, uređaj se može otključati sa vašom fotografijom, kao i ljudi ili predmeti koji izgledaju kao vi.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje lica je relativno sigurno. Vrlo je malo vjerojatno da se vaš uređaj može otključati s vašom fotografijom kada je ova značajka uključena. Međutim, ljudi ili predmeti koji izgledaju poput vas možda će moći otključati vaš uređaj."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje lica</string>
+  <string name="structure_face_unlock_not_same_person">"Morate sami izvršiti sve korake. Nemojte mijenjati mjesta s nikim."</string>
+  <string name="structure_face_unlock_really_person">"Izgleda da ste zamijenili lice s nekim objektom."</string>
   <string name="switch_bar_off">Isključi</string>
   <string name="switch_bar_on">Uključi</string>
   <string name="system_ui_tuner">Ugađanje korisničkog sučelja sustava</string>

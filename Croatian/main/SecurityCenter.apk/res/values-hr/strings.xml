@@ -1035,8 +1035,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="gb_first_window_antimsg_summary_quick_answer">Koristi brze odgovore</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Pogledajte tekst na prozirnoj pozadini</string>
   <string name="gb_first_window_antimsg_title">Zgodne obavijesti</string>
-  <string name="gb_first_window_gamebox_summary_four">Brisanje predmemorije, snimanje zaslona i izrada snimke zaslona</string>
-  <string name="gb_first_window_gamebox_summary_six">Koristite brze odgovore, snimajte zaslona i izradaite snimke zaslona</string>
+  <string name="gb_first_window_gamebox_summary_four">Koristi brze odgovore, snimaj zaslon i izradi snimke zaslona</string>
+  <string name="gb_first_window_gamebox_summary_six">Izbriši predmemoriju, snimaj zaslon i izradi snimke zaslona</string>
   <string name="gb_first_window_handsfree_summary">Uključi zvučnik automatski</string>
   <string name="gb_first_window_handsfree_title">Hands-free pozivi</string>
   <string name="gb_first_window_start">Počnite igrati</string>
