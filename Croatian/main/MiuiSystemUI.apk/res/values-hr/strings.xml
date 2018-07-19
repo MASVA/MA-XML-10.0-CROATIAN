@@ -457,6 +457,9 @@ brzina uzorkovanja"</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
   <string name="data_connection_no_internet">Nema interneta</string>
   <string name="data_saver">Ušteda podataka</string>
+  <string name="data_saver_description">Da biste smanjili potrošnju podataka, Ušteda podataka sprječava neke aplikacije da šalju ili primaju podatke u pozadini. Aplikacija koju trenutno koristite može pristupiti podacima, ali to može učiniti rjeđe. To znači, primjerice, da se slike ne prikazuju dok ih ne dodirnete.</string>
+  <string name="data_saver_enable_button">Uključi</string>
+  <string name="data_saver_enable_title">Uključiti Uštedu podataka?</string>
   <string name="data_usage_disabled_dialog">"Dosegli ste vaše postavljeno ograničenje uporabe podataka. 
 
 Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>

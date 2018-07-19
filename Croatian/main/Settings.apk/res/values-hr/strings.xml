@@ -5167,6 +5167,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
   <string name="status_bar_settings_notification_priority">Prioritet</string>
   <string name="status_bar_settings_notification_priority_summary">Prikaži obavijesti na vrhu popisa</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Prečac Panela obavijesti</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
@@ -5389,7 +5390,7 @@ Brža ^1 mogla bi poboljšati rad."</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="structure_add_facerecoginition_text">Dodajte 3D lice</string>
-  <string name="structure_face_enroll_not_able_low_electric_itle">"Ova značajka ne može se koristiti zbog slabe baterije"</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">"Ova se značajka ne može koristiti zbog slabe baterije"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterija mora biti napunjena najmanje 5% za početak snimanja.</string>
   <string name="structure_manage_facerecoginition_text">Upravljaj podacima 3D lica</string>
   <string name="sub_activate_failed">Aktivacija nije uspjela.</string>
