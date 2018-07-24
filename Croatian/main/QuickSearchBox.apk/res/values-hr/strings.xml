@@ -87,7 +87,7 @@
   <string name="local_app">Aplikacije</string>
   <string name="local_setting">Postavke</string>
   <string name="menu_help">Pomoć</string>
-  <string name="menu_settings">Postavke pretraživanja</string>
+  <string name="menu_settings">Pretraživanje postavki</string>
   <string name="mina_name">Nove aplikacije</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="permission_prompt_detail">Tražite filmove, knjige, glazbu i još mnogo toga.</string>
@@ -127,7 +127,7 @@
   <string name="search_keyword_quicksearchbox">Traži</string>
   <string name="search_path_quicksearchbox">Postavke/Instalirane aplikacije/Traži</string>
   <string name="search_result_button">Prikaži više rezultata</string>
-  <string name="search_settings">Postavke pretraživanja</string>
+  <string name="search_settings">Pretraživanje postavki</string>
   <string name="search_sources">Stavke pretraživanja</string>
   <string name="search_sources_summary">Izaberite što tražiti na telefonu</string>
   <string name="search_suggestion">Savjeti</string>

@@ -5585,8 +5585,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
   <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
   <string name="total">DND</string>
-  <string name="total_info">Utišaj zvukove za %1$s osim alarma</string>
-  <string name="total_info_sub">i isključi vibraciju</string>
+  <string name="total_info">Utišaj zvukove i isključi vibraciju osim za alarme</string>
+  <string name="total_info_no_vibrator">Utišaj zvukove osim za alarme</string>
   <string name="total_memory">Ukupna memorija</string>
   <string name="total_size">Ukupno %s</string>
   <string name="total_size_label">Ukupno</string>

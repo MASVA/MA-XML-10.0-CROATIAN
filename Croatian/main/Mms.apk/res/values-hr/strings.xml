@@ -408,11 +408,18 @@
   <string name="no_subject_view">(Nema predmeta)</string>
   <string name="non_english_subject_limit">Najviše 13 znakova za ne-Engleski predmet</string>
   <string name="nosend_message">"Nemoj slati"</string>
-  <string name="notification_channel_description">Obavijesti iz Poruka</string>
-  <string name="notification_channel_name">Poruke</string>
+  <string name="notification_channel_msg_description">Obavijest o poruci</string>
+  <string name="notification_channel_msg_name">Poruka</string>
+  <string name="notification_channel_other_description">Obavijest bez poruke</string>
+  <string name="notification_channel_other_name">Ostalo</string>
+  <string name="notification_channel_sim1_description">Obavijest o poruci SIM-1</string>
+  <string name="notification_channel_sim1_name">Poruka SIM-1</string>
+  <string name="notification_channel_sim2_description">Obavijest o poruci SIM-2</string>
+  <string name="notification_channel_sim2_name">Poruka SIM-2</string> 
   <string name="notification_copy">Kopiraj OTP</string>
   <string name="notification_failed_multiple">Broj poruka koje nije moguće poslati: %s.</string>
   <string name="notification_failed_multiple_title">Poruke nisu poslane</string>
+  <string name="notification_group_name">Poruke</string>
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nove poruke</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
@@ -732,6 +739,7 @@ Provedeni pokušaj: %s."</string>
   <string name="unstick">Odznači</string>
   <string name="unstick_conversation">Odznači trenutan razgovor</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>
+  <string name="unsubscribe">Otkaži pretplatu</string>
   <string name="unsupported_media_format">Nepodržani %1$s format</string>
   <string name="url_fraud_dangerous_alert">Web stranica koju pokušavate posjetiti može biti opasna. To bi moglo oštetiti vaš uređaj i podatke. Svejedno posjetiti?
 %s"</string>

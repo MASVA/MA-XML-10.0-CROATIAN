@@ -144,6 +144,7 @@
   <string name="accessibility_quick_settings_airplane_off">Zrakoplovni način je isključen.</string>
   <string name="accessibility_quick_settings_airplane_on">Zrakoplovni način je uključen.</string>
   <string name="accessibility_quick_settings_alarm">Vrijeme alarma: %s.</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarm je postavljen.</string>
   <string name="accessibility_quick_settings_alarm_set">Alarm je postavljen.</string>
   <string name="accessibility_quick_settings_battery">Baterija – %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -151,6 +152,7 @@
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth uključen.</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth povezan.</string>
   <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth se povezuje.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Baterija Bluetooth uređaja %d posto.</string>
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth isključen.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth uključen.</string>
   <string name="accessibility_quick_settings_close">Zatvaranje ploče.</string>
@@ -1012,7 +1014,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
   <string name="miui_ringer_count_down">Odbrojavanje</string>
-  <string name="miui_ringer_count_down_time">Odbrojavanje: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Bešumno</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="miui_ringer_total">DND</string>
