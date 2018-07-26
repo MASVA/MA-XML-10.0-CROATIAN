@@ -3861,6 +3861,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="picture_source">Izvor slike</string>
   <string name="pin_failed">Operacija PIN-a SIM kartice nije uspjela!</string>
   <string name="ping_test_label">Pokreni ping test</string>
+  <string name="play_pause_description">Tipka pauza/reproduciraj</string>
   <string name="please_select_phase2">2. faza provjere autentičnosti</string>
   <string name="please_type_passphrase">Zaporka</string>
   <string name="pointer_location">Mjesto pokazivača</string>

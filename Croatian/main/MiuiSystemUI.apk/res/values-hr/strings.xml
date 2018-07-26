@@ -1014,7 +1014,6 @@ Pokušajte ponovo za %d sek."</string>
   <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
   <string name="miui_ringer_count_down">Odbrojavanje</string>
-  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Bešumno</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="miui_ringer_total">DND</string>

@@ -144,7 +144,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>

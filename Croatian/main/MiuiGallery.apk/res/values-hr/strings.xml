@@ -1388,9 +1388,9 @@ za fotografije"</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
   <string name="video_editor_smart_effect_rhythm">Pulse</string>
   <string name="video_editor_smart_effect_street">Metropolis</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Ovaj efekt možete primijeniti na videozapise koji traju do 40 sek.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Ovaj se efekt može primijeniti na videozapise koji nisu duži od 40 sekundi. Trajanje podešeno automatski.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Ovaj efekt možete primijeniti na videozapise koji traju do 6 sek.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Ovaj efekt možete primijeniti na videozapise koji traju do 60 sek.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Ovaj se efekt može primijeniti na videozapise koji nisu duži od 60 sekundi. Trajanje podešeno automatski.</string>
   <string name="video_editor_template_family">Obitelj</string>
   <string name="video_editor_template_forbidden_tips">"Ne mogu to učiniti kada koristite predložak"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
@@ -1411,7 +1411,7 @@ za fotografije"</string>
   <string name="video_editor_unsupport_audio_file">Nepodržana audio datoteka</string>
   <string name="video_editor_unzip_file_fail">"Ne mogu rastpakirati videozapis."</string>
   <string name="video_editor_video_is_short">"Ne mogu urediti ovaj videozapis."</string>
-  <string name="video_editor_video_loading">Priprema videozapisa, pričekajte trenutak ili dva i pokušajte ponovo.</string>
+  <string name="video_editor_video_loading">Priprema videozapisa… Pričekajte trenutak ili dva i pokušajte ponovo.</string>
   <string name="video_editor_watermark">Vodeni žig</string>
   <string name="video_err">"Ne mogu reproducirati videozapis."</string>
   <string name="video_not_exist">Videozapis ne postoji</string>

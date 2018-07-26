@@ -3,6 +3,8 @@
   <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
   <string name="agree">Slažem se</string>
   <string name="agree_terms">"Pročitao sam i slažem se s Uvjeti Pružanja Usluge i Pravila o Privatnosti"</string>
+  <string name="agree_terms_input_method_facemoji">"Pročitao sam i slažem se s Facemoji Pravila o Privatnosti."</string>
+  <string name="agree_terms_input_method_kika">"Pročitao sam i slažem se s Kika Pravila o Privatnosti."</string>
   <string name="app_name">Odredbe</string>
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="back">Natrag</string>
@@ -13,7 +15,7 @@
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
-  <string name="content_description_miui_version">MIUI 9</string>
+  <string name="content_description_miui_version">MIUI 10</string>
   <string name="content_description_start">Start</string>
   <string name="continue_to_enable_accessibility">Držite pritisnuta dva prsta da omogućite pristupačnost.</string>
   <string name="desc_extra_fingerprint"/>
@@ -89,11 +91,21 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="terms_of_use_label_gms">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
  
 Morate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Game center, MAB ,MiuiDaemon i MSA komponente sustava, Brze aplikacije, brze kartice, statistike, smart kartice, Mi Link, Mi Račun, i komponente usluge Google Play povezati će se na internet i pribaviti vašu lokaciju."</string>
+   <string name="terms_of_use_label_systemhelper">Usluga samoregistriranja</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Morate se složiti s Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o Privatnosti</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika Pravila o Privatnosti</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="voice_assist_desp">Recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
+  <string name="voice_assist_desp_screen_light">Nakon što zasvijetli zaslon, recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
   <string name="voice_assist_title">Probudi sa glasom</string>
   <string name="welcome">Dobrodošli</string>
 </resources>
