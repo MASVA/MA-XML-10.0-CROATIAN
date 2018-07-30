@@ -33,12 +33,12 @@
   <string name="app_label">Kalendar</string>
   <string name="birthday_born">Datum rođenja</string>
   <string name="birthday_calendar_display_name">Podsjetnik rođendana</string>
-  <string name="birthday_event_description">Danas ima %4$s %1$s!</string>
+  <string name="birthday_event_description">Danas %4$s ima %1$s!</string>
   <string name="birthday_event_description_a_week_ago">Prije tjedan dana</string>
   <string name="birthday_event_description_a_week_later">Tjedan dana kasnije</string>
   <string name="birthday_event_description_day_after_tomorrow">Prekosutra</string>
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
-  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
+  <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
   <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danas ima</string>
   <string name="birthday_event_description_tomorrow">Sutra ima</string>
@@ -365,7 +365,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="travel_item_reminder">Podsjetnik</string>
   <string name="travel_item_reminder_overdue">Podsjetnik</string>
   <string name="travel_item_trafic">Promet</string>
-  <string name="travel_item_virtual_sim">Mi Virtual Sim</string>
+  <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
   <string name="travel_item_weather_forecast">Prognoza odredišta</string>
   <string name="travel_item_weather_now">Vrijeme odredišta</string>
   <string name="travel_load_failed">"Ne mogu učitati"</string>

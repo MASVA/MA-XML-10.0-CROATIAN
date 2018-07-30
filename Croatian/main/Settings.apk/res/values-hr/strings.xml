@@ -5174,6 +5174,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Prečac Panela obavijesti</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
+  <string name="status_bar_settings_notification_sound_custom">Vlastiti zvuk</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>

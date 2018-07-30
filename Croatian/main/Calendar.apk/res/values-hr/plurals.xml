@@ -92,16 +92,16 @@
          <item quantity="one">%1$d godina</item>
     </plurals>
     <plurals name="anniversary_year">
-         <item quantity="other">%1$ godina</item>
-         <item quantity="one">%1$ godina</item>
+         <item quantity="other">%1$s godina</item>
+         <item quantity="one">%1$s godina</item>
     </plurals>
     <plurals name="anniversary_day">
-         <item quantity="other">%1$ dana</item>
-         <item quantity="one">%1$ dan</item>
+         <item quantity="other">%1$s dana</item>
+         <item quantity="one">%1$s dan</item>
     </plurals>
     <plurals name="countdown_day">
-         <item quantity="other">preostalo %1$ dana</item>
-         <item quantity="one">preostao %1$ dan</item>
+         <item quantity="other">preostalo %1$s dana</item>
+         <item quantity="one">preostao %1$s dan</item>
     </plurals>
 	<plurals name="work_days">
          <item quantity="other">%d radnih dana</item>
