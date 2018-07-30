@@ -7,6 +7,10 @@
   <string name="button_queue_for_wifi">Red čekanja</string>
   <string name="button_start_now">Započni sad</string>
   <string name="button_wait_for_wifi">Čekaj</string>
+  <string name="channel_active">Aktivno preuzimanje</string>
+  <string name="channel_complete">Preuzimanje je dovršeno</string>
+  <string name="channel_insufficient_space">Nedovoljno prostora</string>
+  <string name="channel_waiting">Preuzimanje na čekanju</string>
   <string name="dialog_button_cancel">Odustani</string>
   <string name="dialog_button_ok">U redu</string>
   <string name="dialog_content_limit0">Ograniči preuzimanja</string>

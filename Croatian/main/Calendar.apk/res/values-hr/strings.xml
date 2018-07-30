@@ -63,6 +63,7 @@
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne mogu promijeniti ponavljanje događaja i događaj prijelaznih dana"</string>
   <string name="change_response_title">Promijeni odgovor</string>
   <string name="clear_net_mock_success">Net mock uspješno očišćen</string>
+  <string name="close_alarm">Isključi</string>
   <string name="copy_email">Kopiraj adresu e-pošte</string>
   <string name="copy_number">Kopiraj broj telefona</string>
   <string name="countdown_event_title">Broj dana: %1$s</string>
@@ -175,7 +176,8 @@
   <string name="global_cricket_no_match">Danas nema natjecanja u kriketu, a možete pregledati najvažnije događaje prošlih natjecanja ili pokušati s drugom utakmicom. Čudesan događaj, vrijedan čekanja!</string>
   <string name="goto_today">Danas</string>
   <string name="guide_card_hint_text">Uvezi rođendan iz kontakata</string>
-  <string name="guide_card_import">Uvezi</string>
+  <string name="guide_card_close">Zatvori</string>
+  <string name="guide_card_import">Uvezi</string> 
   <string name="guide_card_primary_text">Uvezi rođendan od prijatelja</string>
   <string name="guide_card_second_text">Uvezi seriju, rođendan prijatelja ne nedostaje</string>
   <string name="guide_card_title">Uvezi rođendane</string>
@@ -203,6 +205,7 @@
   <string name="loading">Samo trenutak…</string>
   <string name="local_calendar_display_name">Lokalni kalendar</string>
   <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
+  <string name="login_failed_toast">"Ne mogu se prijaviti, osvježite i pokušajte ponovno"</string>
   <string name="lunar_date">Mjesečev datum</string>
   <string name="match_select_activity_label">Odaberi podudaranja</string>
   <string name="menu_general_preferences">Općenito</string>
@@ -335,7 +338,9 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="tab_title_day">Dan</string>
   <string name="tab_title_month">Mjesec</string>
   <string name="tab_title_week">Tjedan</string>
+  <string name="talk_back_month">Mjesec</string>
   <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s prema lunarnom kalendaru).</string>
+  <string name="talk_back_setting">Postavke</string>
   <string name="template_announce_item_index">Događaj %1$s od %2$s.</string>
   <string name="template_week_num">Tjedan %1$s</string>
   <string name="time_zone">Vremenska zona</string>

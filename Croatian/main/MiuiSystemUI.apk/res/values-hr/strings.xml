@@ -722,6 +722,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="incorrect_pukcode">Netočan PUK kod</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne mogu promjeniti prostore kada su uključene roditeljske kontrole"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
@@ -1198,12 +1199,12 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="phone_locked_string">Telefon je zaključan</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
-  <string name="pip_close">Zatvori PIP</string>
+  <string name="pip_close">Zatvori PiP</string>
   <string name="pip_fullscreen">Cijeli zaslon</string>
   <string name="pip_menu_title">Izbornik slike u slici</string>
   <string name="pip_notification_message">Ako ne želite da %s upotrebljava ovu značajku, dodirnite da otvorite postavke i isključite je.</string>
   <string name="pip_notification_title">%s je u slici u slici</string>
-  <string name="pip_notification_unknown_title">(Program bez naslova)</string>
+  <string name="pip_notification_unknown_title">(Nema naziva programa)</string>
   <string name="pip_pause">Pauza</string>
   <string name="pip_phone_close">Zatvori</string>
   <string name="pip_phone_dismiss_hint">Povucite prema dolje za odbacivanje</string>

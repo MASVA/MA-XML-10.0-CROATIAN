@@ -1000,12 +1000,12 @@ brzina uzorkovanja"</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Snimi sve Bluetooth HCI pakete u datoteci</string>
-  <string name="bt_ldac_declaration">Kada Bluetooth uređaj podržava LDAC, bit će povezan prema zadanim postavkama. LDAC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije. Pogreška reprodukcije se može pojaviti zbog ograničenja hardvera Bluetootha</string>
+  <string name="bt_ldac_declaration">Kada Bluetooth uređaj podržava LDAC, bit će povezan prema zadanim postavkama. LDAC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera.</string>
   <string name="bt_ldac_dialog_summary">"LDAC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije
 Ova se značajka može isključiti u [Postavke]"</string>
   <string name="bt_ldac_dialog_title">Trenutni uređaj podržava LDAC, koji je povezan po standardnom:</string>
-  <string name="bt_ldac_open_dialog_summary">LDAC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije. Pogreška reprodukcije se može pojaviti zbog ograničenja hardvera Bluetootha</string>
-  <string name="bt_ldac_open_dialog_title">Jeste li sigurni da želite uključiti LDAC?</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera.</string>
+  <string name="bt_ldac_open_dialog_title">Uključiti LDAC?</string>
   <string name="bt_ldac_pre_summary">Osigurajte visoko kvalitetno audio iskustvo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Značajke</string>
@@ -3077,6 +3077,9 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_features">MIUI laboratorijske značajke</string>
   <string name="miui_lab_gallery_search_desc">Poboljšano pretraživanje slika</string>
   <string name="miui_lab_gallery_search_title">Pronađi fotografije u Galeriji</string>
+  <string name="miui_lab_install_drive_mode_error">"Ne mogu instalirati, pokušajte ponovo."</string>
+  <string name="miui_lab_install_drive_mode_summary">"Način rada za automobil je aplikacija sustava. Instalacija ne zahtijeva internetsku vezu."</string>
+  <string name="miui_lab_install_drive_mode_title">Instaliraj način rada za automobil</string>
   <string name="miui_lab_settings">MIUI laboratorij</string>
   <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
@@ -5101,7 +5104,7 @@ Možda je PIN netočan."</string>
   <string name="sound_settings_summary">Glasnoća zvona na %1$s</string>
   <string name="sound_settings_summary_silent">Softver zvona postavljen na nečujno</string>
   <string name="sound_settings_summary_vibrate">Softver zvona postavljen na vibraciju</string>
-  <string name="sound_stereo_mode_summary">Dostupno samo kada reproducirate zvuk putem zvučnika</string>
+  <string name="sound_stereo_mode_summary">Radi samo sa zvučnikom</string>
   <string name="sound_stereo_mode_title">Stereo zvuk</string>
   <string name="sound_vibrate_settings">Zvuk &amp; vibracija</string>
   <string name="sound_work_settings">Zvukovi radnog profila</string>
@@ -6207,13 +6210,14 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wapi_cert_manage_summary">Dodajte ili izbrišite WAPI certifikat</string>
   <string name="wapi_cert_manage_title">Upravljanje WAPI certifikatom</string>
   <string name="wapi_cert_select">WAPI certifikat</string>
-  <string name="wapi_no">ne</string>
+  <string name="wapi_no">Ne</string>
   <string name="wapi_no_vaild_cert">Nema dostupnih certifikata, instalirati sada?</string>
   <string name="wapi_password_empty">Unesite zaporku</string>
   <string name="wapi_password_hex_format_invalid">Nevažeći heksadecimalni znakovi</string>
   <string name="wapi_password_hex_length_invalid">Broj heksadecimalnih znakova mora biti jednak broju</string>
-  <string name="wapi_password_length_invalid">Zaporka mora biti: 8-64 znakova</string>
+  <string name="wapi_password_length_invalid">Zaporka mora imati 8 do 64 znakova</string>
   <string name="wapi_psk_type">Vrsta zaporke</string>
+  <string name="wapi_yes">Da</string>
   <string name="warm_color">Toplo</string>
   <string name="web_action_enable_summary">Veze će se otvarati u aplikacijama čak i ako te aplikacije nisu instalirane</string>
   <string name="web_action_enable_title">Instant aplikacije</string>
