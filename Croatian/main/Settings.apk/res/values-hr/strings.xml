@@ -3401,7 +3401,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notification_channel_badge_title">Prikaži točku obavijesti</string>
   <string name="notification_channel_sound_title">Zvuk</string>
   <string name="notification_channel_title">Kategorija obavijesti</string>
-  <string name="notification_channels">Kategorije</string>
+  <string name="notification_channels">Kategorije obavijesti</string>
   <string name="notification_channels_other">Drugo</string>
   <string name="notification_content_block_summary">Nikad ne prikazuj obavijesti na zaslonu obavijesti ili na perifernim uređajima</string>
   <string name="notification_content_block_title">Prikaži obavijesti</string>

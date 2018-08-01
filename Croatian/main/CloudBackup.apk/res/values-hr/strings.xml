@@ -129,8 +129,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="menu_item_sort_name">Naziv</string>
   <string name="menu_item_sort_size">Veličina</string>
   <string name="miui_device_name">Android</string>
-  <string name="msg_alert_cancel_restore">Zaustaviti vraćanje Sig. kopije s Mi Clouda?</string>
-  <string name="msg_alert_restore_error">Vraćanje Sig. kopije s Mi Clouda nije uspjelo, pokušajte ponovno.</string>
+  <string name="msg_alert_cancel_restore">Vraćanje stavki. Zaustaviti?</string>
+  <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Mi Clouda. Pokušaj ponovno.</string>
   <string name="name_model">"%1$s %2$s"</string>
   <string name="no_account">Niste prijavljeni u Mi Račun.</string>
   <string name="no_backup">Nema Sig. kopija na Mi Cloudu</string>
@@ -178,7 +178,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="start_recover">Vraćanje %s</string>
   <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
   <string name="title_alert_cancel_restore">Zaustavi vraćanje</string>
-  <string name="title_alert_restore_error">Vraćanje nije uspjelo</string>
+  <string name="title_alert_restore_error">Ne mogu vratiti</string>
   <string name="total_num">%d stavki,</string>
   <string name="total_space">Ukupni prostor: %s</string>
   <string name="trans_pausing">Pauzirano…</string>

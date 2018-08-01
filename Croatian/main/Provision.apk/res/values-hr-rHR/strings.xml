@@ -87,17 +87,17 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="system_navigation_mode">Način navigacije sustavom</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
-  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, moduli Početnog zaslona, Game center, Brze aplikacije, brze kartice, statistike, pametne kartice, Mi Link i komponente Mi Računa povezati će se na internet i pribaviti vašu lokaciju."</string>
-  <string name="terms_of_use_label_gms">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.
- 
-Morate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Game center, MAB ,MiuiDaemon i MSA komponente sustava, Brze aplikacije, brze kartice, statistike, smart kartice, Mi Link, Mi Račun, i komponente usluge Google Play povezati će se na internet i pribaviti vašu lokaciju."</string>
-   <string name="terms_of_use_label_systemhelper">Usluga samoregistriranja</string>
+  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i pribaviti vašu lokaciju."</string>
+  <string name="terms_of_use_label_systemhelper">, Usluga samo registriranja</string>
+  <string name="terms_of_use_lable_apps">Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Centar za igre, MAB, MIUI Daemon i MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate se složiti s Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
   <string name="terms_of_use_lable_default_input_method_kika">"
 
 Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
+  <string name="terms_of_use_lable_gms">, Usluge Google Playa</string>
+  <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o Privatnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o Privatnosti</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
