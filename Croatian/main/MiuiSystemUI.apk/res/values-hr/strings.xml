@@ -103,7 +103,7 @@
   <string name="accessibility_home">Početna</string>
   <string name="accessibility_ime_switch_button">Promjena načina unosa</string>
   <string name="accessibility_key">Prilagođeni navigacijski gumb</string>
-  <string name="accessibility_left_button">prečac</string>
+  <string name="accessibility_left_button">Prečac</string>
   <string name="accessibility_location_active">Zahtjevi za lokaciju aktivni su</string>
   <string name="accessibility_managed_profile">Radni profil</string>
   <string name="accessibility_menu">Izbornik</string>
@@ -276,7 +276,7 @@
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">"UI Sustava"</string>
-  <string name="app_name">Zaštita tipkovnice</string>
+  <string name="app_name">Zaklj. zaslon</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="as_important">Važno</string>
   <string name="as_unimportant">Nevažno</string>
@@ -814,7 +814,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charging_info_tip_text2">"Nemojte prepuniti bateriju. Višestruka kraća punjenja su bolja od noćnih punjenja."</string>
   <string name="keyguard_charging_info_tip_text3">Izbjegavajte punjenje baterije uređaja kada je okolna temperatura niža od 0 °C.</string>
   <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
-  <string name="keyguard_charging_info_tip_text5">Baterija kada se dulje puni postaje toplija nego obično.</string>
+  <string name="keyguard_charging_info_tip_text5">Potrebno je duže da se baterija napuni kada postane toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
   <string name="keyguard_indication_charging_time">Punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_charging_time_fast">Brzo punjenje (%s do pune baterije)</string>
@@ -854,7 +854,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_unlock">Prijeđite prstom prema gore za otključavanje</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kkmm</string>
-  <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
+  <string name="kg_enter_confirm_pin_hint">Potvrdite novi PIN kôd</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja radni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja taj će se korisnik ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_almost_at_login">"Netočno ste iscrtali uzorak za otključavanje %1$d put/a. Nakon još %2$d pokušaja morat ćete otključati telefon pomoću računa e-pošte.
@@ -871,9 +871,9 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
   <string name="kg_login_too_many_attempts">Previše pokušaja iscrtavanja uzorka</string>
   <string name="kg_password_instructions">Unesite zaporku</string>
-  <string name="kg_password_pin_failed">Operacija PIN-a SIM kartice nije uspjela!</string>
-  <string name="kg_password_puk_failed">Operacija PUK-a SIM kartice nije uspjela!</string>
-  <string name="kg_password_wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog mobilnog operatera da bi otključao vaš uređaj.</string>
+  <string name="kg_password_pin_failed">"Ne mogu se otključati pomoću SIM PIN-a"</string>
+  <string name="kg_password_puk_failed">"Ne mogu se otključati pomoću SIM PUK-a"</string>
+  <string name="kg_password_wrong_pin_code_pukked">SIM PIN kod nije točan. Kontaktirajte vašeg operatera kako biste otključali uređaj.</string>
   <string name="kg_password_wrong_puk_code_dead">SIM kartica nije upotrebljiva. Kontaktirajte svog mobilnog operatera.</string>
   <string name="kg_pattern_instructions">Iscrtajte svoj uzorak</string>
   <string name="kg_pin_accepted">Kôd je prihvaćen!</string>
@@ -889,7 +889,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="kg_prompt_reason_timeout_pattern">Unesite uzorak radi dodatne sigurnosti</string>
   <string name="kg_prompt_reason_timeout_pin">Unesite PIN radi dodatne sigurnosti</string>
   <string name="kg_prompt_reason_user_request">Uređaj je ručno zaključan</string>
-  <string name="kg_puk_enter_pin_hint">Unesite željeni PIN kôd</string>
+  <string name="kg_puk_enter_pin_hint">Unesite novi PIN kôd</string>
   <string name="kg_puk_enter_puk_hint">SIM je sad onemogućen. Unesite PUK kôd da biste nastavili. Obratite se mobilnom operateru za više pojedinosti.</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM mobilnog operatera \"%1$s\" sada je onemogućen. Unesite PUK kôd da biste nastavili. Obratite se mobilnom operateru za više pojedinosti.</string>
   <string name="kg_sim_pin_instructions">Unesite PIN za SIM</string>
@@ -980,7 +980,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="lockscreen_none">Ništa</string>
   <string name="lockscreen_shortcut_left">Lijevi prečac</string>
   <string name="lockscreen_shortcut_right">Desni prečac</string>
-  <string name="lockscreen_sim_error_message_short">Nevažeća kartica.</string>
+  <string name="lockscreen_sim_error_message_short">SIM kartica nije valjana.</string>
   <string name="lockscreen_storage_locked">Otključaj za sve značajke i podatke</string>
   <string name="lockscreen_unlock_left">Lijevi prečac također otključava</string>
   <string name="lockscreen_unlock_right">Desni prečac također otključava</string>
