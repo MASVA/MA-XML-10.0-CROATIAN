@@ -545,7 +545,7 @@
   <string name="update_immediately">Ažuriraj sada</string>
   <string name="update_latest">Aplikacija je ažurna</string>
   <string name="update_no_net">Došlo je do pogreške mreže. Pokušajte ponovo.</string>
-  <string name="update_title">NEW UPDATE AVAILABLE</string>
+  <string name="update_title">DOSTUPNO JE NOVO AŽURIRANJE</string>
   <string name="using_theme_has_update_tips">Dostupno je ažuriranje ove teme.</string>
   <string name="using_theme_next_automatic_update">Automatsko ažuriranje</string>
   <string name="using_theme_next_automatic_update_summary">Ažuriraj preuzete teme putem WLAN-a automatski kada je zaslon zaključan</string>
