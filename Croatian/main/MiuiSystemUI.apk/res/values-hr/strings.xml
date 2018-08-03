@@ -871,8 +871,8 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
   <string name="kg_login_too_many_attempts">Previše pokušaja iscrtavanja uzorka</string>
   <string name="kg_password_instructions">Unesite zaporku</string>
-  <string name="kg_password_pin_failed">"Ne mogu se otključati pomoću SIM PIN-a"</string>
-  <string name="kg_password_puk_failed">"Ne mogu se otključati pomoću SIM PUK-a"</string>
+  <string name="kg_password_pin_failed">"Ne mogu otključati pomoću SIM PIN-a"</string>
+  <string name="kg_password_puk_failed">"Ne mogu otključati pomoću SIM PUK-a"</string>
   <string name="kg_password_wrong_pin_code_pukked">SIM PIN kod nije točan. Kontaktirajte vašeg operatera kako biste otključali uređaj.</string>
   <string name="kg_password_wrong_puk_code_dead">SIM kartica nije upotrebljiva. Kontaktirajte svog mobilnog operatera.</string>
   <string name="kg_pattern_instructions">Iscrtajte svoj uzorak</string>
