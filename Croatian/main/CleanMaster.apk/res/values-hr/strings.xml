@@ -122,6 +122,7 @@
   <string name="clean_content_three">3 stavke</string>
   <string name="clean_content_two">2 stavke</string>
   <string name="clean_content_zero">Ništa</string>
+  <string name="clean_summary">Očišćeno datoteka: %1$s</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Widget u panelu obavijesti</string>
@@ -333,6 +334,8 @@
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplik., memorija %2$s</string>
+  <string name="memory_clean_icon_text">Očisti memoriju</string>
+  <string name="memory_clean_no_trash_tip">Sve izgleda dobro</string>
   <string name="menu_add_to_white_list">Dodaj u iznimke</string>
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Instaliraj ovu aplikaciju</string>
@@ -376,6 +379,12 @@
   <string name="notification_title_of_garbage_cleanup">%s datoteka smeća</string>
   <string name="notify_when">Obavijesti me kada veličina smeće dosegne 100MB</string>
   <string name="ok">U redu</string>
+  <string name="onekeyclean_boost_available">%s dostupno​</string>
+  <string name="onekeyclean_boost_cleaned">%s očišćeno</string>
+  <string name="onekeyclean_boosted_title">Uspješno očišćeno</string>
+  <string name="onekeyclean_boosting_title">Povećanje brzine</string>
+  <string name="onekeyclean_card_btn">Očisti sada</string>
+  <string name="onekeyclean_card_summery">Obrišite smeće da oslobodite prostor</string>
   <string name="open">Uključi</string>
   <string name="open_app">Otvori</string>
   <string name="open_browser">Otvori u pregledniku</string>
@@ -416,6 +425,7 @@
   <string name="pref_title_choose_engine">Definicije</string>
   <string name="pref_title_clean_alert">Podsjeti za čišćenje</string>
   <string name="pref_title_cleanup_white_list">Iznimke</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Prikaži prečac na Poč. zaslonu</string>
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
   <string name="pref_title_garbage_auto_clean_content">Stavke za čišćenje</string>
   <string name="pref_title_garbage_cleanup_check_size">Ograničenje veličine smeća</string>

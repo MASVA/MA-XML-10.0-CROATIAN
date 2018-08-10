@@ -343,12 +343,16 @@
         <item quantity="one">%s aplikacija za plaćanje je zaštićena</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">Zaštićenih aplikacija: %s</item>
+        <item quantity="other">Zaštićene aplikacije: %s</item>
         <item quantity="one">%s aplikacija je zaštićena</item>
     </plurals>
     <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">Nezaštićenih aplikacija: %s</item>
+        <item quantity="other">Nezaštićene aplikacije: %s</item>
         <item quantity="one">%s aplikacija nije zaštićena</item>
+    </plurals>
+	<plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Vraćanja na tvorničke postavke (%ds)</item>
+        <item quantity="one">Vraćanje na tvorničke postavke (%ds)</item>
     </plurals>
 	<plurals name="section_clear_acc_item_right_tips">
          <item quantity="other">%d zaklj. aplik. čekaju da budu očišćene</item>

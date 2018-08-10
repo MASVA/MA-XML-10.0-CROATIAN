@@ -251,6 +251,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_dialog_sync_now_title">Povežite se na WLAN da sinkronizirate</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
+  <string name="micloud_dspt_provision_xms">Koristite Mi Cloud za sinkronizaciju podataka.</string>
   <string name="micloud_find_device_close_alert_content">"Ako isključite tu značajku, nećete moći pronaći uređaj ako je izgubljen."</string>
   <string name="micloud_find_device_close_alert_negtive">Isključi svejedno</string>
   <string name="micloud_find_device_close_alert_positive">Ostavi uključeno</string>
@@ -310,6 +311,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_button_authorize">Autoriziraj</string>
   <string name="micloud_main_button_set_internet">Postavke</string>
   <string name="micloud_main_cancel_sync">Otkaži sinkr.</string>
+  <string name="micloud_main_cancel_sync_now">Otkazivanje…</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_detail">Prikaži detalje</string>
   <string name="micloud_main_error_activated_fail">Aktivirajte SIM karticu.</string>
@@ -337,6 +339,11 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_query_error_title">"Ne mogu dobiti informacije o tijeku sinkronizacije"</string>
   <string name="micloud_main_resume_sync_soon">Nastavi s sinkr. uskoro</string>
   <string name="micloud_main_set_internet">Mreža</string>
+  <string name="micloud_main_simple_last_sync_time">Vrijeme zadnje sinkr.: %s</string>
+  <string name="micloud_main_simple_off">Sinkr. isklj.</string>
+  <string name="micloud_main_simple_pending">Na čekanju</string>
+  <string name="micloud_main_simple_synced">Sinkronizirano</string>
+  <string name="micloud_main_simple_syncing">Sinkronizacija…</string>
   <string name="micloud_main_see_unsynced_data">Provjerite podatke za sinkronizaciju</string>
   <string name="micloud_main_space_full">Cloud pohrana je puna</string>
   <string name="micloud_main_space_full_message">Kupite više prostora za pohranu u Mi Cloudu</string>
@@ -448,6 +455,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_storage_expires_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro će isteći.</string>
   <string name="micloud_storage_expires_very_soon_title">Nadoplaćen Cloud prostor za pohranu uskoro će isteći.</string>
   <string name="micloud_storage_full">Mi Cloud je pun</string>
+  <string name="micloud_storage_unit_gb">%s GB</string>
+  <string name="micloud_storage_unit_mb">%s MB</string>
   <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
   <string name="micloud_sync_alert_dialog_message">Sinkronizirajte vaše fotografije, kontakte, bilješke i više na svim vašim uređajima.</string>
   <string name="micloud_sync_alert_dialog_negative">Odustani</string>

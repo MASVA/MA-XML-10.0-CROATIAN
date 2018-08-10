@@ -560,7 +560,8 @@ brzina uzorkovanja"</string>
   <string name="cfnry_title">Proslijedi kad je neodgovoreno</string>
   <string name="cfu_title">Uvijek proslijedi pozive</string>
   <string name="change">Postavi</string>
-  <string name="change_data_preference_4g_only_prompt">Izgleda da imate samo 4G SIM karticu. Postaviti ovu karticu kao zadanu za mobilnu podatkovnu vezu?</string>
+  <string name="change_data_preference_4g_only_prompt">Izgleda da imate samo 4G SIM karticu. Da biste bili sigurni da radi normalno, postavite je kao zadani za mobilne podatke. Postaviti sada?</string>
+  <string name="change_data_sim_4g_only_prompt">"Samo SIM %1$s podržava 4G. Kada SIM %2$s nije vaš zadani SIM za mobilne podatke, SIM kartica možda neće raditi normalno. Promjeniti sada?"</string>
   <string name="change_default_data_card">Zadani SIM mobilni podaci</string>
   <string name="change_default_data_card_summary">Izgleda da ste promijenili SIM kartice. Postaviti ovu karticu kao zadani SIM za mobilnu podatkovnu vezu?</string>
   <string name="change_num">Ažuriraj</string>
@@ -1441,6 +1442,8 @@ Kontaktirajte vašeg operatera."</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
   <string name="onscreenVideoCallText">Videopoziv</string>
   <string name="open_miui">Otvori</string>
+  <string name="opened_dual_4g_confirm_prompt">Izgleda da imate samo 4G SIM karticu. Dvostruki 4G je uključen automatski.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">Samo SIM %1$s podržava 4G. Da biste bili sigurni da vaša SIM kartica radi normalno, dvostruki 4G je uključen.</string>
   <string name="operation_successfully">Radnja je uspjela!</string>
   <string name="operator_first">"Dati prioritet planu operatera"</string>
   <string name="operator_first_mins_hint">xx minuta</string>

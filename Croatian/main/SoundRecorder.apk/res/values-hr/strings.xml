@@ -73,6 +73,7 @@
   <string name="preference_scenes">Vrsta snimanja</string>
   <string name="preference_silent_mode">Isključi zvuk zvona prilikom snimanja</string>
   <string name="preference_tip_rename">Ručno imenuj snimku</string>
+  <string name="privacy_policy_title">Pravila o Privatnosti</string>
   <string name="recognition_error_cancel">Otkazano</string>
   <string name="recognition_error_download_cancel">Kasnije</string>
   <string name="recognition_error_download_data_msg">Preuzmite alat za prepoznavanje kako bi ova usluga bila dostupna, što će potrošiti oko 20 MB u trenutnoj mobilnoj podatkovnoj vezi.</string>

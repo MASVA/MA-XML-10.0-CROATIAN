@@ -82,6 +82,9 @@
   <string name="miui_screen_ratio_hint_message">Ova se aplikacija može pokrenuti u cijelom zaslonu, što može uzrokovati pogrešno prikazivanje. To možete promijeniti u Postavke &gt; Prikaz preko cijelog zaslona.</string>
   <string name="miui_screen_ratio_hint_ok">U redu</string>
   <string name="miui_upgrading_notification_title">Sustav se učitava, neke značajke mogu biti ograničene</string>
+  <string name="miui_warning_button_cancel">Odustani</string>
+  <string name="miui_warning_button_ok">U redu</string>
+  <string name="miui_warning_tip_info">Došlo je do pogreške %1$s. Zatvoriti aplikaciju?</string>
   <string name="onehour">30 minuta</string>
   <string name="package_delete_confirm_step_1">Deinstalirati %s?</string>
   <string name="package_delete_confirm_step_2">Deinstaliranje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>

@@ -971,6 +971,8 @@ brzina uzorkovanja"</string>
   <string name="bootloader_locked_answer_2">"1. Provjerite jeste li već umetnuli SIM karticu u uređaj.
 2. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
 3. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
+2. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun i uređaj</string>
   <string name="bootloader_locked_question_1">Zašto bi uređaji trebali biti zaključani?</string>
   <string name="bootloader_locked_question_2">Razumijem rizik, ali i dalje želim otključati svoj uređaj.</string>
@@ -2007,6 +2009,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Eksperimentalno</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
+  <string name="extended_power_menu">Prošireni izbornik Power</string>
   <string name="external_code_size_label">Aplikacija za USB pohranu</string>
   <string name="external_data_size_label">Aplikacija za USB pohranu podataka</string>
   <string name="external_source_switch_title">Dopusti iz ovog izvora</string>
@@ -2183,6 +2186,12 @@ Gradom je šetalo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni
   <string name="foreground_traffic">U prvom planu %s</string>
   <string name="forget">ZABORAVI</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
+  <string name="forget_password_dialog_button_text">Natrag</string>
+  <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Odaberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, i pričekajte dok se uređaj ne ponovo pokrene.&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Ako zaboravite zaporku, nećete je moći vratiti. Međutim, možete ponovno postaviti svoju zaporku nakon što &amp;lt;font color=#ec2700&amp;gt;izbrišete sve podatke na uređaju&amp;lt;/font&amp;gt; (uključujući fotografije, kontakte itd.). Izradite sig. kopiju svih važnih podataka prije ovog."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Isključite uređaj. Pritisnite istovremeno tipke &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; i &amp;lt;font color=#e6e6e6&amp;gt;[Volume +]&amp;lt;/font&amp;gt;, i držite ih dok ne vidite &amp;lt;img src=''&amp;gt; ikonu."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_two">Slijedite ove korake za brisanje podataka:</string>
+  <string name="forget_password_dialog_title">Resetiranje zaporke</string>
   <string name="forget_pattern">Zaboravili ste zaporku?</string>
   <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
   <string name="forget_privacy_password_summary">Koristite Mi Račun za poništavanje vaše zaporke</string>
@@ -2486,6 +2495,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyboard_shortcuts_helper">Pomoćnik prečaca tipkovnice</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostupnih prečaca</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
+  <string name="keyguard_vertical_clock_title">Okomiti sat</string>
   <string name="keyguard_left_function_chooser_hint_text">Lijevi prečac promijenjen u %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Lijevo</string>
@@ -4334,6 +4344,7 @@ UT sučelje: %5$s"</string>
   <string name="ringtone_title">Melodija zvona telefona</string>
   <string name="ringtone_uniform_setting_title">Postavke dvije SIM kartice</string>
   <string name="ringtones_install_custom_sound_content">Ova će se datoteka kopirati u mapu %s</string>
+  <string name="ringtones_category_preference_title">Melodije zvona</string>
   <string name="ringtones_install_custom_sound_title">Dodati prilagođeni zvuk?</string>
   <string name="roaming">Roaming podataka</string>
   <string name="roaming_disable">"Nemoj koristiti podatkovne usluge u roamingu"</string>
@@ -4738,6 +4749,9 @@ Za prikvačivanje zaslona:
   <string name="second_space">Drugi prostor</string>
   <string name="secondspace_category">Drugi prostor</string>
   <string name="secondspace_delete_space_title">Izbriši Drugi prostor</string>
+  <string name="secspace_fod_finger_tips">"Ne mogu potvrditi. Pokušajte ponovo."</string>
+  <string name="secspace_fod_finger_title">Potvrdite otisak prsta</string>
+  <string name="secspace_fod_use_password">Unesite zaporku</string>
   <string name="secure_keyguard_business_title">Postavi Zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="security_dashboard_summary">Zaklj. zaslona, otisak prsta</string>
@@ -4760,6 +4774,8 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_rejected_via_home_manager">"Ova značajka nije podržana u demo verziji."</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku Zaklj. zaslona</string>
+  <string name="security_input">Sigurnosni unos</string>
+  <string name="security_input_hint">Pomoću sigurnosne tipkovnice unesite zaporku</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
@@ -5162,6 +5178,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
+  <string name="status_bar_settings_notification_led_custom">Prilagođena boja</string>
   <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
