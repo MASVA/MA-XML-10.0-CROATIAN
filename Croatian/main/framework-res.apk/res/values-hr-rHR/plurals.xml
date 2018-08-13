@@ -16,6 +16,10 @@
         <item quantity="other">Prije %d h</item>
         <item quantity="one">Prije 1 sata</item>
     </plurals>
+	<plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Pokušajte ponovo za %d sek.</item>
+        <item quantity="one">Pokušajte ponovo za 1 sek.</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Posljednjih %d dana</item>
         <item quantity="one">Posljednji %d dan</item>

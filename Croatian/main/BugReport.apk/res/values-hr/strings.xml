@@ -263,6 +263,7 @@
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti postavke</string>
   <string name="post_miui_bbs_failed">"Ne mogu objaviti post na MIUI Forum"</string>
+  <string name="privacy_policy_title">Privila o Privatnosti</string>
   <string name="pull_to_refresh_pull_label">Povucite za osvježiti</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
   <string name="pull_to_refresh_release_label">Otpustite za osvježiti</string>
@@ -293,6 +294,7 @@
   <string name="systemui">Panel obavijesti</string>
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">Moja izvješća</string>
+  <string name="tab_title_preferences">Postavke</string>
   <string name="tab_title_report">Pov. informacije</string>
   <string name="time_in_justnow">Upravo sada</string>
   <string name="title_answer_feedback_main">Pronašli smo odgovore!</string>

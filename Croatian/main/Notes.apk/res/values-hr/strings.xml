@@ -184,6 +184,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="search_setting_description">Pretraži tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="set_alarm_description">Postavi alarm</string>
+  <string name="setting_other">OSTALO</string>
+  <string name="setting_privacy">Pravila o Privatnosti</string>
   <string name="sina_share_fail">"Ne mogu poslati"</string>
   <string name="sina_share_fail_content_repeat">"Već ste podijelili ovo."</string>
   <string name="sina_share_pendding">Šaljem…</string>

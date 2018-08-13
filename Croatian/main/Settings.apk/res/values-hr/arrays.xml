@@ -123,6 +123,14 @@
         <item>Dostupan</item>
         <item>Izvan dometa</item>
     </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Koristite zadanu postavku sustava: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 minute</item>
         <item>5 minuta</item>
@@ -144,6 +152,11 @@
         <item>Uvijek</item>
         <item>Samo kad je priključen na napajanje</item>
         <item>Nikad</item>
+    </string-array>
+	<string-array name="dark_ui_mode_entries">
+        <item>Automatski (na temelju doba dana)</item>
+        <item>Uvijek uključeno</item>
+        <item>Uvijek isključeno</item>
     </string-array>
 	<string-array name="data_usage_data_range">
         <item>Posljednjih 30 dana</item>
@@ -175,9 +188,18 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>Ne</item>
+        <item>Da</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statično</item>
+    </string-array>
+	<string-array name="wifi_metered_entries">
+        <item>Otkrij automatski</item>
+        <item>Tretiraj kao mjereno</item>
+        <item>Tretiraj kao nemjereno</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Ništa</item>

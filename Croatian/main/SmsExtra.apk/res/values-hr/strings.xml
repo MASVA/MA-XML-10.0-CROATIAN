@@ -31,6 +31,8 @@
   <string name="message_details_title">Podaci o poruci</string>
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messaging">Poruke</string>
+  <string name="more">Više</string>
+  <string name="net_sms_unsubscribe">Pretplata otkazana</string>
   <string name="packages_select_sim_cards_title">Odaberite SIM karticu</string>
   <string name="received_label">"Primljeno: "</string>
   <string name="repayment_network_error">Nešto nije u redu s vašom mrežom</string>

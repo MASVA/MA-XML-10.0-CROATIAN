@@ -1926,6 +1926,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enter_password">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
   <string name="enter_pattern">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
   <string name="enter_pin">Unesite trenutnu zaporku Zaklj. zaslona za dešifriranje uređaja nakon ponovnog pokretanja</string>
+  <string name="enterprise_mode">Enterprise način</string>
   <string name="enterprise_privacy_always_on_vpn_device">Aktiviran je uvijek uključeni VPN</string>
   <string name="enterprise_privacy_always_on_vpn_personal">Uvijek uključeni VPN aktiviran je u osobnom profilu</string>
   <string name="enterprise_privacy_always_on_vpn_work">Uvijek uključeni VPN aktiviran je u radnom profilu</string>

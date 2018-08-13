@@ -6,6 +6,8 @@
 Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="PrivacyContactDes2">"Ako ste koristili privatne poruke u Prvom prostoru,
 ta će značajka biti automatski dodana u Drugi prostor."</string>
+  <string name="about_ent_mode">O načinu Enterprise</string>
+  <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte otisak prsta</string>
   <string name="air_space_created">Radni prostor uspješno izrađen</string>
   <string name="air_space_deleted">Radni prostor uspješno izbrisan</string>
@@ -86,7 +88,31 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="encrypt_space_delete_dialog_title">Pažnja</string>
   <string name="encrypt_space_delete_notification_message">Izbrišite Drugi prostor i izradite novi za uspješno ažuriranje uređaja.</string>
   <string name="encrypt_space_delete_notification_title">Drugi prostor</string>
+  <string name="ent_activating">Aktiviranje…</string>
+  <string name="ent_activation">Aktiviraj</string>
+  <string name="ent_activation_hint">Unesite korporativni kôd zajedno s kodom licence kako biste aktivirali način rada Enterprise. Nakon toga omogućit će se usluge prilagođenih poduzeća.</string>
+  <string name="ent_activation_hint_whit_licence">"Aktivirajte način rada Enterprise da biste omogućili prilagođene usluge poduzeća.
+Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i prihvatite srodna pravila o privatnosti."</string>
+  <string name="ent_agency_code">Korporativni kod</string>
+  <string name="ent_agency_code_hint">Unesite korporativni kôd</string>
+  <string name="ent_agency_code_invalid">Korporativni kod koji ste unijeli nije valjan.</string>
+  <string name="ent_agree_privacy_policy">"Pročitao sam i prihvaćam Pravila o privatnosti"</string>
+  <string name="ent_app_verified">Izgleda da postoje Enterprise aplikacije instalirane na vašem uređaju. Aktivirati način rada Enterprise?</string>
+  <string name="ent_confirm_dialog_content">"Nakon aktiviranja načina rada Enterprise nećete se moći vratiti na sadašnje stanje vašeg sustava. Međutim, svi vaši podaci i dalje će biti pohranjeni na ovom uređaju. Morat ćete ponovo pokrenuti uređaj da biste aktivirali način rada Enterprise. Aktivirati sada?"</string>
+  <string name="ent_disallow_running">Aplikaciji je zabranjeno pokretanje</string>
+  <string name="ent_error_dialog_content">Barem jedan od unesenih kodava nije ispravan. Provjerite korporacijske i licencne kodove i unesite ih ponovo.</string>
+  <string name="ent_get_code_hint">Možete dobiti korporativne i licencne kodove od svog nadzornika</string>
+  <string name="ent_invalid_agency">Korporativni kod nije valjan.</string>
+  <string name="ent_invalid_qr">QR kod nije valjan.</string>
+  <string name="ent_licence_code">Kôd licence</string>
+  <string name="ent_licence_code_hint">Unesite kôd licence</string>
+  <string name="ent_licence_code_invalid">Kôd licence koji ste unijeli nije važeći.</string>
+  <string name="ent_mode_activated">Enterprise način je aktiviran</string>
+  <string name="ent_network_error">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="ent_next_step">Dalje</string>
+  <string name="ent_privacy_policy_notice">* Osobni podaci u ovom načinu prikupljaju se prema pravilima koje je utvrdila vaša korporacija. Xiaomi ne prikuplja osobne podatke u ovom načinu rada.</string>
   <string name="enter_air_space">Idi u Radni prostor</string>
+  <string name="enterprise_mode">Enterprise način</string>
   <string name="entrance_reopen_toast_msg">Prikaz prečaca Drugog prostora zbog različitih vrsta zaporki</string>
   <string name="err_copy_contacts">"Ne mogu kopirati kontakte"</string>
   <string name="err_copy_files">"Ne mogu kopirati datoteke"</string>

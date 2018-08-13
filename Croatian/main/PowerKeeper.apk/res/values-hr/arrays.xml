@@ -108,8 +108,8 @@
          <item>Način performansi</item>
      </string-array>
      <string-array name="thermal_summaries">
-         <item>Prioritiziraj kontrolu temperature</item>
-         <item>Prioritiziraje performanse</item>     
+         <item>Trenutno način upravljanja temperaturom</item>
+         <item>Trenutno način performanse</item>     
      </string-array>
 	 <string-array name="power_mode_entries">
          <item>Performanse</item>

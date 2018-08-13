@@ -212,8 +212,8 @@
         <item>Upotreba odabira sustava (zadano)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
@@ -222,14 +222,21 @@
         <item>Upotreba odabira sustava (zadano)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
      </string-array>
+	 <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktivno</item>
+        <item>, aktivno (medija)</item>
+        <item>, aktivno (telefon)</item>
+    </string-array>
      <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (zadano)</item>
+        <item>AVRCP 1.3</item>
+		<item>AVRCP 1.4 (zadano)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
