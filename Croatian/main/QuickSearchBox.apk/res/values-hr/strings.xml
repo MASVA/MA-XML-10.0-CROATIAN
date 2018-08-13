@@ -43,18 +43,13 @@
   <string name="clear_shortcuts_prompt">"To će izbrisati sve prečace i nedavno izabrane prijedloge pretraživanja.(Za brisanje povijesti preglednika, upotrijebite postavke preglednika.)"</string>
   <string name="clear_shortcuts_summary">Izbrišite prečace do nedavno odabranih prijedloga pretraživanja</string>
   <string name="common_category_entrance">Kartice</string>
-  <string name="common_category_entrance_subtitle">Nećete vidjeti kartice s kategorijama kada je ova značajka isključena</string>
   <string name="common_history">Povijest pretraživanja</string>
   <string name="common_history_first">Prioritize search history</string>
   <string name="common_history_first_subtitle">Povijest pretraživanja prikazat će se prvo kada je ova značajka isključena</string>
   <string name="common_history_subtitle">Nećete vidjeti prijedloge iz povijesti pretraživanja kada je ta značajka isključena</string>
-  <string name="common_hot">Popularni upiti</string>
-  <string name="common_hot_subtitle">Nećete vidjeti popularne upite i prijedloge kada je ova značajka isključena</string>
   <string name="common_personal">Personalizacija</string>
   <string name="common_recent_apps">Prijedlozi aplikacija</string>
   <string name="common_recent_apps_first">Prioritiraj prijedloge aplikacija</string>
-  <string name="common_recent_apps_first_subtitle">Najčešće korištene aplikacije bit će prikazane prvo kada je ova značajka uključena</string>
-  <string name="common_recent_apps_subtitle">Nećete vidjeti nedavno korištene aplikacije kada je ta značajka isključena</string>
   <string name="common_setting">Opće postavke</string>
   <string name="clear_view_history_confirm">Izbrisati povijest pretraživanja?</string>
   <string name="clear_webview_history_dialog_content">Izbrisati predmemoriju i povijest pregledavanja?</string>
@@ -107,7 +102,6 @@
   <string name="cta_declaration_title">Uvjeti i odredbe</string>
   <string name="default_download_path_dialog_title">Vratiti na zadanu lokaciju preuzimanja?</string>
   <string name="default_download_path_prefix">Zadana lokacija:</string> 
-  <string name="cta_declaration_title">Uvjeti Pružanja Usluge</string>
   <string name="default_hint">Traži aplikacije, glazbu, videozapise, knjige…</string>
   <string name="delete_description">Izbriši</string>
   <string name="delete_history">Izbriši ovu stavku</string>

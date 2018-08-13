@@ -326,7 +326,6 @@
   <string name="block_record_notification_title">Obavijest skrivena</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano s medijskim zvukom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Koristi za medijski zvuk</string>
-  <string name="bluetooth_connected">Povezano %1$s</string>
   <string name="bluetooth_active_battery_level">Aktivno, baterija %1$s</string>
   <string name="bluetooth_active_no_battery_level">Aktivno</string>
   <string name="bluetooth_battery_level">baterija %1$s</string>
@@ -1914,7 +1913,6 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_no_internet_no_reconnect">"Ne mogu se povezati automatski”</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
   <string name="wifi_remembered">Spremljeno</string>
-  <string name="wifi_security_none">Ništa</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ništa</string>
