@@ -483,6 +483,9 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="go_to_settings">Idi u Postavke</string>
   <string name="group_artist">Bendovi</string>
   <string name="handle_later">Ne sada</string>
+  <string name="headset_and_audio_effect_category">Slušalice &amp; zvučni efekti</string>
+  <string name="headset_and_audio_effect_summary">Slušalice &amp; equalizer</string>
+  <string name="headset_and_audio_effect_title">Slušalice &amp; zvučni efekti</string>
   <string name="hide_album">Sakrij omot albuma</string>
   <string name="hide_lyric">Sakrij tekst</string>
   <string name="headset_settings">Slušalice &amp; zvučni efekti</string>
