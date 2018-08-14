@@ -1988,7 +1988,6 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dndm_auto_button_title">Ponovi \"Ne ometaj“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automatski isključi \"Ne ometaj“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -2546,7 +2545,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_picker_title">Odaberi gadget</string>
   <string name="gadget_state_off">isključeno</string>
   <string name="gadget_state_on">uključeno</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">isključivanje</string>
   <string name="gadget_state_turning_on">uključivanje</string>
   <string name="gadget_sync">Sinkronizacija</string>
@@ -2940,7 +2938,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lift_to_wake_title">Aktivacija podizanjem</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Brzina veze:</string>
   <string name="list_bg_header_text">"Ako ograničite pozadinsku vezu, nove aplikacije se neće moći povezati s internetom u pozadini nakon što ih instalirate. Nakon toga neće biti u mogućnosti primati poruke ili preuzeti sadržaj."</string>
   <string name="list_empty_text">Prazno</string>
@@ -3397,7 +3394,6 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Uporaba memorije</string>
   <string name="memory_usage_apps">Memorija korištena od strane aplikacija</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="menu_cancel">"Odbaci"</string>
   <string name="menu_check">Iskustvo</string>
@@ -3705,8 +3701,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="networks_title">Mobilne mreže</string>
   <string name="never">Nikad</string>
   <string name="new_backup_pw_prompt">Ovdje upišite novu zaporku za potpunu sigurnosnu kopiju</string>
-  <string name="new_device_suggestion_summary">Take a tour of your new phone</string>
-  <string name="new_device_suggestion_title">"What's new and exciting?"</string>
+  <string name="new_device_suggestion_summary">Upoznajte svoj novi telefon</string>
+  <string name="new_device_suggestion_title">Novi ste korisnik Pixela?</string>
   <string name="new_password_to_new_fingerprint_dialog_msg">Dodajte svoj otiska prsta da biste otključali vaš uređaj s njime.</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">Odustani</string>
   <string name="new_password_to_new_fingerprint_dialog_positive_msg">Dodaj</string>
@@ -3720,7 +3716,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_how_it_works_got_it">Shvaćam</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Zadano plaćanje</string>
   <string name="nfc_payment_default_not_set">Nije postavljeno</string>
   <string name="nfc_payment_favor_default">Uvijek koristi zadanu aplikaciju</string>
@@ -4000,7 +3995,6 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="overlay_settings">Povlačenje preko drugih aplik.</string>
   <string name="owner_info_settings_edit_text_hint">Na primjer  MASVIN Android.</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
   <string name="owner_info_settings_title">Poruka na Zaklj. zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
@@ -4321,7 +4315,6 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_cell">Način čekanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s do pune baterije</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do pune baterije putem utičnice</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do pune baterije putem USB-a</string>
@@ -4554,8 +4547,6 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja:</string>
   <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacija</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
   <string name="process_service_in_use_description">Usluga %1$s je u upotrebi.</string>
@@ -5293,7 +5284,6 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_attention_3">"Morati ćete postaviti novu zaporku za zaključavanje zaslona."</string>
   <string name="security_encryption_attention_4">"Pobrinite se da zapamtite svoju zaporku zaključavanja zaslona, inače ćete morati napraviti kompletno resetiranje i izbrisati sve podatke na uređaju."</string>
   <string name="security_encryption_attention_info">Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatke, medije i ostale datoteke.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Važno</string>
   <string name="security_encryption_close_dialog_info">Odabirom ne šifrirati uređaj pomoću zaporke zaključavanja zaslona može rezultirati da neke Googleove usluge budu nedostupne.</string>
   <string name="security_encryption_close_dialog_title">Idi natrag na zadanu zaštitu zaporkom</string>
@@ -5399,11 +5389,9 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="selinux_status_enforcing">Provođenje</string>
   <string name="selinux_status_permissive">Omogućeno</string>
   <string name="service_background_processes">%1$s slobodno</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s up.</string>
   <string name="service_manage">Postavi</string>
   <string name="service_manage_description">%1$s: trenutno u upotrebi. Dodirnite Postavke za upravljanje.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Ponovno pokretanje</string>
   <string name="service_started_by_app">Pokrenula aplikacija.</string>
   <string name="service_stop">"Zaustavi"</string>
@@ -5431,7 +5419,6 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
   <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Mi Cloud da im pristupite nakon što promjenite telefone.</string>
   <string name="settings_notify_phone_recycled">Vaš je broj telefona recikliran. Dodirnite za dodavanje drugog broja telefona.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
   <string name="settings_safetylegal_activity_unreachable">Nemate podatkovnu vezu. Da biste tu informaciju vidjeli sada, idite na stranicu %s s bilo kojeg računala povezanog s internetom.</string>
@@ -5611,7 +5598,6 @@ Možda je PIN netočan."</string>
   <string name="sim_select_card">Odabir SIM kartice</string>
   <string name="sim_selection_channel_title">Odabir SIM-a</string>
   <string name="sim_selection_required_pref">Potreban je odabir</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM kartice</string>
   <string name="sim_setup_wizard_title">SIM kartice</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -5627,7 +5613,6 @@ Možda je PIN netočan."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
@@ -5726,7 +5711,6 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Promjenite položaj tipke</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Kliznite dolje da biste sakrili tipke zaslona</string>
   <string name="status_bar_screen_button_force_immersive_desc">Prijeđite prstom od dna zaslona za prikaz tipki zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
@@ -5741,7 +5725,6 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_all_app_display_loading">Samo trenutak…</string>
   <string name="status_bar_settings_app_notification_preferences">Postavke aplikacije</string>
   <string name="status_bar_settings_basic_settings">Osnovne postavke</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
@@ -6050,12 +6033,6 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suggestions_title">Prijedlozi</string>
   <string name="suggestions_title_v2">Prijedlozi za vas</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
-  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_divider_text">", "</string>
-  <string name="summary_range_symbol_combination">%1$s – %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s – %2$s</string>
-  <string name="support_country_format">%1$s – %2$s</string>
-  <string name="support_country_list_title">Podrška za:</string>
   <string name="support_disclaimer_do_not_show">Ne prikazuj ponovo</string>
   <string name="support_disclaimer_title">Slanje informacija o sustavu</string>
   <string name="support_escalation_24_7_content_description">Uvijek smo tu za vas</string>
