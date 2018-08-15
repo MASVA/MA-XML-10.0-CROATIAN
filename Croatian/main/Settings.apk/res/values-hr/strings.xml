@@ -5729,6 +5729,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
   <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
+  <string name="status_bar_settings_expand_top_notification">Proširi gornju obavijest</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
   <string name="status_bar_settings_manage_notification">Obavijesti aplikacija</string>

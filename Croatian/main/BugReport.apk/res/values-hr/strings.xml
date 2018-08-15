@@ -9,7 +9,7 @@
   <string name="app_search">Traži aplikacije</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dialog_not_show_again">"Ne prikazuj ponovno"</string>
-  <string name="bugreport_dialog_submit_content">"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi."</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privavila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
@@ -263,6 +263,7 @@
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti postavke</string>
   <string name="post_miui_bbs_failed">"Ne mogu objaviti post na MIUI Forum"</string>
+  <string name="privacy_category_title">Privatnost</string>
   <string name="privacy_policy_title">Privila o Privatnosti</string>
   <string name="pull_to_refresh_pull_label">Povucite za osvježiti</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
@@ -285,8 +286,8 @@
   <string name="select_system_app_tag">Odaberite problem</string>
   <string name="submit_dialog_cancel">"Ne slažem se"</string>
   <string name="submit_dialog_confirm">Slažem se</string>
-  <string name="submit_dialog_content">"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke."</string>
-  <string name="submit_dialog_content_global">"Vaše povratne informacije, zajedno s prilozima (ako postoji) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji."</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima (ako postoje) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
