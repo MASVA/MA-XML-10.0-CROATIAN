@@ -85,5 +85,5 @@
   <string name="timer_format">%s</string>   
   <string name="unchecked">Nije odabrano</string>
   <string name="using_record_confirm_cancel">Ograniči</string>
-  <string name="using_record_confirm_ok">Dopust</string>
+  <string name="using_record_confirm_ok">Dopusti</string>
 </resources>

@@ -1018,6 +1018,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_other">Ostalo</string>
   <string name="preference_phone">"Uređaj"</string>
   <string name="preference_phone_more_title">Postavke poziva</string>
+  <string name="preference_privacy_policy_title">Pravila o Privatnosti</string>
   <string name="preference_remove_duplicate">Združi dvostruke kontakte</string>
   <string name="preference_show_firewall_calllog">Prikaži blokirane pozive u povijesti poziva</string>
   <string name="preference_show_yellowpage_tab_description">Yellow pages  možda neće ispravno raditi kada je ova značajka isključena.</string>
