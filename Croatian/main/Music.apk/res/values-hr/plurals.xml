@@ -175,4 +175,8 @@ ukupno %2$d pjesma</item>
          <item quantity="other">Traženje omota i tekstova albuma (%1$d/%2$d)</item>
          <item quantity="one">Traženje omota albuma i tekst (%1$d/%2$d)</item>  
      </plurals>
+	      <plurals name="video_play_count">
+        <item quantity="other">%1$s pregleda</item>
+        <item quantity="one">%1$s pregled</item>
+     </plurals>
 </resources> 
