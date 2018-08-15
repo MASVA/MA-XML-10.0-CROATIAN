@@ -26,6 +26,7 @@
   <string name="agenda_view">Događaji</string>
   <string name="agenda_yesterday">JUČER, %1$s</string>
   <string name="alarm_label">Odbaci</string>
+  <string name="alert_reminder_expired">Isteklo</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_title">Obavijesti kalendara</string>
   <string name="anniversary_event_title">Godišnjica: %1$s</string>
@@ -39,7 +40,7 @@
   <string name="birthday_event_description_day_after_tomorrow">Prekosutra</string>
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
   <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
-  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
+  <string name="birthday_event_description_special">"%1$s ima %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danas ima</string>
   <string name="birthday_event_description_tomorrow">Sutra ima</string>
   <string name="birthday_event_description_yesterday">Jučer je bio</string>

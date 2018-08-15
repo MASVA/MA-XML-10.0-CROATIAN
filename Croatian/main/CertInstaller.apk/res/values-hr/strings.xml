@@ -6,6 +6,7 @@
   <string name="cert_not_saved">"Certifikat nije instaliran."</string>
   <string name="cert_read_error">"Ne mogu instalirati jer nije bilo moguće pročitati datoteku certifikata."</string>
   <string name="cert_too_large_error">"Ne mogu instalirati jer je certifikat prevelik."</string>
+  <string name="certificate_capabilities_warning">Napomena: izdavatelj tog certifikata može pregledavati sav promet upućen s uređaja i na uređaj.</string>
   <string name="credential_info">"Paket sadrži:"</string>
   <string name="credential_name">"Naziv certifikata:"</string>
   <string name="credential_password">"Unesite zaporku za izdvajanje certifikata."</string>

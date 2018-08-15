@@ -45,4 +45,8 @@
          <item quantity="one">"
  Preostao vam je još %d pokušaj."</item>
      </plurals>
+	 <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezano je %1$d uređaja</item>
+        <item quantity="one">Povezan je %1$d uređaj</item>
+     </plurals>
 </resources>

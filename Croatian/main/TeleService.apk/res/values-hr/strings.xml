@@ -602,7 +602,6 @@ Audio"</string>
   <string name="cell_broadcast_sms">SMS iz mobilne mreže</string>
   <string name="cellular_only">Mreža samo</string>
   <string name="cellular_preferred">Mreža preferirano</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="cf_mobile_date">Molimo uključite mobilne podatke i pobrinite se da WLAN je isključen</string>
   <string name="cf_setting_mobile_data_alert">Uključite mobilne podatke i pobrinite se da WLAN je isključen</string>
   <string name="cf_setting_mobile_data_roaming_alert">Uključite roaming podataka</string>
@@ -1699,7 +1698,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="port_title">Broj priključka</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do pune baterije</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do pune baterije strujnim napajanjem</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do pune baterije putem USB-a</string>
@@ -1825,7 +1823,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="private_num">Privatni broj</string>
   <string name="proceed">Nastavi</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Osvježi…</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE usluge nisu dostupne. Isključite VoLTE za upućivanje poziva."</string>
@@ -1843,10 +1840,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="proximity_off_summary">Kada odgovorite na poziv, zaslon će uvijek biti uključen.</string>
   <string name="proximity_on_summary">Kada odgovorite na poziv, zaslon će biti isključen radi uštede energije.</string>
   <string name="proxy_address_title">Odlazna proxy adresa</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="pstn_connection_service_label">Ugrađene SIM kartice</string>
   <string name="pstn_phone">Poziv mobitelom</string>
   <string name="psw_enter_new">Nova zaporka</string>
@@ -2029,7 +2022,6 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="setting_duration_other_prompt">"Za međunarodne cijene poziva provjerite "</string>
   <string name="setting_duration_title">Preostalo vrijeme</string>
   <string name="settings_label">Postavke mreže</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">Pokaži pozadinske ANR-ove</string>
   <string name="show_all_anrs_summary">Dijalog o pozadinskim aplikacijama koje ne reagiraju</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
@@ -2254,7 +2246,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="time_end_minute">Vrijeme i minuta</string>
   <string name="time_formate_am">AM</string>
   <string name="time_formate_pm">PM</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day">" sljedeći dan "</string>
   <string name="time_start">Od</string>
   <string name="time_start_hour">Početak sati</string>
@@ -2304,7 +2295,6 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY Off</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-  <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">Promjena TTY načina nije dopuštena tijekom videopoziva</string>
   <string name="tty_mode_not_allowed_vt_call">Izmjena TTY načina rada nije dopuštena tijekom VT poziva</string>
   <string name="tty_mode_option_summary">Postavi način TTY</string>
@@ -2387,12 +2377,10 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_change_pin_dialog_title">Promjena PIN-a</string>
-  <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
   <string name="voicemail_default">Vaš mobilni operater</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
   <string name="voicemail_notification_vibrate_when_title">Vibracija</string>
-  <string name="voicemail_notifications_key">voicemail_notification_key</string>
   <string name="voicemail_notifications_preference_title">Obavijesti</string>
   <string name="voicemail_number_not_set">&lt;Nije postavljeno></string>
   <string name="voicemail_provider">Usluga</string>
@@ -2403,7 +2391,6 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="voicemail_settings_number_label">Broj govorne pošte</string>
   <string name="voicemail_settings_number_title">Broj govorne pošte</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualna govorna pošta</string>
   <string name="voip_setting">VoIP postavke</string>
   <string name="volte_provision_notification_activate">Aktiviraj</string>
@@ -2463,7 +2450,6 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_calling_preference_title">WLAN sklonost pozivanja</string>
   <string name="wifi_calling_select_call_assistant">Odaberite Asistenta poziva</string>
   <string name="wifi_calling_select_call_assistant_summary">Odaberite aplikaciju ili uslugu za upravljanje mrežama korištene za pozive</string>
-  <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
   <string name="wifi_calling_settings_title">WLAN pozivi</string>
   <string name="wifi_calling_summary">Omogućite WLAN Pozivanje i odaberite WLAN sklonost za WLAN Pozivanje</string>
   <string name="wifi_calling_title">WLAN pozivi</string>
