@@ -6957,7 +6957,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="wifi_assistant_setting_title">WLAN pomoćnik</string>
   <string name="wifi_assistant_setup">POSTAVI</string>
   <string name="wifi_assistant_setup_wifi_assistant">Postavi</string>
-  <string name="wifi_assistant_summary">Promjeniizmeđu WLAN mreža i mobilnih podataka kada je WLAN veza loša</string>
+  <string name="wifi_assistant_summary">Promjeni između WLAN mreža i mobilnih podataka kada je WLAN veza loša</string>
   <string name="wifi_assistant_switch_data">Koristi mobilne podatke</string>
   <string name="wifi_assistant_switch_wifi">Promjeni mreže</string>
   <string name="wifi_assistant_title">WLAN Asistent</string>

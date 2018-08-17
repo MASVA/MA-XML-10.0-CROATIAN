@@ -396,6 +396,7 @@
   <string name="petabyteShort">PB</string>
   <string name="phone_search">Google Pretraživanje</string>
   <string name="positive_confirm">U redu</string>
+  <string name="pref_about_privacy_title">Pravila o Privatnosti</string>
   <string name="pref_category_title_auto_clean_config_settings">Automatsko čišćenje</string>
   <string name="pref_category_title_auto_clean_settings">Podsjeti za čišćenje</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
