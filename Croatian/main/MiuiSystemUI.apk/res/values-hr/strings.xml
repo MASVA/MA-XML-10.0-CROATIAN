@@ -296,6 +296,7 @@
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="back">Natrag</string>
   <string name="battery">Baterija</string>
+  <string name="battery_can_use_time">Još %s preostalo</string>
   <string name="battery_detail_charging_summary">Štednja baterije nije dostupna tijekom punjenja</string>
   <string name="battery_detail_switch_summary">Smanjuje količinu rada i pozadinske podatke</string>
   <string name="battery_detail_switch_title">Štednja baterije</string>
@@ -552,10 +553,17 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="divider_menu_close">Zatvori</string>
   <string name="divider_menu_select_apps">Odaberi</string>
   <string name="divider_menu_swap_task">Zamjeni</string>
+  <string name="dlg_cancel">Odustani</string>
+  <string name="dlg_confirm">Uključi</string>
   <string name="dlg_confirm_kill_storage_users_text">"Ako uključite USB pohranu, neke aplikacije koje upotrebljavate zaustavit će se i možda neće biti dostupne dok ne isključite USB pohranu."</string>
-  <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranjivanje"</string>
+  <string name="dlg_confirm_kill_storage_users_title">"Uključi USB pohranu"</string>
   <string name="dlg_error_title">"Radnja USB-a nije uspjela"</string>
   <string name="dlg_ok">"U redu"</string>
+  <string name="dlg_summary_close_app">Ograniči pozadinsku aktivnost i obavijesti</string>
+  <string name="dlg_summary_close_theme">Ograniči animirane teme</string>
+  <string name="dlg_summary_close_wifi">Isključi WLAN, Bluetooth i prijenosni hotspot</string>
+  <string name="dlg_summary_nfc">Isključi NFC</string>
+  <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.Ekstremni štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
   <string name="dnd_is_off">DND je isključen</string>
   <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">Ovim uređajem upravlja %s</string>
@@ -578,6 +586,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="enable_bluetooth_message">Da biste povezali tipkovnicu s tabletom, morate uključiti Bluetooth.</string>
   <string name="enable_bluetooth_title">Želite li uključiti Bluetooth?</string>
   <string name="enable_demo_mode">Omogući demo način</string>
+  <string name="enable_extreme_power_save_mode">Ekstremna Štednja baterije</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
   <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
@@ -1221,6 +1230,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="oldman_incall_text">Natrag na poziv</string>
   <string name="okay">U redu</string>
   <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
+  <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="other">Ostalo</string>

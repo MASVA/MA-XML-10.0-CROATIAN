@@ -1773,6 +1773,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrisati ovaj otisak prsta?</string>
   <string name="delete_rule">Ukloni pravila</string>
   <string name="delete_saved_network">Izbriši spremljene mreže</string>
+  <string name="delete_sound_effect">Zvuk \"Izbriši\"</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
   <string name="deletion_helper_automatic_title">Automatski</string>
   <string name="deletion_helper_manual_title">Priručnik</string>
@@ -2777,6 +2778,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyboard_shortcuts_helper">Pomoć za tipkovne prečace</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostupnih prečaca</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
+  <string name="keyguard_security_setting_others">Ostalo</string>
+  <string name="keyguard_security_setting_privacy_policy">Pravila o Privatnosti</string>
+  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="keyguard_left_function_chooser_hint_text">Lijevi prečac promijenjen u %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Lijevo</string>
@@ -5742,6 +5746,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Prečac Panela obavijesti</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_custom">Vlastiti zvuk</string>
+  <string name="status_bar_settings_notification_use_app_icon">Koristi ikonu aplikacije za obavijesti</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>

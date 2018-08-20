@@ -929,6 +929,14 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="exit_dialog_scan_message">"Rezultat performansi vašeg uređaja niži je od 75 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
   <string name="exit_dialog_scan_title">Optimiziraj performanse</string>
+  <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
+  <string name="extreme_add_white_list_title">Iznimke pozadine</string>
+  <string name="extreme_power_save_description">&lt;li&gt;"Ekstremna štednja baterije zaustavlja svu pozadinsku aktivnost aplikacije nakon što ja napustite i vratite se na početni zaslon. Ova aplikacija neće vam slati obavijesti niti primati ažuriranja."&lt;/li&gt;"
+"&lt;li&gt;Ako želite da se aplikacija izvodi u pozadini, zaključajte je u Nedavno ili je dodajte u iznimke pozadine u nastavku. U pozadini se može pokrenuti do 4 aplikacije kada je uključen ekstremni štedljivi akumulator.&lt;/li&gt;"
+"&lt;li&gt;Ekstremna štednja baterije isključuje NFC po zadanome. To možete promijeniti u Postavkama.&lt;/li&gt;"
+"&lt;li&gt;Da biste bili sigurni da možete normalno koristiti sve značajke vašeg uređaja, ekstremni štednja baterije automatski će se isključiti kada se baterija napuni 30%.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_summary">Ekstremna štednja baterije ograničava pozadinsku aktivnost, zaustavlja sinkronizaciju i smanjuje boje zaslona.</string>
+  <string name="extreme_power_save_mode_title">Ekstremna štednja baterije</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
@@ -1570,6 +1578,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="note_sms_none">Nema poruka</string>
   <string name="notification_battery_consume_abnormal_summary">Ispražnjeno %2$s baterije tijekom zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
+  <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
+  <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
   <string name="notification_battery_over_heat_summary">Pronađite ono što uzrokuje zagrijavanje i ohladite uređaj.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
   <string name="notification_charging_title">"Punjenje "</string>
@@ -1580,6 +1590,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_mask_title">Sakrij sadržaj</string>
   <string name="notification_masked_item">Sakrij obavijesti</string>
   <string name="notification_masked_subtitle">Sakrij obavijesti iz aplikacija zaštićenih sa Zaklj. aplikacija</string>
+  <string name="notification_open_extreme_mode_text">Ekstremna Štednja baterije je uključena</string>
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
@@ -2108,7 +2119,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_apps_manage">Upravljaj Skrivenim aplikacijama</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacija zahtijeva postavljanje zaključavanja zaslona aplikacije. Obavijesti za skrivene aplikacije bit će isključene. Sakriti tu aplikaciju?</string>
-  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial">Tutorijal</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Kada sakrijete aplikaciju, premjestiti će se u skrivenu mapu. Prečac Poč. zaslona će biti sakriven također.
 Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Nakon unosa zaporke pojavit će se mapa s skrivenim aplikacijama.</string>

@@ -1815,6 +1815,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_networks"/>
   <string name="preferred_phone_account">Željeni račun poziva</string>
   <string name="preferred_wificall_title">Postavke mreže</string>
+  <string name="privacy_policy_title">Pravila o Privatnosti</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>

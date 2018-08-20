@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Ekstremna Štednja baterije</string>
   <string name="about_hide_mode">O Štednji baterije</string>
   <string name="active_classify">Poredaj po statusu aktivnostiu</string>
   <string name="action_bar_delete">Izbriši</string>
@@ -53,6 +54,7 @@
   <string name="enable_hide_mode">Uključi Štednju baterije</string>
   <string name="enable_sleep_mode">Uključite stanje mirovanja kako biste optimizirali potrošnju baterije noću</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
+  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u ekstremnom načinu štednje baterije</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Promjena na ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
   <string name="extreme_power_config_mode_title">Ekstremni način</string>
@@ -66,7 +68,7 @@
   <string name="full_screen_enter">Cijeli zaslon</string>
   <string name="full_screen_exit">Izlaz iz cijelog zaslona</string>
   <string name="google_base_app_install_choice">\"%s\" zahtijeva Google Service Framework aplikacije da radi normalno, preuzeti i instalirati ih?</string>
-  <string name="hide_mode_desc">"Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Mrežna veza, usluga lociranja, radio, timer, itd. mogu biti pogođeni ovom značajkom. Ova je konfiguracija pogodna za većinu aplikacija, ali ako određena aplikacija ne funkcionira normalno dok radi u pozadini, možete prilagoditi postavke te aplikacije."</string>
+  <string name="hide_mode_desc"><font color="#000000">Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Ova će funkcija dobiti i koristiti korisničke podatke prema %s</font></string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
   <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="high">Performanse</string>
@@ -74,6 +76,7 @@
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
   <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
   <string name="lasttime_feature_cloud">Ažurirane značajke:</string>
+  <string name="message_i_know">Razumijem</string>
   <string name="important_warning">Pažnja</string>
   <string name="location_disable_description">Aplikacije u pozadini mogu pristupiti samo uslugama lociranja za kratko vrijeme, dok je kontinuirani pristup ograničen</string>
   <string name="location_disable_title">Ograniči</string>
@@ -203,6 +206,7 @@
   <string name="power_optimize_activity_profile_file_error">Pogreška Štednje baterije</string>
   <string name="power_usage">Korištenje energije</string>
   <string name="pref_config_title">Optimiziranje performansi</string>
+  <string name="privacy">Pravila o Privatnosti</string>
   <string name="ragment_sys_listempty">Nema aplikacija sustava</string>
   <string name="reading">Način čitanja</string>
   <string name="scenario_policies_summary">Primijenite različite strategije štednje energije za različite scenarije.</string>

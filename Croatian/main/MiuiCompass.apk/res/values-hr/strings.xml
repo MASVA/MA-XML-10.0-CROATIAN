@@ -55,6 +55,8 @@
   <string name="mobiledata_alert_dialog_title">Upozorenje uporabe podataka</string>
   <string name="open_perm_msg">Kompasu je potreban pristup informacijama o lokaciji i kameri. To je potrebno za određivanje koordinata i pružanje pregleda uživo. Dopustiti?</string>
   <string name="open_perm_title">Potrebne je dopuštenje</string>
+  <string name="preference_other">Ostalo</string>
+  <string name="preference_privacy_title">Pravila o Privatnosti</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>

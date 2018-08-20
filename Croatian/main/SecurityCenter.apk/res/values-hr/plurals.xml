@@ -458,4 +458,12 @@
         <item quantity="other">%d aplikacija je skriveno</item>
         <item quantity="one">%d aplikacija je skrivena</item>
     </plurals>
+	<plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d aplikacija može biti skriveno</item>
+        <item quantity="one">%d aplikacija može biti skrivena</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplikacija je skriveno</item>
+        <item quantity="one">%d aplikacija je skrivena</item>
+    </plurals>
 </resources>
