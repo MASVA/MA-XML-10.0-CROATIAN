@@ -9,7 +9,7 @@
   <string name="app_search">Traži aplikacije</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dialog_not_show_again">"Ne prikazuj ponovno"</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privavila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>

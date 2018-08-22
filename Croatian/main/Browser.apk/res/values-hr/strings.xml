@@ -1173,6 +1173,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_privacy_enable_geolocation_summary">Dopustite Pregledniku da zatraže pristup vašoj lokaciji</string>
   <string name="pref_privacy_formdata_title">Podaci obrasca</string>
   <string name="pref_privacy_location_title">Pristup lokaciji</string>
+  <string name="pref_privacy_policy">Pravila o Privatnosti</string>
   <string name="pref_privacy_security_title">Privatnost &amp; sigurnost</string>
   <string name="pref_save_bandwidth_mode_title">Smanjiti upotrebu podataka</string>
   <string name="pref_security_accept_cookies">Prihvati kolačiće</string>
