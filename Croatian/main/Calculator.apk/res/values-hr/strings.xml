@@ -254,6 +254,8 @@
   <string name="preference_follow_wechat_title">WeChat</string>
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_other">Ostalo</string>
+  <string name="preference_privacy_title">Pravila o Privatnosti</string>
   <string name="preference_settings">Postavke</string>
   <string name="preference_use_degress_summary">Zamjenski radijani s kutovima u trigonometrijskim funkcijama</string>
   <string name="preference_use_degress_title">Koristi kutove</string>
