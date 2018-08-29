@@ -20,7 +20,6 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="allow">Dopusti</string>
-  <string name="app_label">Dokumenti</string>
   <string name="archive_loading_failed">Arhiva se ne može otvoriti za pregledavanje. Datoteka je oštećena ili njezin format nije podržan.</string>
   <string name="authentication_required">Da biste pregledali ovaj direktorij, prijavite se na %1$s</string>
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
