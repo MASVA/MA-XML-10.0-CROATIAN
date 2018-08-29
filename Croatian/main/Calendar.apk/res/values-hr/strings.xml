@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="allow">Dopusti</string>
+  <string name="app_label">Dokumenti</string>
+  <string name="archive_loading_failed">Arhiva se ne može otvoriti za pregledavanje. Datoteka je oštećena ili njezin format nije podržan.</string>
+  <string name="authentication_required">Da biste pregledali ovaj direktorij, prijavite se na %1$s</string>
   <string name="accessibility_add_attendee">Dodaj sudionika</string>
   <string name="accessibility_all_day">Cjelodnevni događaj</string>
   <string name="accessibility_pick_start_date">Datum početka</string>

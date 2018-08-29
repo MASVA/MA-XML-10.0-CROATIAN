@@ -1310,15 +1310,16 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="change_security_lock">Probaj ostale načine otključavanja</string>
   <string name="change_storage">Promijeni pohranu</string>
   <string name="change_theme_reboot">Promjena teme zahtijeva ponovno pokretanje.</string>
-  <string name="change_wifi_state_app_detail_summary">Aplikaciji omogućuje da uključuje ili isključuje Wi-Fi, traži Wi-Fi mreže i povezuje se s njima, dodaje ili uklanja mreže te pokreće lokalnu žarišnu točku</string>
-  <string name="change_wifi_state_app_detail_switch">Dopusti aplikaciji upravljanje Wi-Fi-jem</string>
+  <string name="change_wifi_state_app_detail_summary">Aplikaciji omogućuje da uključuje ili isključuje WLAN, traži WLAN mreže i povezuje se s njima, dodaje ili uklanja mreže te pokreće lokalni hotspot</string>
+  <string name="change_wifi_state_app_detail_switch">Dopusti aplikaciji upravljanje WLAN-om</string>
   <string name="change_wifi_state_title">Upravljanje WLAN-om</string>
   <string name="channel_group_notifications_off_desc">Android na vaš zahtjev blokira prikazivanje te grupe obavijesti na ovom uređaju</string>
   <string name="channel_notifications_off_desc">Android blokira prikazivanje te kategorije obavijesti na ovom uređaju</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="charging_sounds_title">Zvukovi punjenja</string>
   <string name="check_find_device_status_failure_confirm">U redu</string>
-  <string name="check_importance">Označiti kao važne?</string>
+  <string name="check_importance">Pravila za grupirane obavijesti</string>
+  <string name="check_importance_dialog_cancel">Odustani</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
   <string name="checking_decryption">Provjeravanje…</string>
@@ -1351,8 +1352,11 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="clear_instant_app_data">Izbriši podatke aplikacije</string>
   <string name="clear_uri_btn_text">Izbriši pristup</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="close_aod">"Ova se značajka ne može kombinirati sa načinom \"Uvijek uključeno\". Isključite prvo \"Uvijek uključeno\"."</string>
   <string name="close_app">Zatvori trenutnu aplikaciju</string>
   <string name="close_demo_mode">Odustani</string>
+  <string name="close_fod">"Nećete moći otključati uređaj pomoću otiska prsta kada je zaslon isključen. Otključavanje pomoću otiska prsta će raditi samo kad je zaslon uključen."</string>
+  <string name="close_fod_aod">"Nećete moći otključati uređaj pomoću otiska prsta kada je zaslon isključen. \"Uvijek uključeno\" neće biti dostupno također. Otključavanje pomoću otiska prsta će raditi samo kad je zaslon uključen."</string>
   <string name="close_dialog">U redu</string>
   <string name="close_gesture">Zatvori koristeći gestu</string>
   <string name="close_install_and_connect">Ne hvala</string>
@@ -2602,6 +2606,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="handy_mode_enter_ask">Pitaj prije ulaska u način Rada jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
   <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
+  <string name="handy_mode_tips_full_screen">"Kada koristite geste na cijelom zaslonu, možete uključiti Rad jednom rukom pomoću Izbornika Prečaca. Možete se prebaciti i na tipke umjesto gestama cijelog zaslona.."</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
   <string name="haptic_feedback_level">Razina vibracije</string>
   <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>
@@ -6212,6 +6217,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_jeejen">Jeejen Početni zaslon</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
+  <string name="to_close">Isključi</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
