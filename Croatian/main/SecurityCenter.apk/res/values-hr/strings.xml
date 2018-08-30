@@ -2209,7 +2209,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_apps_go_to_use">Start</string>
   <string name="privacy_apps_manage">Upravljaj Skrivenim aplikacijama</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
-  <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacija zahtijeva postavljanje zaključavanja zaslona aplikacije. Obavijesti za skrivene aplikacije bit će isključene. Sakriti tu aplikaciju?</string>
+  <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
   <string name="privacy_apps_tutorial">Tutorijal</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Kada sakrijete aplikaciju, premjestiti će se u skrivenu mapu. Prečac Poč. zaslona će biti sakriven također.
 Ova značajka nije podržana za aplikacije sustava."</string>
