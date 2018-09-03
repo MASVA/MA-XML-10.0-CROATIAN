@@ -918,7 +918,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="kg_invalid_confirm_pin_hint">PIN kodovi nisu jednaki</string>
   <string name="kg_invalid_puk">Ponovo unesite ispravan PUK kôd. Ponovljeni pokušaji trajno će onemogućiti SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Unesite PIN koji ima od 4 do 8 brojeva.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva.</string>
   <string name="kg_login_too_many_attempts">Previše pokušaja iscrtavanja uzorka</string>
   <string name="kg_password_instructions">Unesite zaporku</string>
   <string name="kg_password_pin_failed">"Ne mogu otključati pomoću SIM PIN-a"</string>

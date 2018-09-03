@@ -89,6 +89,9 @@
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
+  <string name="exit_extreme_mode_dialog_agree">Slažem se</string>
+  <string name="exit_extreme_mode_dialog_cancel">Isključi</string>
+  <string name="exit_extreme_mode_dialog_title">Isključi Ekstremni način</string>
   <string name="exo_controls_fastforward_description">Brzo naprijed</string>
   <string name="exo_controls_fullscreen_description">Način cijelog zaslona</string>
   <string name="exo_controls_next_description">Sljedeća pjesma</string>
@@ -118,6 +121,9 @@
   <string name="exo_track_surround_5_point_1">5.1 surround zvuk</string>
   <string name="exo_track_surround_7_point_1">7.1 surround zvuk</string>
   <string name="exo_track_unknown">Nepoznato</string>
+  <string name="extreme_mode_dialog_message">"Ova značajka nije dostupna u Ekstremnom načinu. Isključite Ekstremni način da biste je mogli koristiti."</string>
+  <string name="extreme_mode_dialog_ok">Razumijem</string>
+  <string name="extreme_mode_dialog_title">Upozorenje</string>
   <string name="fail_to_add_account">"Ne mogu dodati račun"</string>
   <string name="favorite_list">Omiljene</string>
   <string name="favorite_list_format">Omiljena %1$s</string>

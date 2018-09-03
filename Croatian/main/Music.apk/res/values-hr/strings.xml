@@ -338,6 +338,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="download_confirm_text">Mi Glazba će preuzeti i instalirati %s</string>
   <string name="download_connect_wifi_dialog_message">Trebate WLAN za preuzimanje ove pjesme. Povezati se sada?</string>
   <string name="download_connect_wifi_dialog_title">Poveži se</string>
+  <string name="download_dialog_fail">"Ne mogu preuzeti"</string>
+  <string name="download_dialog_success">Uspješno preuzeto</string>
   <string name="download_done_btn">Preuzeto</string>
   <string name="download_error">Nije uspjelo</string>
   <string name="download_error_insufficient_space">Nema dovoljno prostora</string>
@@ -487,6 +489,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="go_to_settings">Idi u Postavke</string>
   <string name="group_artist">Bendovi</string>
   <string name="handle_later">Ne sada</string>
+  <string name="hd_quality_audio">HD audio kvaliteta</string>
   <string name="headset_and_audio_effect_category">Slušalice &amp; zvučni efekti</string>
   <string name="headset_and_audio_effect_summary">Slušalice &amp; equalizer</string>
   <string name="headset_and_audio_effect_title">Slušalice &amp; zvučni efekti</string>

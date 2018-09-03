@@ -449,6 +449,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="auto_task_operation_sync">Sinkr.</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">WLAN</string>
+  <string name="auto_task_result_summary_text">Postavi autom. zadatke za Štednju baterije</string>
   <string name="back">Natrag</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
   <string name="back_description_securitycenter">Natrag</string>
@@ -971,6 +972,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
 "&lt;li&gt;Ako želite da se aplikacija izvodi u pozadini, zaključajte je u Nedavno ili je dodajte u iznimke pozadine u nastavku. U pozadini se mogu pokrenuti do 4 aplikacije kada je uključena ekstremna štednja baterije.&lt;/li&gt;"
 "&lt;li&gt;Ekstremna štednja baterije isključuje NFC po zadanome. To možete promijeniti u Postavkama.&lt;/li&gt;"
 "&lt;li&gt;Da biste bili sigurni da možete normalno koristiti sve značajke vašeg uređaja, ekstremna štednja baterije automatski će se isključiti kada se baterija napuni 30%.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_card_summary">Uključi ekstremnu štednju baterije kada je baterija slaba.</string>
   <string name="extreme_power_save_mode_summary">Ekstremna štednja baterije ograničava pozadinsku aktivnost, zaustavlja sinkronizaciju i smanjuje boje zaslona.</string>
   <string name="extreme_power_save_mode_title">Ekstremna štednja baterije</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
@@ -1192,17 +1194,22 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Poruke</string>
   <string name="handle_bar_title_system">Sustav</string>
+  <string name="handle_title_abnormal">Potrošnja baterije</string>
+  <string name="handle_title_app">Aplikacije</string>
+  <string name="handle_title_details">Detalji o potrošnji baterije</string>
   <string name="handle_bar_title_wifi">WLAN</string>
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
   <string name="handle_title_network">WLAN sigurnost</string>
   <string name="handle_title_pay_env">Okolina plaćanja</string>
-  <string name="handle_title_privacy">Sigurnost privatnosti</string>
+  <string name="handle_title_privacy">Privatnost &amp; sigurnost</string>
+  <string name="handle_title_system">Potrošnja baterije sustavom</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Pomoć</string>
-  <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj pozadinskim aktivnostima aplikacija za uštedu baterije"</string>
+  <string name="hide_mode_app_background_setting_text">Štednja baterije aplikacija</string>
+  <string name="hide_mode_result_summary_text">Prilagodite postavke štednje baterije za pojedinačne aplikacije</string>
   <string name="hide_mode_title_text">Štednja baterije</string>
   <string name="hide_system_app">Sakrij animacije sustava</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
@@ -1858,6 +1865,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_activity_title">Optimiziraj bateriju</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
+  <string name="pc_main_activity_back">Natrag</string>
+  <string name="pc_settings_title">Postavke Štednje baterije</string>
   <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -1903,6 +1912,14 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_back">Natrag</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
+  <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
+  <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">℃</string>
+  <string name="power_center_list_item_battery_status_time">h</string>
+  <string name="power_center_list_item_close_bluetooth">Isključi Bluetooth</string>
+  <string name="power_center_list_item_deep_save_title">Napredne postavke</string>
+  <string name="power_center_list_item_set_lockscreen_time">Stavite zaslon u stanje mirovanja nakon 30 sek. neaktivnosti</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostalo</string>
   <string name="power_center_custom_title">Profili baterije</string>
@@ -1910,8 +1927,21 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_ontime_boot">Vrijeme uključivanja</string>
   <string name="power_center_ontime_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_repeat">Ponovi</string>
+  <string name="power_center_scan_item_title_GPS">Podesite preciznost GPS-a</string>
+  <string name="power_center_scan_item_title_abnormal">Problemi s baterijom</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Neuobičajena potrošnja energije aplikacije</string>
+  <string name="power_center_scan_item_title_auto_invoke">Lančano pokretanje</string>
+  <string name="power_center_scan_item_title_auto_start">Autom. pokretanje</string>
+  <string name="power_center_scan_item_title_battery_details">Detalji o korištenju baterije</string>
+  <string name="power_center_scan_item_title_brightness">Podesi svjetlinu zaslona</string>
+  <string name="power_center_scan_item_title_clean_memory">Očisti memoriju</string>
+  <string name="power_center_scan_item_title_hide">Upravljanje korištenjem baterije</string>
+  <string name="power_center_scan_item_title_power_saver">Uključi Štednju baterije</string>
+  <string name="power_center_scan_item_title_running_app">Aplikacije pokrenute u pozadini</string>
+  <string name="power_center_scan_result_safe">Nisu pronađeni problemi baterije</string>
   <string name="power_center_state_off">Isključeno</string>
   <string name="power_center_state_on">Uključeno</string>
+  <string name="power_center_stop_scan_title">Zaustavi skeniranje</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
@@ -2051,6 +2081,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_save_on_time_option_title">Tijekom tog perioda promjeni na</string>
   <string name="power_save_on_time_start_time_summary">Od</string>
   <string name="power_save_on_time_start_time_summary_na">Do</string>
+  <string name="power_save_started_summary_text">"Štednja baterije je uključena. Smanjuje pozadinsku aktivnost aplikacija, zaustavlja sinkronizaciju i minimizira animacije sustava."</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Raspored promjene profila</string>
   <string name="power_save_summary_text">"Uključite štednju baterije za smanjenje pozadinskih aktivnosti aplikacija, zaustavljanje sinkronizacije i minimaliziranje animacija sustava."</string>
@@ -2378,6 +2409,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="security_scan_card_clean_now">Skeniraj</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="see_detail">Detalji</string>
+  <string name="see_more_content">Ažurirajte igre da biste vidjeli više istaknutih stavki</string>
   <string name="see_more">Više</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="set_applock_password">Postavite zaporku</string>

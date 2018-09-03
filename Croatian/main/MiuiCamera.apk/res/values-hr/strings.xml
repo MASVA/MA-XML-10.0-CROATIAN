@@ -633,7 +633,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
   <string name="user_agree">Slažem se</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
-  <string name="user_agreement4">Prvila o Privatnosti</string>
+  <string name="user_agreement4">Pravila o Privatnosti</string>
   <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s i %2$s."</string>
   <string name="user_notice_title">Uvjeti i Odredbe</string>
   <string name="video_camera_label">Videokamera</string>
