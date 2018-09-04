@@ -546,7 +546,7 @@ Audio"</string>
   <string name="card_title_MOcall_forwarding">Odlazni poziv je proslijeđen</string>
   <string name="card_title_MTcall_forwarding">Dolazni poziv je proslijeđen</string>
   <string name="card_title_call_deflected">Poziv skrenut</string>
-  <string name="card_title_call_ended">Poziv je završio</string>
+  <string name="card_title_call_ended">"Poziv je završio "</string>
   <string name="card_title_callconnectedect">Poziv povezan s ECT</string>
   <string name="card_title_callconnectingect">Poziv se povezuje na ECT</string>
   <string name="card_title_calliswaiting">Poziv na čekanju</string>
@@ -567,7 +567,7 @@ Audio"</string>
   <string name="card_title_incoming_call">Dolazni poziv</string>
   <string name="card_title_multipartycall">MultiParty poziv</string>
   <string name="card_title_my_phone_number">Moj broj je %s</string>
-  <string name="card_title_on_hold">Na čekanju</string>
+  <string name="card_title_on_hold">"Na čekanju "</string>
   <string name="card_title_outgoing_barred">Odlazni pozivi zabranjeni</string>
   <string name="card_title_redialing">Ponovno biranje</string>
   <string name="card_title_unconditionalCF">Uvjetno preusmjeravanje poziva je uključeno</string>

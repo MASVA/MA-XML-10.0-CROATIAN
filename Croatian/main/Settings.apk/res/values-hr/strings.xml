@@ -5741,9 +5741,11 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_custom_carrier">Uredi naziv operatera</string>
   <string name="status_bar_settings_custom_notification">Upravljaj obavijestima</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi naziv WLAN-a</string>
+  <string name="status_bar_settings_customer_feedback">Povratna inf.</string>
   <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
   <string name="status_bar_settings_expand_top_notification">Proširi gornju obavijest</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu</string>
+  <string name="status_bar_settings_function_description">O ovoj značajci</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
   <string name="status_bar_settings_manage_notification">Obavijesti aplikacija</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
@@ -5783,6 +5785,11 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stranica</string>
   <string name="status_bar_settings_toggle_position">Položaji prečaca</string>
   <string name="status_bar_settings_user_fold">Mapa obavijesti</string>
+  <string name="status_bar_settings_user_fold_description1">Mapa Obavijesti je uvedena u MIUI 9. Ova značajka filtrira nevažne obavijesti i smješta ih u zasebnu mapu.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI će zapamtiti koje obavijesti dodirnete, a zatim upotrijebiti više kriterija kako bi utvrdio jesu li važne.</string>
+  <string name="status_bar_settings_user_fold_description3">"Ako obavijesti koje smatrate važnima i dalje idu u mapu Obavijesti, obavezno nam prijavite takve probleme. Cijenimo vaše povratne informacije."</string>
+  <string name="status_bar_settings_user_fold_disable">Isključi</string>
+  <string name="status_bar_settings_user_fold_enable">Uključi</string>
   <string name="status_bar_settings_user_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Odvojeno</string>

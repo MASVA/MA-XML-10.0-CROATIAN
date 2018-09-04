@@ -255,6 +255,9 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="data_monitor_dialog_message">Izgleda da nešto jako troši vaše mobilne podatke. Otvorite početnu stranicu da biste to zaustavili.</string>
   <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
   <string name="data_traffic_continue">Nastavi</string>
+  <string name="data_traffic_download_cancel">Odustani</string>
+  <string name="data_traffic_download_prompt">Trenutni videozapis može se preuzeti samo putem WLAN-a</string>
+  <string name="data_traffic_download_setting">Postavke</string>
   <string name="data_traffic_goto">Besplatni promet podataka</string>
   <string name="data_traffic_prompt_free_data">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Dobijte besplatan promet podataka.</string>
   <string name="data_traffic_prompt_message">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>

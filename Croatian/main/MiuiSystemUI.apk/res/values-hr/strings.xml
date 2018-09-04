@@ -1069,6 +1069,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="miui_ringer_total">DND</string>
   <string name="miui_ringer_total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
+  <string name="miui_screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
   <string name="miui_toast_zen_dnd_to_off">Zvukovi i vibracije vraćeni su u normalu</string>
   <string name="miui_toast_zen_standard_to_off">Melodije zvona vraćene su u normalu</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
@@ -1588,6 +1589,8 @@ možda prati"</string>
   <string name="status_bar_clear_all_button">Očisti</string>
   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
   <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
+  <string name="status_bar_clock_date_time_format">H:mm MMMM d</string>
+  <string name="status_bar_clock_date_time_format_12">aah:mm MMMM d</string>
   <string name="status_bar_date_format">"EEEE
  d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
