@@ -986,6 +986,10 @@ za fotografije"</string>
   <string name="play_video_desc">Reproduciraj video</string>
   <string name="posterize">Posterizacija</string>
   <string name="preparing_data">Samo trenutak…</string>
+  <string name="privacy_permission_request_message">Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit će se u skladu s našim %1$s i %2$s. Dopustiti?</string>
+  <string name="privacy_permission_request_negative">Ograniči</string>
+  <string name="privacy_permission_request_positive">Dopusti</string>
+  <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
   <string name="projection_cancel">Odustani</string>
   <string name="projection_checkbox_text">Zapamti ovaj zaslon</string>
   <string name="projection_device_connection_failed">Ne mogu povezati projektor</string>
@@ -1334,10 +1338,15 @@ za fotografije"</string>
   <string name="video_editor_auto_trim">Autom. podreži</string>
   <string name="video_editor_auto_trim_tip">Autom. podrezivanje…</string>
   <string name="video_editor_cancel">Odustani</string>
+  <string name="video_editor_cancel_download">Odustani</string>
   <string name="video_editor_done">Dovršeno</string>
   <string name="video_editor_down_load_later">Kasnije</string>
   <string name="video_editor_down_load_no_wifi_tips">Povežite se na WLAN za preuzimanje</string>
   <string name="video_editor_down_load_now">Preuzmi</string>
+  <string name="video_editor_download">Preuzmi</string>
+  <string name="video_editor_download_failed_for_notwork">"Ne mogu preuzeti. Povežite se s mrežom i pokušajte ponovo."</string>
+  <string name="video_editor_download_without_wifi_msg">"Korištenje mobilne podatkovne veze za preuzimanje datoteka povećat će vašu uporabu podataka. Ako premašite ograničenje, vaš bi vam davatelj usluga mogao naplatiti dodatne naknade."</string>
+  <string name="video_editor_download_without_wifi_title">Upozorenje uporabe podataka</string>
   <string name="video_editor_encode_video">Kodiranje videozapisa…</string>
   <string name="video_editor_encode_video_error">"Ne mogu kodirati videozapis"</string>
   <string name="video_editor_fatal_error">Nepoznata pogreška</string>
@@ -1376,6 +1385,8 @@ za fotografije"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Preuzeti glazbene podloge putem mobilnih podataka?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Koristi mobilne podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Preuzmite glazbene podloge za korištenje ove značajke (više od 20MB).</string>
+  <string name="video_editor_return">Natrag</string>
+  <string name="video_editor_save">Spremi</string>
   <string name="video_editor_smart_effect_beat">Beats</string>
   <string name="video_editor_smart_effect_big_film">Epic</string>
   <string name="video_editor_smart_effect_cadence">Rhythm</string>
