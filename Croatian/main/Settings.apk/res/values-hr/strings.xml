@@ -341,12 +341,15 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="another_migration_already_in_progress">Druga migracija je već u tijeku.</string>
   <string name="anr_record_interval_title">Snimi ANR intervale</string>
   <string name="anti_spam">AntiSpam</string>
+  <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
+  <string name="aod_got_it">Razumijem</string>
   <string name="aod_mode_summary">Uvijek prikaži vrijeme, datum i poruke kada je zaslon isključen.</string>
   <string name="aod_mode_time_summary">Rasporedite vrijeme kada se uređaj treba prebaciti na način Uvijek uključen</string>
   <string name="aod_mode_time_title">Raspored</string>
   <string name="aod_mode_title">Uvijek uključeno način rada</string>
   <string name="aod_mode_turn_off">Isključi</string>
   <string name="aod_mode_turn_on">Uključi</string>
+  <string name="aod_to_close">Isključi</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta provjere autentičnosti</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -408,9 +411,9 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="app_launch_open_domain_urls_title">Otvori podržane veze</string>
   <string name="app_launch_other_defaults_title">Ostale zadane postavke</string>
   <string name="app_launch_supported_domain_urls_title">Podržane veze</string>
-  <string name="app_link_open_always">Otvori u ovoj aplikaciji</string>
+  <string name="app_link_open_always">Otvori</string>
   <string name="app_link_open_ask">Pitaj svaki put</string>
-  <string name="app_link_open_never">Ne otvaraj u ovoj aplikaciji</string>
+  <string name="app_link_open_never">"Ne otvaraj"</string>
   <string name="app_list_memory_use">Potrošnja aplikacije</string>
   <string name="app_list_preference_none">Ništa</string>
   <string name="app_lock_role_instruction">Zaštitite svoje privatne aplikacije</string>
@@ -1753,8 +1756,8 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_apps_title">Zadane aplikacije</string>
   <string name="default_assist_none">Ništa</string>
   <string name="default_assist_title">Aplikacija-pomoćnik</string>
-  <string name="default_browser_title">Aplikacija preglednika</string>
-  <string name="default_browser_title_none">Nema zadanog preglednika</string>
+  <string name="default_browser_title">Preglednik</string>
+  <string name="default_browser_title_none">Nije odabrano</string>
   <string name="default_calendar_app_title">Aplikacija Kalendar</string>
   <string name="default_contacts_app_title">Aplikacija Kontakti</string>
   <string name="default_emergency_app">Aplikacija za hitne slučajeve</string>
@@ -2443,6 +2446,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="floating_window_switch_label_disable">Isključi skočne prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
+  <string name="following_us_title">Pratite nas</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>
@@ -2657,7 +2661,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="high_power_system">Optimizacija baterije nije dostupna</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="home">Postavke početnog zaslona</string>
-  <string name="home_app">Početna aplikacija</string>
+  <string name="home_app">Pokretač</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
   <string name="home_key">Početna</string>
   <string name="home_settings">Početna</string>
@@ -2713,7 +2717,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="install_no_market_app_summary">Skeniraj aplikacije iz drugih izvora za virusima prije instaliranja</string>
   <string name="install_no_market_app_title">Skeniranje aplikacija iz drugih izvora</string>
   <string name="install_other_apps">Instalacija nepoznatih apl.</string>
-  <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="install_preinstall_app">Promjena regije…</string>
   <string name="install_text">"Instaliraj"</string>
   <string name="install_type_instant">Instant aplikacija</string>
   <string name="install_unknown_applications">Dopusti instalaciju aplikacija iz drugih izvora osim Trgovine Play</string>
@@ -3799,7 +3803,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_connected_devices">Nema povezanih uređaja</string>
   <string name="no_data_usage">Nema upotrebe podataka</string>
   <string name="no_default_apps">Nema zadanih aplikacija.</string>
-  <string name="no_default_home">Nema zadane početne</string>
+  <string name="no_default_home">Nije odabrano</string>
   <string name="no_device_admins">Nema dostupnih administratora računa</string>
   <string name="no_internet_access_remember">Više ne pitaj za tu mrežu</string>
   <string name="no_internet_access_text">WLAN mreža %1$s nema pristup internetu. Želite li ostati povezani?</string>
@@ -5645,7 +5649,7 @@ Obavijesti za te aplikacije mogu kasniti."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Zaključajte/otključajte telefon automatski koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
-  <string name="sms_application_title">SMS aplikacija</string>
+  <string name="sms_application_title">SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Koristiti aplikaciju %s umjesto aplikacije %s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Koristiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
@@ -6435,7 +6439,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="unlock_set_unlock_password_title">Zaporka</string>
   <string name="unlock_set_unlock_pattern_summary">Iscrtajte jednostavan uzorak prstom za otključavanje uređaja</string>
   <string name="unlock_set_unlock_pattern_title">Uzorak</string>
-  <string name="unlock_set_unlock_pin_summary">Unesite 4 broja za otključavanje uređaja</string>
+  <string name="unlock_set_unlock_pin_summary">Unesite 4-16 brojeva za otključavanje uređaja</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Postavite zaključavanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja zaključavanja zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>

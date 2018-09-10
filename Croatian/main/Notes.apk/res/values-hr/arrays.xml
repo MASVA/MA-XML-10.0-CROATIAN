@@ -10,6 +10,10 @@
         <item>Izradi &amp; promjeni između mapa</item>
         <item>Pritisnite strelicu ispod da biste stvorili novu mapu ili prebacivali između postojećih.</item>
      </string-array>
+	 <string-array name="second_guide_contents_pad_or_inter">
+        <item>Glasovne bilješke</item>
+        <item>Sada možete izraditi glasovne bilješke. Jednostavno dodirnite ikonu, snimite svoj glas i spremite audio datoteku u bilješku.</item>
+    </string-array>
 	 <string-array name="second_guide_contents">
         <item>Glasovne bilješke</item>
         <item>Izradite bilješke pomoću našeg ugrađenog tekst-u-govor alata koji pričvršćuje izvorne snimke vašeg glasa u bilješke.</item>
