@@ -5,6 +5,14 @@
   <string name="agree_terms">"Pročitao sam i slažem se s Uvjeti Pružanja Usluge i Pravila o Privatnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Pročitao sam i slažem se s Facemoji Pravila o Privatnosti."</string>
   <string name="agree_terms_input_method_kika">"Pročitao sam i slažem se s Kika Pravila o Privatnosti."</string>
+  <string name="ai_button_desc">Pomoću ove tipke pokrenite Mi AI i izvršite zadatke na svom telefonu koristeći samo vaš glas</string>
+  <string name="ai_button_double_press">Dvaput pritisnite</string>
+  <string name="ai_button_double_press_desc">Postavite značajke Mi AI</string>
+  <string name="ai_button_long_press">Pritisnite i držite</string>
+  <string name="ai_button_long_press_desc">Izgovorite naredbu i otpustite tipku</string>
+  <string name="ai_button_single_press">Pritisnite</string>
+  <string name="ai_button_single_press_desc">Pokreni Mi AI</string>
+  <string name="ai_button_title">O tipki AI</string>
   <string name="app_name">Odredbe</string>
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="back">Natrag</string>

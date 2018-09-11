@@ -85,6 +85,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="cannot_connect_camera_twice">Ne mogu se povezati s kamerom, ponovno pokrenite vaš uređaj.</string>
   <string name="cannot_connect_camera_volte_call">Videopoziv u tijeku, pokušajte kasnije.</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
+  <string name="capture_back_pressed_hint">Dodirnite ponovno za izlaz</string>
   <string name="color_effect_entry_berry">Voće</string>
   <string name="color_effect_entry_blackwhite">B&amp;W</string>
   <string name="color_effect_entry_cookie">Kolač</string>
@@ -141,6 +142,15 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Nos</string>
   <string name="edit_smile">Osmijeh</string>
+  <string name="eye_light">Eye light</string>
+  <string name="eye_light_angel">Angel light</string>
+  <string name="eye_light_comic">Comic light</string>
+  <string name="eye_light_crescent">Crescent light</string>
+  <string name="eye_light_nature">Nature light</string>
+  <string name="eye_light_off">None</string>
+  <string name="eye_light_rainbow">Rainbow light</string>
+  <string name="eye_light_star">Star light</string>
+  <string name="eye_light_window">Window light</string>
   <string name="effect_setting_top_text">Filteri</string>
   <string name="error_fail_to_start_audio_capture">"Ne mogu pokrenuti snimanje zvuka"</string>
   <string name="face_age_info">Godine: %d</string>
@@ -173,6 +183,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="face_score_info">Rezultat: %.1f</string>
+  <string name="fps960_toast">Usporeno snimanje započinje kada mjerač vremena dosegne bijelu točku</string>
   <string name="front_camera_hint_text_rotate">Zakrenite telefon</string>
   <string name="front_camera_hint_text_place">Snimanje selfija bit će lakše\nako zakrenete telefon</string>
   <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
@@ -182,6 +193,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   a zatim izraditi snimku s minimalnom količinom šuma."</string>
   <string name="hint_ae_af_lock">Autom. izoštravanje / Autom. ekspozicija je zaključana</string>
   <string name="hint_device_water_mark">Oznaka će biti dodana na fotografiju automatski.</string>
+  <string name="hint_eye_light">Svjetlo oko očiju će biti bolje kada je uključena bljeskalica</string>
   <string name="hint_fast_motion">Videozapis koji snimate reproducirat će se brže.</string>
   <string name="hint_groupshot">"Kamera će snimati više fotografija
   a zatim izraditi snimku na kojoj svi izgledaju najbolje."</string>
@@ -206,12 +218,13 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="lighting_pattern_rainbow">Duga</string>
   <string name="lighting_pattern_shutter">Zavjese</string>
   <string name="lighting_pattern_stage">Pozornica</string>
+  <string name="makeup_reset_toast">Uklonjeni su efekti šminke</string>
   <string name="message_snap_double_confirm">Dugi pritisak na tipku za glasnoću sada aktivira NFC. Zamijeniti ovu značajku?</string>
   <string name="module_name_beauty">Uljepšaj</string> 
   <string name="module_name_capture">Fotografija</string>
   <string name="module_name_fun">Kratki video</string>
   <string name="module_name_manual">Ručno</string>
-  <string name="module_name_new_slow_motion">Usporeno kretanje</string>
+  <string name="module_name_new_slow_motion">Usporeno snimanje</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_square">Kvadrat</string>

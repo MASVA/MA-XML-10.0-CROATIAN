@@ -66,6 +66,10 @@
         <item quantity="other">Odblokirati brojeve telefona: %1$d?</item>
         <item quantity="one">Odblokirati %1$d broj telefona?</item>
     </plurals>
+	<plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Pronađeno više od %d kontakata.</item>
+        <item quantity="one">Pronađeno više od %d kontakta.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Dodani kontakti: %1$d</item>
         <item quantity="one">Dodan je %1$d kontakt</item>
@@ -94,6 +98,10 @@
         <item quantity="other">Brojeva: %1$d</item>
         <item quantity="one">%1$d broj</item>
     </plurals>
+	<plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Pronađeno kontakata: %d</item>
         <item quantity="one">1 pronađen</item>
@@ -105,6 +113,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Kontakti s brojem telefona: %d</item>
         <item quantity="one">1 kontakt s brojem telefona</item>
+    </plurals>
+	<plurals name="merge_contact_message_plurals">
+        <item quantity="other">Kontakti s djelomično identičnim informacijama: %1$d</item>
+        <item quantity="one">%1$d kontakt s djelomično identičnim informacijama</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">spojeno iz izvora: %0$d</item>
@@ -154,6 +166,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Pronađeno: %d</item>
         <item quantity="one">1 pronađen</item>
+    </plurals>
+	<plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Odaberite ne više od %1$d, ne možete odabrati sve"</item>
+        <item quantity="one">"Odaberite ne više od %1$d, ne možete odabrati sve"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Odaberite ne više od %1$d</item>
+        <item quantity="one">Odaberite ne više od %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">Pronađeno: %1$d</item>

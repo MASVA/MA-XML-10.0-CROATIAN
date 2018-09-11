@@ -195,6 +195,7 @@
   <string name="composer_failed_to_get_database_infomation">"Dohvaćanje podataka iz baze podataka nije uspjelo."</string>
   <string name="composer_has_no_exportable_contact">"Nema kontakata koji se mogu izvoziti. Ako na svojem uređaju imate kontakte, neki davatelji podataka možda ne dopuštaju izvoz kontakata s tog uređaja."</string>
   <string name="composer_not_initialized">"Sastavljač za vCard nije se ispravno pokrenuo."</string>
+  <string name="conference_call_disable_tip">"Nije moguće upućivati pozive. Provjerite je li uređaj spojen na 4G mrežu s podrškom za VoLTE."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
@@ -502,7 +503,6 @@ Razlog: \"%s\""</string>
   <string name="followed_yellowpage">Provjereni računi</string>
   <string name="force_touch_miprofile">Kartica kontakta</string>
   <string name="force_touch_new_contact">Novi kontakt</string>
-  <string name="foundTooManyContacts">Pronađeno je više od (%d) kontakata</string>
   <string name="fraud_more_indemnity">Više odšteta</string>
   <string name="frequentList">Često</string>
   <string name="full_name">Ime</string>
@@ -728,7 +728,6 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="menu_splitAggregate">Odvoji</string>
   <string name="menu_sync_remove">"Ukloni grupu sinkronizacije"</string>
   <string name="menu_viewContact">Prikaži kontakt</string>
-  <string name="merge_contact_message">Broj kontakata s djelomično identičnim informacijama: %1$d</string>
   <string name="messageShortcutActivityTitle">Odabir broja za poruku</string>
   <string name="miprofile_account_type">Mi Račun</string>
   <string name="miprofile_alertdialog_edit">Unesite ime</string>
@@ -1158,8 +1157,6 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_wipe_data">Organiziraj;Kontakti</string>
   <string name="searching_vcard_message">"Pretraživanje vCard podataka na uređaju…"</string>
   <string name="select_all">"Odaberi sve"</string>
-  <string name="select_all_exceed">"Odaberite ne više od %1$d, ne možete odabrati sve"</string>
-  <string name="select_exceed">Odaberite ne više od %1$d</string>
   <string name="select_done">Sve je odabrano</string>
   <string name="select_groups">Odaberi grupe</string>
   <string name="select_none">Nema odabranih stavki</string>

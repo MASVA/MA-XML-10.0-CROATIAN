@@ -21,7 +21,7 @@
   <string name="account_error_user_name">Ime koje ste unijeli nije važeće</string>
   <string name="account_global_region">Prekomorski</string>
   <string name="account_has_been_set">Promjeni</string>
-  <string name="account_invalid_user_avatar">Fotografija nije važeća</string>
+  <string name="account_invalid_user_avatar">Ova je fotografija nevažeća. Probajte neku drugu.</string>
   <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
   <string name="account_mibi_center">Mi Krediti</string>
   <string name="account_mibi_charge">Plaćanje Mi Kredita</string>

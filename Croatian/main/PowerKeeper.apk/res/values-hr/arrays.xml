@@ -114,7 +114,7 @@
      <string-array name="thermal_summaries">
          <item>Trenutno način upravljanja temperaturom</item>
          <item>Trenutno način performanse</item>  
-         <item>Konfiguracija je onemogućena u ekstremnom načinu</item>		 
+         <item>"Ne radi u Ekstremnom načinu"</item>		 
      </string-array>
 	 <string-array name="power_mode_entries">
          <item>Performanse</item>

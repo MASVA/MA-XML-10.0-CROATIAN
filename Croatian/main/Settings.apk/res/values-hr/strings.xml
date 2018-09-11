@@ -3660,7 +3660,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="navigation_guide_app_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona u gornjem području</string>
   <string name="navigation_guide_app_title">"Pokreće radnju aplikacije"</string>
   <string name="navigation_guide_appswitch_anim_summary">Prijeđite prstom po zaslonu počevši od ruba za povratak na prethodnu aplikaciju</string>
-  <string name="navigation_guide_appswitch_anim_title">Promjeni na prethodnu aplikaciju</string>
+  <string name="navigation_guide_appswitch_anim_title">Idi natrag na prethodnu aplikaciju</string>
   <string name="navigation_guide_appswitch_click">Isključite prvo \"Idi natrag na prethodnu aplikaciju\"</string>
   <string name="navigation_guide_appswitch_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona i neko vrijeme držite</string>
   <string name="navigation_guide_appswitch_title">Promjeni na prethodnu aplikaciju</string>

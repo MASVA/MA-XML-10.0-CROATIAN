@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Ekstremna Štednja baterije</string>
+  <string name="about_extreme_mode">Ekstremni način</string>
   <string name="about_hide_mode">O Štednji baterije</string>
   <string name="active_classify">Poredaj po statusu aktivnostiu</string>
   <string name="action_bar_delete">Izbriši</string>
@@ -54,9 +54,9 @@
   <string name="enable_hide_mode">Uključi Štednju baterije</string>
   <string name="enable_sleep_mode">Uključite stanje mirovanja kako biste optimizirali potrošnju baterije noću</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
-  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u ekstremnom načinu štednje baterije</string>
+  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u Ekstremnom načinu</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
-  <string name="extreme_power_config_mode_desc">Promjena na ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
+  <string name="extreme_power_config_mode_desc">Promjena na Ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
   <string name="extreme_power_config_mode_title">Ekstremni način</string>
   <string name="failure">Pogreška</string>
   <string name="foreground_change">Aplikacija se izvodi u pozadini</string>

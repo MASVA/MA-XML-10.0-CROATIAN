@@ -812,6 +812,10 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="descx_start_scan_system">Pokreni skeniranje zaštite sustava</string>
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="details_subtitle">Detalji korištenja</string>
+  <string name="device_manager_apply_step_1">Aktivirati administratora uređaja za ovu aplikaciju?</string>
+  <string name="device_manager_apply_step_2">"Aktivacija administratora uređaja za ovu aplikaciju može dovesti do izlaganja vaših osobnih podataka.
+Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona možda se poništi."</string>
+  <string name="device_manager_apply_step_3">Pazite da razumijete sve moguće rizike prije nego što nastavite. Aktivirati administratora uređaja za ovu aplikaciju?</string>
   <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno."</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis iznimaka mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
@@ -1927,7 +1931,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_repeat">Ponovi</string>
   <string name="power_center_scan_item_title_GPS">Podesite preciznost GPS-a</string>
   <string name="power_center_scan_item_title_abnormal">Problemi s baterijom</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Neuobičajena potrošnja energije aplikacije</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Aplikacije koje crpe bateriju</string>
   <string name="power_center_scan_item_title_auto_invoke">Lančano pokretanje</string>
   <string name="power_center_scan_item_title_auto_start">Autom. pokretanje</string>
   <string name="power_center_scan_item_title_battery_details">Detalji o korištenju baterije</string>

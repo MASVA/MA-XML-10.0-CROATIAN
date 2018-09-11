@@ -115,6 +115,7 @@
   <string name="cd_list_item_collapse">Sažmeto</string>
   <string name="cd_list_item_expanded">Prošireno</string>
   <string name="cd_percent">Postotak</string>
+  <string name="cd_scanning">Skeniranje</string>
   <string name="cd_settings">Postavke</string>
   <string name="cd_sort_type">Vrsta sortiranja</string>
   <string name="clean_content_all">Sve</string>
@@ -122,7 +123,7 @@
   <string name="clean_content_three">3 stavke</string>
   <string name="clean_content_two">2 stavke</string>
   <string name="clean_content_zero">Ništa</string>
-  <string name="clean_summary">Očišćeno datoteka: %1$s</string>
+  <string name="clean_summary">Očišćeno: %1$s</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge zastarjele stvari</string>
   <string name="clear_immediately">Izbriši sada</string>
   <string name="clear_safe_notify">Widget u panelu obavijesti</string>
