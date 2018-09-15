@@ -60,6 +60,10 @@
         <item quantity="other">"Poruka (%d) nije sinkronizirano"</item>
         <item quantity="one">"%d poruka nije sinkronizirana"</item>
     </plurals>
+	<plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Označeno kao %2$s od strane %1$d osoba</item>
+        <item quantity="one">Označeno kao %2$s od strane %1$d osobe</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">Poruka: %1$s</item>
         <item quantity="one">%1$s poruka</item>

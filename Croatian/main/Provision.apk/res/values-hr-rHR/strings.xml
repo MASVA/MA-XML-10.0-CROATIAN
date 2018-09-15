@@ -72,6 +72,7 @@
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o Privatnosti</string>
   <string name="other_settings_user_experience_summary_index">Detalji</string>
+  <string name="poco_agree_terms_other">(Uključujući POCO Launcher Pravila o Privatnosti i Korisnički Sporazum)</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>

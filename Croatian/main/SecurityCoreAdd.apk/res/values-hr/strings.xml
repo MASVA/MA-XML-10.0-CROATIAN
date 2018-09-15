@@ -30,7 +30,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="click_to_back_first_space">Dodirnite za povratak u Prvi prostor</string>
   <string name="click_to_switch">Dodirnite za prikaz</string>
   <string name="closePassword">Isključi zaporku</string>
-  <string name="closePasswordGuide">"Nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona nakon što isključite zaporku"</string>
+  <string name="closePasswordGuide">"Nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona nakon što isključite zaporku."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
   <string name="closeSecondSpaceSummary">Izbriši Drugi prostor zajedno s njegovim podacima</string>
   <string name="closeSuccess">Isključeno</string>
@@ -46,6 +46,9 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_airspace_password">Potvrdite zaporku %s</string>
+  <string name="confirm_close_password_desc">"Nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona nakon što isključite zaporku.
+Isključiti svejedno?"</string>
+  <string name="confirm_close_password_title">Isključivanje zaporke</string>
   <string name="confirm_main_space_password">Potvrdite zaporku Prvog prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Kontakti</string>

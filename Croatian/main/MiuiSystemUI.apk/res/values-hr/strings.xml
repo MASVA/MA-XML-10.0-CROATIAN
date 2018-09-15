@@ -671,6 +671,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_rise">Spustite glavu</string>
   <string name="face_unlock_rotated_left">Okrenite glavu udesno</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>
+  <string name="face_unlock_sc_status">Povucite dolje za otvaranje kamere</string>
   <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>

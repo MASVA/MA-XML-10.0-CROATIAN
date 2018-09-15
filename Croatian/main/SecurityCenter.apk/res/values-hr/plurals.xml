@@ -470,6 +470,10 @@
         <item quantity="other">%d aplikacija je skriveno</item>
         <item quantity="one">%d aplikacija je skrivena</item>
     </plurals>
+	<plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d aplikacija se mogu prikazivati na pogrešan način. Ograničite plutajuće obavijesti.</item>
+        <item quantity="one">%d aplikacija se može prikazivati na pogrešan način. Ograničite plutajuće obavijesti.</item>
+    </plurals>
 	<plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problema zahtijevaju optimizaciju</item>
         <item quantity="one">%1$d problem zahtijeva optimizaciju</item>

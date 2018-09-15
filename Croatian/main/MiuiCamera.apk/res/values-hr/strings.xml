@@ -61,7 +61,7 @@
   
 i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="audio_focus_exit_button_text">Isključi</string>
-  <string name="back_bokeh_use_hint">"Pazite da objekt nije udaljen više od 1.5 metara."</string>
+  <string name="back_bokeh_use_hint">"Držite predmet unutar 1,5 metra za najbolji efekat"</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Uljepšanje</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
@@ -263,6 +263,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="portrait_mode_too_close_hint">Udaljite se dalje od objekta</string>
   <string name="portrait_mode_too_far_hint">Postavite predmet unutar 2 m</string>
   <string name="portrait_mode_use_hint">"Portretni način zamagljuje pozadinu\ni ističe osobe ispred."</string>
+  <string name="portrait_mode_use_hint_for_bokeh">"Isprobajte portretni način.
+Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="portrait_with_facebeauty_hint">Dostupna je značajka Uljepšanja u portretnom načinu rada.</string> 
   <string name="pref_advance_settings">Dodatne postavke</string>  
   <string name="pref_audio_focus_entry_front">Prednji</string>

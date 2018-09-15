@@ -1030,15 +1030,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_card_apn_title">"Ne mogu se povezati s mrežom"</string>
   <string name="first_aid_card_consume_power_button1">Ograniči</string>
   <string name="first_aid_card_consume_power_button2">Isključi</string>
-  <string name="first_aid_card_consume_power_button3">Isključi</string>
-  <string name="first_aid_card_consume_power_button4">Isključi</string>
   <string name="first_aid_card_consume_power_summary1">Više od 5 aplikacija dopušteno je automatsko pokretanje. Ograničite radi uštede baterije.</string>
   <string name="first_aid_card_consume_power_summary2">Isključite prijenosni hospot radi uštede baterije.</string>
-  <string name="first_aid_card_consume_power_summary3">Isključite Bluetooth radi uštede baterije.</string>
-  <string name="first_aid_card_consume_power_summary4">Isključite GPS radi uštede baterije.</string>
   <string name="first_aid_card_consume_power_title">Upotreba baterije</string>
   <string name="first_aid_card_float_window_button">Ograniči</string>
-  <string name="first_aid_card_float_window_summary">%s može se prikazati na pogrešan način. Ograničite plutajuće obavijesti.</string>
   <string name="first_aid_card_float_window_title">Omogućili ste plutajuće obavijesti</string>
   <string name="first_aid_card_kadun_button1">Oslobodite prostor</string>
   <string name="first_aid_card_kadun_button2">Ograniči</string>
@@ -1067,6 +1062,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_result_feedback_summary">"Ne mogu riješiti probleme na svom uređaju."</string>
   <string name="first_aid_result_feedback_title">Povratne inf.</string>
   <string name="first_aid_result_summary_normal">Sve izgleda dobro!</string>
+  <string name="first_aid_result_summary_not_finished">"Skeniranje nije dovršeno. Neki rizici možda neće biti otkriveni."</string>
   <string name="first_aid_scanning_item1">Provjera problema s performansama…</string>
   <string name="first_aid_scanning_item2">Provjera problema s mrežom…</string>
   <string name="first_aid_scanning_item3">Provjera netočnih postavki…</string>

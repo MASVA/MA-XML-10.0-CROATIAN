@@ -399,6 +399,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="trans_calculating_media_description">Medijske datoteke</string>
   <string name="trans_calculating_tip">Izračun %s…</string>  
   <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
+  <string name="trans_cancel_dialog_survey_title">Zašto ste prekinuli prijenos?</string>
   <string name="trans_cancel_selection_message">Ako napustite Mi Mover, prijenos u tijeku će biti prekinut. Pričekajte dok se prijenos ne dovrši.</string>
   <string name="trans_cancel_selection_title">Ostani u Mi Moveru</string>
   <string name="trans_cancelling">Otkazivanje…</string>
@@ -435,6 +436,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="trans_device_auto_reconnecting">Veza je prekinuta. Ponovno autom. povezivanje…</string>
   <string name="trans_device_disconnected">Veza je prekinuta</string>
   <string name="trans_device_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo za nastavak.</string>
+  <string name="trans_dialog_survey_finish">Pošalji</string>
   <string name="trans_disconnected_tips_message">Daljinski uređaj nije povezan. Ponovo se povežite ručno ili poništite prijenos.</string>
   <string name="trans_disconnected_tips_title">Daljinski uređaj nije povezan</string>
   <string name="trans_failed_details_page_title">Neuspješni prijenosi</string>
@@ -561,9 +563,14 @@ Odaberite samo važne stavke da brže obavite prijenos."</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
   <string name="trans_start_failed_message">"Ne mogu pokrenuti, pokušajte ponovo ili ponovno pokrenite uređaj."</string>
   <string name="trans_start_failed_title">"Ne mogu pokrenuti"</string>
+  <string name="trans_success_dialog_button_market_comment">Komentiraj</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Ocijenite Mi Mover</string>
+  <string name="trans_success_dialog_button_survey">Pregled</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">"Spremni ste za rasturanje! Recite nam što mislite o Mi Moveru."</string>
   <string name="trans_success_dialog_market_comment_title">"Vaš se novi uređaj sad osjeća kao kod kuće.
 Sviđa vam se Mi Mover?"</string>
+  <string name="trans_success_dialog_survey_title">Cijenimo vaše povratne informacije</string>
+  <string name="trans_success_survey_hint">Najprije popunite sva polja.</string>
   <string name="trans_switching_5g">Promjena na 5GHz WLAN…</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"Potrošeno vrijeme: %s"</string>

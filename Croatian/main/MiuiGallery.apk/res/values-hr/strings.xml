@@ -35,6 +35,7 @@
   <string name="add_to_secret_successful">Dodano u skriveni album</string>
   <string name="add_to_share_album_not_delete">"Ne mogu izbrisati fotografiju u dijeljenom albumu"</string>
   <string name="added_to_favorites">Dodano u favorite</string>
+  <string name="added_to_favorites_desc">Dodano u favorite</string>
   <string name="added_to_favorites_tip">Dodano u album \"Favoriti\"</string>
   <string name="adding">Dodavanje…</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
@@ -122,7 +123,7 @@
   <string name="aspect_ratio_free">Prilagođeno</string>
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
-  <string name="assistant_page_label">Asistent</string>
+  <string name="assistant_page_label">Priče</string>
   <string name="associate_face_album">Odaberi album</string>
   <string name="auto_backup_introduce">Izradi Sig. kopiju fotografija i videozapisa automatski (potreban Mi Račun)</string>
   <string name="auto_download_media_title">Preuzmi fotografije automatski sa Mi Clouda</string>
@@ -254,7 +255,7 @@
   <string name="cleaner_screen_shot_action">Očisti</string>
   <string name="cleaner_screen_shot_description">Izbrišite snimke zaslona koje više ne trebate.</string>
   <string name="cleaner_screen_shot_title">Izbriši snimke zaslona</string>
-  <string name="cleaner_slim_action">Pokretanje optimizacije…</string>
+  <string name="cleaner_slim_action">Pokreni optimizaciju</string>
   <string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Izvorne datoteke pohranjuju se u Mi Cloudu.</string>
   <string name="cleaner_slim_start">Optimiziraj</string>
   <string name="cleaner_slim_title">Optimiziraj fotografije</string>
@@ -433,6 +434,7 @@
   <string name="empty_recommend_back">Natrag</string>
   <string name="empty_recommend_face_page_view">Nema više preporuka</string>
   <string name="empty_relation">"Naziv grupe ne može biti prazan"</string>
+  <string name="empty_title_no_cards">Vaše priče će se pojaviti ovdje.</string>
   <string name="empty_title_no_photos">Nema fotografija ili videozapisa</string>
   <string name="enable_auto_upload_tip">"Uključiti sinkr. s Mi Cloudom za ovaj album?"</string>
   <string name="enable_auto_upload_title">Uključi sinkr. s Mi Cloudom</string>
@@ -744,6 +746,7 @@ za fotografije"</string>
   <string name="merge_album_title">Spoji sa osobom</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="micloud_introduce">Izradi Sig. kopiju kamere i videozapisa automatski (potreban Mi Račun)</string>
+  <string name="more">Više</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Više osoba koje izgledaju podjednako</string>
   <string name="more_face_album_name">Više osoba</string>
@@ -801,6 +804,7 @@ za fotografije"</string>
   <string name="operation_enter_delete_local">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
   <string name="operation_enter_delte_thumbnail">Izbriši Sig. kopije fotografija i videozapisa s uređaja</string>
   <string name="operation_failed">"Ne mogu dovršiti radnju"</string>
+  <string name="operation_favorites">Favoriti</string>
   <string name="operation_force_top">Zakači</string>
   <string name="operation_hide">Sakrij</string>
   <string name="operation_in_process">Obrada…</string>
@@ -1051,6 +1055,7 @@ za fotografije"</string>
   <string name="remove_from_secret_successful">Uklonjeno iz skrivenog albuma</string>
   <string name="remove_to_album_title">Spoji sa</string>
   <string name="remove_to_other_album">Spoji s drugom osobom</string>
+  <string name="removed_from_favorites_desc">Uklonjeno iz favorita</string>
   <string name="remover_edit_type_free">Objekti</string>
   <string name="remover_edit_type_line">Linije</string>
   <string name="remover_erase_aera_too_big">Područje brisanja je preveliko</string>
@@ -1059,6 +1064,8 @@ za fotografije"</string>
   <string name="rename_album">Preimenuj album</string>
   <string name="rename_album_failed">"Ne mogu preimenovati"</string>
   <string name="rename_album_succeeded">Uspješno preimenovano</string>
+  <string name="rename_dialog_hint">Unesi naslov</string>
+  <string name="rename_dialog_title">Preimenuj priču</string>
   <string name="rename_face_album">Promjeni naziv</string>
   <string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
   <string name="rename_from_contact">Ime iz kontakata</string>
@@ -1242,6 +1249,14 @@ za fotografije"</string>
   <string name="storage_description_usb">USB pohrana</string>
   <string name="storage_description_xspace">Podaci dvojnih aplikacija</string>
   <string name="storage_no_space">Nema dovoljno prostora za pohranu</string>
+  <string name="story_action_remove">Ukloni iz priča</string>
+  <string name="story_action_share">Podijeli</string>
+  <string name="story_option_menu_rename">Preimenuj</string>
+  <string name="story_remove_confirm_message">"Uklonjene fotografije više se neće pojaviti u ovoj priči. I dalje ćete ih moći pronaći u Galeriji."</string>
+  <string name="story_remove_confirm_positive">Ukloni</string>
+  <string name="story_remove_confirm_title">Uklanjanje fotografija…</string>
+  <string name="story_rename_invalid_char">"Ne može se koristiti \"%s\" u naslovu priče. Upotrijebite slova i znamenke."</string>
+  <string name="story_rename_invalid_prefix">"Naslovi priča ne mogu počinjati sa \".\" ili \"_\""</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
   <string name="sub_discard_confirm_message">Spremiti promjene?</string>

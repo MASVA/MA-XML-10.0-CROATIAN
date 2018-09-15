@@ -214,10 +214,7 @@
   <string name="auto_advance_summary">Odaberite što prikazati nakon brisanja poruke</string>
   <string name="auto_login_fail">Automatska prijava nije uspjela</string>
   <string name="auto_login_fail_to_retry">Automatska prijava nije uspjela, pokušajte ponovno.</string>
-  <string name="auto_mail_describe">139 Email Usluga autom. konfiguracije može vam pomoći da ispunite podatke za prijavu u poštanski sandučić. Želite li omogućiti ovu značajku?</string>
-  <string name="auto_mail_disable_txt">Onemogućeno</string>
   <string name="auto_mail_enable_txt">Početne postavke</string>
-  <string name="auto_mail_go_email">Mailbox</string>
   <string name="auto_mail_name">AutoMail</string>
   <string name="auto_mail_title_note">Pronađi opciju \"139 Mailbox autom. konfiguracija\", te je kliknite za početak.</string>
   <string name="auto_mail_window_description">139 Email Usluga autom. konfiguracije</string>
@@ -560,6 +557,7 @@
   <string name="login139">CMCC prijava jednom tipkom</string>
   <string name="login_failed_ticker">Prijava računa %s neuspješna.</string>
   <string name="login_failed_title">"Neuspjela prijava"</string>
+  <string name="login_mail">Prijavi se</string>
   <string name="login_support_tip_text">Podržava sve glavne račune e-pošte</string>
   <string name="long_press_to_select_tip">Dodirnite &amp; zadržite za odabir jednog razgovora, zatim dodirnite da ih odaberete više.</string>
   <string name="long_string">duuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuugo</string>
@@ -692,6 +690,9 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="notification_action_undo_delete">Izbrisano</string>
   <string name="notification_action_undo_remove_label">Oznaka je uklonjena</string>
   <string name="notification_exchange_calendar_added">Dodan Exchange kalendar</string>
+  <string name="notify_channel_new_mail">Obavijesti o novim porukama</string>
+  <string name="notify_channel_permission_notice">Podsjetnik obavijesti o dopuštenju</string>
+  <string name="notify_channel_send_fail">Obavijesti o neuspjeloj dostavi</string>
   <string name="oauth_error_description">"Ne mogu provjeriti autentičnost"</string>
   <string name="oauth_gmail_login_notify">"Unesite svoje korisničko ime i zaporku Google računa na sljedećoj stranicu za prijavu"</string>
   <string name="oauth_login_continue">Nastavi</string>
@@ -972,6 +973,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="shortcut_name_title">Naziv prečaca mape</string>
   <string name="show_elided">▶ Prikaži citirani tekst</string>
   <string name="show_images">Prikaži slike</string>
+  <string name="show_more_attachment">Još primitaka</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="signature">"
 
@@ -1078,6 +1080,8 @@ Zaustaviti sada?"</string>
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">putem %1$s</string>
+  <string name="verify_code">Kod za provjeru</string>
+  <string name="version_string">Verzija: %s</string>
   <string name="view_more_conversations">Prikaži više razgovora</string>
   <string name="wait_for_manual_sync_body">"Ovaj račun nije postavljen za automatsku sinkronizaciju.
 Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali jednom ili &lt;b&gt;Promjena sinkronizacije&lt;/b&gt; da biste ovaj račun postavili za automatsku sinkronizaciju pošte.</string>

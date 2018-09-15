@@ -157,6 +157,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="accessibility_shortcut_description">Kad je taj prečac uključen, možete na tri sekunde pritisnuti oba gumba za glasnoću kako biste pokrenuli značajku prisupačnosti.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Dopusti sa zaključanog zaslona</string>
   <string name="accessibility_shortcut_service_title">Usluga prečaca</string>
+  <string name="accessibility_summary_source">Donosi %s</string>
   <string name="accessibility_summary_state_disabled">ISKLJUČENO</string>
   <string name="accessibility_summary_state_enabled">UKLJUČENO</string>
   <string name="accessibility_summary_state_stopped">Usluga ne radi. Dodirnite za informacije.</string>
@@ -1142,15 +1143,19 @@ Audio"</string>
   <string name="bootloader_device_bind_fail">"Ne mogu provjeriti, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprema za dodavanje računa i uređaja…</string>
   <string name="bootloader_device_bind_no_account">Prijavite se prvo na svoj Mi Račun</string>
+  <string name="bootloader_device_bind_no_data_network">Isključite WLAN i dodajte svoj račun i uređaj pomoću mobilnih podataka.</string>
   <string name="bootloader_device_bind_no_network">Povežite se s mrežom i pokušajte ponovno</string>
   <string name="bootloader_device_bind_no_sim">Umetnite SIM karticu i pokušajte ponovo.</string>
   <string name="bootloader_device_bind_server_code">"Ne mogu dodati. Kod pogreške:"</string>
+  <string name="bootloader_device_bind_server_token_expired_1">"Ne mogu provjeriti. Pokušajte ponovo dodati svoj račun i uređ"</string>
+  <string name="bootloader_device_bind_server_token_expired_2">"Ne mogu provjeriti. Ponovno se prijavite na svoj račun i počnite iznova."</string>
   <string name="bootloader_device_bind_sim_invalid">SIM kartica nije valjana. Zamijenite je i pokušajte ponovo.</string>
   <string name="bootloader_locked_answer_1">"Zaključavamo uređaje kako bi bili sigurni da su osigurani ta da vaši osobni podaci ne budu otkriveni trećim osobama. Ako trebate ući u Fastboot način rada i flashati uređaj, možete ga otključati."</string>
   <string name="bootloader_locked_answer_1_warning">"Zapamtite: Nećete biti u mogućnosti koristiti \"Pronađi uređaj\" nakon što je telefon otključan."</string>
   <string name="bootloader_locked_answer_2">"1. Provjerite jeste li već umetnuli SIM karticu u uređaj.
-2. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
-3. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
+2. Isključite WLAN i uključite mobilne podatke. Pazite da se uređaj može povezati s internetom pomoću mobilnih podataka.
+3. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
+4. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
 2. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun i uređaj</string>
@@ -1531,6 +1536,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="credentials_reset_warning_plural">Pogrešna zaporka. Još imate ovoliko pokušaja prije brisanja pohrane vjerodajnica:%1$d.</string>
   <string name="credentials_settings_not_available">Za ovog korisnika nisu dostupne vjerodajnice</string>
   <string name="credentials_title">Pohrana vjerodajnica</string>
+  <string name="credentials_title_verification">Provjera</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Upišite zaporku za pohranu vjerodajnica.</string>
   <string name="credentials_wrong_password">Pogrešna zaporka.</string>
@@ -2330,8 +2336,8 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
   <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne mogu provjeriti status"</string>
-  <string name="failed_to_erase_text">Isključite zaporku za zaključavanje zaslona prije izvođenja 1217 radnje.</string>
-  <string name="failed_to_erase_title">Zabranjena radnja</string>
+  <string name="failed_to_erase_text">Isključite zaporku Zaklj. zaslona prije unosa koda \"1217\".</string>
+  <string name="failed_to_erase_title">"Ne mogu dovršiti ovu radnju"</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne mogu isključiti Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne mogu isključiti"</string>
@@ -5310,8 +5316,8 @@ Za prikvačivanje zaslona:
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_rejected_via_home_manager">"Ova značajka nije podržana u demo verziji."</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku Zaklj. zaslona</string>
-  <string name="security_input">Sigurnosni unos</string>
-  <string name="security_input_hint">Pomoću sigurnosne tipkovnice unesite zaporku</string>
+  <string name="security_input">Sigurna tipkovnica</string>
+  <string name="security_input_hint">Koristite sigurnu tipkovnicu prilikom unosa zaporki</string>
   <string name="security_keyguard_category_name">Zaključan zaslon</string>
   <string name="security_password_category_name">Zaklj. zaslona</string>
   <string name="security_passwords_title">Zaporke</string>
