@@ -55,7 +55,7 @@
   <string name="button_settings_confirm_to_revoke_title">Opozvati autorizaciju?</string>
   <string name="button_sure_abandon">Odbaciti promjene?</string>
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
-  <string name="china_version_first_start_network_msg">"Koristeći ovaj proizvod prihvaćate Xiaomi %1$s i %2$s. Da biste dobili točniju vremensku informaciju, aplikaciji Vrijeme je potrebno povezivanje na internet i dobivanje vaših podatataka o lokaciji. Slažete li se?"</string>
+  <string name="china_version_first_start_network_msg">Morate se složiti s Xiaomi %1$s i %2$s da biste mogli koristiti aplikaciju. Aplikacija Vrijeme treba pristupiti vašoj lokaciji i povezati se s internetom da radi normalno. Slažete li se?"</string>
   <string name="city_exceeded_warning">Možete dodati do 10 gradova</string>
   <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
@@ -65,6 +65,7 @@
   <string name="content_desc_activity_main_add_city_manage">Upravljaj gradom</string>
   <string name="content_desc_activity_main_more_settings">Više postavki</string>
   <string name="content_desc_back_button">Natrag</string>
+  <string name="content_desc_city_manage_del">Izbriši</string>
   <string name="content_desc_close_button">Zatvori</string>
   <string name="content_desc_edit_city_manage">Upravljaj gradovima</string>
   <string name="daily_forcast_drawer_on_bottom">Sakrij</string>
@@ -248,7 +249,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>
   <string name="updated_a_moment_ago">Ažurirano prije nekoliko trenutaka</string>
   <string name="updating">Ažuriranje…</string>
-  <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="user_agreement">Korisnički Sporazum</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

@@ -175,6 +175,8 @@
   <string name="switch_brand_desc_tv">Sigurnosne usluge pruža Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Jedan uređaj.</string>
   <string name="switching_tv">Promjena…</string>
+  <string name="talk_back_water_mark_string1">TalkBack je uključen</string>
+  <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" 3 sekunde da ga isključite</string>
   <string name="total">DND</string>
   <string name="total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="total_title">DND</string>
