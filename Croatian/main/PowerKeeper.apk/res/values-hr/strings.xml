@@ -71,6 +71,8 @@
   <string name="hide_mode_desc"><font color="#000000">Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Ova će funkcija dobiti i koristiti korisničke podatke prema %s</font></string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
   <string name="hide_system_app">Sakrij aplikacije sustava</string>
+  <string name="high_temp_state">Visoka temperatura</string>
+  <string name="high_temp_state_message">Zaštita od visoke temperature, podataka, WLAN-a, GPS-a, kamere itd. bit će ograničena</string>
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
