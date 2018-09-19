@@ -110,6 +110,7 @@
 	 <string-array name="emode_app_groups">
         <item>Aplikacije sustava</item>
         <item>Ostale aplikacije</item>
+		<item>Odabrane aplikacije</item>
     </string-array>
      <string-array name="thermal_summaries">
          <item>Trenutno način upravljanja temperaturom</item>

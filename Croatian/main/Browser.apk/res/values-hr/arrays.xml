@@ -135,4 +135,9 @@
     <item>Kiša</item>
     <item>Snijeg</item>
   </string-array>
+  <string-array name="pref_tab_restore_array">
+        <item>Uvijek pitaj</item>
+        <item>Otvori</item>
+        <item>Zatvori</item>
+    </string-array>
 </resources>

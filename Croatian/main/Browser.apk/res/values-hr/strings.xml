@@ -160,7 +160,9 @@
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Stranica koju pokušavate vidjeti sadrži podatke koji su već podneseni. Ako ponovo pošaljete podatke, prethodne radnje (poput pretrage ili mrežne kupovine) biti će ponovljene."</string>
   <string name="browserFrameNetworkErrorLabel">Problem s vezom</string>
+  <string name="bubble_guide_bottom_message_text">Imate nepročitane poruke: %d</string>
   <string name="bubble_guide_logined_text">Prijavite se za izvlačenje</string>
+  <string name="bubble_guide_portrait_message_text">Klikni za prikaz</string>
   <string name="bubble_guide_unlogined_text">Prijavite se da biste uživali u povlasticama</string>
   <string name="cancel">Odustani</string>
   <string name="cancle_sync_cloud_tabs">Otkaži sinkronizaciju</string>
@@ -287,6 +289,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="dialog_insufficient_space_on_external">Nema dovoljno prostora na USB pohrani</string>
   <string name="dialog_media_not_found">"Ne mogu preuzeti: nema otkrivene USB pohrane"</string>
   <string name="dialog_queued_body">Ova datoteka je u redu čekanja za preuzimanje.</string>
+  <string name="dialog_recovery_tabs_disc">Otkrivanje neotkrivenih stranica zahtijeva potpun oporavak.</string>
+  <string name="dialog_recovery_tabs_title">Otvori stranicu prije oporavka</string>
   <string name="dialog_title_not_available">"Ne mogu preuzeti"</string>
   <string name="dialog_title_queued_body">Datoteka još nije dostupna</string>
   <string name="document_download_background_btn">Preuzmi u pozadini</string>
@@ -362,7 +366,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="error_not_acceptable">Sinkronizacija je isključena.</string>
   <string name="error_title">"Ne mogu sinkronizirati."</string>
   <string name="error_unauthorized">Sinkronizacija s vašim Mi Računom je isključena zbog previše pokušaje prijave.</string>
-  <string name="exit">Izađi</string>
+  <string name="exit">Izlaz</string>
+  <string name="exit_browser_confirmation">Dodirni ponovno za povratak na radnu površinu</string>
   <string name="exit_browser_warning">Izaći iz Preglednika?</string>
   <string name="exit_fullscreen">Izlaz iz cijelog zaslona</string>
   <string name="expand_button_title">Napredno</string>
@@ -1104,6 +1109,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_check_security_url_summary_international">Dopustite Pregledniku pristup poveznicama web-lokacija koje ste posjetili da biste dobili relevantnije preporuke.</string>
   <string name="pref_check_security_url_title">Provjeri sigurnost Poveznice</string>
   <string name="pref_check_security_url_title_international">Dohvati poveznicu</string>
+  <string name="pref_checkbox_tab_restore">Zapamti ovu opciju (možete izmijeniti u naprednim postavkama)</string>
   <string name="pref_clear_adblock_statistics">Izbriši povijest blokiranih reklama</string>
   <string name="pref_clear_adblock_statistics_dlg">Izbrisati povijest blokiranih reklama?</string>
   <string name="pref_clear_all_data_dlg">Izbrisati sve spremljene podatke iznad?</string>
@@ -1190,6 +1196,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_security_show_security_warning_summary">"Prikaži upozorenje ako postoji problem sa sigurnošću stranice"</string>
   <string name="pref_set_homepage_to">Postavi na</string>
   <string name="pref_setting_title">Postavke stranice</string>
+  <string name="pref_slide_back_forward">Klizni natrag ili naprijed</string>
+  <string name="pref_tab_restore">Obnovi zadnju otvorenu stranicu pri pokretanju</string>
   <string name="pref_ua_string">Niz korisničkog agenta</string>
   <string name="pref_version_info">Verzija</string>
   <string name="pref_volume_key_action">Pomicanje pomoću tipaka za glasnoću</string>
@@ -1331,6 +1339,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="signed_in">Prijavljeno</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>
+  <string name="slide_guide">Klizni za natrag</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">"Ne mogu spremiti stranicu"</string>
   <string name="snapshot_successed">Otvori Oznake &amp; Povijest -&gt; LOKALNO za prikaz stranice</string>
