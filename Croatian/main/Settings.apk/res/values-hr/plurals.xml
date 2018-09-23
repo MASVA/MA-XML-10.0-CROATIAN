@@ -450,4 +450,100 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">%d drugih</item>
         <item quantity="one">1 drugi</item>
     </plurals>   
+	     <plurals name="backup_items_app_tailer">
+         <item quantity="other">Podatkovne datoteke aplikacija: %d</item>
+         <item quantity="one">%d podatkovna datoteka aplikacije</item>
+     </plurals>
+     <plurals name="backup_items_sysdata_tailer">
+         <item quantity="other">Podatkovne datoteke sustava: %d</item>
+         <item quantity="one">%d podatkovna datoteka sustava</item>
+     </plurals>
+     <plurals name="custom_progress">
+        <item quantity="other">%d stavki</item>
+        <item quantity="one">%d stavka</item>
+     </plurals>
+     <plurals name="data_item_count">
+        <item quantity="other">%d stavki</item>
+        <item quantity="one">%d stavka</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d dopuštenja</item>
+        <item quantity="one">%d dopuštenje</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikacija se ne može autom. pokrenuti</item>
+        <item quantity="one">%d aplikacija se ne može autom. pokrenuti</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikacija se može automatski pokrenuti</item>
+        <item quantity="one">%d aplikacija se može automatski pokrenuti</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikacija</item>
+        <item quantity="one">%d aplikacija</item>
+     </plurals>
+     <plurals name="install_game_count_title">
+         <item quantity="other">Broj dodanih igara: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+         <item quantity="other">"Uvezeno stavki: %d"</item>
+         <item quantity="one">"Uvezena %d stavka."</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+         <item quantity="other">Uvezite stavke ponovno: %d.</item>
+         <item quantity="one">Uvezite %d stavku ponovno.</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+         <item quantity="other">Uvezene i obnovljene stavke: %d</item>
+         <item quantity="one">Uvezena i obnovljena %d stavka</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+         <item quantity="other">Obnovljene stavke: %d</item>
+         <item quantity="one">Obnovljene stavke: %d</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+        <item quantity="other">stavki</item>
+        <item quantity="one">stavka</item>
+     </plurals>
+     <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d stavki</item>
+        <item quantity="one">%1$s | %2$d stavka</item>
+     </plurals>
+     <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d koraka prije nego što možete dobiti audio zapis</item>
+        <item quantity="one">%1$d korak prije nego što možete dobiti audio zapisn</item>
+     </plurals>
+     <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d koraka prije nego što možete dobiti GPS zapis</item>
+        <item quantity="one">%1$d korak prije nego što možete dobiti GPS zapis</item>
+     </plurals>
+     <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d koraka prije nego što možete dobiti zapis modema</item>
+        <item quantity="one">%1$d korak prije nego što možete dobiti zapis modema</item>
+     </plurals>
+     <plurals name="total_num">
+        <item quantity="other">%d stavki,</item>
+        <item quantity="one">%d stavka,</item>
+     </plurals>
+     <plurals name="trans_failed_summary">
+        <item quantity="other">"Ne mogu poslati stavke: %d. Dodirni za prikaz pojedinosti."</item>
+        <item quantity="one">"Ne mogu poslati %d stavku. Dodirni za prikaz pojedinosti."</item>
+     </plurals>
+     <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Ne mogu poslati stavke: %d."</item>
+        <item quantity="one">"Ne mogu poslati %d stavku."</item>
+     </plurals>
+     <plurals name="trans_time_format_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+     </plurals>
+     <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Broj nedodanih igara: %d"</item>
+         <item quantity="one">"Nije dodana %d igra"</item>
+     </plurals>
 </resources> 

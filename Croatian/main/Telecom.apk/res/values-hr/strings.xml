@@ -385,10 +385,12 @@ Audio"</string>
   <string name="power_discharge_by_only_enhanced">Otprilike bi trebalo trajati do %1$s na temelju vaše upotrebe</string>
   <string name="power_discharging_duration">Još otprilike %1$s (%2$s)</string>
   <string name="power_discharging_duration_enhanced">Još otprilike %1$s na temelju vaše upotrebe (%2$s)</string>
+  <string name="power_discharging_duration_short">^1 – još ^2</string>
   <string name="power_remaining_charging_duration_only">Još %1$s do potpune napunjenosti</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Još otprilike %1$s na temelju vaše upotrebe</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
+  <string name="power_remaining_duration_only_short_enhanced">Još ^1 na temelju vaše upotrebe</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon bi se uskoro mogao isključiti</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon bi se uskoro mogao isključiti (%1$s)</string>
   <string name="power_remaining_less_than_duration">Preostalo je manje od %1$s (%2$s)</string>
@@ -585,8 +587,11 @@ Audio"</string>
   <string name="wifi_no_internet">Nema pristupa internetu.</string>
   <string name="wifi_no_internet_no_reconnect">Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja.</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
+  <string name="wifi_p2p_allow_passive_listen">Omogući WLAN P2P pasivno slušanje</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_security_none">Nema</string>
+  <string name="wifi_ssid_is_empty">Polje SSID ne može ostati prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne smije premašivati 32 znakova u dužini</string>
   <string name="wifi_status_mac_randomized">MAC adresa određena je nasumično</string>
   <string name="wifi_status_no_internet">Nema interneta</string>
   <string name="wifi_status_sign_in_required">Obavezna prijava</string>

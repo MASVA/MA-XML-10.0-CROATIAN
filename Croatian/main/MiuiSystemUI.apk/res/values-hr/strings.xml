@@ -1903,7 +1903,10 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wapi_password_length_is_min_to_max">Zaporka mora biti: 8-64 znaka</string>
   <string name="wapi_yes">da</string>
   <string name="weather_publish_time">Ažurirano %1$s</string>
+  <string name="wifi_aggressive_handover">Agresivni WLAN na mobilni prijenos</string>
+  <string name="wifi_aggressive_handover_summary">Kada je omogućeno, veza će se aktivnije prebaciti na mobilne podatke kada je WLAN signal nizak.</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Pristupna točka privremeno puna</string>
+  <string name="wifi_allow_scan_with_traffic">Uvijek omogući skeniranje WLAN roam-ova</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_cant_connect">"Ne mogu se povezati"</string>
   <string name="wifi_cant_connect_to_ap">"Ne mogu se povezati na '%1$s'"</string>

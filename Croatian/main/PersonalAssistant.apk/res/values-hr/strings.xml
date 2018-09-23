@@ -288,7 +288,7 @@
   <string name="launch_no_dapp_dialog_reset">Postavke Dvojnih aplikacija</string>
   <string name="launch_noapp_dialog_cancel">Odustani</string>
   <string name="launch_noapp_dialog_redownload">Instaliraj</string>
-  <string name="launch_noapp_dialog_replace">ZAmjeni</string>
+  <string name="launch_noapp_dialog_replace">Zamjeni</string>
   <string name="launch_noapp_dialog_title">Aplikacija je izbrisana</string>
   <string name="launch_order_change">Promijeni red</string>
   <string name="launch_order_finish">Gotovo</string>

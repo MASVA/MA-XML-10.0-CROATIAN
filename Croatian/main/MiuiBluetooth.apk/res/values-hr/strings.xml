@@ -27,6 +27,8 @@
   <string name="fast_connect_device_headset_l">Lijevo</string>
   <string name="fast_connect_device_headset_r">Desno</string>
   <string name="fast_connect_device_headset_reset">Pritisnite i držite tipku na boxu</string>
+  <string name="fast_connect_device_title_find_headset">Pronađi slušalice %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Pronađi drugih %1$s slušalica</string>
   <string name="fast_connect_device_title_connect_fail">"Ne mogu povezati %1$s"</string>
   <string name="fast_connect_device_title_connecting">Povezivanje…</string> 
   <string name="goto_package">Otvori %1$s</string>

@@ -32,7 +32,7 @@
   <string name="abc_searchview_description_submit">Pošalji upit</string>
   <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
-   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_slice_error">Povezivanje nije moguće</string>
   <string name="abc_slice_more">Više</string>
   <string name="abc_slice_permission_allow">Dopusti</string>
@@ -45,7 +45,10 @@
   <string name="abc_slice_updated">Ažurirano %1$s</string>
   <string name="abc_slices_permission_request">%1$s želi prikazivati isječke aplikacije %2$s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="abort_backup_confirm">"Izrada Sig. kopije nije završena. Svejedno zaustaviti?"</string>
+  <string name="abort_restore_confirm">"Vraćanje nije završeno. Svejedno zaustaviti?"</string>
   <string name="about_ad_service_instructions">O uslugama oglasa i privatnošću​</string>
+  <string name="about_autostart">About autostart</string>
   <string name="about_phone_device_name_warning">Naziv vašeg uređaja vidljiv je aplikacijama na vašem telefonu. Mogu ga vidjeti i drugi ljudi kada se povežete s Bluetooth uređajima ili postavite Wi-Fi žarišnu točku.</string>
   <string name="about_phone_enter_xiaomi_net">Saznajte više</string>
   <string name="about_settings">O uređaju</string>
@@ -157,6 +160,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="accessibility_shortcut_description">Kad je taj prečac uključen, možete na tri sekunde pritisnuti oba gumba za glasnoću kako biste pokrenuli značajku prisupačnosti.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Dopusti sa zaključanog zaslona</string>
   <string name="accessibility_shortcut_service_title">Usluga prečaca</string>
+  <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
   <string name="accessibility_summary_source">Donosi %s</string>
   <string name="accessibility_summary_state_disabled">ISKLJUČENO</string>
   <string name="accessibility_summary_state_enabled">UKLJUČENO</string>
@@ -197,16 +201,19 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="accessibility_work_account_title">Radni račun – %s</string>
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Autom. pokretanje</string>
+  <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
   <string name="account_dashboard_default_summary">Nije dodan nijedan račun</string>
   <string name="account_dashboard_title">Korisnici i računi</string>
   <string name="account_for_section_header">Računi za korisnika %1$s</string>
   <string name="account_list">Ostali računi</string>
+  <string name="account_login">Prijavite se</string>
   <string name="account_other">Ostalo</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Automat. sinkroniziraj podatke</string>
   <string name="account_settings_menu_auto_sync_personal">Autom. sinkroniz. osobne podatke</string>
   <string name="account_settings_menu_auto_sync_work">Autom. sinkroniz. radne podatke</string>
   <string name="account_settings_title">Računi</string>
+  <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="account_sync_summary_all_off">Sinkronizacija isključena za sve stavke</string>
   <string name="account_sync_summary_all_on">Sinkronizacija uključena za sve stavke</string>
@@ -224,6 +231,10 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="activity_list_empty">Nisu pronađene podudarne radnje.</string>
   <string name="activity_not_found">Aplikacija nije instalirana na vašem telefonu.</string>
   <string name="activity_picker_label">Odabir aktivnosti</string>
+  <string name="activity_title_apps_manager">Aplikacije</string>
+  <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
+  <string name="activity_title_permission_manager">Dopuštenja</string>
+  <string name="activity_title_permissions_manager">Dopuštenja</string>
   <string name="ad_service">Usluge oglasa</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_warning_message">Uklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
@@ -296,8 +307,18 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="alarm_template_far">u %1$s</string>
   <string name="alarm_volume_option_title">Alarm</string>
   <string name="alarm_volume_title">Alarm</string>
+  <string name="alert_button_agree_and_continue">Dopusti</string>
+  <string name="alert_button_deny">Odbijam</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite traži dopuštenje za izradu Sig. kopije na računalo. Dopustiti?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite traži dopuštenje za vraćanje stavki na vaš telefon. Dopustiti?</string>
+  <string name="alert_miasist_occupy_backup">Sigurnosno kopiranje stavki koristeći Mi PC Suite… Pričekajte dok se Sig. kopija ne dovrši i pokušajte ponovo.</string>
+  <string name="alert_miasist_occupy_restore">Vraćanje stavki koristeći Mi PC Suite… Pričekajte dok stavke nisu vraćene i pokušajte ponovo.</string>
+  <string name="alert_phone_occupy_backup">"Ne mogu sada koristiti Mi PC Suite. Dovršite izradu Sig. kopije ili vraćanje stavki na telefon i pokušajte ponovo."</string>
+  <string name="alert_second_space_not_support_miasist">"Ne mogu sada koristiti Mi PC Suite u Drugom prostoru. Prebacite se u Prvi prostor."</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Prikaz čuvara zaslona troši više bateriju.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Korištenje baterije</string>
+  <string name="alert_title_backup_to_miasist">Izraditi Sig. kpiju stavki koristeći Mi PC Suite?</string>
+  <string name="alert_title_restore_from_miasist">Vratiti stavke na vaš telefon?</string>
   <string name="all_volume_title">Glasnoća</string>
   <string name="allow">Dopusti</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Kada izradite widget, aplikacija %1$s može pristupiti svim podacima koje taj widget prikazuje.</string>
@@ -313,6 +334,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
   <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
   <string name="alpha_build">" | Alpha"</string>
+  <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="always">Uvijek</string>
   <string name="always_allow_bind_appwidgets_text">Odlučili ste dopustiti ovoj aplikaciji izradu widgeta i pristupanje njihovim podacima.</string>
   <string name="always_running">Uvijek se izvodi (%s)</string>
@@ -420,6 +442,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="app_lock_role_instruction">Zaštitite svoje privatne aplikacije</string>
   <string name="app_memory_use">Uporaba memorije</string>
   <string name="app_mobile">Mobilno</string>
+  <string name="app_name">Sig. kopija</string>
   <string name="app_name_label">Aplikacija</string>
   <string name="app_name_na">Uporaba podataka</string>
   <string name="app_not_found_dlg_text">"Aplikacija nije pronađena na popisu instaliranih aplikacija."</string>
@@ -489,6 +512,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="apply_password_to_category_title">Zahtijeva otključavanje</string>
   <string name="apply_update_fail">"Ne mogu ažurirati"</string>
   <string name="approve_title">Provjera</string>
+  <string name="apps_and_data_item_desc">Aplik. i podaci</string>
   <string name="apps_storage">Pohrana aplikacija</string>
   <string name="apps_summary">Broj instaliranih aplikacija: %1$d</string>
   <string name="apps_summary_example">Instalirane su 24 aplikacije</string>
@@ -519,6 +543,21 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="audio_list_loading">Učitavanje…</string>
   <string name="audio_profile_settings_title">Audio profili</string>
   <string name="audio_record_proc_title">Uklanjanje buke</string>
+  <string name="auto_backup">Zakažite rutinsku Sig. kopiju</string>
+  <string name="auto_backup_all_user_apps">Sve aplikacije</string>
+  <string name="auto_backup_choose">Stavke Sig. kopije</string>
+  <string name="auto_backup_choose_empty">Nema Sig. kopija.</string>
+  <string name="auto_backup_choose_title">Odaberite stavke Sig. kopije</string>
+  <string name="auto_backup_date">Dana</string>
+  <string name="auto_backup_only_wifi">Samo kada je povezano na WLAN</string>
+  <string name="auto_backup_open">Automatski napravi Sig. kopiju</string>
+  <string name="auto_backup_progress">Izrada Sig. kopije…</string>
+  <string name="auto_backup_select_user_apps">Odaberite aplikacije</string>
+  <string name="auto_backup_selected_user_apps">Odabrane aplikacije</string>
+  <string name="auto_backup_setting">Zakažite rutinsku Sig. kopiju</string>
+  <string name="auto_backup_system_data">Sustav</string>
+  <string name="auto_backup_time">Vrijeme</string>
+  <string name="auto_backup_user_data">Aplikacije</string>
   <string name="auto_brightness_default_title">Zadano</string>
   <string name="auto_brightness_description">Svjetlina zaslona automatski će se prilagoditi vašoj okolini i aktivnostima. Klizač možete pomicati ručno kako bi prilagodljiva svjetlina dobila podatke o tome što vam odgovara.</string>
   <string name="auto_brightness_disclaimer">Optimizira razinu svjetline s obzirom na okolno osvjetljenje. Kad je ta značajka uključena, i dalje možete privremeno prilagoditi svjetlinu.</string>
@@ -622,24 +661,48 @@ Za ograničenje uključite optimizaciju."</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pozadinskog pristupa mreži za ovu aplikaciju može onemogućiti aplikaciji da funkcionira normalno, primaa poruke, preuzima sadržaj itd. Svejedno ograničiti?</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="backtouch_enable_title">Podesite glasnoću na poleđini</string>
+  <string name="backup">Sig. kopija</string>
   <string name="backup_configure_account_default_summary">Nijedan račun trenutno ne stvara sigurnosne kopije podataka</string>
   <string name="backup_configure_account_title">Sigurnosni račun</string>
+  <string name="backup_data">Odaberite stavke Sig. kopije</string>
   <string name="backup_data_summary">Izrada Sig. kopije podataka aplikacije, WLAN zaporki i ostalih postavki na Googleovim poslužiteljima</string>
   <string name="backup_data_title">Izradi sigurnosnu kopiju mojih podataka</string>
+  <string name="backup_delete">Obriši:</string>
   <string name="backup_disabled">Sigurnosno kopiranje onemogućeno</string>
+  <string name="backup_empty">Nema Sig. kopija!</string>
+  <string name="backup_empty_info">" Napravite Sig. kopiju vaših podataka, 
+  postavki i aplikacija"</string>
+  <string name="backup_empty_info_onpad">" Napravite Sig. kopiju vaših podataka, 
+  postavki i aplikacija"</string>
   <string name="backup_erase_dialog_message">Želite li zaustaviti izradu Sig. kopija WLAN zaporki, oznaka, drugih postavki i podataka aplikacije te izbrisati sve kopije na Googleovim poslužiteljima?</string>
   <string name="backup_erase_dialog_title"/>
+  <string name="backup_error">"Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_failed">Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_file_error">Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_finished">Sig. kopija uspješno završena</string>
+  <string name="backup_hint">"Držite vaš uređaj uključenim</string>
+  <string name="backup_hint_onpad">Držite vaš uređaj uključenim</string>
   <string name="backup_inactive_title">Usluga sigurnosnog kopiranja nije aktivna.</string>
+  <string name="backup_is_running">Izrada Sig. kopije uređaja</string>
+  <string name="backup_items_app_tailer">" x podaci aplikacija"</string>
+  <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
   <string name="backup_lock_settings_picker_title">Odabir sig. zaključ.</string>
+  <string name="backup_new">Novo:</string>
+  <string name="backup_progress">Izrada Sig. kopije…</string>
   <string name="backup_pw_cancel_button_text">Odustani</string>
   <string name="backup_pw_set_button_text">Postavi zaporku za sigurnosnu kopiju</string>
+  <string name="backup_report">Prikaži detalje</string>
   <string name="backup_section_title">Sig. kopija &amp; vraćanje</string>
+  <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>
+  <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
+  <string name="backup_update">Ažuriraj</string>
   <string name="band_mode_failed">Neuspješno</string>
   <string name="band_mode_loading">Učitavanje popisa mrežnih postavki…</string>
   <string name="band_mode_set">Postavi</string>
   <string name="band_mode_succeeded">Uspješno</string>
   <string name="band_mode_title">Postavi način radijske frekvencije</string>
   <string name="baseband_version">Osnovna verzija</string>
+  <string name="batch_delete_backup_confirm">Izbrisati odabrane Sig. kopije?</string>
   <string name="batch_delete_saved_network">Izbrisati odabrane mreže: %s?</string>
   <string name="batch_delete_saved_networks">Izbriši sve odabrane mreže</string>
   <string name="battery_abnormal_apps_summary">Aplikacije koje ne funkcioniraju dobro: %1$d</string>
@@ -1056,7 +1119,7 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_scan_for_devices">Skeniranjem traži uređaje</string>
   <string name="bluetooth_scanning_on_info_message">"Kada je Bluetooth uključen, uređaj može komunicirati s ostalim Bluetooth uređajima u blizini.
 
-Da bi se poboljšala učinkovitost uređaja, aplikacije i usluge mogu tražiti uređaje u blizini u bilo kojem trenutku, čak i kada je Bluetooth isključen. Na taj se način mogu, na primjer, poboljšati značajke i usluge koje se temelje na lokaciji. To možete promijeniti u "<annotation id="link">postavkama pretraživanja</annotation>.</string>
+Da bi se poboljšala učinkovitost uređaja, aplikacije i usluge mogu tražiti uređaje u blizini u bilo kojem trenutku, čak i kada je Bluetooth isključen. Na taj se način mogu, na primjer, poboljšati značajke i usluge koje se temelje na lokaciji. To možete promijeniti u "&lt;annotation id="link"&gt;postavkama pretra&amp;#382;ivanja&lt;/annotation&gt;.</string>
   <string name="bluetooth_search_for_devices">Traženje uređaja</string>
   <string name="bluetooth_searching_for_devices">Traženje…</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitovi po uzorku za Bluetooth Audio</string>
@@ -1202,6 +1265,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="bt_trace_log">Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
   <string name="btn_back">Natrag</string>
+  <string name="btn_got_it">Razumijem</string>
   <string name="bug_report_settings">Povratne inf.</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
   <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
@@ -1211,10 +1275,21 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="build_number">Broj međuverzije</string>
   <string name="builtin_keyboard_settings_summary">Postavke fizičke tipkovnice</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
+  <string name="button_backup">Sig. kopija</string>
+  <string name="button_cancel">Odustani</string>
+  <string name="button_clean_garbage">Oslobodite prostor</string>
   <string name="button_confirm_convert_fbe">Izbriši i pretvori</string>
+  <string name="button_continue">Nastavi</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
   <string name="button_disconnect_network">Isključi iz mreže</string>
+  <string name="button_finish">Završeno</string>
+  <string name="button_got_it">U redu</string>
+  <string name="button_import">Uvezi</string>
   <string name="button_light_timeout">Trajanje osvjetljenja tipaka</string>
+  <string name="button_next">Dalje</string>
+  <string name="button_ok">U redu</string>
+  <string name="button_quit">Izlaz</string>
+  <string name="button_return">Natrag</string>
   <string name="button_start_transfer">Kopiraj</string>
   <string name="button_text_accept">Prihvaćam</string>
   <string name="button_text_accept_timer">Prihvaćam (%d)</string>
@@ -1232,12 +1307,14 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="cached">Pozadinski proces u predmemoriji</string>
   <string name="calendar_sound_dialog_title">Odaberite zvuk kalendara</string>
   <string name="calendar_sound_title">Zvuk kalendara</string>
+  <string name="call_and_contact">Pozivi i  kontakti</string>
   <string name="call_manager_enable_summary">Dopusti usluzi upravljanje načinom uspostavljanja poziva.</string>
   <string name="call_manager_enable_title">Omogući Upravitelj poziva</string>
   <string name="call_manager_title">Upravitelj poziva</string>
   <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
   <string name="call_settings_title">Postavke poziva</string>
+  <string name="call_title">Povijest poziva</string>
   <string name="call_volume_option_title">Glasnoća poziva</string>
   <string name="calls_title">Pozivi</string>
   <string name="camera_double_tap_power_gesture_desc">Brzo otvaranje fotoaparata bez otključavanja zaslona</string>
@@ -1257,6 +1334,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="camera_key_action_title">Mi Tipka</string>
   <string name="camera_key_action_toggle_title">Promjena stanja okidača</string>
   <string name="camera_laser_sensor_switch">Laserski senzor fotoaparata</string>
+  <string name="camera_summary">Postavke kamere (ne uključujući fotografije)</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_alert">Odbaciti nespremljene promjene?</string>
@@ -1264,6 +1342,9 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancel_description">Odustani</string>
   <string name="cancel_download_buton_text">Odustani</string>
+  <string name="cancel_moving_dialog_message">Zaustaviti uvoz?</string>
+  <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
+  <string name="cancel_restore">Odustani</string>
   <string name="cant_sync_dialog_message">Sinkronizacija za tu stavku trenutačno je onemogućena. Da biste promijenili tu postavku, privremeno uključite pozadinske podatke i automatsku sinkronizaciju.</string>
   <string name="cant_sync_dialog_title">Ne mogu ručno sinkronizrati</string>
   <string name="capabilities_list_title">%1$s treba sljedeće:</string>
@@ -1360,12 +1441,13 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="clear_instant_app_data">Izbriši podatke aplikacije</string>
   <string name="clear_uri_btn_text">Izbriši pristup</string>
   <string name="clear_user_data_text">Izbriši podatke</string>
+  <string name="click_to_view">Dodirnite za prikaz</string>
   <string name="close_aod">"Ova se značajka ne može kombinirati sa načinom \"Uvijek uključeno\". Isključite prvo \"Uvijek uključeno\"."</string>
   <string name="close_app">Zatvori trenutnu aplikaciju</string>
   <string name="close_demo_mode">Odustani</string>
+  <string name="close_dialog">U redu</string>
   <string name="close_fod">"Nećete moći otključati uređaj pomoću otiska prsta kada je zaslon isključen. Otključavanje pomoću otiska prsta će raditi samo kad je zaslon uključen."</string>
   <string name="close_fod_aod">"Nećete moći otključati uređaj pomoću otiska prsta kada je zaslon isključen. \"Uvijek uključeno\" neće biti dostupno također. Otključavanje pomoću otiska prsta će raditi samo kad je zaslon uključen."</string>
-  <string name="close_dialog">U redu</string>
   <string name="close_gesture">Zatvori koristeći gestu</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
@@ -1373,10 +1455,30 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="close_optimization_option">Isključi</string>
   <string name="close_sdcard_optimization_title">Isključi optimiziranje SD kartice</string>
   <string name="close_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
+  <string name="close_twice_auth_btn">Isključi autorizaciju s dva faktora</string>
+  <string name="close_twice_auth_note">"Bilješka:\nNakon što izradite novo sigurnosno pitanje i potvrdite datum rođenja, autorizacija s dva faktora za vaš Apple ID bit će isključena. Ako ne vidite opciju isključivanja autorizacije s dva faktora na stranici računa Apple ID, ne možete ga isključiti."</string>
+  <string name="close_twice_auth_operation">"URL:\nhttps://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
+  <string name="close_twice_auth_step_1">1. Otvorite bilo koji web-preglednik na bilo kojem računalu i idite na appleid.apple.com.</string>
+  <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za koji želite onemogućiti autorizaciju s dva faktora, idite na odjeljak \"Sigurnost\" u postavkama računa i odaberite \"Uredi\"</string>
+  <string name="close_twice_auth_step_3">3. Kliknite \"Isključi autorizaciju s dva faktora\". Kliknite ponovno za potvrdu.</string>
+  <string name="close_twice_auth_steps">Slijedite ove korake kako biste isključili autorizaciju s dva faktora za Apple ID:</string>
+  <string name="close_twice_auth_tutor">Isključi Apple ID autorizaciju s dva faktora</string>
+  <string name="cloud_app_name">Sig. kopija Mi Cloud</string>
+  <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
+  <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
   <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
+  <string name="cloud_backup_window_title">Mi Cloud Sig. kopija</string>
+  <string name="cloud_home_title">Mi Cloud</string>
+  <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
+  <string name="cloud_last_backup">"Posljednja Sig. kopija"</string>
+  <string name="cloud_no_backup">Nema Sig. kopija</string>
+  <string name="cloud_restore_guide">Za vraćanje korisničkih podataka za %s, dodirnite Vraćanje</string>
   <string name="cloud_restore_section_summary">Vrati postavke sustava, raspored Poč. zaslona i aplikacije</string>
   <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
+  <string name="cloud_restore_title">Vraćanje podataka Sig. kopije</string>
+  <string name="cloud_restore_window_title">Mi Cloud vraćanje</string>
+  <string name="cloud_search">Pretraživanje…</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_title">Prijava uređaja</string>
@@ -1413,6 +1515,8 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="common_settings">Brze postavke</string>
   <string name="complete_parameters">Sve specifikacije</string>
   <string name="complete_settings">Opće postavke</string>
+  <string name="compute_backup_info">Dobivanje podataka Sig. kopije…</string>
+  <string name="compute_delete_contact_info">Dobivanje informacija…</string>
   <string name="computing_size">Izračun…</string>
   <string name="condition_airplane_summary">WLAN, Bluetooth i mobilna mreža isključeni su. Ne možete telefonirati niti se povezati s internetom.</string>
   <string name="condition_airplane_title">Način rada u zrakoplovu uklj.</string>
@@ -1468,11 +1572,15 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="confirm_privacy_password">Unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte otisak prsta ili unesite Zaporku zaštite privatnosti</string>
   <string name="confirm_privacy_password_instruction">Ova zaporka štiti poruke, fotografije i kontakte.</string>
+  <string name="confirm_prompt_all_permission">Tražiti dopuštenje za sve aplikacije?</string>
+  <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
   <string name="confirm_reset_aaid">U redu</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Želite li poništiti brojače ograničenja brzine ShortcutManagera?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Želite li poništiti ograničavanje brzine ShortcutManagera?</string>
   <string name="connect_mode">Način povezivanja</string>
   <string name="connect_to_internet">Poveži se na internet</string>
+  <string name="connect_wifi">Poveži se na WLAN</string>
+  <string name="connect_wifi_tip">"Niste povezani s WLAN mrežom. Za uvoz podataka iz iClouda, povežite se s WLAN mrežom."</string>
   <string name="connected">Povezano</string>
   <string name="connected_device_add_device_summary">Bluetooth će se uključiti radi uparivanja</string>
   <string name="connected_device_add_device_title">Dodavanje uređaja</string>
@@ -1495,6 +1603,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
   <string name="connected_wifi">Povezano</string>
   <string name="connecting_to_vpn">Povezivanje na VPN</string>
+  <string name="contact_title">Kontakti</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="continue_all_caps">NASTAVI</string>
   <string name="contributors_title">Suradnici</string>
@@ -1577,9 +1686,13 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="cryptkeeper_wrong_password">Pogrešna zaporka</string>
   <string name="cryptkeeper_wrong_pattern">Pogrešan uzorak</string>
   <string name="cryptkeeper_wrong_pin">Pogrešan PIN</string>
+  <string name="current_account">Trenutan račun: %s</string>
   <string name="current_backup_pw_prompt">Ovdje unesite trenutačnu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="current_input_method">Trenutna tipkovnica</string>
+  <string name="current_pad_location">Pad</string>
+  <string name="current_phone_location">Telefon</string>
   <string name="current_screen_lock">Trenutačno zaključavanje zaslona</string>
+  <string name="current_sim">Trenutna SIM kartica</string>
   <string name="current_use_ese">Korištenje ugrađenog sigurnosnog elementa</string>
   <string name="current_use_ese_wallet">"Vi koristite Mi Novčanik. On vam omogućuje da koristite Mi Pay i NFC tranzitnu karticu."</string>
   <string name="current_use_hce_wallet">"Vi koristite HCE Novčanik"</string>
@@ -1597,7 +1710,10 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Collapse</string>
   <string name="dashboard_title">Postavke</string>
+  <string name="data_detail_description">Detalji</string>
+  <string name="data_item_desc">Podaci</string>
   <string name="data_limit">Ograničenje podataka</string>
+  <string name="data_no_enough_space_message">"Nema dovoljno prostora na unutarnjoj memoriji vašeg uređaja."</string>
   <string name="data_overusage">Više od ^1</string>
   <string name="data_remaining">Još ^1</string>
   <string name="data_roaming_enable_mobile">Roaming</string>
@@ -1686,10 +1802,10 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="data_usage_restrict_denied_dialog">Ograničavanje podataka u pozadini moguće je samo ako ste postavili ograničenje mobilnih podataka.</string>
   <string name="data_usage_summary_format">%1$s podataka iskorišteno</string>
   <string name="data_usage_summary_title">Uporaba podataka</string>
-  <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">ograničenje</font></string>
-  <string name="data_usage_sweep_warning"><font size="12">Upozori na</font>"
-"<font size="18">^1</font> <font size="9">^2</font></string>
+  <string name="data_usage_sweep_limit">&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;ograni&amp;#269;enje&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="12"&gt;Upozori na&lt;/font&gt;"
+"&lt;font size="18"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1780,6 +1896,9 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_theme">Zadano</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
+  <string name="delete_backup_process">Brisanje…</string>
+  <string name="delete_backup_title">Izbriši Sig. kopiju</string>
+  <string name="delete_failed_backup_confirm">Ova Sig. kopija sadrži pogreške.</string>
   <string name="delete_fingerprint_confirm_msg">Ukloniti otisak prsta?</string>
   <string name="delete_fingerprint_text">Ukloni</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
@@ -1797,6 +1916,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="deny">Odbij</string>
   <string name="deny_sms_message">"Zabrani slanje SMS poruka"</string>
   <string name="deny_sms_title">Zaključaj SMS</string>
+  <string name="deselect_all">Poništi odabir</string>
   <string name="detail_app_button">Informacije o aplikaciji</string>
   <string name="details_subtitle">Detalji upotrebe</string>
   <string name="details_title">Detalji upotrebe</string>
@@ -1882,6 +2002,7 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s i s
 Da biste riješili taj problem, možete isključiti lokaciju za tu aplikaciju."</string>
   <string name="dialog_location_ok">Isključi</string>
   <string name="dialog_location_title">Isključiti lokaciju?</string>
+  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_not_show_again">Ne prikazuj ponovno</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobilna podatkovna veza bit će ograničena za sve aplikacije nakon toga.</string>
@@ -1902,6 +2023,7 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s.
 Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste smanjili potrošnju baterije."</string>
   <string name="dialog_stop_ok">Zaustavi aplikaciju</string>
   <string name="dialog_stop_title">Zaustaviti aplikaciju?</string>
+  <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_font_size">Veličina fonta</string>
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
@@ -1923,6 +2045,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_continue">Onemogući</string>
   <string name="disable_data_string">Onemogući podatkovnu vezu</string>
+  <string name="disable_encrypt_description">Nije šifrirano</string>
+  <string name="disable_encrypt_title">Isključi šifriranje</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke za uključivanje</string>
@@ -2143,6 +2267,9 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="emergency_tone_title">Ton hitnog poziva</string>
   <string name="emergency_tone_vibrate">Vibriranje</string>
   <string name="empty_list_msg">Nemate instaliranih aplikacija treće strane.</string>
+  <string name="empty_title_auto_start_list">Nema aplik. s autom. pokretanjem</string>
+  <string name="empty_title_perm_apps">Nema aplik. s ovim dopuštenjem</string>
+  <string name="empty_title_permission_apps_list">Nema aplikacija.</string>
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">Uklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Uklanjanje pogrešaka s priključenim USB-om</string>
@@ -2151,6 +2278,14 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="enable_crypt_keeper_encrypt">Omogući enkripciju</string>
   <string name="enable_data_string">Omogući mobilne podatke</string>
   <string name="enable_drive_mode">Automobilski način</string>
+  <string name="enable_encrypt">Uključi šifriranje</string>
+  <string name="enable_encrypt_description">Šifriraj</string>
+  <string name="enable_encrypt_fail">Pogreška šifriranja</string>
+  <string name="enable_encrypt_indicator">Dodirnite za šifriranje</string>
+  <string name="enable_encrypt_summery1">Prijavite se sa svojim Mi Računom za pristup šifriranim Sig. kopijama.</string>
+  <string name="enable_encrypt_summery2">"Vaše Sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Mi Računom da im možete pristupiti."</string>
+  <string name="enable_encrypt_title">Šifriraj Sig. kopije</string>
+  <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
   <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
   <string name="enable_gnss_raw_meas_full_tracking">Primijeni potpuna mjerenja GNSS-a</string>
@@ -2305,11 +2440,27 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="erase_sd_data">Formatiraj SD karticu</string>
   <string name="erase_sd_data_description">Formatiranje će izbrisati sve podatke na SD kartici</string>
   <string name="erase_sure">Obvezno</string>
+  <string name="err_acquire_system_service">"Nije moguće pokrenuti uslugu sustava."</string>
+  <string name="err_authentication_failed">Provjera nije uspjela</string>
+  <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
+  <string name="err_bakfile_not_exist">"Sigurnosna kopija ne postoji."</string>
+  <string name="err_binder_died">Aplikacija se neočekivano zaustavila.</string>
+  <string name="err_filesystem_mount">"Ne mogu pristupiti prostoru za pohranu routera"</string>
+  <string name="err_low_storage">Nedovoljno prostora</string>
+  <string name="err_not_allow">Nije podržano</string>
+  <string name="err_pkg_not_exist">"Ne mogu pronaći aplikaciju."</string>
+  <string name="err_router_disconnected">"Provjerite priključak vašeg routera i pokušajte ponovo."</string>
+  <string name="err_router_files_delete">"Ne mogu obrisati Sig. kopije na routeru"</string>
+  <string name="err_unknown">Nepoznata greška</string>
+  <string name="err_user_abort">Otkazano od strane korisnika.</string>
+  <string name="err_version_too_old">Sig. kopija je prestara.</string>
+  <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
   <string name="error_adding_apn_type">Mobilni operater ne dopušta dodavanje APN-ova vrste %s.</string>
   <string name="error_apn_empty">APN ne može biti prazan.</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>
   <string name="error_name_empty">Polje naziva ne može biti prazno.</string>
+  <string name="error_permissions">"Ova aplikacija nema dopuštenje za pristup Kalendaru. Idite u Postavke i provjerite dopuštenje za nastavak."</string>
   <string name="error_title"/>
   <string name="estimated_charging_time_left">Do potpune napunjenosti</string>
   <string name="estimated_time_description">Procjena se može mijenjati ovisno o upotrebi</string>
@@ -2318,6 +2469,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="ethernet_data_template">%1$s ethernet podataka</string>
   <string name="ethernet_data_usage">Potrošnja ethernet podataka</string>
   <string name="every_day">Svaki dan</string>
+  <string name="exchange_account">Promijeni račun</string>
   <string name="expand_button_title">Napredno</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Eksperimentalno</string>
@@ -2335,6 +2487,8 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="face_unlock_disable">Otključavanje licem je isključeno</string>
   <string name="face_unlock_enable">Otključavanje licem je uključeno</string>
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
+  <string name="fail">Nije uspjelo</string>
+  <string name="failed_description">Nije uspjelo</string>
   <string name="failed_to_check_find_device_status_content">"Ne mogu provjeriti status Pronađi uređaj. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne mogu provjeriti status"</string>
   <string name="failed_to_erase_text">Isključite zaporku Zaklj. zaslona prije unosa koda \"1217\".</string>
@@ -2345,7 +2499,15 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="fallback_home_title">Samo trenutak…</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="feature_flags_dashboard_title">Značajke zastavica</string>
+  <string name="feature_title_account">Mi Račun</string>
+  <string name="feature_title_antispam">Lista blokiranih</string>
+  <string name="feature_title_call_log">Povijest poziva</string>
+  <string name="feature_title_contacts">Kontakti</string>
+  <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_sms">Porkuke</string>
   <string name="file_privacy_password_role_instruction">Vaše privatne datoteke će biti pohranjene ovdje.</string>
+  <string name="file_uploading">Učitavanje…</string>
+  <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
   <string name="filter">Filtar</string>
   <string name="filter_all_apps">Sve aplikacije</string>
   <string name="filter_apps_all">Sve</string>
@@ -2377,6 +2539,8 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="find_my_device">Pronađi uređaj</string>
   <string name="find_my_device_disable">Isključi</string>
   <string name="find_my_device_enable">Uključi</string>
+  <string name="findlost_contact">Vrati kontakte</string>
+  <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
   <string name="fingerprint_add_max">Maksimalni broj otisaka prstiju koji se može dodati iznosi %d</string>
   <string name="fingerprint_add_title">Dodaj otisak prsta</string>
   <string name="fingerprint_and_password_entrance_title">Zaklj. zaslona &amp; Otisak prsta</string>
@@ -2447,18 +2611,25 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati na internet putem WLAN-a kad je ova značajka isključena."</string>
   <string name="firmware_title">Android</string>
   <string name="firmware_version">Verzija sustava Android</string>
-  <string name="flash_drive_backup_restore">Sigurnosno kopiranje ili vraćanje pomoću USB-a</string>
+  <string name="flash_drive_backup_btn">Izradi Sig. kopiju na USB uređaj</string>
+  <string name="flash_drive_backup_note">"Izradi Sig. kopiju apliakcija na USB uređaj.
+Provjerite da USB uređaj ima dovoljno prostora za pohranu prije nego što počnete."</string>
+  <string name="flash_drive_backup_restore">Sig. kopije USB uređaja</string>
   <string name="flash_drive_backup_restore_summary">Spojite USB pogon</string>
+  <string name="flash_drive_connection_failed">USB uređaj nije povezan</string>
+  <string name="flash_drive_restore_btn">Vrati Sig. kopiju sa USB uređaja</string>
+  <string name="flash_drive_search_backup_files">"Traženje Sig. kopije na USB uređaju…
+Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="floating_window_switch_label">Uključi skočne prozore</string>
   <string name="floating_window_switch_label_disable">Isključi skočne prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
-  <string name="following_us_title">Pratite nas</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>
   <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
   <string name="fluency_mode_summary">Onemogući animaciju sustava i time smanji korištenje RAM-a</string>
+  <string name="following_us_title">Pratite nas</string>
   <string name="font_size_exhuge">Extra velik</string>
   <string name="font_size_huge">Ogroman</string>
   <string name="font_size_large">Veliki</string>
@@ -2572,7 +2743,12 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gadget_wifi">WLAN</string>
   <string name="gallery_privacy_password_role_instruction">Vaše privatne fotografije će biti pohranjene ovdje.</string>
   <string name="game_controller_settings_category">Upravljač igrama</string>
+  <string name="game_mode_cta_dialog_agree">Slažem se</string>
+  <string name="game_mode_cta_dialog_cancel">Odustani</string>
+  <string name="game_mode_cta_dialog_message">Način igranja mora se povezati s internetom da radi normalno. Slažete li se?</string>
+  <string name="game_mode_cta_dialog_title">Potrebno je dopuštenje</string>
   <string name="game_mode_settings">Način za igre</string>
+  <string name="game_mode_summary">Poboljšajte performanse za igre dok ograničavate sinkronizaciju i pozadinsku mrežnu vezu za druge aplikacije.</string>
   <string name="game_storage_settings">Igre</string>
   <string name="gesture_double_twist_sensor_name"/>
   <string name="gesture_double_twist_sensor_vendor"/>
@@ -2597,6 +2773,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="google_wallet">Google novčanik</string>
   <string name="got_it">Shvaćam</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
+  <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
+  <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
+  <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
   <string name="gxzw_add_fingerprint_continue">Nastavi</string>
   <string name="gxzw_add_fingerprint_edge_message">Pomičite prst da snimite rubove otiska prsta.</string>
   <string name="gxzw_add_fingerprint_edge_title">Podesite dodir</string>
@@ -2653,8 +2832,12 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
   <string name="help_feedback_label">Pomoć &amp; pov. informacije</string>
   <string name="help_label">Pomoć/povratne inf.</string>
+  <string name="hidden_ssid_label">Skriveni SSID:</string>
+  <string name="hide">Sakrij</string>
   <string name="hide_extra_apps">Prikaži upotrebu aplikacije</string>
+  <string name="hide_password_description">Sakrij zaporku</string>
   <string name="hide_screen_button">Sakrij tipke zaslona</string>
+  <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="high_performance_notif_summary">"Uređaj se može jače zagrijati tijekom dužeg korištenja."</string>
   <string name="high_performance_notif_title">Način Performanse je uključen</string>
   <string name="high_performance_title">"Izgleda kao da provodite benchmark testiranje. Postavite upravljanje napajanjem na \"Performanse\" za bolje rezultate."</string>
@@ -2673,8 +2856,32 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="home_key">Početna</string>
   <string name="home_settings">Početna</string>
   <string name="home_work_profile_not_supported">Ne podržava radne profile</string>
+  <string name="hsa_code_null">Kôd za provjeru ne može biti prazan</string>
+  <string name="hsa_input_hint">Unesite kôd za provjeru</string>
+  <string name="hsa_input_tip">Vaš Apple ID upotrebljava autorizaciju s dva faktora. Unesite kontrolni kôd.</string>
+  <string name="hsa_send_again">Pošalji ponovno</string>
+  <string name="hsa_send_again_countdown">Pošalji ponovno (%ds)</string>
+  <string name="hsa_send_failed">Ne mogu poslati kod za provjeru. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="hsa_sending">Slanje…</string>
+  <string name="hsa_tip_message">"1. Poruka s kontrolnim kodom poslana je na uređaj povezan s vašim Apple ID.\r\n2. Isključite autorizaciju s dva faktora ako kontrolni kôd ne funkcionira."</string>
+  <string name="hsa_tip_message_shutdown_hsa">Kako isključiti autorizaciju s dva faktora</string>
+  <string name="hsa_tip_message_with_device">"1. Poruka s kontrolnim kodom poslana je na "%s" povezan s vašim Apple ID.\r\n2. Isključite autorizaciju s dva faktora ako kontrolni kôd ne funkcionira."</string>
+  <string name="hsa_tip_title">Savjeti:</string>
+  <string name="hsa_title">Autorizacija s dva faktora</string>
+  <string name="hsa_verify_failed">Autorizacija s dva faktora nije uspjela</string>
+  <string name="hsa_verify_failed_message">Autorizacija s dva faktora nije uspjela. Možete ponovno pokušati ili isključiti autentifikaciju s dva faktora.</string>
+  <string name="hsa_verify_retry">Pokušaj ponovno</string>
+  <string name="hsa_verify_shutdown">Isključi</string>
   <string name="http_invoke_app">Web aplikacije</string>
   <string name="http_invoke_app_summary">Otvorite aplikacije brže bez da ih instalirate</string>
+  <string name="icloud_backup_tip">Prijavite se na iCloud račun sa starog iOS uređaja</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Uključite promjenu za kontakte i druge stavke.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
+  <string name="icloud_how_to_backup_tip_summary">Da biste uvezli podatke iz iOS-a, morate izraditi iCloud Sig. kopiju.</string>
+  <string name="icloud_how_to_backup_tip_title">Savjeti:</string>
+  <string name="icloud_login_title">Prijavi se u iCloud</string>
+  <string name="icloud_need_sync">"Da biste uvezli podatke iz iOS-a,\r\nprvo morate izraditi iCloud Sig. kopiju."</string>
+  <string name="icloud_need_wifi_message">Niste povezani s WLAN mrežom. Za uvoz podataka iz iClouda, povežite se s WLAN mrežom.</string>
+  <string name="icloud_need_wifi_title">Poveži se na WLAN</string>
   <string name="ignore_optimizations_off">Optimizacija</string>
   <string name="ignore_optimizations_off_desc">Preporučuje se za dulje trajanje baterije</string>
   <string name="ignore_optimizations_on">Ne optimiziraj</string>
@@ -2686,6 +2893,15 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="imei_multi_sim">IMEI (utor za SIM %1$d)</string>
   <string name="immediately_destroy_activities">"Uklanjanje aktivnosti"</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
+  <string name="import_again">Uvezi ponovno</string>
+  <string name="import_data_from_icloud">Uvezi podatke iz iClouda</string>
+  <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
+\u0009http://www.miliao.com
+
+2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
+  <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
+  <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
+  <string name="import_tip_summary">Zbog problema s kompatibilnošću možete prenositi samo djelomične podatke s iOS uređaja. Svakako izradite Sig. kopiju na iCloud prije pokretanja prijenosa.</string>
   <string name="importance_reset">Poništi</string>
   <string name="ims_reg_required_off">Treba isključiti IMS prijavu</string>
   <string name="ims_reg_required_on">Treba uključiti IMS prijavu</string>
@@ -2702,6 +2918,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="infinity_display_settings">Prikaz preko cijelog zaslona</string>
   <string name="infinity_display_slogan">Inovacija na punom zaslonu</string>
   <string name="infinity_display_title">Prikaz preko cijelog zaslona</string>
+  <string name="info_and_call">Pozivi i poruke</string>
   <string name="information_dialog_button_text">Shvaćam</string>
   <string name="input_assistance">Pomoć pri unosu</string>
   <string name="input_hint_prefix">Unesi %1$s</string>
@@ -2796,14 +3013,14 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyboard_shortcuts_helper">Pomoć za tipkovne prečace</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostupnih prečaca</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
-  <string name="keyguard_security_setting_others">Ostalo</string>
-  <string name="keyguard_security_setting_privacy_policy">Pravila o Privatnosti</string>
   <string name="keyguard_left_function_chooser_hint_text">Lijevi prečac promijenjen u %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Lijevo</string>
   <string name="keyguard_right_function_chooser_hint_text">Desni prečac promijenjen u %s</string>
   <string name="keyguard_right_function_chooser_title">Aplikacija</string>
   <string name="keyguard_right_function_title">Desno</string>
+  <string name="keyguard_security_setting_others">Ostalo</string>
+  <string name="keyguard_security_setting_privacy_policy">Pravila o Privatnosti</string>
   <string name="keyguard_shortcut_summary">Postavi prečace za 2 aplikacije na Zaklj. zaslonu</string>
   <string name="keyguard_shortcut_title">Prečaci Zaklj. zaslona</string>
   <string name="keyguard_vertical_clock_title">Okomiti sat</string>
@@ -2900,6 +3117,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lab_functions_title">Beta značajke</string>
   <string name="label_global_roaming_settings">Roaming postavke</string>
   <string name="label_mi_stats">Mi analitika</string>
+  <string name="lack_perm_msg">Mi Mover treba sljedeća dopuštenja: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Potrebno je dopuštenje</string>
   <string name="language_empty_list_user_restricted">Nemate dopuštenje za promjenu jezika na uređaju.</string>
   <string name="language_input_gesture_summary_off">Isključena je značajka Active Edge</string>
   <string name="language_input_gesture_summary_on_non_assist">Uključena je značajka Active Edge</string>
@@ -2962,7 +3181,10 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="link_speed_label">Brzina veze:</string>
   <string name="list_bg_header_text">"Ako ograničite pozadinsku vezu, nove aplikacije se neće moći povezati s internetom u pozadini nakon što ih instalirate. Nakon toga neće biti u mogućnosti primati poruke ili preuzeti sadržaj."</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="list_footer_tip_title">Savjeti:</string>
+  <string name="loading_data">Učitavanje podataka</string>
   <string name="loading_notification_apps">Učitavanje aplikacija…</string>
+  <string name="local_app_name">Sig. kopija</string>
   <string name="local_auto_backup_off">Isključi</string>
   <string name="local_auto_backup_on">Uključi</string>
   <string name="local_auto_backup_section_title">Napravi autom. Sig. kopiju</string>
@@ -2974,6 +3196,18 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
   <string name="local_backup_section_summary">Sig. kopija postavki sustava, detalja računa i aplikacija</string>
   <string name="local_backup_section_title">Lokalna pohrana</string>
+  <string name="local_backup_window_title">Lokalna Sig. kopija</string>
+  <string name="local_home_title">Lokalne Sig. kopije</string>
+  <string name="local_no_backup">Nema Sig. kopija</string>
+  <string name="local_restore_window_title">Lokalna obnova</string>
+  <string name="local_select_account_contact">Računi &amp; kontakti</string>
+  <string name="local_select_audio">Audio datoteke</string>
+  <string name="local_select_doc">Dokumenti</string>
+  <string name="local_select_files">Pohrana</string>
+  <string name="local_select_image">Slike</string>
+  <string name="local_select_sysdata">Sustav</string>
+  <string name="local_select_userapp">Aplikacije</string>
+  <string name="local_select_video">Videozapisi</string>
   <string name="locale_default">Zadano</string>
   <string name="locale_not_translated">Možda nije dostupno u nekim aplikacijama</string>
   <string name="locale_remove_menu">Ukloni</string>
@@ -3249,9 +3483,12 @@ kao i PIN za Prvi prostor"</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_remote_input">Spriječi unos odgovora ili drugog teksta u obavijesti kada je uređaj zaključan</string>
   <string name="lockscreen_settings_title">Postavke zaključanog zaslona</string>
+  <string name="login">Prijava</string>
   <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
   <string name="login_action">Prijavite se</string>
+  <string name="login_failed">"Ne mogu se prijaviti. Pokušajte ponovno."</string>
+  <string name="logining">Prijavljivanje…</string>
   <string name="long_press_back_key">Dugi pritisak tipke Natrag</string>
   <string name="long_press_buttom_key">Dugi pritisak tipke Izbornik na Zaklj. zaslonu</string>
   <string name="long_press_home_key">Dugi pritisak tipke Početna</string>
@@ -3447,6 +3684,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mi_service_app_detail">Pojedinosti uporabe podataka</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
+  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast nije dostupan jer računalo streama na ovaj uređaj</string>
   <string name="miracast_cancelconnect_dialog">Prekini vezu</string>
@@ -3507,6 +3746,14 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
   <string name="miui_lab_super_resolution_title">Super rezolucija</string>
   <string name="miui_master_clear_summary">Briše sve podatke na telefonu</string>
+  <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
+  <string name="miui_screensaver_show_time">"Trajanje"</string>
+  <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
+  <string name="miui_screensaver_state_off">Isključeno</string>
+  <string name="miui_screensaver_state_on">Uključeno</string>
+  <string name="miui_screensaver_title">Čuvar zaslona</string>
+  <string name="miui_screensaver_usage">Čuvar zaslona započinje 5 sekundi nakon gašenja zaslona.</string>
+  <string name="miui_silent_title">omogući bešumno</string>
   <string name="miui_sos_audio_summary">Reproduciraj SOS poruku nakon što se hitni kontakt pokupi</string>
   <string name="miui_sos_audio_title">SOS glasovna poruka</string>
   <string name="miui_sos_call_log_duration">Trajanje</string>
@@ -3555,20 +3802,13 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_sos_settings_category">SOS postavke</string>
   <string name="miui_sos_statusbar_summary">Dodirni za isključiti</string>
   <string name="miui_sos_statusbar_title">Uključen je hitni SOS</string>
-  <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
-  <string name="miui_screensaver_show_time">"Trajanje"</string>
-  <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
-  <string name="miui_screensaver_state_off">Isključeno</string>
-  <string name="miui_screensaver_state_on">Uključeno</string>
-  <string name="miui_screensaver_title">Čuvar zaslona</string>
-  <string name="miui_screensaver_usage">Čuvar zaslona započinje 5 sekundi nakon gašenja zaslona.</string>
-  <string name="miui_silent_title">omogući bešumno</string>
   <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>
   <string name="mms_breathing_light_color_title">Boja LED-a kod SMS-a</string>
   <string name="mms_breathing_light_freq_title">Frekvencija treperenja LED-a kod SMS-a</string>
   <string name="mms_privacy_password_role_instruction">Vaši razgovori s privatnim kontaktima će biti pohranjeni ovdje.</string>
+  <string name="mms_title">MMS</string>
   <string name="mobile_connect_to_internet">Povežite se s internetom</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
@@ -3628,8 +3868,12 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="msg_wlan_signal_found">WLAN pristupna točka %s dostupna, poveži sada?</string>
   <string name="msim_sim_radio_off">Isključeno</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP funkcija je aktivna</string>
+  <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
+  <string name="multi_user_mode_backup_message">"Ne mogu koristiti Sig. kopiju u Multi-korisnik načinu. Isključite Multi-korisnik način za nastavak."</string>
+  <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak."</string>
+  <string name="multi_user_mode_dialog_title">"Vi ste u Multi-korisnik načinu rada"</string>
   <string name="music_HiFi_title">Hi-Fi audio</string>
   <string name="music_app_unavailable">Provjerite je li aplikacija Mi Glazba dostupna.</string>
   <string name="music_audio_effect_optimize">Postavke zvuka</string>
@@ -3712,6 +3956,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="my_device_info_account_preference_title">Račun</string>
   <string name="my_device_info_device_name_preference_title">Naziv uređaja</string>
   <string name="n_cacrts">%d CA certifikati</string>
+  <string name="name_password_not_consistent">Pogrešno korisničko ime ili zaporka</string>
   <string name="nature_color">Zadano</string>
   <string name="navigation_guide_app_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona u gornjem području</string>
   <string name="navigation_guide_app_title">"Pokreće radnju aplikacije"</string>
@@ -3773,6 +4018,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="networks">Odabir operatora</string>
   <string name="networks_title">Mobilne mreže</string>
   <string name="never">Nikad</string>
+  <string name="new_backup">Izradi Sig. kopiju</string>
   <string name="new_backup_pw_prompt">Ovdje upišite novu zaporku za potpunu sigurnosnu kopiju</string>
   <string name="new_device_suggestion_summary">Upoznajte svoj novi telefon</string>
   <string name="new_device_suggestion_title">Novi ste korisnik Pixela?</string>
@@ -3861,11 +4107,13 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="no_default_apps">Nema zadanih aplikacija.</string>
   <string name="no_default_home">Nije odabrano</string>
   <string name="no_device_admins">Nema dostupnih administratora računa</string>
+  <string name="no_encrypt_password">Nema zaporki</string>
   <string name="no_internet_access_remember">Više ne pitaj za tu mrežu</string>
   <string name="no_internet_access_text">WLAN mreža %1$s nema pristup internetu. Želite li ostati povezani?</string>
   <string name="no_media_button_receiver">"Ne"</string>
   <string name="no_memory_use_summary">U posljednja 3 sata nije bilo upotrebe memorije</string>
   <string name="no_nearby_wifi">"Nije otkrivena mreža."</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="no_notification_listeners">Nijedna instalirana aplikacija nije zatražila pristup obavijestima.</string>
   <string name="no_running_services">Ništa se ne izvodi.</string>
   <string name="no_services">Nije aktivno</string>
@@ -3884,7 +4132,38 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
   <string name="notch_force_black_desc">Kada je uključeno, područje zuba zaslona je crno</string>
   <string name="notch_force_black_title">Sakrij zuba zaslona</string>
+  <string name="note_title">Bilješke</string>
   <string name="notes_privacy_password_role_instruction">Vaše privatne bilješke će biti pohranjene ovdje.</string>
+  <string name="nothing_searched">Nema rezultata</string>
+  <string name="notif_backup_complete_title">Sig. kopija uspješno izrađena</string>
+  <string name="notif_backup_content">Izrada Sig. kopije kor. podataka</string>
+  <string name="notif_backup_title">Izradi Sig. kopiju podataka</string>
+  <string name="notif_calculating_app">Izračunavanje %1$s (%2$s)…</string>
+  <string name="notif_connect_miasist">Povezano s Mi PC Suite</string>
+  <string name="notif_disconnect_miasist">Nije povezano s Mi PC Suite</string>
+  <string name="notif_icloud_canceled_summary">Otkazano</string>
+  <string name="notif_icloud_canceling_summary">Otkazivanje…</string>
+  <string name="notif_icloud_import_title">Uvezi podatke iz iClouda</string>
+  <string name="notif_icloud_loaded_summary">Čekanje…</string>
+  <string name="notif_icloud_loading_summary">Učitavanje podataka…</string>
+  <string name="notif_icloud_logining">Prijavljivanje na iCloud na starom iOS uređaju…</string>
+  <string name="notif_icloud_need_wifi_summary">Čekanje na WLAN</string>
+  <string name="notif_icloud_saved_summary">Uspješno uvezeno</string>
+  <string name="notif_icloud_saving_summary">Vraćanje podataka…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite se pokušava povezati s vašim uređajem</string>
+  <string name="notif_parse_select_descript_error">"Ne mogu sinkronizirati popis pohranjenih stavki."</string>
+  <string name="notif_receiving_transingsd">Primanje %1$s (%2$s)…</string>
+  <string name="notif_restore_complete_title">Uspješno vraćeno</string>
+  <string name="notif_restore_content">Vraćanje kor. podataka</string>
+  <string name="notif_restore_title">Vrati kor. podatke</string>
+  <string name="notif_sending_transingsd">Slanje %1$s (%2$s)…</string>
+  <string name="notif_trans_auto_reconnecting_content">Ako je potrebno, možete otkazati trenutni zadatak.</string>
+  <string name="notif_trans_auto_reconnecting_title">Veza je prekinuta. Ponovno autom. povezivanje…</string>
+  <string name="notif_trans_receiving_completed">Podaci uspješno primljeni</string>
+  <string name="notif_trans_receiving_failed">"Ne mogu primiti podatke"</string>
+  <string name="notif_trans_sending_completed">Podaci uspješno poslani</string>
+  <string name="notif_trans_sending_failed">"Ne mogu poslati podatke"</string>
+  <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_badge_title">Dopusti točku obavijesti</string>
   <string name="notification_badging_title">Dopusti točke obavijesti</string>
@@ -4010,8 +4289,10 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se s internetom ili se obratite mobilnom operateru</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nije dostupno na uređajima koje je zaključao mob. operater</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="ok">U redu</string>
   <string name="ok_rules">Dovršeno</string>
   <string name="okay">U redu</string>
+  <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>
   <string name="oldman_app_label">Lite način</string>
   <string name="oldman_installed_current_btn">Vrati izvorni Početni zaslona</string>
   <string name="oldman_installed_current_des">"Postavili ste Lite način kao zadani Početni zaslon. Dodirnite tipku u nastavku da biste se vratili na izvorni Početni zaslon."</string>
@@ -4068,6 +4349,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="overlay_display_devices_title">Simuliraj sekundarne zaslone</string>
   <string name="overlay_settings">Povlačenje preko drugih aplik.</string>
   <string name="owner_info_settings_edit_text_hint">Na primjer  MASVIN Android.</string>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Ništa</string>
   <string name="owner_info_settings_title">Poruka na Zaklj. zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
@@ -4126,6 +4408,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="page_layout_page2_small_title">Extra malen</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
+  <string name="page_loading">Samo trenutak…</string>
   <string name="page_tab_title_summary">Sve</string>
   <string name="page_tab_title_support">Savjeti i podrška</string>
   <string name="palm_enabled">Pokrijte zaslon da biste ga isključili</string>
@@ -4142,9 +4425,11 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="paper_mode_start_time_title">Uključi</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
+  <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_entrance_title">Zaklj. zaslona</string>
   <string name="password_guard">Zaporka</string>
+  <string name="password_null">Polje zaporke ne može biti prazno</string>
   <string name="password_turned_off_text">Zaporka je isključena</string>
   <string name="password_turned_on_text">Zaporka je uključena</string>
   <string name="path_about_about_settings">Postavke/O uređaju</string>
@@ -4326,9 +4611,20 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="path_xiaomi_money_service">Aplikacije</string>
   <string name="path_xspace">Postavke/Dvojne aplikacije</string>
   <string name="path_zen_mode_option_miui_silent">Postavke/Zvuk &amp; vibracija/Bešumni način</string>
+  <string name="pause">Pauza</string>
   <string name="payment_summary">Aplikacija %1$s je zadana</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performanse</string>
+  <string name="perm_camera">Kamera</string>
+  <string name="perm_location">Lokacija</string>
+  <string name="perm_read_call_log">Čitanje povijesti poziva</string>
+  <string name="perm_read_contacts">Čitanje kontakata</string>
+  <string name="perm_read_phone_state">"Čitanje statusa telefona"</string>
+  <string name="perm_read_sms">Čitanje SMS-a</string>
+  <string name="perm_storage">Čitanje i pisanje na vanjsku pohranu</string>
+  <string name="permission_action_accept">Dopusti</string>
+  <string name="permission_action_prompt">Obavijesti</string>
+  <string name="permission_action_reject">Odbij</string>
   <string name="permission_detail_info">Detalji</string>
   <string name="permission_detail_info_summary">%1$d sigurnost | %2$d privatnost | %3$d ostalo</string>
   <string name="permission_manage">Upravitelj dopuštenja</string>
@@ -4337,8 +4633,12 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj Dopuštenja</string>
   <string name="permission_settings_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>
   <string name="permission_settings_title">Dopuštenja aplikacija</string>
+  <string name="permission_with_SMS_and_MMS">Dopuštenja koja se odnose na SMS i MMS</string>
+  <string name="permission_with_call_and_contact">Dopuštenja koja se odnose na telefonske pozive, informacije kontakata i povijest poziva.</string>
   <string name="permissions_label">Dopuštenja</string>
   <string name="permit_draw_overlay">Dopusti prikaz iznad drugih aplikacija</string>
   <string name="permit_running_network">Pozadinski podaci</string>
@@ -4372,9 +4672,18 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="picture_source">Izvor slike</string>
   <string name="pin_failed">Operacija PIN-a SIM kartice nije uspjela!</string>
   <string name="ping_test_label">Pokreni ping test</string>
+  <string name="platform_chooser_item_android_mi">Mi Telefon</string>
+  <string name="platform_chooser_item_android_others">Ostale marke</string>
+  <string name="platform_chooser_item_ios">Uvezi s iOS uređaja</string>
+  <string name="platform_chooser_title">Odaberite stari uređaj</string>
   <string name="play_pause_description">Tipka pauza/reproduciraj</string>
   <string name="please_select_phase2">2. faza provjere autentičnosti</string>
   <string name="please_type_passphrase">Zaporka</string>
+  <string name="pm_auto_start_by_other">Aktivirano pokretanje</string>
+  <string name="pm_auto_start_by_other_app">Dopusti aplikaciji da bude pokrenuta od strane druge aplikacije</string>
+  <string name="pm_auto_start_by_system">Pokreni aplikacije</string>
+  <string name="pm_auto_start_by_system_event">Dopusti aplikacijama automatsko pokretanje</string>
+  <string name="pm_auto_start_proc_is_running">Pokrenuto</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="pointer_settings_category">Miš/dodirna površina</string>
@@ -4607,7 +4916,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="privacy_relative">Privatnost</string>
   <string name="privacy_settings">Izradi Sig. kopiju &amp; poništi</string>
   <string name="privacy_settings_title">Izradi Sig. kopiju &amp; poništi</string>
-  <string name="private_dns_help_message"><annotation id="url">Saznajte više</annotation> o značajkama privatnog DNS-a</string>
+  <string name="private_dns_help_message">&lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt; o zna&amp;#269;ajkama privatnog DNS-a</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
   <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
@@ -4647,7 +4956,12 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="profile_owner_add_title">Želite li aktivirati upravitelj profila?</string>
   <string name="profile_section_header">Obavijesti s radnog profila</string>
   <string name="profiles_settings_title">Profili sustava</string>
+  <string name="progress_backup_hint">Izrada Sig. kopije…</string>
+  <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="progress_scanning">Pretraživanje</string>
+  <string name="prompt_reading">Čitanje…</string>
+  <string name="prompt_sending">Slanje…</string>
+  <string name="prompt_writing">Spremanje…</string>
   <string name="provider_label">Pokreni pretplate</string>
   <string name="provision_activation">Aktivno</string>
   <string name="provision_back">Natrag</string>
@@ -4776,6 +5090,7 @@ UT sučelje: %5$s"</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovne mreže:</string>
   <string name="rank_title">Poredak</string>
   <string name="rarely_running">Rijetko se izvodi (%s)</string>
+  <string name="read_encrypt_fail">"Ne mogu pročitati šifriranu Sig. kopiju"</string>
   <string name="reading_data">Dobivanje informacija…</string>
   <string name="really_remove_account_message">Uklanjanjem ovog računa izbrisat će se sve njegove poruke, kontakti i ostali podaci s uređaja!</string>
   <string name="really_remove_account_title">Ukloniti račun?</string>
@@ -4796,11 +5111,15 @@ UT sučelje: %5$s"</string>
   <string name="recommend_item_4">Slušalice</string>
   <string name="recommend_item_title">Preporučeno</string>
   <string name="recompute_size">Ponovni izračun veličine…</string>
+  <string name="reconnect">Ponovno poveži</string>
   <string name="record_anr_in_background">Snimi pozadinske ANR slučajeve</string>
+  <string name="refresh">Osvježi</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Informacije o propisima</string>
   <string name="regulatory_labels">Regulatorne oznake</string>
+  <string name="reject_all">Ograniči sve</string>
   <string name="remaining_length_format">Još %1$s</string>
+  <string name="remote_receive">Primi</string>
   <string name="remove_account_failed">Vaš administrator ne dopušta tu promjenu</string>
   <string name="remove_account_label">Izbriši račun</string>
   <string name="remove_and_uninstall_device_admin">Deaktiviraj i deinstaliraj</string>
@@ -4856,8 +5175,22 @@ UT sučelje: %5$s"</string>
   <string name="resetting_second_space_passwd">Resetiranje zaporke Drugog prostora</string>
   <string name="resolver_settings_label">Sortiraj</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
+  <string name="restore">Vrati</string>
+  <string name="restore_backup">Vrati</string>
+  <string name="restore_contact">Vrati kontakte</string>
+  <string name="restore_contact_content">Vraćanje kontakata može rezultirati duplim kontaktima</string>
+  <string name="restore_contacts_hit">Možda ćete se morati ponovno prijaviti da biste vidjeli obnovljene podatke</string>
+  <string name="restore_counts">Vraćanje:</string>
+  <string name="restore_data">Odaberite stavke za vraćanje</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
   <string name="restore_default_apn_completed">Poništavanje zadanih postavki APN-a dovršeno.</string>
+  <string name="restore_failed">"Ne mogu vratiti"</string>
+  <string name="restore_finished">Uspješno vraćeno</string>
+  <string name="restore_is_running">Vraćanje uređaja</string>
+  <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
+  <string name="restore_progress">Vraćanje…</string>
+  <string name="restore_report">Detalji vraćanja</string>
+  <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
   <string name="restr_pin_enter_admin_pin">Unesite PIN administratora</string>
   <string name="restrict_background_blacklisted">Pozadinski su podaci isključeni</string>
   <string name="restrict_background_data_dialog_summary">"Aplikacije koje se izvode u pozadini neće biti u mogućnosti preuzeti nove poruke."</string>
@@ -4885,6 +5218,7 @@ UT sučelje: %5$s"</string>
   <string name="retail_demo_reset_next">Dalje</string>
   <string name="retail_demo_reset_title">Potrebna je zaporka</string>
   <string name="retry">"Pokušajte ponovno"</string>
+  <string name="reverse_all">Poništi odabir</string>
   <string name="rgb_manage_facerecoginition_text">Upravljaj podacima 2D lica</string>
   <string name="ring_volume_option_title">Glasnoća zvona</string>
   <string name="ring_volume_title">Glasnoća zvona</string>
@@ -4907,6 +5241,7 @@ UT sučelje: %5$s"</string>
 
 Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="root">ROOT pristup</string>
+  <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="rssi_label">RSSI:</string>
   <string name="rule_name">Naziv</string>
   <string name="running_frequency">Učestalost</string>
@@ -4935,10 +5270,26 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Nije zatraženo nijedno dopuštenje</string>
   <string name="safety_and_regulatory_info">Priručnik o sigurnosti i zakonskim propisima</string>
   <string name="save">Spremi</string>
+  <string name="save_finish_with_failing_items">"Prijenos je prekinut.\r\nPodaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="saved_network">Spremljeno: %1$s</string>
   <string name="saved_wifi">Upravljaj spremljenim mrežama</string>
   <string name="saved_wifi_delete">Izbriši</string>
+  <string name="saving_data">"Uvoz podataka iz iClouda…
+ Nemojte isključivati WLAN"</string>
+  <string name="saving_data_no_time">Vraćanje podataka…</string>
+  <string name="saving_data_space_low">"Nema dovoljno prostora za pohranu.
+ Oslobodite najmanje %s."</string>
+  <string name="sc_bad_request">Nevažeći zahtjev</string>
+  <string name="sc_internal_server_error">Interna greška poslužitelja</string>
+  <string name="sc_network_unavailable">Provjerite vezu i pokušajte ponovno.</string>
+  <string name="sc_others">Došlo je do pogreške</string>
+  <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Mi Račun</string>
+  <string name="sc_request_timeout">Zahtjev je istekao</string>
+  <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
+  <string name="sc_unaccess_password_file">"Ne mogu naći zaporku WLAN mreže"</string>
+  <string name="sc_unauthorized">Prijavite se ponovno</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
+  <string name="sccret_code_error">Kôd koji ste unijeli nije točan.</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Kliznite dolje da biste sakrili tipke zaslona</string>
@@ -5079,8 +5430,11 @@ Za prikvačivanje zaslona:
   <string name="sd_memory">USB memorija</string>
   <string name="sd_mount">Uključi memoriju USB</string>
   <string name="sd_mount_summary"/>
+  <string name="sd_not_available">Umetnite sada SD karticu</string>
   <string name="sdcard_changes_instructions">Promjene stupaju na snagu kod ponovnog priključivanja USB kabela.</string>
   <string name="sdcard_format">Izbriši USB memoriju</string>
+  <string name="sdcard_no_enough_space">Nema dovoljno prostora</string>
+  <string name="sdcard_no_enough_space_message">"Nema dovoljno prostora za pohranu na SD kartici."</string>
   <string name="sdcard_optimization">Optimiziranje SD kartice</string>
   <string name="sdcard_optimization_cancel">Odustani</string>
   <string name="sdcard_optimization_close">Isključi &amp; ponovno pokreni</string>
@@ -5098,6 +5452,7 @@ Za prikvačivanje zaslona:
   <string name="sdcard_settings_unmounted_status">Sad na siguran način možete ukloniti USB pohranu.</string>
   <string name="sdcard_settings_used_bytes_label">Iskorišteni bajtovi:</string>
   <string name="sdcard_unmount">Isključi USB memoriju</string>
+  <string name="sdcard_unmounted">Umetnite sada SD karticu</string>
   <string name="se_route_ese">Ugrađeni sigurnosni element</string>
   <string name="se_route_uicc">Korištenje sigurnosnog elementa na SIM kartici</string>
   <string name="se_wallet_ese">Mi Novčanik vam omogućuje da koristite Mi Pay i NFC tranzitnu karticu.</string>
@@ -5261,6 +5616,7 @@ Za prikvačivanje zaslona:
   <string name="search_security_privacy_settings_title">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
   <string name="search_security_settings">Postavke privatnosti;Sigurnost;Privatnost</string>
   <string name="search_settings">Pretraži</string>
+  <string name="search_settings_no_results">Nema rezultata</string>
   <string name="search_settings_summary">Upravljajte postavkama pretraživanja i poviješću</string>
   <string name="search_silent_mode_title">Silent mode;silence;silent;mute</string>
   <string name="search_sim_management_title">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Cellular networks;</string>
@@ -5433,10 +5789,20 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="security_update">Sigurnosno ažuriranje</string>
   <string name="see_all">Prikaži sve</string>
   <string name="see_all_apps_title">Pogledajte sve aplikacije (%1$d)</string>
+  <string name="see_backup_files_on_router">View backups on Mi Router %s</string>
   <string name="see_less">Prikaži manje</string>
   <string name="select_all">"Odaberi sve"</string>
   <string name="select_application">Odaberite aplikaciju</string>
+  <string name="select_backup_item">Odaberite stavke</string>
   <string name="select_device_admin_msg">Administratori uređaja</string>
+  <string name="select_empty">Odaberite stavke za uvoz</string>
+  <string name="select_item_calendar">Kalendar</string>
+  <string name="select_item_contacts">Kontakti</string>
+  <string name="select_item_empty_summary">Nema stavki</string>
+  <string name="select_item_notes">Bilješke</string>
+  <string name="select_item_photos">Fotografije</string>
+  <string name="select_item_summary_loading">Učitavanje podataka…</string>
+  <string name="select_item_summary_wait">Čekanje…</string>
   <string name="select_logd_level">Odaberite veličinu međuspremnika</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspr. zapis.</string>
   <string name="select_logd_size_title">Veličine međuspremnika zapisnika</string>
@@ -5451,6 +5817,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="select_sim_for_calls">Poziv putem usluge</string>
   <string name="select_sim_for_data">Odaberite SIM za podatke</string>
   <string name="select_ssid_type_title">Odaberi SSID</string>
+  <string name="select_storage_location">Odaberite lokaciju Sig. kopije</string>
   <string name="select_to_speak_summary">Dodirnite stavke na zaslonu da bi ih usluga izgovorila naglas</string>
   <string name="select_usb_configuration_dialog_title">Odabir USB konfiguracije</string>
   <string name="select_usb_configuration_title">Odabir USB konfiguracije</string>
@@ -5469,6 +5836,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="service_started_by_app">Pokrenula aplikacija.</string>
   <string name="service_stop">"Zaustavi"</string>
   <string name="service_stop_description">Aplikacija je pokrenula uslugu. Zaustavljanje može uzrokovati pogreške.</string>
+  <string name="service_stoped">Usluga zaustavljena</string>
   <string name="services_subtitle">Usluge</string>
   <string name="set_data_limit">Postavi ograničenje podataka</string>
   <string name="set_data_time_range">Prikaži raspon vremena</string>
@@ -5497,6 +5865,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="settings_safetylegal_activity_unreachable">Nemate podatkovnu vezu. Da biste tu informaciju vidjeli sada, idite na stranicu %s s bilo kojeg računala povezanog s internetom.</string>
   <string name="settings_safetylegal_title">Sigurnosne informacije</string>
   <string name="settings_shortcut">Prečac postavki</string>
+  <string name="settings_summary">"Postavke telefona i poruka</string>
   <string name="settings_toggle_position_divider_list">Prečaci smješteni iznad trake su aktivni</string>
   <string name="setup_add_fingerprint_failed_retry_text">"Ne mogu dodati otisak prsta"</string>
   <string name="setup_choose_unlock_fingerprint_msg">Postavite zaključavanje zaslona prije dodavanja otiska prsta.</string>
@@ -5572,6 +5941,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="show_screen_updates_summary">Površina prozora bljeska pri ažuriranju.</string>
   <string name="show_silently">Prikaži tiho</string>
   <string name="show_silently_summary">Nemoj emitirati zvuk, vibrirati niti prikazivati obavijesti na trenutačnom zaslonu.</string>
+  <string name="show_system_app">Prikaži aplikacije sustava</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikazuju se vizualne povratne inform. za dodire.</string>
   <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na Zaklj. zaslonu</string>
@@ -5716,6 +6086,8 @@ Obavijesti za te aplikacije mogu kasniti."</string>
   <string name="sms_over_ims_on">Uključi SMS putem IMS-a</string>
   <string name="sms_received_sound_dialog_title">Odaberite zvuk za primljene SMS poruke</string>
   <string name="sms_received_sound_title">Primljena poruka</string>
+  <string name="sms_title">SMS</string>
+  <string name="software_backup_info">Podaci aplikacije</string>
   <string name="sometimes_running">Ponekad se izvodi (%s)</string>
   <string name="sort_avg_use">Poredaj po prosječnoj upotrebi</string>
   <string name="sort_max_use">Poredaj po maksimalnoj upotrebi</string>
@@ -5775,9 +6147,13 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="standard">Bešumno</string>
   <string name="standard_info">Pozivi i obavijesti bit će utišani</string>
   <string name="standby_bucket_summary">App standby state: %s</string>
+  <string name="start_backup">Započni izradu Sig. kopije</string>
+  <string name="start_restore">Vrati</string>
   <string name="start_silent_mode">Uključi Bešumni način</string>
   <string name="start_vip_mode">Omogući VIP način</string>
   <string name="starting_android">Pokretanje Androida</string>
+  <string name="state_mounting">Pristup prostoru za pohranu routera…</string>
+  <string name="state_waiting">Samo trenutak…</string>
   <string name="status_awaiting_tap">Dodirnite oznaku da zapišete podatke…</string>
   <string name="status_awake_time">Vrijeme bez mirovanja</string>
   <string name="status_bar_and_notification_bar">Panel obavijesti i statusna traka</string>
@@ -5823,8 +6199,8 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Prečac Panela obavijesti</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_custom">Vlastiti zvuk</string>
-  <string name="status_bar_settings_notification_use_app_icon">Koristi ikonu aplikacije za obavijesti</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
+  <string name="status_bar_settings_notification_use_app_icon">Koristi ikonu aplikacije za obavijesti</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
@@ -5898,6 +6274,9 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_wimax_mac_address">4G MAC adresa</string>
   <string name="status_write_success">Uspjeli ste!</string>
   <string name="statusbar_permission_desc">Sljedeća dopuštenja vrijede samo za važne obavijesti.</string>
+  <string name="stop_upload_audio_log">Završeno dobivanje audio zapisa</string>
+  <string name="stop_upload_gps_log">Završeno dobivanje zapisa GPS-a</string>
+  <string name="stop_upload_modem_log">Završeno dobivanje zapisa modema</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Audiozapisi</string>
   <string name="storage_detail_cached">Podaci iz predmemorije</string>
@@ -5979,6 +6358,7 @@ Uređaj ^1 formatiran je tako da funkcionira samo na ovom uređaju. Neće funkci
   <string name="storage_percent_full">upot.</string>
   <string name="storage_photos_videos">Fotografije i videozapisi</string>
   <string name="storage_rename_title">Promjena naziva pohrane</string>
+  <string name="storage_sd_card">SD kartica</string>
   <string name="storage_settings">Pohrana</string>
   <string name="storage_settings_summary">Isključi USB memoriju, prikaži dostupnu pohranu</string>
   <string name="storage_settings_title">Postavke pohrane</string>
@@ -6074,10 +6454,10 @@ Aplikacija ^2 na ovom uređaju neće biti dostupna dok premještanje ne završi.
 Da biste premjestili fotografije, datoteke i podatke aplikacija na taj uređaj, otvorite Postavke &gt; Pohrana."</string>
   <string name="storage_wizard_ready_title">Medij ^1 spreman je za upotrebu</string>
   <string name="storage_wizard_ready_v2_external_body">Sadržaj možete premjestiti na medij ^1</string>
-  <string name="storage_wizard_ready_v2_internal_body">Da biste sadržaj premjestili na medij ^1, otvorite <b>Postavke > Pohrana</b></string>
+  <string name="storage_wizard_ready_v2_internal_body">Da biste sadržaj premjestili na medij ^1, otvorite &lt;b&gt;Postavke &amp;gt; Pohrana&lt;/b&gt;</string>
   <string name="storage_wizard_ready_v2_internal_moved_body">"Sadržaj je premješten na medij ^1. 
 
-Da biste upravljali medijem ^2, otvorite "<b>Postavke > Pohrana</b>.</string>
+Da biste upravljali medijem ^2, otvorite "&lt;b&gt;Postavke &amp;gt; Pohrana&lt;/b&gt;.</string>
   <string name="storage_wizard_slow_body">"Čini se da ^1 radi sporo. 
 
 Možete nastaviti, no aplikacije premještene na tu lokaciju mogu zastajkivati, a prijenosi podataka mogu trajati dugo. 
@@ -6106,6 +6486,8 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="sub_deactivate_not_supported">Deaktivacija nije podržana</string>
   <string name="sub_deactivate_success">Uspješno deaktivirano.</string>
   <string name="subs_settings">SUBS Status</string>
+  <string name="succ_description">Uspješno</string>
+  <string name="succeed">Gotovo</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Ove aplikacije najbolje funkcioniraju na cijelom zaslonu</string>
   <string name="suggested_fingerprint_lock_settings_summary">Otključavanje otiskom prsta</string>
   <string name="suggested_fingerprint_lock_settings_title">Upotrebljavajte Pixel Imprint</string>
@@ -6121,11 +6503,27 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suggestions_title">Prijedlozi</string>
   <string name="suggestions_title_v2">Prijedlozi za vas</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
+  <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>
+  <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
+  <string name="summary_err_restore_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="super_resolution_access_title">Accessible apps</string>
+  <string name="super_resolution_desc">Učinite slike oštrije pomoću AI algoritma</string>
+  <string name="super_resolution_maintain">"Super rezolucija još nije dostupna."</string>
+  <string name="super_resolution_no_app_tips">Preuzmite najprije WeChat i Toutiao.</string>
+  <string name="super_resolution_reboot_tips">Ova značajka omogućuje snimanje mutnih slika u WeChat i Toutiao. Ponovo pokrenite aplikacije nakon što uključite ovu značajku.</string>
+  <string name="super_resolution_title">Super rezolucija</string>
+  <string name="supl_not_set">&lt;Nije postavljeno&gt;</string>
+  <string name="supplicant_state_label">Stanje suplikanta:</string>
+  <string name="support_account_picker_add_account">Dodaj račun account</string>
+  <string name="support_account_request_prefix">Zahtjeva kao</string>
+  <string name="support_country_list_title">Podrška za:</string>
   <string name="support_disclaimer_do_not_show">Ne prikazuj ponovo</string>
   <string name="support_disclaimer_title">Slanje informacija o sustavu</string>
   <string name="support_escalation_24_7_content_description">Uvijek smo tu za vas</string>
   <string name="support_escalation_24_7_summary">Tim Google podrške uvijek je dostupan</string>
   <string name="support_escalation_24_7_title">Uvijek smo tu za vas</string>
+  <string name="support_escalation_by_chat">Chat</string>
   <string name="support_escalation_by_phone">Telefon</string>
   <string name="support_escalation_closed_summary">Pretražite pomoć ili se vratite tijekom radnog vremena podrške (po lokalnom vremenu):&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
   <string name="support_escalation_no_internet_summary">Radno vrijeme Google podrške (lokalno vrijeme)&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
@@ -6191,6 +6589,8 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="system_app">(Sustav)</string>
   <string name="system_app_settings">Aplikacije sustava</string>
   <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
+  <string name="system_backup">Sig. kopija</string>
+  <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
   <string name="system_backup_section_title">Sig. kopija</string>
   <string name="system_dashboard_summary">Jezici, vrijeme, sigurnosna kopija, ažuriranja</string>
   <string name="system_default_app">(Zadano sustavom)</string>
@@ -6210,6 +6610,33 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="tap_to_wake">Dodirnite za aktivaciju</string>
   <string name="tap_to_wake_summary">Dvaput dodirnite bilo gdje na zaslonu da biste aktivirali uređaj</string>
   <string name="taplus_title">Taplus</string>
+  <string name="task_backup_cancel_progress">Otkazivanje…</string>
+  <string name="task_backup_finished_local">"Gotovo "</string>
+  <string name="task_canceled">Otkazano</string>
+  <string name="task_canceled_all_local">Otkazano</string>
+  <string name="task_canceled_local">Sig. kopija nepotpuna (%s)</string>
+  <string name="task_cloud_backup_cancel_dialog">"Sig. kopija nije završena. Svejedno zaustaviti?"</string>
+  <string name="task_failed">"Ne mogu napraviti Sig. kopiju"</string>
+  <string name="task_failed_all_local">"Ne mogu napraviti Sig. kopiju"</string>
+  <string name="task_failed_local">Sig. kopija nepotpuna (%s)</string>
+  <string name="task_finished">Sig. kopija uspješno završena</string>
+  <string name="task_local_backup_cancel_dialog">Sig. kopija nije završena. Svejedno zaustaviti?</string>
+  <string name="task_pending">U tijeku…</string>
+  <string name="task_post_running">Stvaranje Sig. kopije…</string>
+  <string name="task_pre_running">Pokretanje…</string>
+  <string name="task_progress">Napredak</string>
+  <string name="task_restore_cancel_dialog">Otkazivanje u ovom trenutku može dovesti do gubljenja podataka</string>
+  <string name="task_restore_cancel_progress">Otkazivanje…</string>
+  <string name="task_restore_finished_local">"Vraćeno "</string>
+  <string name="task_restore_none">Nema Sig. kopija za vraćanje</string>
+  <string name="task_running_backup_dialog">Izvođenje Sig. kopije je u tijeku. Dodirnite U redu za pregled.</string>
+  <string name="task_running_backup_hint">Taj proces je već pokrenut u pozadini!</string>
+  <string name="task_running_dialog">Sig. kopija i vraćanje su u tijeku. Dodirnite U redu za pregled.</string>
+  <string name="task_running_hint">Taj proces je već pokrenut u pozadini!</string>
+  <string name="task_running_restore_dialog">Vraćanje je u tijeku. Dodirnite U redu za pregled.</string>
+  <string name="task_running_restore_hint">Taj proces je već pokrenut u pozadini!</string>
+  <string name="task_service_not_launched">"Zadatak još nije započet"</string>
+  <string name="task_stopped_exception">Vraćanje otkazano</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="telephony_monitor_toast">Da biste primijenili promjenu koju je izvršio TelephonyMonitor, ponovo pokrenite uređaj.</string>
@@ -6276,6 +6703,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="time_spent_in_app_pref_title">Vrijeme provedeno u aplikaciji</string>
   <string name="time_unit_just_now">Upravo sad</string>
   <string name="time_zone_auto_stub">Odabir Vremenske zone</string>
+  <string name="time_zone_gmt">GMT</string>
   <string name="timed_titlei">Timer %d</string>
   <string name="timer_switch_settings_title">Planirano uključivanje/isključivanje</string>
   <string name="timezone_settings">Vremenska zona</string>
@@ -6291,9 +6719,9 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_jeejen">Jeejen Početni zaslon</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
-  <string name="to_close">Isključi</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_system_resource">Resursi sistema</string>
+  <string name="to_close">Isključi</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
   <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
   <string name="total">DND</string>
@@ -6317,6 +6745,198 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="trackball_wake_title">Trackball prekida mirovanje</string>
   <string name="traffic_balance">Način uporabe podataka</string>
   <string name="traffic_none">Ništa</string>
+  <string name="trans_backingup">Izrada Sig. kopije …</string>
+  <string name="trans_backingup_no_items">Sinkr. …</string>
+  <string name="trans_button_cancel">Odustani</string>
+  <string name="trans_button_exit">Izlaz</string>
+  <string name="trans_button_stay">Ostani</string>
+  <string name="trans_calculating">Izračun…</string>
+  <string name="trans_calculating_app_sd_description">Podaci na SD kartici</string>
+  <string name="trans_calculating_media_description">Medijske datoteke</string>
+  <string name="trans_calculating_tip">Izračun %s…</string>
+  <string name="trans_cancel_confirm">Prijenos u tijeku, zaustaviti sada?</string>
+  <string name="trans_cancel_dialog_survey_title">Zašto ste prekinuli prijenos?</string>
+  <string name="trans_cancel_selection_message">Ako napustite Mi Mover, prijenos u tijeku će biti prekinut. Pričekajte dok se prijenos ne dovrši.</string>
+  <string name="trans_cancel_selection_title">Ostani u Mi Moveru</string>
+  <string name="trans_cancelling">Otkazivanje…</string>
+  <string name="trans_connect_failed_device_incompatible">Uređaj nije kompatibilan. Otkažite prijenos i pokušajte ponovo.</string>
+  <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
+  <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>
+  <string name="trans_connect_failed_toast">"Ne mogu se povezati"</string>
+  <string name="trans_connecting_toast">Povezivanje…</string>
+  <string name="trans_connection_failed">Veza je prekinuta</string>
+  <string name="trans_detail_app_apk_list_title">Instalirane aplikacije</string>
+  <string name="trans_detail_app_apk_page_title">Odaberi aplikacije</string>
+  <string name="trans_detail_app_data_list_title">Podaci aplikacije</string>
+  <string name="trans_detail_app_data_page_title">Odaberi podatke aplikacije</string>
+  <string name="trans_detail_app_data_useless_tip">Možete vratiti ove iz aplikacije, nema potrebe za prijenosom.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Audio, videozapisi i datoteke</string>
+  <string name="trans_detail_audio_video_doc_page_title">Odaberi audio, videozapise i datoteke</string>
+  <string name="trans_detail_category_account">Računi i kontakti</string>
+  <string name="trans_detail_category_audio_video_doc">Audio, videozapisi i datoteke</string>
+  <string name="trans_detail_category_files">Datoteke</string>
+  <string name="trans_detail_category_sysdata">Podaci sustava(uključujući poruke, kontakte i povijest poziva)</string>
+  <string name="trans_detail_category_user_app_data">Podaci aplikacije</string>
+  <string name="trans_detail_category_userdata">Aplikacije</string>
+  <string name="trans_detail_category_wechat_qq">WeChat i QQ podaci (uključujući povijest razgovora)</string>
+  <string name="trans_detail_item_app_data_selected_tip">Odaberite i odgovarajuće aplikacije.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Izgleda da je stavka prevelika za prijenos.</string>
+  <string name="trans_detail_list_footer">Napomena: Možete odabrati prijenos aplikacija zasebno. Međutim, ako odaberete podatke aplikacije, poslati će se i odgovarajuće aplikacije.</string>
+  <string name="trans_detail_page_tip">Što više stavki odaberete, to će trajanje prijenosa trajati duže.</string>
+  <string name="trans_detail_qq_data">QQ podaci (uključujući povijest razgovora)</string>
+  <string name="trans_detail_sys_data_list_title">Aplikacije sustava</string>
+  <string name="trans_detail_sys_data_page_title">Odaberi aplikacije sustava</string>
+  <string name="trans_detail_wechat_data">WeChat podaci (uključujući povijest razgovora)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat i QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Odaberi WeChat, QQ i podatke aplikacija</string>
+  <string name="trans_device_auto_reconnecting">Veza je prekinuta. Ponovno autom. povezivanje…</string>
+  <string name="trans_device_disconnected">Veza je prekinuta</string>
+  <string name="trans_device_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo za nastavak.</string>
+  <string name="trans_dialog_survey_finish">Pošalji</string>
+  <string name="trans_disconnected_tips_message">Daljinski uređaj nije povezan. Ponovo se povežite ručno ili poništite prijenos.</string>
+  <string name="trans_disconnected_tips_title">Daljinski uređaj nije povezan</string>
+  <string name="trans_failed_details_page_title">Neuspješni prijenosi</string>
+  <string name="trans_generate_qr_code_failed">"Ne mogu izraditi QR kod"</string>
+  <string name="trans_generate_qrcode_failed">"Ne mogu izraditi QR kod. Pokušajte ponovo."</string>
+  <string name="trans_generating_qrcode">Izrada QR koda…</string>
+  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_install_guide_page_title">Instalirajte Mi Mover na svoj stari telefon</string>
+  <string name="trans_install_guide_scan_install_tip">"Skenirajte ovaj QR kod sa svojim starim telefonom
+da preuzmete i instalirate Mi Mover."</string>
+  <string name="trans_install_guide_step1_content">Skenirajte QR kod sa svojim starim telefonom da preuzmete i instalirate \"Mi Mover\".</string>
+  <string name="trans_install_guide_step1_title">Korak 1</string>
+  <string name="trans_install_guide_step2_content">Nakon dovršetka instalacije, dodirnite \"Start\".</string>
+  <string name="trans_install_guide_step2_title">Korak 2</string>
+  <string name="trans_intro_desc_1">"Na Mi telefonu, ovežite se na WLAN i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
+  <string name="trans_intro_desc_3">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
+  <string name="trans_intro_desc_4">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Mi 6) i dalje će se moći povezati s internetom putem WLAN veze tijekom prijenosa."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke."</string>
+  <string name="trans_intro_desc_5">Prostor za pohranu na starim uređajima koristi se za stvaranje paketa prijenosa. Prije no što započnete prijenos, provjerite imate li najmanje 500 MB - 1 GB dostupnog prostora za pohranu na svom starom telefonu.</string>
+  <string name="trans_intro_desc_6">Postoji nekoliko razloga zašto se to može dogoditi: problemi s kompatibilnošću sustava i aplikacijom, problemi s mrežom, problemi s kompatibilnošću specifični za određeni uređaj itd.</string>
+  <string name="trans_intro_desc_7">Zbog sigurnosnih razloga neki profili aplikacija (e-bankarstvo, financije itd.) povezani su s određenim uređajem. Pokušajte izbrisati podatke aplikacije ili ponovno instalirati aplikaciju na novi uređaj.</string>
+  <string name="trans_intro_desc_8">"WeChat podaci o aplikaciji i povijest chata možda se ne mogu potpuno prenijeti pomoću programa Mi Mover. Idite na postavke usluge WeChat i odjavite se s računa kako biste dobili više šanse za uspješan prijenos."</string>
+  <string name="trans_intro_desc_9_method_1_dec">Idite na Početni zaslon &gt; Alati &gt; Povratna inf.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Podijelite nam povratne informacije pomoću apliakcije \"Povratna inf.\".</string>
+  <string name="trans_intro_desc_9_method_2_dec">Pošaljite povratne informacije na miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Pošaljite nam e-mail</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ Grupa: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Prijavite poteškoće u QQ</string>
+  <string name="trans_intro_desc_account">Zbog sigurnosnih razloga ponovno se morate prijaviti na svoje račune (npr. Mi Račun, Exchange, Google itd.) na novom uređaju.</string>
+  <string name="trans_intro_desc_multiapp">"Mi Mover ne prenosi podatke Dvojnih aplikacije kako bi se izbjegli konflikti između datoteka."</string>
+  <string name="trans_intro_desc_multiuser">"Mi Mover ne može pristupiti stavkama u Drugom prostoru. Premjestite stavke u Prvi prostor i pokrenite Mi Mover otamo."</string>
+  <string name="trans_intro_desc_new">"Dodirnite \"Ja sam primatelj\". Generirat će se QR kôd."</string>
+  <string name="trans_intro_desc_old">"Dodirnite \"Ja sam pošiljatelj\". Skenirajte QR kôd na novom telefonu, pričekajte dok Mi Mover ne odredi koje datoteke šaljete i dodirnite \"Pošalji\"."</string>
+  <string name="trans_intro_desc_old_market">Dodirnite \"Start\". Skenirajte QR kod na novom telefonu, pričekajte da Mi Mover odredi koje datoteke šaljete i dodirnite \"Pošalji\".</string>
+  <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Mi Clouda na novom uređaju."</string>
+  <string name="trans_intro_question_1">%d. Kako koristiti Mi Mover za premještanje podataka s iOS uređaja?</string>
+  <string name="trans_intro_question_2">%d. Kako koristiti Mi Mover za premještanje podataka s Android uređaja?</string>
+  <string name="trans_intro_question_3">%d. Što da radim ako je Mi Mover zaglavio na određenom koraku?</string>
+  <string name="trans_intro_question_4">"%d. Zašto ne mogu koristiti WLAN tijekom prijenosa?"</string>
+  <string name="trans_intro_question_5">"%d. Zašto Mi Mover kaže da nema dovoljno prostora za pohranu na mom starom telefonu?"</string>
+  <string name="trans_intro_question_6">"%d. Zašto neke aplikacije nisu uspješno prenesene?"</string>
+  <string name="trans_intro_question_7">"%d. Zašto se neke aplikacije neće pokrenuti na novom uređaju?"</string>
+  <string name="trans_intro_question_8">"%d. Zašto nije poslana cijela WeChat povijest?"</string>
+  <string name="trans_intro_question_9">"%d. Koje stavke nije moguće poslati??"</string>
+  <string name="trans_intro_question_9_market">%d. Povratna inf.</string>
+  <string name="trans_intro_title">FAQ</string>
+  <string name="trans_intro_title_account">Računi i zaporke:</string>
+  <string name="trans_intro_title_multiapp">Podaci Dvojnih aplikacija:</string>
+  <string name="trans_intro_title_multiuser">Podaci Drugog prostora:</string>
+  <string name="trans_intro_title_new">Na novom telefonu:</string>
+  <string name="trans_intro_title_old">Na starom telefonu:</string>
+  <string name="trans_intro_title_private">Skriveni album:</string>
+  <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
+  <string name="trans_my_device">Moj uređaj</string>
+  <string name="trans_native_no_space">"Na starom uređaju nema dovoljno prostora za pohranu (%s dostupno).
+ Oslobodite prostor za pohranu ili prenesite samo važne stavke."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Moveru je potreban prostor za pohranu za pakiranje prenesenih podataka, ali izgleda da nema dovoljno prostora na starom uređaju. Oslobodite prostor za pohranu u \"Sigurnost\" ili prenesite samo važne stavke."</string>
+  <string name="trans_old_phone_low_space_title">Nema dovoljno prostora za pohranu</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_open_camera_failed_message">Ponovno pokrenite uređaj ili provjerite je li Mi Mover dopušteno koristiti &lt;b&gt;Kameru&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">"Ne mogu se povezati na Kameru"</string>
+  <string name="trans_open_location_button">Uključi</string>
+  <string name="trans_open_location_message">Uključite usluge lokacije da biste dobili popis dostupnih WLAN mreža.</string>
+  <string name="trans_open_location_title">Uključi usluge lokacije</string>
+  <string name="trans_operate_func_one">Metoda A</string>
+  <string name="trans_operate_func_two">Metoda B</string>
+  <string name="trans_operate_new_phone_tips">"Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
+  
+ Dodirnite [Ja sam primatelj] da izradite QR kod"</string>
+  <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikaciju Mi Mover na vašem drugom uređaju
+2. Otvorite aplikaciju i dodirnite Start
+3. Skenirajte QR kod s vašim drugim uređajem"</string>
+  <string name="trans_operate_old_phone_tips2">Idite na Postavke &gt; Dodatne Postavke &gt; Mi Mover
+ Dodirnite [Ja sam pošiljatelj]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Pričekajte dok novi telefon prikaže "Veza je prekinuta".\nZatim dodirnite "Ponovno poveži" za izradu QR koda."</string>
+  <string name="trans_operate_reconnect_old_tips">"Pričekajte dok stari telefon prikaže "Veza je prekinuta".\nZatim dodirnite "Ponovno poveži" da skenirate QR kod."</string>
+  <string name="trans_operate_tip_for_other_android">Otvorite Mi Mover na vašem starom telefonu, dodirnite \"Start\" i skenirajte QR kod.</string>
+  <string name="trans_pausing">Pauziranje…</string>
+  <string name="trans_please_waiting">Samo trenutak…</string>
+  <string name="trans_progress_subdescript_br_receiver"> Vraćanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_br_sender">Izrada Sig. kopije %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Sig. kopija izrađena %s, čeka se vraćanje…</string>
+  <string name="trans_progress_subdescript_transing_receiver">Primanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Primljeno %s, čeka se vraćanje</string>
+  <string name="trans_progress_subdescript_transing_sender">Slanje %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Primanje datoteka, %s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Slanje datoteka, %s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Primanje podataka SD kartice %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Slanje podataka SD kartice %1$s, %2$s dovršeno</string>
+  <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
+  <string name="trans_receiver">"Ja sam primatelj"</string>
+  <string name="trans_receiver_time_remained">"%s preostalo.
+ Ne isključujte WLAN Hotspot. 
+ Držite oba uređaja blizu jedan drugoga."</string>
+  <string name="trans_receiving_completed">Uspješno primljeno</string>
+  <string name="trans_restoring">Vraćanje…</string>
+  <string name="trans_restoring_no_items">Dobivanje informacija…</string>
+  <string name="trans_retry">Pokušaj ponovno</string>
+  <string name="trans_scan_invalid_qrcode">Nevažeći QR kod</string>
+  <string name="trans_scan_qr_code_tips">Skeniraj QR kod koristeći novi uređaj</string>
+  <string name="trans_security_tips_message">"Neke aplikacije ne podržavaju Mi Mover."</string>
+  <string name="trans_security_tips_title">Mi Mover kompatibilnost</string>
+  <string name="trans_select_data">Odaberite podatke</string>
+  <string name="trans_select_data_no_space">Na novom uređaju nema dovoljno prostora za pohranu (%s dostupno).
+ Oslobodite prostor za pohranu ili prenesite samo važne stavke."</string>
+  <string name="trans_select_data_tips">"Odaberite datoteke za prijenos
+ Slične datoteke na novom uređaju će biti presnimljene"</string>
+  <string name="trans_select_data_too_large">"Odabrali ste previše stavki za prijenos.
+Odaberite samo važne stavke da brže obavite prijenos."</string>
+  <string name="trans_select_device_receive">Odaberite jedan uređaj za primanje podataka.</string>
+  <string name="trans_select_device_send">Odaberite jedan uređaj za prijenos podataka.</string>
+  <string name="trans_select_notification_message">Dodirni za prikaz</string>
+  <string name="trans_select_notification_title">Mi Mover radi…</string>
+  <string name="trans_sender">"Ja sam pošiljatelj"</string>
+  <string name="trans_sender_connectting">Potvrdite na novom uređaju</string>
+  <string name="trans_sender_searching">Traženje za novim uređajima</string>
+  <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen.
+Čekanje povezivanja drugog uređaja…"</string>
+  <string name="trans_sender_time_remained">"%s preostalo.
+ Ne isključujte WLAN. 
+ Držite oba uređaja blizu jedan drugoga."</string>
+  <string name="trans_sending_completed">Uspješno poslano</string>
+  <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
+  <string name="trans_show_qr_code_tips">Skenirajte QR kod s vašim starim uređajem</string>
+  <string name="trans_start_failed_message">"Ne mogu pokrenuti, pokušajte ponovo ili ponovno pokrenite uređaj."</string>
+  <string name="trans_start_failed_title">"Ne mogu pokrenuti"</string>
+  <string name="trans_success_dialog_button_market_comment">Komentiraj</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Ocijenite Mi Mover</string>
+  <string name="trans_success_dialog_button_survey">Pregled</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">"Spremni ste za rasturanje! Recite nam što mislite o Mi Moveru."</string>
+  <string name="trans_success_dialog_market_comment_title">"Vaš se novi uređaj sad osjeća kao kod kuće.
+Sviđa vam se Mi Mover?"</string>
+  <string name="trans_success_dialog_survey_title">Cijenimo vaše povratne informacije</string>
+  <string name="trans_success_survey_hint">Najprije popunite sva polja.</string>
+  <string name="trans_switching_5g">Promjena na 5GHz WLAN…</string>
+  <string name="trans_time_format_second">Manje od 1 minute</string>
+  <string name="trans_time_spent">"Potrošeno vrijeme: %s"</string>
+  <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
+Čeka se prijenos…"</string>
+  <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
+i Mi Mover uključen"</string>
+  <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
+  <string name="trans_wlan_tips_message">"Nemojte isključivati WLAN ili se prebacivati na druge WLAN mreže tijekom prijenosa. Inače, Mi Mover neće biti u mogućnosti slati podatke."</string>
+  <string name="trans_wlan_tips_title">"Nemojte isključivati niti mijenjati WLAN tijekom prijenosa podataka"</string>
   <string name="transition_animation_scale_title">Brzina prijelaza animacije</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">HR Prijevod</string>
@@ -6441,8 +7061,10 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
+  <string name="unit_byte">B</string>
   <string name="unknown">Nepoznato</string>
   <string name="unknown_app">Nepoznata aplikacija</string>
+  <string name="unknown_hint">Nepoznato</string>
   <string name="unknown_unavailability_setting_summary">Postavka nije dostupna</string>
   <string name="unlock_backup_info_summary">Kada vas Otključavanje licem ne može vidjeti, kako želite otključati?</string>
   <string name="unlock_change_lock_password_title">Promijeni zaporku za otključavanje</string>
@@ -6516,8 +7138,11 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="untitled_apn">Bez naslova</string>
   <string name="update_new_version">Dostupno je ažuriranje</string>
   <string name="update_progress_for_updates">Ažuriranje (%s)</string>
+  <string name="upload_audio_log">Započni dobivanje audio zapisa</string>
   <string name="upload_debug_log_summary">Statistika korištenja koja nam pomaže u pronalaženju i rješavanju problema može sadržavati vaše osobne podatke</string>
   <string name="upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
+  <string name="upload_gps_log">Započni dobivanje GPS zapisa</string>
+  <string name="upload_modem_log">Započni dobivanje zapisa modema</string>
   <string name="usage">Potrošnja</string>
   <string name="usage_access">Pristup upotrebi</string>
   <string name="usage_access_description">Pristup upotrebi omogućuje aplikaciji praćenje drugih aplikacija koje upotrebljavate i učestalosti njihove upotrebe, kao i praćenje mobilnog operatera, postavki jezika i ostalih pojedinosti.</string>
@@ -6550,6 +7175,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="usb_adb_input_desc">Dopusti davanje dopuštenja i simuliranja ulaza preko USB uklanjanje pogrešaka</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
+  <string name="usb_backup_select_data_too_large">"Odabrane datoteke su velike. Provjerite ima li USB uređaj dovoljno prostora za pohranu.
+Prenesite samo važne stavke."</string>
   <string name="usb_charging_summary">Isključi sve ostale značajke USB povezivanja za ubrzanje punjenja.</string>
   <string name="usb_charging_title">Ubrzaj punjenje</string>
   <string name="usb_connection_category">Poveži kao</string>
@@ -6588,6 +7215,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="usb_preference">Postavke USB-a</string>
   <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera Kamere i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
+  <string name="usb_restore_select_data_too_large">"Datoteke Sig. kopije su velike. Može potrajati neko vrijeme da biste ih vratili.
+Vraćanje samo važnih stavki bit će brže."</string>
   <string name="usb_sdcard_summary">Omogućuje prijenos medijskih datoteka sa SD kartice na računalo</string>
   <string name="usb_sdcard_title">Učitaj SD karticu</string>
   <string name="usb_summary_MIDI">Upotreba uređaja kao MIDI-ja</string>
@@ -6613,6 +7242,12 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="usb_tethering_turnon_subtext">Povežite se radi uključivanja</string>
   <string name="usb_tethering_unavailable_subtext">USB nije priključen</string>
   <string name="usb_title">USB</string>
+  <string name="usb_trans_native_no_space">"Samo je %s dostupno na vašem uređaju.
+Oslobodite prostor ili napravite više manjih prijenosa."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za spremanje Sig. kopija potrebna je dodatan prostor. Nema dovoljno prostora za pohranu za nastavak prijenosa. Možete osloboditi prostor i izbrisati nepotrebne datoteke u aplikaciji Sigurnost ili pokušati prenijeti samo važne stavke."</string>
+  <string name="usb_trans_old_phone_low_space_title">Nema dovoljno prostora za pohranu</string>
+  <string name="usb_trans_select_data_no_space">"Samo je %s dostupno na vašem USB uređaju.
+Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="usb_unmount_inform_text">USB memorija će biti isključena.</string>
   <string name="usb_use">Svrha upotrebe USB-a</string>
   <string name="usb_use_MIDI">MIDI</string>
@@ -6713,10 +7348,15 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="user_installed_services_category_title">Preuzete usluge</string>
   <string name="user_list_title">Korisnici &amp; profili</string>
   <string name="user_lockscreen_settings">Postavke zaključavanja zaslona</string>
+  <string name="user_name">Apple ID ili E-pošta</string>
+  <string name="user_name_null">Korisničko ime ne može biti prazno</string>
   <string name="user_need_lock_message">Prije izrade ograničenog profila trebate postaviti zaključavanje zaslona radi zaštite svojih aplikacija i osobnih podataka.</string>
   <string name="user_new_profile_name">Novi profil</string>
   <string name="user_new_user_name">Novi korisnik</string>
   <string name="user_nickname">"Nadimak"</string>
+  <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
+  <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
+  <string name="user_notice_title">Pažnja</string>
   <string name="user_owner">Vlasnik</string>
   <string name="user_picture_title">ID fotografija</string>
   <string name="user_profile_confirm_remove_message">Izbrisat će se sve aplikacije i podaci.</string>
@@ -6759,6 +7399,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="vibrate_on_touch_title">Vibracija na dodir</string>
   <string name="vibrate_when_ringing_title">Vibracija i za pozive</string>
   <string name="view_install_log">Prikaži zapis</string>
+  <string name="view_password_description">Prikaži zaporku</string>
   <string name="vip_list">Dopusti dolazne pozive</string>
   <string name="vip_mode_info">U bešumnom načinu, o pozivima i SMS porukama sa VIP popisa kontakata ćete biti obavješteni</string>
   <string name="virtual_keyboard_category">Virtualna tipkovnica</string>
@@ -7456,6 +8097,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_tether_settings_title">Prijenosni hotspot</string>
   <string name="wifi_tether_starting">Uključivanje hotspota…</string>
   <string name="wifi_tether_stopping">Isključivanje hotspota…</string>
+  <string name="wifi_title">Postavke WLAN-a</string>
   <string name="wifi_traffic_priority">Način WLAN mirovanja</string>
   <string name="wifi_traffic_priority_extreme">Ekstremni način</string>
   <string name="wifi_traffic_priority_extreme_summary">Dajte većinu propusnosti aplikaciji u prvom planu. Procesi u pozadini možda se neće moći povezati s mrežom.</string>
@@ -7476,7 +8118,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_verbose_logging_summary">Povećaj razinu WLAN zapisivanja, prikaži RSSI za svaki SSID na popisu WLAN mreža.</string>
   <string name="wifi_wakeup">Automatski uključi WLAN</string>
   <string name="wifi_wakeup_summary">WLAN će se automatski ponovo uključiti u blizini spremljenih mreža visoke kvalitete, poput vaše kućne mreže</string>
-  <string name="wifi_wakeup_summary_no_location">Nije dostupno jer je lokacija isključena. Uključite <annotation id="link">lokaciju</annotation>.</string>
+  <string name="wifi_wakeup_summary_no_location">Nije dostupno jer je lokacija isključena. Uključite &lt;annotation id="link"&gt;lokaciju&lt;/annotation&gt;.</string>
   <string name="wifi_wakeup_summary_scanning_disabled">Nije dostupno jer je pretraživanje WLAN signala isključeno</string>
   <string name="wifi_wakeup_summary_scoring_disabled">Za upotrebu odaberite ocjenjivača mreže</string>
   <string name="wifi_wapi_as_cert">AS Certifikat</string>
@@ -7581,11 +8223,20 @@ Credential storage might not enable"</string>
   <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira kontakte, fotografije i ostale stavke na vašim uređajima. \"Pronađi uređaj\" također zahtijeva da Mi Cloud radi normalno.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
+  <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
+  <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
+  <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_available_notif_summary">Dodirnite za prikaz više informacija.</string>
   <string name="xiaomi_router_available_notif_title">Mi Router dostupan</string>
+  <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_router_notif_summary">Obavijesti me kada je Mi Router dostupan</string>
   <string name="xiaomi_router_notif_title">Mi Router obavijesti</string>
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
+ Veličina: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
+ Veličina Delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Dostupno ažuriranje</string>
   <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
   <string name="you_wont_see_this">:)</string>

@@ -1213,7 +1213,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="hide_mode_app_background_setting_text">Štednja baterije aplikacija</string>
   <string name="hide_mode_result_summary_text">Prilagodite postavke štednje baterije za pojedinačne aplikacije</string>
   <string name="hide_mode_title_text">Štednja baterije</string>
-  <string name="hide_system_app">Sakrij animacije sustava</string>
+  <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="hint_antispam_mode_edit">Prilagođeni način</string>
   <string name="hints_auto_start_warning_info">"Ako ograničite autom. pokretanje, neke aplikacije i usluge neće moći primati obavijesti."</string>
   <string name="hints_cleanning_done">Uspješno skenirano</string>
@@ -2285,7 +2285,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="recommend_app">Preporučene aplikacije</string>
   <string name="recommend_news">Primaj preporuke</string>
   <string name="recommended">Istaknuto</string>
-  <string name="reject_all">Ograniči svima</string>
+  <string name="reject_all">Ograniči sve</string>
   <string name="reject_countdown">Odbij (%d)</string>
   <string name="reject_usb_install">Odbijen pristup instalacije ovih aplikacija putem USB-a</string>
   <string name="release_meminfo">Oslobodite %dMB</string>
@@ -2435,7 +2435,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="share">Podijeli</string>
   <string name="shield_keyboard_detail">Dvaput dodirnite tipke da ih ponovno uključite</string>
   <string name="shield_keyboard_title">Isključi tipke</string>
-  <string name="show_system_app">Prikaži animacije sustava</string>
+  <string name="show_system_app">Prikaži aplikacije sustava</string>
   <string name="show_traffic_dialog_message">Detalji vaše uporabe podataka će biti prikazani u panelu obavijesti. Možete uključiti/isključiti ovu značajku u bilo koje vrijeme u Uporaba podataka &gt; Postavke</string>
   <string name="show_traffic_dialog_title">Prikaži uporabu u panelu obavijesti</string>
   <string name="showpattern">Postavke Dopuštenja</string>

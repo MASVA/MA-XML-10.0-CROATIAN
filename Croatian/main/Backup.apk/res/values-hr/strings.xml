@@ -78,29 +78,28 @@
   <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
   <string name="cancel_restore">Odustani</string>
   <string name="click_to_view">Dodirnite za prikaz</string>
-  <string name="close_twice_auth_btn">Isključi Apple ID autorizaciju s dva faktora</string>
+  <string name="close_twice_auth_btn">Isključi autorizaciju s dva faktora</string>
   <string name="close_twice_auth_note">"Bilješka:\nNakon što izradite novo sigurnosno pitanje i potvrdite datum rođenja, autorizacija s dva faktora za vaš Apple ID bit će isključena. Ako ne vidite opciju isključivanja autorizacije s dva faktora na stranici računa Apple ID, ne možete ga isključiti."</string>
-  <string name="close_twice_auth_operation">"URL:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
+  <string name="close_twice_auth_operation">"URL:\nhttps://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="close_twice_auth_step_1">1. Otvorite bilo koji web-preglednik na bilo kojem računalu i idite na appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za koji želite onemogućiti autorizaciju s dva faktora, idite na odjeljak \"Sigurnost\" u postavkama računa i odaberite \"Uredi\"</string>
   <string name="close_twice_auth_step_3">3. Kliknite \"Isključi autorizaciju s dva faktora\". Kliknite ponovno za potvrdu.</string>
   <string name="close_twice_auth_steps">Slijedite ove korake kako biste isključili autorizaciju s dva faktora za Apple ID:</string>
   <string name="close_twice_auth_tutor">Isključi Apple ID autorizaciju s dva faktora</string>
-  <string name="cloud_app_name">Pohrani na Mi Cloud</string>
+  <string name="cloud_app_name">Sig. kopija Mi Cloud</string>
   <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
   <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
   <string name="cloud_backup_window_title">Mi Cloud Sig. kopija</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
-  <string name="cloud_last_backup">"Posljednja  Sig. kopija"</string>
+  <string name="cloud_last_backup">"Posljednja Sig. kopija"</string>
   <string name="cloud_no_backup">Nema Sig. kopija</string>
   <string name="cloud_restore_guide">Za vraćanje korisničkih podataka za %s, dodirnite Vraćanje</string>
   <string name="cloud_restore_title">Vraćanje podataka Sig. kopije</string>
   <string name="cloud_restore_window_title">Mi Cloud vraćanje</string>
   <string name="cloud_search">Pretraživanje…</string>
-  <string name="comma_seperator">", "</string>
-  <string name="compute_backup_info">Prikupljam podatke Sig. kopije…</string>
-  <string name="compute_delete_contact_info">Prikupljanje informacija…</string>
+  <string name="compute_backup_info">Dobivanje podataka Sig. kopije…</string>
+  <string name="compute_delete_contact_info">Dobivanje informacija…</string>
   <string name="connect_wifi">Povežite se na WLAN</string>
   <string name="connect_wifi_tip">Niste povezani s WLAN mrežom. Za uvoz podataka iz iClouda, povežite se s WLAN mrežom.</string>
   <string name="contact_title">Kontakti</string>
@@ -199,6 +198,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="import_data_from_icloud">Uvezi podatke iz iClouda</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
+
 2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
   <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
@@ -212,7 +212,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="local_home_title">Lokalne Sig. kopije</string>
   <string name="local_no_backup">Nema Sig. kopija</string>
   <string name="local_restore_window_title">Lokalna obnova</string>
-  <string name="local_select_account_contact">Računi &amp; Kontakti</string>
+  <string name="local_select_account_contact">Računi &amp; kontakti</string>
   <string name="local_select_audio">Audio datoteke</string>
   <string name="local_select_doc">Dokumenti</string>
   <string name="local_select_files">Pohrana</string>
@@ -221,7 +221,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="local_select_video">Videozapisi</string>
   <string name="login">Prijava</string>
-  <string name="login_failed">Prijava nije uspjela. Pokušajte ponovno.</string>
+  <string name="login_failed">"Ne mogu se prijaviti. Pokušajte ponovno."</string>
   <string name="logining">Prijavljivanje…</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
@@ -285,28 +285,28 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="prompt_reading">Čitanje…</string>
-  <string name="prompt_sending">Šaljem…</string>
-  <string name="prompt_writing">Spremam…</string>
+  <string name="prompt_sending">Slanje…</string>
+  <string name="prompt_writing">Spremanje…</string>
   <string name="read_encrypt_fail">"Ne mogu pročitati šifriranu Sig. kopiju"</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="refresh">Osvježi</string>
-  <string name="remote_receive">Primanje</string>
+  <string name="remote_receive">Primi</string>
   <string name="restore">Vrati</string>
   <string name="restore_backup">Vrati</string>
-  <string name="restore_contact">Vraćam kontakte</string>
+  <string name="restore_contact">Vrati kontakte</string>
   <string name="restore_contact_content">Vraćanje kontakata može rezultirati duplim kontaktima</string>
   <string name="restore_contacts_hit">Možda ćete se morati ponovno prijaviti da biste vidjeli obnovljene podatke</string>
   <string name="restore_counts">Vraćanje:</string>
   <string name="restore_data">Odaberite stavke za vraćanje</string>
   <string name="restore_failed">"Ne mogu vratiti"</string>
-  <string name="restore_finished">Vraćanje uspješno</string>
+  <string name="restore_finished">Uspješno vraćeno</string>
   <string name="restore_is_running">Vraćanje uređaja</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>
   <string name="restore_telephony_hit">Postupak vraćanja će ponovno pokrenuti aplikaciju telefona</string>
   <string name="retry">Pokušaj ponovno</string>
-  <string name="reverse_all">Poništiti odabir</string>
+  <string name="reverse_all">Poništi odabir</string>
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="save_finish_with_failing_items">"Prijenos je prekinut.\r\nPodaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="saving_data">"Uvoz podataka iz iClouda…
@@ -324,7 +324,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="sc_unaccess_password_file">"Ne mogu naći zaporku WLAN mreže"</string>
   <string name="sc_unauthorized">Prijavite se ponovno</string>
   <string name="sd_not_available">Umetnite sada SD karticu</string>
-  <string name="sdcard_no_enough_space">Nedovoljno prostora</string>
+  <string name="sdcard_no_enough_space">Nema dovoljno prostora</string>
   <string name="sdcard_no_enough_space_message">"Nema dovoljno prostora za pohranu na SD kartici."</string>
   <string name="sdcard_unmounted">Umetnite sada SD karticu</string>
   <string name="see_backup_files_on_router">Pregled Sig. kopija na Mi Routeru %s</string>
