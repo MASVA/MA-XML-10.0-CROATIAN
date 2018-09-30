@@ -2571,6 +2571,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="fingerprint_manage_tittle">Otisak prsta</string>
   <string name="fingerprint_not_identified_msg">"Ne mogu pročitati otisak prsta. Unesite svoju zaporku"</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
+  <string name="fingerprint_others_title">Ostalo</string>
   <string name="fingerprint_payment">Plaćanja otiskom prstiju</string>
   <string name="fingerprint_removal_failed">"Ne mogu ukloniti otisak prsta, pokušajte ponovno kasnije"</string>
   <string name="fingerprint_swipe_for_notifications_suggestion_title">Brz pregled obavijesti</string>
@@ -2787,6 +2788,11 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gxzw_add_fingerprint_put_finger_message">Dodirnite zaslon i podignite prst nakon što osjetite vibraciju. Ponovite nekoliko puta.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Dodirnite i podignite nakon vibracije</string>
   <string name="gxzw_add_fingerprint_title">Dodajte vaš otisak prsta</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Puls</string>
+  <string name="gxzw_anim_rhythm">Ritam</string>
+  <string name="gxzw_anim_title">Animacija otiska prsta</string>
   <string name="hand_mode_notification_summary">Dodirnite za više.</string>
   <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
   <string name="handy_mode">Rad jednom rukom</string>
@@ -3369,7 +3375,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Postavite PIN 
  za Drugi prostor"</string>
   <string name="lockpassword_choose_your_pin_message">Radi sigurnosti postavite PIN</string>
-  <string name="lockpassword_choose_your_pin_title">Unesite 4-16 znamenki</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Unesite 4-16 znamenki</string>
   <string name="lockpassword_choose_your_screen_lock_header">Postavljanje zaključavanja zaslona</string>
   <string name="lockpassword_clear_label">Izbriši</string>
   <string name="lockpassword_confirm_for_second_user">Potvrdite zaporku za Drugi prostor</string>
@@ -3679,6 +3685,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="menu_use_uss">Upotrijebi Uss</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
+  <string name="mi_service">Mi Usluga</string>
   <string name="mi_service_app_detail">Pojedinosti uporabe podataka</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
@@ -5491,9 +5498,9 @@ Za prikvačivanje zaslona:
   <string name="search_button_light_timeout">Zadrži osvjetjenje tipaka uključenim;Osvjetljenje tipaka</string>
   <string name="search_calendar_sound_title">Zvuk kalendara;Zvuk kalendara;Kalendar</string>
   <string name="search_camera_key_action_shortcut_screenshot">Snimka zaslona</string>
-  <string name="search_captioning_locale">Language</string>
+  <string name="search_captioning_locale">Jezik</string>
   <string name="search_change_password">Change screen lock;Screen lock;Edit screen lock;edit screenlock;screenlock</string>
-  <string name="search_children_mode_settings">Dječji način;Zaklj.  sms;Roditeljski nadzor;Dijete roditelja;Ograniči SMS</string>
+  <string name="search_children_mode_settings">Dječji način;Zaklj. sms;Roditeljski nadzor;Dijete roditelja;Ograniči SMS</string>
   <string name="search_children_mode_title">Dječji način;Dijete;Roditeljski nadzor</string>
   <string name="search_choose_timezone">Odaberi vremensku zonu;Vremensku zona;Vremenske zone</string>
   <string name="search_cloud_backup_settings_section_title">Postavke Sig. kopije;Sig. kopija;Sig. kopija;Sig. kopije</string>
@@ -5554,7 +5561,7 @@ Za prikvačivanje zaslona:
   <string name="search_master_clear_title">Vraćanje na tvorničke postavke</string>
   <string name="search_menu">Pretraži postavke</string>
   <string name="search_menu_title">Pretraživanje</string>
-  <string name="search_micloud">Sinkr.;Mi Cloud;Cloud sinkr;Sinkr sa Mi Cloud</string>
+  <string name="search_micloud">Sinkr.;Mi Cloud;Cloud sinkr;Sinkr. sa Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Postavke zvuka;Postavke zvuka</string>
   <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Dodijeli tipke;tipke</string>
@@ -7121,7 +7128,7 @@ i Mi Mover uključen"</string>
   <string name="unlock_set_unlock_password_title">Zaporka</string>
   <string name="unlock_set_unlock_pattern_summary">Iscrtajte jednostavan uzorak prstom za otključavanje uređaja</string>
   <string name="unlock_set_unlock_pattern_title">Uzorak</string>
-  <string name="unlock_set_unlock_pin_summary">Unesite 4-16 brojeva za otključavanje uređaja</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Unesite 4-16 brojeva za otključavanje uređaja</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Postavite zaključavanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja Zaklj. zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>

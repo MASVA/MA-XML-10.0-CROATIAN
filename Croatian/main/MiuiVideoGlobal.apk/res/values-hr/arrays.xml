@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_streaming_quality">
+        <item>Autom.</item>
+        <item>Niska</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+        <item>Jako visoka</item>
+    </string-array>
+</resources>
+
