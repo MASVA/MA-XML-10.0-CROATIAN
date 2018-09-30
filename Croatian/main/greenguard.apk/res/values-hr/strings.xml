@@ -86,20 +86,16 @@ can be set on the other device."</string>
   <string name="freerun_service_label_mdm">MDM Main Service</string>
   <string name="freerun_service_label_pn">PN Service</string>
   <string name="freerun_service_label_push_exe">PN Execution</string>
-  <string name="freerun_symbol_colon">:</string>
   <string name="freerun_timeFence_in_tips">Notice: Time-fencing restriction has been applied. Some functions of the device will be unavailable.</string>
   <string name="freerun_timeFence_out_tips">Time-fencing restriction has been removed. Device functions are all available.</string>
   <string name="freerun_uninstall_app_tips">%s is in black items,forbidden to install,please uninstall.</string>
   <string name="freerun_uninstall_installedapp">Please uninstall %s,install custom version.</string>
-  <string name="freerun_user_server_url">https://%1$s/cgi-bin/dynamic_parser.cgi</string>
   <string name="from_who">from【%s】</string>
   <string name="go_to_password">Auth Password</string>
   <string name="guarder">%s is managing your device.</string>
   <string name="last_time">%s minutes left</string>
   <string name="loading">Loading...</string>
   <string name="mi_loading_qr">Generating QR code…</string>
-  <string name="mi_push_app_id">2882303761517748370</string>
-  <string name="mi_push_app_key">5231774853370</string>
   <string name="min">min</string>
   <string name="mon">Mon</string>
   <string name="my_qr">Kite Guard APk QR</string>
@@ -130,7 +126,6 @@ can be set on the other device."</string>
   <string name="search_menu_title">Traži</string>
   <string name="server_error">A server error occurred. Try again.</string>
   <string name="show_name">FamilyGuard</string>
-  <string name="space">  </string>
   <string name="stable_build">Stable</string>
   <string name="string_from"/>
   <string name="sun">Ned</string>
@@ -149,7 +144,6 @@ can be set on the other device."</string>
   <string name="verify_password">Enter your password</string>
   <string name="wes">Sri</string>
   <string name="what_app_can_use">Available apps</string>
-  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>
@@ -157,8 +151,6 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="yesterday">Jučer</string>
   <string name="your_guardian">your guardian 【%1$s】 suggest your to uninstall 【%2$s】</string>
 </resources>

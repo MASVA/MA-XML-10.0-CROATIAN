@@ -147,7 +147,7 @@
   <string name="bookmark_btn_select_all">Odaberi sve</string>
   <string name="bookmark_btn_select_none">Poništi sve</string>
   <string name="bookmark_cannot_save_url">"Ova se poveznica ne može spremiti kao oznaka."</string>
-  <string name="bookmark_deleted">Izbriši oznaku</sring>
+  <string name="bookmark_deleted">Izbriši oznaku</string>
   <string name="bookmark_folder_needs_title">Unesite naziv grupe</string>
   <string name="bookmark_group_lable">Grupa</string>
   <string name="bookmark_move_to">Premjesti u</string>
