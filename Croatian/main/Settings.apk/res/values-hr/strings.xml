@@ -1414,6 +1414,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="checking_decryption">Provjeravanje…</string>
   <string name="checking_find_device_status">Provjera statusa Pronađi uređaj…</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
+  <string name="child_mode_settings">Roditeljski nadzor</string>
   <string name="childmod_privacy_password_role_instruction">Uključite Dječji način da spriječite neželjene radnje dok uređaj koristi dijete</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
@@ -1705,6 +1706,9 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo–žuto)</string>
   <string name="daltonizer_type">Način korekcije</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
+  <string name="dangerous_option">Razvojne opcije visokog rizika</string>
+  <string name="dangerous_option_hint">%1$s su omogućene. Dodirnite za promjenu postavki.</string>
+  <string name="dangerous_option_hint_title">Razvojne opcije visokog rizika omogućene</string>
   <string name="dark_ui_mode">Noćni način rada</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Sažmi</string>
@@ -3751,6 +3755,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
   <string name="miui_lab_super_resolution_title">Super rezolucija</string>
   <string name="miui_master_clear_summary">Briše sve podatke na telefonu</string>
+  <string name="miui_optimization_disabled">Isključi MIUI optimizaciju</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
@@ -6553,6 +6558,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suw_back_button_label">Natrag</string>
   <string name="suw_more_button_label">Više</string>
   <string name="suw_next_button_label">Dalje</string>
+  <string name="switch_access_service_on">Promjena pristupa</string>
   <string name="swipe_up_to_switch_apps_suggestion_summary">Uključite novi pokret da biste promijenili aplikaciju</string>
   <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi gumb početnog zaslona</string>
   <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po gumbu početnog zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati gumb Pregled u donjem desnom kutu zaslona.</string>
