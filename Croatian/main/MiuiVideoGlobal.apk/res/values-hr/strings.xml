@@ -348,10 +348,10 @@
   <string name="pull_to_refresh_pull_label">Povuci dolje za osvježiti…</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutak…</string>
   <string name="pull_to_refresh_release_label">Otpusti za osvježiti…</string>
-  <string name="push_message_switch">Push poruka</string>
-  <string name="push_message_tips">Uključi za dobivanje push poruka</string>
+  <string name="push_message_switch">Push obavijest</string>
+  <string name="push_message_tips">Uključi za dobivanje push obavijesti</string>
   <string name="pw_category">Kategorije</string>
-  <string name="pw_click_channel_scrol_to_top">Dodirnimopet za vraćanje na vrh</string>
+  <string name="pw_click_channel_scrol_to_top">Dodirni opet za vraćanje na vrh</string>
   <string name="pw_comment_back">Natrag</string>
   <string name="pw_comment_detail">Detalji</string>
   <string name="pw_comment_let_me_comment">Imam komentar…</string>
@@ -409,7 +409,6 @@ Pogledajte ostale videozapise!"</string>
   <string name="search_menu_title">Traži</string>
   <string name="selectall">Odaberi sve</string>
   <string name="selectnull">Poništi odabir</string>
-  <string name="sender_id">XXXXX</string>
   <string name="session_create_error">Poslužitelj je vratio SESSION CREATE ERROR kôd, molimo kontaktirajte SDK programere!</string>
   <string name="storage_permission_denied">Dopuštenje za pristup pohrani je odbijeno</string>
   <string name="t_downloading">Preuzimanje:</string>

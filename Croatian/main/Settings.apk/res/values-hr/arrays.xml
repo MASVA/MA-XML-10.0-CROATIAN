@@ -844,6 +844,15 @@
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
         <item>Ponovno pokrenuti uređaj za primjenu ove postavke?</item>
     </string-array>
+	<string-array name="ai_key_item_name">
+        <item>Razgovor sa Google pomoćnikom</item>
+        <item>Otvori stražnju kameru</item>
+        <item>Otvori prednju kameru</item>
+        <item>Open prethodnu aplikaciju</item>
+        <item>Uključi bljeskalicu</item>
+        <item>Uključi način čitanja</item>
+        <item>Nište</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Svaki dan</item>
         <item>Vikend</item>

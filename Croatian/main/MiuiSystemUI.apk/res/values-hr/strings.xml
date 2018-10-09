@@ -1167,6 +1167,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="no_tiles_add">Nema pločica za dodavanje</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava Podijeljeni zaslon"</string>
+  <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notice_audition">Zvukovi prirode</string>
   <string name="notification_all_categories">Sve kategorije</string>
   <string name="notification_app_settings">Prilagodite: %1$s</string>
@@ -1573,6 +1574,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="snooze_option_30_min">30 minuta</string>
   <string name="snooze_undo">PONIŠTI</string>
   <string name="snoozed_for_time">Odgođeno na %1$s</string>
+  <string name="sos_status_bar_summary">Klikni za izlaz</string>
+  <string name="sos_status_bar_title">SOS</string>
   <string name="speed_bump_explanation">Manje hitne obavijesti pri dnu</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
