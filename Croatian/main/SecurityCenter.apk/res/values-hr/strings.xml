@@ -1571,7 +1571,7 @@ podatkovnu vezu"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
   <string name="mian_page_primary_txt">Međunarodni roaming</string>
-  <string name="midrop_post_notification_contentText">"Pokušajte Mi Drop. Brz je i bez oglasa."</string>
+  <string name="midrop_post_notification_contentText">Prenosite datoteke brzinama do 50 Mbps sa Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Trebate prenijeti datoteke?</string>
   <string name="mixed_need_to_confirm">Unesite ponovno za potvrdu</string>
   <string name="mixed_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
