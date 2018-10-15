@@ -170,6 +170,7 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
 
 1.Dodirnite tipku za kalibraciju u nastavku da biste započeli OIS kalibraciju.
 2.Dobiti ćete oznaku da je kalibriranje OIS-a bilo uspješno"</string>
+  <string name="cit_camera_fast_check_title">Brzo testiranje kamere</string>
   <string name="cit_camera_sdcard_error">"Ne mogu snimiti fotografiju. SD kartica je puna."</string>
   <string name="cit_charger_plugin_check_summary">Kada je USB punjač priključen tekst \"Punjenje putem USB/AC\" bi trebao biti prikazan u nastavku.</string>
   <string name="cit_charger_plugin_check_title">Punjač (priključite)</string>

@@ -11,6 +11,8 @@
   <string name="accessibility_beauty_panel_open">Izbornik Uljepšaj je otvoren</string>
   <string name="accessibility_beauty_switch_closed">Uljepšaj je isključeno</string>
   <string name="accessibility_beauty_switch_open">Uljepšaj je uključeno</string>
+  <string name="accessibility_camera_lighting_close_panel">Izbornik osvjetljenja je zatvoren</string>
+  <string name="accessibility_camera_lighting_open_panel">Izbornik osvjetljenja je otvoren</string>
   <string name="accessibility_bokeh_normal">Zamagljenje pozadine prednje kamere je isključeno</string>
   <string name="accessibility_bokeh_on">Zamagljenje pozadine prednje kamere je uključeno</string>
   <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
@@ -323,6 +325,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="lighting_pattern_leaf">Lišće</string>
   <string name="lighting_pattern_movie">Film</string>
   <string name="lighting_pattern_nature">Prirodno</string>
+  <string name="lighting_pattern_null">Nula</string>
   <string name="lighting_pattern_rainbow">Duga</string>
   <string name="lighting_pattern_shutter">Zavjese</string>
   <string name="lighting_pattern_stage">Pozornica</string>

@@ -96,13 +96,13 @@
   <string name="bluetooth_battery_level">%1$s baterije</string>
   <string name="bluetooth_connected">Povezano: %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija): %1$s</string>
+  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija)</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija), baterija %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Povezano (bez telefona): %1$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona i medija): %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona i medija)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona i medija), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama): %1$s</string>
+  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama)</string>
   <string name="bluetooth_connecting">Povezivanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogući apsolutnu glasnoću</string>
   <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su, primjerice, neprihvatljiva glasnoća ili nepostojanje kontrole.</string>
