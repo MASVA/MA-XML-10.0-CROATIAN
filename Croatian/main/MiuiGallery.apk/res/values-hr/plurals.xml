@@ -208,6 +208,10 @@
          <item quantity="other">"Ne mogu preuzeti %1$d datoteka, provjerite mrežnu vezu i pokušajte ponovno"</item>
          <item quantity="one">"Ne mogu preuzeti %1$d datoteku, provjerite mrežnu vezu i pokušajte ponovno"</item>
      </plurals>
+	 <plurals name="creation_max_image">
+        <item quantity="other">Odaberite do %d fotografija</item>
+        <item quantity="one">Odaberite %d fotografiju</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Odabrano stavki %d</item>
         <item quantity="one">Odabrana %d stavka</item>

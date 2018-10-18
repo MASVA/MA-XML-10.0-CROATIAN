@@ -11,6 +11,11 @@
         <item>Dječak</item>
         <item>Djevojčica</item>
     </string-array>
+	 <string-array name="menu_copy_or_move">
+        <item>Premjesti</item>
+        <item>Kopiraj</item>
+        <item>Odustani</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Tata</item>
         <item>Mama</item>

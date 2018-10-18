@@ -1324,6 +1324,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="calls_title">Pozivi</string>
   <string name="camera_double_tap_power_gesture_desc">Brzo otvaranje fotoaparata bez otključavanja zaslona</string>
   <string name="camera_double_tap_power_gesture_title">Pritisnite uključ. dvaput za fotoaparat</string>
+  <string name="camera_front">Prednja %s</string>
   <string name="camera_gesture_desc">Otvaranje aplikacije fotoaparata obrtanjem ručnog zgloba dvaput</string>
   <string name="camera_gesture_title">Dvostruko obrtanje za fotoaparat</string>
   <string name="camera_key_action_app_title">Otvori aplikaciju</string>
@@ -1339,6 +1340,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="camera_key_action_title">Mi Tipka</string>
   <string name="camera_key_action_toggle_title">Promjena stanja okidača</string>
   <string name="camera_laser_sensor_switch">Laserski senzor fotoaparata</string>
+  <string name="camera_rear">Stražnja %s</string>
   <string name="camera_summary">Postavke kamere (ne uključujući fotografije)</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_action">Odustani</string>
@@ -1952,6 +1954,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_available_memory">Dostupna pohrana</string>
   <string name="device_battery">Baterija</string>
   <string name="device_build_id">Verzija</string>
+  <string name="device_camera">Kamera</string>
   <string name="device_cellular_network">Pretraživanje mobilnih mreža</string>
   <string name="device_complete_parameters">Dovršeno</string>
   <string name="device_cpu">CPU</string>

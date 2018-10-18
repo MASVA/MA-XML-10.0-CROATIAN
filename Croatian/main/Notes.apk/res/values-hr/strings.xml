@@ -36,6 +36,10 @@
   <string name="cancel_alarm_description">Otkaži alarm</string>
   <string name="cloud_service_state_open_reminder">Uključite sinkr. s Mi Cloudom da sinkronizirate bilješke.</string>
   <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
+  <string name="cta_confirm_cancel">"Odustani"</string>
+  <string name="cta_confirm_ok">Dopusti</string>
+  <string name="cta_dialog_message">Aplikacija Bilješke treba dopuštenja za povezivanje s internetom, snimanje zvuka i pristup vašim kontaktima da radi normalno. Dopustiti?</string>
+  <string name="cta_dialog_title">Potrebno je dopuštenje</string>
   <string name="cta_reminder">Aplikacija Bilješke treba dopuštenja za povezivanje s internetom, snimanje zvuka i pristup vašim kontaktima da radi normalno. Dopustiti?</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
