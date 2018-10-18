@@ -443,6 +443,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="guide_rocket_type_main_title">Brz poput munje</string>
   <string name="guide_rocket_type_subtitle">Nevjerojatna brzina, glatki UI</string>
   <string name="guide_skip">Preskoči</string>
+  <string name="guide_slide_down">Klizini prema dolje</string>
+  <string name="guide_slide_up">Klizini prema gore</string>
   <string name="guide_sports_text">sport</string>
   <string name="guide_start_experience">Start</string>
   <string name="guide_tech_text">tehnologija</string>

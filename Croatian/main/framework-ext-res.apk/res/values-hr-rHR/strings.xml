@@ -119,6 +119,7 @@
   <string name="security_permission_denied_text">Pristup odbijen</string>
   <string name="security_permission_failed_text">Interna pogreška, pokušajte kasnije</string>
   <string name="security_permission_network_failed_text">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="security_permission_open_wifi_settings">Otvori postavke WLAN-a</string>
   <string name="security_permission_validate_warning">Hvala vam što nam pomažete napraviti MIUI boljim!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN i mobilni podaci uključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Unesite vaš ID Mi Računa</string>

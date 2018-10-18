@@ -881,6 +881,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
+  <string name="ultra_wide_mode">Ultra-širok kut</string>
   <string name="undo">Poništi</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Slažem se</string>
