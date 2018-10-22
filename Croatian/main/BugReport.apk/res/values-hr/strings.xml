@@ -9,16 +9,43 @@
   <string name="app_search">Traži aplikacije</string>
   <string name="btn_send">Pošalji</string>
   <string name="bugreport_dialog_not_show_again">"Ne prikazuj ponovno"</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti dnevnike s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
-  <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
+  <string name="bugreport_dump_complete_notification_title">Zapis grešaka izrađen</string>
   <string name="bugreport_dump_start_notification_summary">Traje oko nekoliko minuta.</string>
-  <string name="bugreport_dump_start_notification_title">Stvaranje izvješća grešaka…</string>
+  <string name="bugreport_dump_start_notification_title">Izrada zapisa grešaka…</string>
   <string name="bugreport_feedback_from">Šalje: %s</string>
-  <string name="bugreport_intent_chooser_title">Poijeli izvješće o pogrešci</string>
-  <string name="bugreport_notification_channel">Izvješće o pogrešci</string>
-  <string name="bugreport_tool_log_dumping_desc">Potraje oko minutu</string>
-  <string name="bugreport_tool_log_dumping_title">Izrada izvješća o pogrešci</string>
+  <string name="bugreport_intent_chooser_title">Podijeli zapis o pogrešci</string>
+  <string name="bugreport_notification_channel">Zapis o pogrešci</string>
+  <string name="bugreport_tool_log_dumping_desc">Traje oko minutu</string>
+  <string name="bugreport_tool_log_dumping_title">Izrada zapisa o pogrešci</string>
+  <string name="catch_full_log_action_cancel">Odustani</string>
+  <string name="catch_full_log_action_complete">Gotovo i pošalji</string>
+  <string name="catch_full_log_action_start">Izradi zapis</string>
+  <string name="catch_full_log_add_original_photo">Dodaj fotografiju</string>
+  <string name="catch_full_log_add_photo">Dodaj fotografiju</string>
+  <string name="catch_full_log_add_photo_dialog_content">"Ako je problem koji prijavljujete povezan s kvalitetom slike kamere, dodajte izvornu fotografiju uzorka (neobrezanu) kako biste nam pomogli pronaći problem. Želite li sada dodati fotografiju?"</string>
+  <string name="catch_full_log_dialog_confirm_text">Idi na Poč. zaslon</string>
+  <string name="catch_full_log_dialog_content">"MIUI generira zapis. To može utjecati na ukupnu produktivnost vašeg uređaja. Ako ne možete reproducirati problem koji želite prijaviti, vratite se na zapise i dodirnite \"Odustani\"."</string>
+  <string name="catch_full_log_dump_hprof_failed">"Ne mogu generirati zapis laga"</string>
+  <string name="catch_full_log_item_content_catch_direct">"Koraci:
+1. Vratite se na značajku koju želite prijaviti i reproducirajte je.
+2. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Koraci:
+1. Dodirnite \"Izradi zapis\".
+2. Vratite se na značajku koju želite prijaviti i reproducirajte je.
+3. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
+  <string name="catch_full_log_item_title_audio">Zvuk, snimanje zvuka i zvuk tijekom poziva</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Lag</string>
+  <string name="catch_full_log_item_title_gps">Usluge lociranja</string>
+  <string name="catch_full_log_item_title_sensor">Senzori</string>
+  <string name="catch_full_log_item_title_signal">Telefon, signal i mobilne mreže</string>
+  <string name="catch_full_log_item_title_wifi">WLAN i Mi Drop</string>
+  <string name="catch_full_log_notification_content">Dodirnite za povratak na zapisnike</string>
+  <string name="catch_full_log_notification_title">Izrada zapisa…</string>
+  <string name="catch_full_log_start_dump_hprof">Izrada lagging zapisa</string>
+  <string name="catch_full_log_submit_directly">Pošalji</string>
   <string name="close_feedback_main">Sakrij</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
@@ -63,14 +90,14 @@
   <string name="feedback_continue">Nastavi s pov. informacijom</string>
   <string name="feedback_delete_images">Izbriši slike</string>
   <string name="feedback_description">Opis</string>
-  <string name="feedback_description_bugreport_hint">U nekim slučajevima (…) moj telefon se loše ponaša (…).</string>
+  <string name="feedback_description_bugreport_hint">U nekim slučajevima (…) moj telefon se čudno ponaša (…).</string>
   <string name="feedback_description_hint">"Opišite problem na koji ste naišli"</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">"Želio bih da dodate novu značajku (…) jer mi treba (…)."</string>
   <string name="feedback_detail_tile">Napredak</string>
   <string name="feedback_empty_report_list">Nema još prijava</string>
   <string name="feedback_guess">Naša pretpostavka</string>
-  <string name="feedback_history_remind_login_desc">"Prijavite se sa svojim Mi Računom da biste vidjeli pojedinosti i napredak vašeg izvješća"</string>
+  <string name="feedback_history_remind_login_desc">"Prijavite se sa svojim Mi Računom da biste vidjeli pojedinosti i napredak vašeg zapisa"</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Ključ: %s</string>
   <string name="feedback_package_log_failed">"Ne mogu komprimirati zapise"</string>
@@ -78,7 +105,7 @@
   <string name="feedback_probability_label">Vjerojatnost</string>
   <string name="feedback_remind_login_btn">Prijavite se</string>
   <string name="feedback_report_remind_login_desc">"Prijavite se sa svojim Mi Računom kako bi vas naši inženjeri mogli kontaktirati. Također možete pregledati napredak vašeg izvješća \"Moja izvješća\"."</string>
-  <string name="feedback_report_remind_login_desc2">"Također možete pregledati napredak izvješća u \"Moja izvješća\"."</string>
+  <string name="feedback_report_remind_login_desc2">"Također možete pregledati napredak zapisa u \"Moji zapisi\"."</string>
   <string name="feedback_retest_label">Koraci za reproduciranje</string>
   <string name="feedback_select_images">Dodaj slike</string>
   <string name="feedback_select_modem_log">Dodaj modem zapis</string>
@@ -94,9 +121,9 @@
   <string name="feedback_select_upload_log_not_select_desc">"Niste odabrali \"Dodaj zapise\""</string>
   <string name="feedback_select_upload_log_select_desc">Odabrano \"Dodaj zapise\"</string>
   <string name="feedback_status_answered">Odgovoreno</string>
-  <string name="feedback_status_change_notification_title">"Vaš napredak izvješća je ažuriran"</string>
+  <string name="feedback_status_change_notification_title">"Vaš napredak zapisa je ažuriran"</string>
   <string name="feedback_status_collect_log_failed">"Ne mogu dobiti zapise"</string>
-  <string name="feedback_status_commit_failed_title">"Ne mogu poslati izvješće"</string>
+  <string name="feedback_status_commit_failed_title">"Ne mogu poslati zapis"</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Šaljem…</string>
   <string name="feedback_status_forum_reply">Odgovori</string>
@@ -116,10 +143,10 @@
   <string name="feedback_status_upload_log_failed">"Ne mogu učitati privitke"</string>
   <string name="feedback_submit_failed_notification_desc">Prikaži detalje</string>
   <string name="feedback_submit_failed_notification_retry">Pošalji ponovno</string>
-  <string name="feedback_submit_failed_notification_title">"Ne mogu poslati izvješće"</string>
+  <string name="feedback_submit_failed_notification_title">"Ne mogu poslati zapis"</string>
   <string name="feedback_submit_hint">Prijavite bugove svaki put naiđete na probleme kako bi nam pomogli riješiti ih što brže.</string>
-  <string name="feedback_submit_hint1">"Obavijestiti ćemo vas o napretku vašeg izvješća"</string>
-  <string name="feedback_submit_hint2">Idite u \"Moja izvješća\" za prikaz detalja</string>
+  <string name="feedback_submit_hint1">"Obavijestiti ćemo vas o napretku vašeg zapisa"</string>
+  <string name="feedback_submit_hint2">Idite u \"Moji zapisi\" za prikaz detalja</string>
   <string name="feedback_submit_hint_gone">Zatvorene poruke</string>
   <string name="feedback_submit_succ">Uspješno poslano</string>
   <string name="feedback_submit_succ_button">Dovršeno</string>
@@ -227,7 +254,7 @@
   <string name="module_google_apps">Google aplikacije</string>
   <string name="module_item_less">Sakrij</string>
   <string name="module_item_more">Više</string>
-  <string name="module_medias">Medija</string>
+  <string name="module_medias">Mediji</string>
   <string name="module_more">Više</string>
   <string name="module_network">Mreža &amp; ažuriranja</string>
   <string name="module_search">Traži</string>
@@ -252,15 +279,15 @@
   <string name="network_errortip_timeout">Isteklo je vrijeme veze, pokušajte ponovno kasnije</string>
   <string name="network_errortip_unknow">"Pokušavamo popraviti…"</string>
   <string name="network_unavailable_dialog_button_ok">U redu</string>
-  <string name="network_unavailable_dialog_content">Vaše će izvješće biti poslano kada će te imati podatkovnu vezu.</string>
+  <string name="network_unavailable_dialog_content">Vaš će zapis biti poslan kada će te imati podatkovnu vezu.</string>
   <string name="network_unavailable_dialog_title">"Ne mogu se povezati na mrežu"</string>
   <string name="non_system_app_select">Preuzete aplikacije</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Više</string>
-  <string name="packaging_dialog_content">Izrada izvješća…</string>
-  <string name="permission_granted">odobreno %1$s dopuštenja</string>
+  <string name="packaging_dialog_content">Izrada zapisa…</string>
+  <string name="permission_granted">Odobrena dopuštenja: %1$s</string>
   <string name="pic_not_exist">"Ova slika ne postoji"</string>
-  <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s izvješćima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
+  <string name="plus_one_submit_dialog_content">"Vaše povratne informacije, zajedno s zapisima grešaka i priloženim slikama, biti će poslani na MIUI Poslužitelje."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamti postavke</string>
   <string name="post_miui_bbs_failed">"Ne mogu objaviti post na MIUI Forum"</string>
   <string name="privacy_category_title">Privatnost</string>
@@ -273,7 +300,7 @@
   <string name="reply">Odgovori</string>
   <string name="reply_failed">"Ne mogu odgovoriti"</string>
   <string name="reply_successful">Uspješno odgovoreno</string>
-  <string name="report_miui">Izvješće pogreške</string>
+  <string name="report_miui">Zapis pogreške</string>
   <string name="request_empty_data">Nema podataka</string>
   <string name="save_pic">Spremi</string>
   <string name="save_pic_fail">"Ne mogu spremiti sliku, provjerite SD karticu"</string>
@@ -286,19 +313,20 @@
   <string name="select_system_app_tag">Odaberite problem</string>
   <string name="submit_dialog_cancel">"Ne slažem se"</string>
   <string name="submit_dialog_confirm">Slažem se</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima i logovima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima (ako postoje) i logovima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
-  <string name="submit_feedback_info_failed">"Ne mogu poslati izvješće"</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima i zapisima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima (ako postoje) i zapisima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_title">Pošalji zapis o pogrešci</string>
+  <string name="submit_feedback_info_failed">"Ne mogu poslati zapis"</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
   <string name="system_app_select">Ugrađene aplik.</string>
   <string name="systemui">Panel obavijesti</string>
   <string name="tab_title_chat">FAQ</string>
-  <string name="tab_title_my_reports">Moja izvješća</string>
+  <string name="tab_title_my_reports">Moji zapisi</string>
   <string name="tab_title_preferences">Postavke</string>
   <string name="tab_title_report">Pov. informacije</string>
   <string name="time_in_justnow">Upravo sada</string>
   <string name="title_answer_feedback_main">Pronašli smo odgovore!</string>
+  <string name="title_catch_full_log">Zapisi</string>
   <string name="title_bbs_feedback_main">Saznajte više o Mi telefonima</string>
   <string name="title_customer_service">Služba za korisnike</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
@@ -306,14 +334,15 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Slični problemi na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
+  <string name="toast_catch_full_log_catching">Istovremeno možete generirati samo jedan zapis.</string>
   <string name="toast_description_required">Potreban je opis</string>
-  <string name="toast_feedback_collect_store">Prikupljanje izvješća…</string>
+  <string name="toast_feedback_collect_store">Prikupljanje zapisa…</string>
   <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
   <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
-  <string name="toast_feedback_submitted">Izvješće je poslano</string>
+  <string name="toast_feedback_submitted">Zapis je poslan</string>
   <string name="toast_feedback_submitting">Slanje…</string>
   <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
-  <string name="toast_fill_brackets">Vašem izvješću nedostaju neke informacije</string>
+  <string name="toast_fill_brackets">Vašem Zapisu nedostaju neke informacije</string>
   <string name="toast_loading_app_id">Dobivanje informacija…</string>
   <string name="toast_log_not_exists">"Traženi zapis ne postoji ii je izbrisan"</string>
   <string name="toast_log_too_large">"Ne mogu učitati. Datoteka je prevelika."</string>
@@ -323,15 +352,15 @@
   <string name="toast_pic_not_exists">Predmemorirani image je izbrisan</string>
   <string name="toast_post_deleted">"Ova tema ne postoji, izbrisana je ili uređena."</string>
   <string name="toast_problem_class_required">Odaberite kategoriju</string>
-  <string name="toast_report_copied_to_clipboard">Izvješće kopirano u međuspremnik</string>
-  <string name="toast_report_sent_failed">"Ne mogu poslati izvješće"</string>
-  <string name="toast_report_sent_succeed">Izvješće je poslano</string>
+  <string name="toast_report_copied_to_clipboard">Zapis kopiran u međuspremnik</string>
+  <string name="toast_report_sent_failed">"Ne mogu poslati zapis"</string>
+  <string name="toast_report_sent_succeed">Zapis je poslan</string>
   <string name="toast_screenshot_too_large">"Ne mogu učitati datoteke veće od 100MB."</string>
   <string name="toast_third_packagename_required">Unesi naziv aplikacije</string>
   <string name="toast_title_required">Opišite svoj problem</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Pokušajte ponovno</string>
-  <string name="upload_log_failed">"Ne mogu poslati izvješća"</string>
+  <string name="upload_log_failed">"Ne mogu poslati zapis"</string>
   <string name="warning_field_empty">Unesi %1$s</string>
   <string name="warning_field_invalid">Odaberite valjani %1$s</string>
 </resources>

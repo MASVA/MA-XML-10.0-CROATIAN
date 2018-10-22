@@ -4,6 +4,10 @@
         <item quantity="other">%d komentara</item>
         <item quantity="one">%d komentar</item>
     </plurals>
+	<plurals name="theme_designer_products_count">
+        <item quantity="other">Izradio %1$s tema</item>
+        <item quantity="one">%1$s tema</item>
+    </plurals>
     <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">Ažuriranja dostupna za teme: %1$d</item>
         <item quantity="one">Ažuriranje dostupno za %1$d temu</item>

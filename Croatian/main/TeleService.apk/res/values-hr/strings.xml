@@ -2313,7 +2313,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="tty_mode_option_title">Način TTY</string>
   <string name="turn_off_dual_4g_failed">"Ne mogu isključiti Dvostruki 4G."</string>
   <string name="turn_on_dual_4g_failed">"Ne mogu uključiti Dvostruki 4G."</string>
-  <string name="turnover_mute_summary">"Kada je telefon na vodoravnoj površini sa zaslonom okrenutim prema gore, preokrenite za utišavanje zvona."</string>
+  <string name="turnover_mute_summary">"Kada je telefon na vodoravnoj površini sa zaslonom okrenutim prema gore, preokrenite ga da biste utišali zvono, isključili vibraciju i svjetlo obavijesti."</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
   <string name="undefined">Ništa</string>

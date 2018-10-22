@@ -1716,6 +1716,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="dangerous_option">Razvojne opcije visokog rizika</string>
   <string name="dangerous_option_hint">%1$s su omogućene. Dodirnite za promjenu postavki.</string>
   <string name="dangerous_option_hint_title">Razvojne opcije visokog rizika omogućene</string>
+  <string name="dangerous_option_switch_title">Obavijesti o visokorizičnim značajkama</string>
   <string name="dark_ui_mode">Noćni način rada</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Sažmi</string>
@@ -2051,7 +2052,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dirac_mode_piston_100">Mi In-Ear</string>
   <string name="dirac_mode_piston_2">Mi piston-2</string>
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
-  <string name="direct_boot_unaware_dialog_message">"Napomena: nakon ponovnog pokretanja možete koristiti ovu tipkovnicu samo ako otključate uređaj."</string>
+  <string name="direct_boot_unaware_dialog_message">"Napomena: Nakon ponovnog pokretanja aplikacija se ne može pokrenuti sve dok ne otključate telefon."</string>
   <string name="directory_access">Pristup direktoriju</string>
   <string name="disable_continue">Onemogući</string>
   <string name="disable_data_string">Onemogući podatkovnu vezu</string>
@@ -6083,13 +6084,15 @@ Možda je PIN netočan."</string>
   <string name="skip_lock_screen_confirm_msg">Obavijesti, kontrole glazbe i prečaci neće se prikazati na Zaklj. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slider_app_open">Otvori aplikaciju</string>
-  <string name="slider_app_open_name">Otvori</string>
+  <string name="slider_app_open_name">Otvori %1$s</string>
   <string name="slider_app_open_none">Ništa</string>
   <string name="slider_button_title">Promjeni</string>
   <string name="slider_choose_app">Odaberi aplikaciju</string>
   <string name="slider_game_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom igranja igre</string>
   <string name="slider_game_tool_tilte">Prečaci igara</string>
-  <string name="slider_global_summary">Povucite zaslon prema dolje da izvršite prilagođenu radnju</string>
+  <string name="slider_global_summary_app">Povucite zaslon prema dolje da pokrenete aplikaciju</string>
+  <string name="slider_global_summary_drawer">Povucite zaslon prema dolje da otvorite Alate</string>
+  <string name="slider_global_summary_selfie">Povucite zaslon prema dolje da snimite selfie</string>
   <string name="slider_global_title">Prečaci klizača</string>
   <string name="slider_high_grade_summary">Povucite zaslon prema dolje da izvršite prilagođenu radnju u određenim okolnostima</string>
   <string name="slider_high_grade_title">Dodatne postavke klizača</string>
@@ -6102,6 +6105,7 @@ Možda je PIN netočan."</string>
   <string name="slider_title_zippo">ZIPPO</string>
   <string name="slider_tool_drawer">Otvori alate</string>
   <string name="slider_tool_none">Ništa</string>
+  <string name="slider_tool_none_summary">Povucite zaslon prema dolje, bez radnje</string>
   <string name="slider_video_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom gledanja videozapisa</string>
   <string name="slider_video_tool_title">Prečaci videozapisa</string>
   <string name="slider_vocie_click_too_often">Prebrzo! Pričekajte trenutak ili dva i pokušajte ponovno.</string>

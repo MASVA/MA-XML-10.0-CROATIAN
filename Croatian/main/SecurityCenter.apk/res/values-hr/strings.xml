@@ -87,6 +87,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_virus_settings">Postavke</string>
   <string name="activity_title_white_list">Iznimke</string>
   <string name="ad_btn_default_text">Saznajte više</string>
+  <string name="ad_split_screen_title">Promjenite na način rada preko cijelog zaslona da otključate</string>
   <string name="ad_update_time">Zadnje ažuriranje %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje nepoznato</string>
   <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
@@ -1122,7 +1123,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebooster_main_activity_back">Natrag</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
-  <string name="gamebox_app_not_find">Instalirajte najprije apliakciju.</string>
+  <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
   <string name="gamebox_type_close">"Ne prikazuj"</string>
   <string name="gamebox_type_float">Prečac popravljen</string>
