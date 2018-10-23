@@ -8,7 +8,7 @@
   <string name="add_attachment">Dodaj privitak</string>
   <string name="add_contact">Kontakt</string>
   <string name="add_festival">Brzi odogovori</string>
-  <string name="add_miui_contact">Mi Card</string>
+  <string name="add_miui_contact">Kontakt</string>
   <string name="add_music">Dodaj glazbu</string>
   <string name="add_nickname">Nadimak</string>
   <string name="add_nickname_title">Uređivanje nadimaka</string>
@@ -152,7 +152,6 @@
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
-  <string name="delivery_toast_body_more">Poruka primljena od %1$s, i %2$d drugih osoba</string>
   <string name="dialog_message_fake_cell_detect_error">Ispraviti informacije o ovoj poruci? Da biste to učinili, MIUI treba učitati broj telefona (%1$s), sadržaj poruke i informacije o najbližoj lokaciji na svoje poslužitelje.</string>
   <string name="dialog_message_mx">Mi Poruka vam omogućuje slanje poruka drugim MIUI korisnicima bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka.</string>
   <string name="dialog_message_mx_rcs">Mi Poruka vam omogućuje slanje poruka drugim MIUI uređajima i korisnicima China Mobile bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka. Slažete se?</string>

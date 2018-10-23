@@ -6090,8 +6090,8 @@ Možda je PIN netočan."</string>
   <string name="slider_choose_app">Odaberi aplikaciju</string>
   <string name="slider_game_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom igranja igre</string>
   <string name="slider_game_tool_tilte">Prečaci igara</string>
-  <string name="slider_global_summary_app">Povucite zaslon prema dolje da pokrenete aplikaciju</string>
-  <string name="slider_global_summary_drawer">Povucite zaslon prema dolje da otvorite Alate</string>
+  <string name="slider_global_summary_app">Povucite zaslon prema dolje da otvorite aplikaciju</string>
+  <string name="slider_global_summary_drawer">Povucite zaslon prema dolje da vidite dostupne prečace</string>
   <string name="slider_global_summary_selfie">Povucite zaslon prema dolje da snimite selfie</string>
   <string name="slider_global_title">Prečaci klizača</string>
   <string name="slider_high_grade_summary">Povucite zaslon prema dolje da izvršite prilagođenu radnju u određenim okolnostima</string>
@@ -6105,7 +6105,7 @@ Možda je PIN netočan."</string>
   <string name="slider_title_zippo">ZIPPO</string>
   <string name="slider_tool_drawer">Otvori alate</string>
   <string name="slider_tool_none">Ništa</string>
-  <string name="slider_tool_none_summary">Povucite zaslon prema dolje, bez radnje</string>
+  <string name="slider_tool_none_summary">Nema dodijeljenih prečaca</string>
   <string name="slider_video_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom gledanja videozapisa</string>
   <string name="slider_video_tool_title">Prečaci videozapisa</string>
   <string name="slider_vocie_click_too_often">Prebrzo! Pričekajte trenutak ili dva i pokušajte ponovno.</string>
@@ -6253,6 +6253,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Prečac Panela obavijesti</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_custom">Vlastiti zvuk</string>
+  <string name="status_bar_settings_notification_style">Stil obavijesti</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk i vibracija</string>
   <string name="status_bar_settings_notification_use_app_icon">Koristi ikonu aplikacije za obavijesti</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>

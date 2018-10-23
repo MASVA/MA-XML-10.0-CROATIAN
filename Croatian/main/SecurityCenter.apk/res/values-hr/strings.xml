@@ -1679,7 +1679,6 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="note_keyword_none">Nema ključnih riječi</string>
   <string name="note_list_none">Lista je prazna</string>
   <string name="note_sms_none">Nema poruka</string>
-  <string name="notification_battery_consume_abnormal_summary">Ispražnjeno %2$s baterije tijekom zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
