@@ -330,6 +330,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Želite izraditi widget i dozvoliti pristup?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Uvijek dopusti aplikaciji %1$s izradu widgeta i pristupanje njihovim podacima</string>
   <string name="allow_data_usage_title">Podatkovni promet u roamingu</string>
+  <string name="allow_device_id_access">Aplikacije s identifikacijom uređaja</string>
   <string name="allow_interruption">Dopusti ometanja</string>
   <string name="allow_interruption_summary">Aplikacija može emitirati zvuk, vibrirati i/ili prikazivati obavijesti na zaslonu</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
@@ -1968,6 +1969,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_display_layout_title">Značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
+  <string name="device_id">Identifikacija uređaja</string>
   <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>
   <string name="device_info_not_available">Nije dostupno</string>
@@ -4782,6 +4784,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="pref_manage_bg_network">"Upravljanje pozadinskom mrežnom vezom aplikacija"</string>
   <string name="pref_new_installed_preconfig_title">"Zadane postavke novih aplikacija"</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
+  <string name="pref_show_lunar_calendar_title">Prikaži tradicionalni kineski kalendar na Zaklj. zaslonu</string>
   <string name="pref_title_lang_selection">Postavke jezika</string>
   <string name="pref_title_network_details">Pojedinosti o mreži</string>
   <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
@@ -5206,6 +5209,11 @@ UT sučelje: %5$s"</string>
   <string name="restore_data">Odaberite stavke za vraćanje</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
   <string name="restore_default_apn_completed">Poništavanje zadanih postavki APN-a dovršeno.</string>
+  <string name="restore_device_id_content">Resetiraj personalizirane preporuke</string>
+  <string name="restore_device_id_title">Resetiraj identifikaciju uređaja</string>
+  <string name="restore_dialog_content">Resetiranje identifikacije uređaja resetirati će vašu prilagođenu preporuku.</string>
+  <string name="restore_dialog_positive">Vrati</string>
+  <string name="restore_dialog_title">Podsjetnik</string>
   <string name="restore_failed">"Ne mogu vratiti"</string>
   <string name="restore_finished">Uspješno vraćeno</string>
   <string name="restore_is_running">Vraćanje uređaja</string>

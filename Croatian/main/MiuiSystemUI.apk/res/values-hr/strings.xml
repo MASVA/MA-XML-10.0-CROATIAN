@@ -1706,6 +1706,7 @@ Povucite dolje za zaključavanje"</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje lica</string>
   <string name="structure_face_unlock_not_same_person">"Morate sami izvršiti sve korake. Nemojte mijenjati mjesta s nikim."</string>
   <string name="structure_face_unlock_really_person">"Izgleda da ste zamijenili lice s nekim objektom."</string>
+  <string name="structure_face_unlock_tof_covered">"Ne mogu dodati podatke o licu. Udaljite lice malo od zaslona."</string>
   <string name="switch_bar_off">Isključi</string>
   <string name="switch_bar_on">Uključi</string>
   <string name="switch_system_user">Otvori Prvi prostor</string>
