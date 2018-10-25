@@ -3163,6 +3163,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launch_recents">Pokreni Nedavno</string>
   <string name="launch_voice_assistant">Pokreni glasovnog pomoćnika</string>
   <string name="launch_wifi_text">Prikaz pojedinosti</string>
+  <string name="launcher_icon">Ikone</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
   <string name="launcher_title">Poč. zaslon &amp; Nedavno</string>
@@ -4405,6 +4406,8 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="page_layout_31">Clark Kent</string>
   <string name="page_layout_32">Trg. Play</string>
   <string name="page_layout_33">Google</string>
+  <string name="page_layout_34">Telefon</string>
+  <string name="page_layout_35">Bilješke</string>
   <string name="page_layout_4">Glazba</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Aplikacije</string>
@@ -8248,6 +8251,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="wizard_back">Natrag</string>
   <string name="wizard_finish">Završi</string>
   <string name="wizard_next">Dalje</string>
+  <string name="words_title">Tekst</string>
   <string name="wlan_to_cellular_hint_title">WLAN-&gt;Mobilni savjet</string>
   <string name="work_alarm_ringtone_title">Zadani zvuk radnog alarma</string>
   <string name="work_mode_label">Radni profil</string>
