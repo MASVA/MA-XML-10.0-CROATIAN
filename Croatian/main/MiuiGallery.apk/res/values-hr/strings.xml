@@ -822,6 +822,7 @@ za fotografije"</string>
   <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_set_contact_photo">Postavi za sliku kontakta</string>
+  <string name="operation_set_slide_wallpaper">Postavi kao slideshow pozadinu</string>
   <string name="operation_set_wallpaper">Postavi za sliku pozadine</string>
   <string name="operation_share">Podijeli</string>
   <string name="operation_show_in_photos_tab">Prikaži u kartici Fotografije</string>
@@ -984,6 +985,7 @@ za fotografije"</string>
   <string name="picker_mobile_data_video">"Ne mogu preuzeti videozapise putem mob. podataka, preskočeno %d."</string>
   <string name="picker_no_network_message">Povežite se na mrežu za preuzimanje</string>
   <string name="picker_origin_need_download">"%1$d odabranih fotografija nije na uređaju (%2$dMB). Preuzeti ih putem mob. podataka?"</string>
+  <string name="picker_origin_request_progress_fail">"Ne mogu preuzeti izvornu sliku zbog mrežne pogreške."</string>
   <string name="picker_origin_request_progress_message">Priprema izvornih datoteka (%1$d/%2$d)…</string>
   <string name="picker_title_format">Odaberite %1$d do %2$d fotografija</string>
   <string name="picker_title_selection_format">Odabrano fotografija: %d</string>
@@ -1192,6 +1194,8 @@ za fotografije"</string>
   <string name="send_too_many_files_error">"Mogu poslati najviše %d stavki odjednom"</string>
   <string name="sepia">Sepija</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu Zaklj. zaslona</string>
+  <string name="set_as_slide_wallpaper_description">Ova slika je minijatura, preuzeti original?</string>
+  <string name="set_as_slide_wallpaper_title">Postavi za slideshow sliku pozadine</string>
   <string name="set_as_wallpaper_description">Ova slika je minijatura, preuzeti original?</string>
   <string name="set_as_wallpaper_title">Postavi za sliku pozadine</string>
   <string name="set_face_group_toast_msg_new_user">Držite fotografiju osobe za spajanje ili ignoriranje te osobe</string>

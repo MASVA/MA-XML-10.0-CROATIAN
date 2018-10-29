@@ -1243,6 +1243,8 @@ Audio"</string>
   <string name="bootloader_status_unlocked">Otključan</string>
   <string name="bootloader_status_unlocked_info">Ovaj uređaj je otključan</string>
   <string name="bootloader_summary">Flashajte uređaj putem USB-a</string>
+  <string name="bootloader_tips">"Nakon što dodate svoj Mi Račun, nemojte se odjaviti, napravite vraćanje na tvorničke postavke ili izbrišite podatke aplikacije sustava. Ako učinite nešto od gore navedenog, ponovno dodajte svoj račun ili nećete moći otključati uređaj."</string>
+  <string name="bootloader_tips_ok">Razumijem</string>
   <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Boja LED-a</string>
   <string name="breathing_light_color_summary">Boja LED-a kod primanja nove obavijesti</string>

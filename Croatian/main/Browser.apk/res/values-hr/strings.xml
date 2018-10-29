@@ -426,6 +426,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="google_bookmarks">Google</string>
   <string name="green_kid_block_request">Pristup ovoj web stranici je ograničen.</string>
   <string name="guide_chosen_type_main_title">Recite nam što vam se sviđa</string>
+  <string name="guide_chosen_type_main_title_behind">što vam se sviđa</string>
+  <string name="guide_chosen_type_main_title_front">Recite nam</string>
   <string name="guide_chosen_type_subtitle">Označite svoje interese kako biste dobili relevantne preporuke</string>
   <string name="guide_entertainment_text">zabava</string>
   <string name="guide_fashion_text">moda</string>
