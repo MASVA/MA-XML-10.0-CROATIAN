@@ -40,6 +40,14 @@
         <item quantity="other">Još %1$d hr %2$d min. do pune baterije</item>
         <item quantity="one">Još %1$d hr %2$d min. do pune baterije</item>
      </plurals>
+	 <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Potrebno je unijeti zaporku nakon %d h neaktivnosti</item>
+        <item quantity="one">Potrebno je unijeti zaporku nakon %d h neaktivnosti</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Potrebno je iscrtati uzorak nakon %d h neaktivnosti</item>
+        <item quantity="one">Potrebno je iscrtati uzorak nakon %d h neaktivnosti</item>
+    </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Preostalo još %d sati</item>
         <item quantity="one">Preostao još %d sat</item>
