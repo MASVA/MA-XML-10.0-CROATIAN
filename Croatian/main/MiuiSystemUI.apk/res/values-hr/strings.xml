@@ -304,7 +304,7 @@
   <string name="battery_info_status_charging_lower">punjenje</string>
   <string name="battery_info_status_discharging">Ne puni se</string>
   <string name="battery_info_status_full">Puna</string>
-  <string name="battery_info_status_not_charging">"Uključeno, trenutno se ne može puniti"</string>
+  <string name="battery_info_status_not_charging">"Priključeno, trenutno se ne može puniti"</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
   <string name="battery_low_percent_format_saver_started">Preostalo %s. Uključena je štednja baterije.</string>
