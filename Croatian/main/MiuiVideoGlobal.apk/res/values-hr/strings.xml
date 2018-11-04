@@ -36,6 +36,7 @@
   <string name="cast_casting_to_device">Emitiranje na %1$s</string>
   <string name="cast_closed_captions">Zatvoreni naslovi</string>
   <string name="cast_closed_captions_unavailable">Zatvoreni naslovi nisu dostupni</string>
+  <string name="cast_connecting_to_device">Povezivanje na %1$s</string>
   <string name="cast_disconnect">Veza prekinuta</string>
   <string name="cast_expanded_controller_ad_image_description">Prikazuje se slika dok prijamnik reproducira oglas</string>
   <string name="cast_expanded_controller_ad_in_progress">Oglas u tijeku…</string>
@@ -43,12 +44,14 @@
   <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
   <string name="cast_expanded_controller_loading">Učitavanje…</string>
   <string name="cast_expanded_controller_skip_ad_label">Preskoči</string>
+  <string name="cast_expanded_controller_skip_ad_text">Možete preskočiti oglas za %1$d…</string>
   <string name="cast_forward">Ubrzaj</string>
   <string name="cast_forward_10">Ubrzaj 10 sek.</string>
   <string name="cast_forward_30">Ubrzaj 30 sek.</string>
   <string name="cast_mute">Utišaj</string>
   <string name="cast_notification_connected_message">Povezan na %1$s</string>
   <string name="cast_notification_connecting_message">Povezivanje na %1$s</string>
+  <string name="cast_notification_default_channel_name">Emitiraj</string>
   <string name="cast_notification_disconnect">Veza prekinuta</string>
   <string name="cast_pause">Pauza</string>
   <string name="cast_play">Reproduciraj</string>
@@ -68,6 +71,8 @@
   <string name="cast_tracks_chooser_dialog_ok">U redu</string>
   <string name="cast_tracks_chooser_dialog_subtitles">Titlovi</string>
   <string name="cast_unmute">Uključi zvuk</string>
+  <string name="click_to_reload_more">Dodirni za učitati više</string>
+  <string name="click_to_retry">Pokušaj ponovo</string>
   <string name="com_permission_desc">"Mi Video ne može pristupiti videozapisima na vašem uređaju. Omogućite pristup u Postavkama."</string>
   <string name="com_permission_title">Potrebno je dopuštenje</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
@@ -76,6 +81,7 @@
   <string name="common_google_play_services_install_button">Instaliraj</string>
   <string name="common_google_play_services_install_text">"%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu."</string>
   <string name="common_google_play_services_install_title">Preuzmi usluge za Google Play</string>
+  <string name="common_google_play_services_notification_channel_name">Dostupnost usluge Google Play</string>
   <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama za Google Play. Pokušajte ponovno.</string>
   <string name="common_google_play_services_unsupported_text">"%1$s radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču."</string>
@@ -92,6 +98,7 @@
   <string name="dialog_privacy_title">Autorizacija</string>
   <string name="dialog_revoke_privacy_info_new2">Nakon opoziva autorizacije, aplikacija će zaustaviti prikupljanje podataka, a svi povezani podaci bit će izbrisani s naših poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Opozvati autorizaciju?</string>
   <string name="dialog_revoke_privacy_title">Opoziv autorizacije</string>
+  <string name="do_not_show_this_again">Ne prikazuj ponovno</string>
   <string name="enable_background_audio">Reproduciraj u pozadini</string>
   <string name="error_drm_not_supported">Zaštićeni sadržaj nije podržan na API razinama ispod 18</string>
   <string name="error_drm_unknown">Došlo je do nepoznate DRM pogreške</string>
@@ -116,6 +123,7 @@
   <string name="exo_controls_rewind_description">Unatrag</string>
   <string name="exo_controls_stop_description">Stop</string>
   <string name="explore_On">Istražite</string>
+  <string name="explore_on_mi_video">Pronađite više u Mi Video</string>
   <string name="finish">Done</string>
   <string name="for_you">Za vas</string>
   <string name="fw_loading">Samo trenutak…</string>
@@ -131,12 +139,13 @@
   <string name="logging_normal">Normalno</string>
   <string name="logging_verbose">Verbose</string>
   <string name="login">Prijava</string>
-  <string name="lp_base_folder">SD kartica</string>
-  <string name="do_not_show_this_again">Ne prikazuj ponovno</string>
   <string name="lp_advance_sound">Poboljšanje zvuka</string>
+  <string name="lp_base_folder">SD kartica</string>
   <string name="lp_brightness">Jačina svjetline</string>
   <string name="lp_fullscreen">Cijeli zaslon</string>
   <string name="lp_setting">Postavke</string>
+  <string name="lp_speed_title">Brzina reprodukcije</string>
+  <string name="lp_speed_toast">Brzina reprodukcije %sX</string>
   <string name="lp_videoView_error_button">Razumijem</string>
   <string name="lp_videoView_error_text_unknown">Ne mogu reproducirati ovaj videozapis.</string>
   <string name="lp_videoView_error_title">Ne mogu reproducirati</string>
@@ -264,6 +273,7 @@
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
   <string name="need_update_app">Ažuriraj Mi Video da biste upotrijebili sve njegove značajke</string>
+  <string name="network_connect_info">"Ne mogu se povezati na mrežu.. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="network_failed">"Ne mogu se povezati na mrežu"</string>
   <string name="next">Dalje</string>
   <string name="no_recommend_data">Nema preporučenih videozapisa</string>
@@ -307,6 +317,7 @@
   <string name="ovp_home_item_camera">Galerija</string>
   <string name="ovp_home_item_download">Preuzimanja</string>
   <string name="ovp_home_item_folder">Datoteke</string>
+  <string name="ovp_home_no_data_callback">"Ne mogu učitati podatke. Povucite prema dolje da biste osvježili."</string>
   <string name="ovp_home_online_content_title">Online</string>
   <string name="ovp_info_video_loading">Samo trenutak…</string>
   <string name="ovp_load_playinfo_failure">"Ne mogu dobiti informacije"</string>
@@ -402,6 +413,7 @@ Pogledajte ostale videozapise!"</string>
   <string name="s4">Odbij</string>
   <string name="s5">Izrad događaj kalendara</string>
   <string name="s6">Dopustiti oglasu izradu događaja u Kalendar?</string>
+  <string name="s7">Test Ad</string>
   <string name="save">Spremi</string>
   <string name="screenrecord_cancel">Problemi s kompatibilnošću</string>
   <string name="screenrecord_nosupport_record">"Snimač zaslona trenutačno nije podržan na ovom uređaju."</string>
@@ -410,7 +422,9 @@ Pogledajte ostale videozapise!"</string>
   <string name="selectall">Odaberi sve</string>
   <string name="selectnull">Poništi odabir</string>
   <string name="session_create_error">Poslužitelj je vratio SESSION CREATE ERROR kôd, molimo kontaktirajte SDK programere!</string>
+  <string name="share">Podijeli</string>
   <string name="storage_permission_denied">Dopuštenje za pristup pohrani je odbijeno</string>
+  <string name="switch_ratio_pause">Brzina reprodukcije je nestabilna. Vraćanje na zadanu brzinu…</string>
   <string name="t_downloading">Preuzimanje:</string>
   <string name="t_exit_app">Dodirni opet za izlaz.</string>
   <string name="t_lv_check_delete_history">Odaberite stavke za brisanje</string>

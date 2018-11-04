@@ -86,6 +86,8 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Uljepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
+  <string name="beauty_mode_reset_toast">Uklonjeni su efekti remodeliranja</string>
+  <string name="beauty_reset">Resetiraj</string>
   <string name="bg_replacement_message">"Postavite uređaj na stabilnu površinu,
 i na trenutak izađite iz pregleda"</string>
   <string name="bokeh_use_hint">Efekat dubine</string>
@@ -113,6 +115,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="capture_back_pressed_hint">Dodirnite ponovno za izlaz</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zatvori</string>
+  <string name="close_back_flash_toast">"Vaš je uređaj pregrijan. Ne mogu koristiti bljeskalicu."</string>
+  <string name="close_front_flash_toast">"Vaš je uređaj pregrijan. Ne mogu koristiti bljeskalicu."</string>
   <string name="cloud_album_details">Detalji Cloud albuma:</string>
   <string name="color_effect_entry_berry">Voće</string>
   <string name="color_effect_entry_blackwhite">B&amp;W</string>
@@ -763,6 +767,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
+  <string name="pref_video_quality_summary">4K videozapis ne može biti podržavan u 120FPS načinu rada </string>
   <string name="pref_video_quality_title">Kvaliteta videozapisa</string>
   <string name="pref_video_slow_speed_title_simple_mode">Brzo kretanje</string>
   <string name="pref_video_speed_entry_fast">Brzo</string>
@@ -862,6 +867,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="sticker_tab1">Slatko</string>
   <string name="sticker_tab2">Smiješno</string>
   <string name="success_message_import_from_account">Uvezeno</string>
+  <string name="super_night_toast">Fotografiranje, držite telefon mirno</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dodirni za ručno podešavanje ekspozicije</string>
   <string name="tap_to_focus">Dodirni za fokusiranje</string>

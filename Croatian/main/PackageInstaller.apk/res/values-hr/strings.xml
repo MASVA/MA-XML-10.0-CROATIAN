@@ -490,6 +490,7 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="out_of_space_dlg_text">"Nema dovoljno prostora za pohranu na uređaju za instaliranje %1$s."</string>
   <string name="out_of_space_dlg_title">Nema dovoljno prostora</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
+  <string name="password_toggle_content_description">Vidljivost zaporke prečaca</string>
   <string name="perm_action_accept">Dopusti</string>
   <string name="perm_action_prompt">Pitaj</string>
   <string name="perm_action_reject">Odbij</string>
@@ -734,6 +735,7 @@ Još je želite zamijeniti?Svi postojeći podaci aplikacije će biti spremljeni.
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
   <string name="wifi_fail_to_scan">"Skeniranje mreža nije moguće"</string>
+  <string name="wifi_metered_label">Mjereno</string>
   <string name="wifi_no_internet">Nema pristupa internetu.</string>
   <string name="wifi_no_internet_no_reconnect">Pristup internetu nije otkriven. Nema automatskog ponovnog povezivanja.</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>

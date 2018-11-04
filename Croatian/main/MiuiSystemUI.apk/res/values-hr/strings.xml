@@ -1022,6 +1022,7 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
   <string name="lockscreen_access_pattern_start">Uzorak započet</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Zrakoplovni način</string>
   <string name="lockscreen_charging_msg">Punjenje</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš Mi Račun kako bi otključali telefon .
@@ -1029,6 +1030,8 @@ Pokušajte ponovo za %2$d s."</string>
 Pokušajte ponovo za %d sek."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
   <string name="lockscreen_none">Ništa</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Samo hitni poziv</string>
+  <string name="lock_screen_no_sim_card_no_service">Nema usluge</string>
   <string name="lockscreen_shortcut_left">Lijevi prečac</string>
   <string name="lockscreen_shortcut_right">Desni prečac</string>
   <string name="lockscreen_sim_error_message_short">SIM kartica nije valjana.</string>
@@ -1738,6 +1741,7 @@ Telefon se može pregrijati ako:
   <string name="torch_activity_hint">Drži [ikonu] za uključivanje svjetiljke na zaklj. zaslonu</string>
   <string name="torch_activity_name">Svjetiljka</string>
   <string name="torch_closed">Svjetiljka isključena</string>
+  <string name="torch_high_temperature_warning">"Vaš je uređaj pregrijan. Ne mogu koristiti bljeskalicu."</string>
   <string name="torch_opened">Svjetiljka uključena</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>

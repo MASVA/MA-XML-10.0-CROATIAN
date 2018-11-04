@@ -124,6 +124,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="home_restore_error">"Ne mogu vratiti Poč. zaslon"</string>
   <string name="lack_of_storage">Nedostaje prostora za pohranu</string>
   <string name="latest_backup_time_loading">Učitavanje…</string>
+  <string name="load_backup_failed">Učitavanje Sig. kopija nije uspjelo</string>
+  <string name="loading_user_backup">Učitavanje korisničkih Sig. kopija…</string>
+  <string name="main_space">Prvi prostor</string>
   <string name="managespace_delete_backup">Izbriši</string>
   <string name="managespace_total_space">Ukupan prostor: %s</string>
   <string name="menu_item_managespace">Upravljaj prostorom</string>
@@ -172,6 +175,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
   <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>
   <string name="retry">Pokušaj ponovno</string>
+  <string name="second_space">Drugi prostor</string>
+  <string name="self_device">"Ovog uređaja "</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="self_phone_home">Ovaj telefon: %s</string>
   <string name="settings_backup">Postavke sustava</string>
@@ -185,6 +190,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="total_space">Ukupni prostor: %s</string>
   <string name="trans_pausing">Pauzirano…</string>
   <string name="try_again">Dodirni za novi pokušaj</string>
+  <string name="try_continue">dodirni za nastavak</string>
   <string name="unsupported_home">Ažurirajte na najnoviji OS.</string>
   <string name="wait_icon_download">Preuzimanje ikone aplikacija</string>
 </resources>

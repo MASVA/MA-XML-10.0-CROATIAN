@@ -299,6 +299,8 @@
   <string name="related_question_answer_details">Povezani problem</string>
   <string name="reply">Odgovori</string>
   <string name="reply_failed">"Ne mogu odgovoriti"</string>
+  <string name="reply_option_log_hint">Opcija</string>
+  <string name="reply_select_log_hint">Odaberi zapis</string>
   <string name="reply_successful">Uspješno odgovoreno</string>
   <string name="report_miui">Zapis pogreške</string>
   <string name="request_empty_data">Nema podataka</string>

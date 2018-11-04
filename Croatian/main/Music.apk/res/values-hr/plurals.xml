@@ -179,4 +179,8 @@ ukupno %2$d pjesma</item>
         <item quantity="other">%1$s pregleda</item>
         <item quantity="one">%1$s pregled</item>
      </plurals>
+	 <plurals name="video_count">
+        <item quantity="other">Videozapisi</item>
+        <item quantity="one">Videozapis</item>
+     </plurals>
 </resources> 
