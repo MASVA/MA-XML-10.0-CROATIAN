@@ -725,6 +725,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="rename_alert2">Datoteka će biti skrivena nakon što promijenite njenu ekstenziju.</string>
   <string name="rename_description">Promjena naziva…</string>
   <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
+  <string name="rename_input_null">Unesite novi naziv datoteke</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne mogu obnoviti"</string>
   <string name="repair_error_no_media">"Ne mogu obnoviti, odaberite barem jednu medijsku datoteku."</string>

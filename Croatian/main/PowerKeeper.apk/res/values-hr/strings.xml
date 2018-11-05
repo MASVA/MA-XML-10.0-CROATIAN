@@ -24,6 +24,9 @@
   <string name="app_preload_policies_summary">"Upotrijebite strojno učenje da biste predvidjeli aplikacije koje najčešće upotrebljavate i unaprijed učitajte resurse."</string>
   <string name="app_preload_policies_title">AI pred učitavanje</string>
   <string name="appconfig_active_app_dialog_title">Upravljanje aktivnim aplikacijama</string>
+  <string name="atrace_saved">Uspješno spremljeno</string>
+  <string name="atrace_saving">Spremanje atrace zapisa…</string>
+  <string name="atrace_start">Snimanje atrace zapisa…</string>
   <string name="background">Aplikacija se izvodi u pozadini</string>
   <string name="base_info">Osnovne informacije</string>
   <string name="cloud_addr_info">Cloud informacije</string>

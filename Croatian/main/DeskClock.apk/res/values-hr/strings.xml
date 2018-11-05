@@ -151,7 +151,7 @@
   <string name="setting_alarm_arriving_title">Obavijesti prije zvonjave</string>
   <string name="settings">Postavke</string>
   <string name="shutdown_alarm_disable_summary">Alarm se neće oglasiti nakon isključenja</string>
-  <string name="shutdown_alarm_enable_summary">Alarm će se oglasiti nakon isključenja</string>
+  <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 5 minuta nakon što isključite uređaj"</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>
   <string name="shut_down_keep_screen">"Zaslon neće ostati uključen"</string>
   <string name="silent_alarm_summary">Bešumno</string>

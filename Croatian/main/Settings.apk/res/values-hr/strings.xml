@@ -1318,6 +1318,12 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="call_manager_enable_summary">Dopusti usluzi upravljanje načinom uspostavljanja poziva.</string>
   <string name="call_manager_enable_title">Omogući Upravitelja poziva</string>
   <string name="call_manager_title">Upravitelj poziva</string>
+  <string name="call_records_name_1">Mario MASVA</string>
+  <string name="call_records_name_2">MIUI Adria</string>
+  <string name="call_records_name_3">Dinamo Zagreb</string>
+  <string name="call_records_summary_1">9:35 AM | 26 sek. | China Unicom</string>
+  <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+  <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
   <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
   <string name="call_settings_title">Postavke poziva</string>
