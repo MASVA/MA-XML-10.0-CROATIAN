@@ -846,12 +846,13 @@
     </string-array>
 	<string-array name="ai_key_item_name">
         <item>Razgovor sa Google pomoćnikom</item>
+		<item>Otvori Google pretraživanje</item>
         <item>Otvori stražnju kameru</item>
         <item>Otvori prednju kameru</item>
-        <item>Open prethodnu aplikaciju</item>
+        <item>Otvori prethodnu aplikaciju</item>
         <item>Uključi bljeskalicu</item>
         <item>Uključi način čitanja</item>
-        <item>Nište</item>
+        <item>Ništa</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Svaki dan</item>

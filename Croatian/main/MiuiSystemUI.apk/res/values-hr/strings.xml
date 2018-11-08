@@ -572,6 +572,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dock_forced_resizable">Aplikacija možda neće funkcionirati s podijeljenim zaslonom.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Podijeljeni zaslon nije podržan na Zaklj. zaslonu.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon.</string>
+  <string name="download_lock_wallpaper">Dodirnite dvaput da preuzmete aplikaciju Glazba</string>
   <string name="drag_to_add_tiles">Pritisnite i držite da biste dodali ili promijenili raspored stavki</string>
   <string name="drag_to_remove_tiles">Povucite ovdje za uklanjanje</string>
   <string name="drive_mode_tip">"Vi ste u automobilskom načinu"</string>

@@ -391,6 +391,11 @@
   <string name="disable_auto_upload_tip">"Isključiti sinkr. s Mi Cloudom za ovaj album?"</string>
   <string name="disable_auto_upload_title">Isključi sinkr. s Mi Cloudom</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
+  <string name="document_provider_guide_step_1">1. Dodirni tipku \"Više\".</string>
+  <string name="document_provider_guide_step_2">2. Dodirni \"Prikaži unutarnju pohranu\".</string>
+  <string name="document_provider_guide_step_3">3. Dodirni tipku izbornika sa strane.</string>
+  <string name="document_provider_guide_step_4">4. Odaberi \"SD kartica\".</string>
+  <string name="document_provider_guide_step_5">5. Dodirni \"Odaberi\".</string>
   <string name="do_not_save">"Ne spremaj"</string>
   <string name="documentary">Dokumentarni</string>
   <string name="doodle">Crtarija</string>
@@ -516,6 +521,18 @@
   <string name="exit_video_play">Izlaz</string>
   <string name="expand_desc">Više</string>
   <string name="expand_people">Prikaži više osoba</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Umjesto toga, Galerija će spremiti stavke na unutarnju pohranu. To možete promijeniti u odjeljku Postavke &gt; Pohrana &gt; Postavke pohrane.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">"Ne mogu odobriti dopuštenje."</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Dalje</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Odobrite dopuštenje</string>
+  <string name="ext_sdcard_guide_text">"Galerija treba vaše dopuštenje za pristup SD kartici. Evo što možete učiniti:"</string>
+  <string name="ext_sdcard_operation_failed_text">Galerija treba dopuštenje za pristup SD kartici</string>
+  <string name="ext_sdcard_operation_failed_title">"Ne mogu dovršiti ovu radnju"</string>
+  <string name="ext_sdcard_permission_request_button_text">Razumijem</string>
+  <string name="ext_sdcard_permission_request_reason">Galerija treba vaše dopuštenje za pristup SD kartici. To će joj omogućiti brisanje i uređivanje fotografija i videozapisa pohranjenih na SD kartici.</string>
+  <string name="ext_sdcard_permission_request_title">Odobrite Galeriji pristup SD kartici</string>
+  <string name="ext_sdcard_request_failed_button_text">U redu</string>
+  <string name="ext_sdcard_request_succeed_toast_text">"Sve je spremno!"</string>
   <string name="face_album_detecting_tip">Samo trenutak…</string>
   <string name="face_album_empty">"Nema dovoljno fotografija za prepoznati osobe.
 Napravite više fotografija vaših prijatelja!"</string>

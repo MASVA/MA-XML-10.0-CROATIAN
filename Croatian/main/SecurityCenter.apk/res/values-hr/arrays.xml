@@ -135,4 +135,9 @@
         <item>Vrijeme instalacije</item>
         <item>Aplikacije koje se mogu deinstalirati</item>
      </string-array>
+	 <string-array name="traffic_package_type">
+        <item>Mjesečni plan podataka</item>
+        <item>Dnevni plan podataka</item>
+        <item>Neograničeni plan podataka</item>
+    </string-array>
 </resources>

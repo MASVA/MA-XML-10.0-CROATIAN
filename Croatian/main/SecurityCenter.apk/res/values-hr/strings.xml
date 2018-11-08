@@ -299,12 +299,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_reset_app_preferences_button">Resetiraj aplikacije</string>
   <string name="app_manager_reset_app_preferences_desc">"To će resetirati sve postavke za:
  
-  "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;"
-  "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
-  "&lt;li&gt;Zadane aplikacije&lt;/li&gt;"
-  "&lt;li&gt;Ograničenja podataka u pozadini za aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Onemogućene aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Obavijesti onemogućenih aplikacija&lt;/li&gt;"
+ "&lt;li&gt;Zadane aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Ograničenja podataka u pozadini za aplikacije&lt;/li&gt;"
  
-   Nećete izgubiti podatke aplikacije."</string>
+ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_reset_app_preferences_title">Resetirati preference aplikacije?</string>
   <string name="app_manager_search_prompt">"Nije moguće pronaći rezultate? Pokušajte prikazati rezultate svih aplikacija."</string>
   <string name="app_manager_show_all_apps">Prikaži sve aplikacije</string>
@@ -719,6 +719,13 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
+  <string name="daily_card_setting_fragment_daily_card_brand">Davatelj usluga</string>
+  <string name="daily_card_setting_fragment_daily_card_brand_value">Odaberite davatelja usluga</string>
+  <string name="daily_card_setting_fragment_daily_card_setting">Postavke dnevnog plana podataka</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">"MIUI će postaviti ograničenje podataka i aplikacija s neograničenim podacima prema davatelju usluga kojeg odaberete. Ako vaš davatelja usluga nije na popisu, odaberite \"Ostalo\" i ručno postavite dnevni plan podataka."</string>
+  <string name="daily_card_setting_fragment_daily_package">Ograničenje dnevnih podataka</string>
+  <string name="daily_card_setting_fragment_month_package">Mjesečni paket podataka</string>
+  <string name="daily_card_setting_fragment_package_summary">Ako vaš dnevni paket podataka sadrži mjesečni paket podataka, upotrebljavat će se prije dnevnog paketa.</string>
   <string name="daily_limit_and_lock_screen">Upozorenje uporabe podataka</string>
   <string name="daily_limit_network_available_body">Dodirnite za pregled statistike uporabe podataka.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Dodirnite za uključivanje mobilnih podataka.</string>
@@ -822,6 +829,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno."</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis iznimaka mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
+  <string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
+  <string name="dialog_change_package_type_title">Promjena vrste plana podataka</string>
   <string name="dialog_button_ignore">Ignoriraj</string>
   <string name="dialog_button_yes">Da</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
@@ -1409,6 +1418,9 @@ podatkovnu vezu"</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_adjusting_bill">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>
+  <string name="main_daily_card_guide_dialog_ok">Postavi</string>
+  <string name="main_daily_card_guide_dialog_summary">Možete birati između dnevnih, mjesečnih i neograničenih planova. Postaviti sada vrstu plana podataka?</string>
+  <string name="main_daily_card_guide_dialog_title">Postavi vrstu plana podataka</string>
   <string name="main_daily_package">Dnevni plan podataka</string>
   <string name="main_indicator_title">Aktivacija</string>
   <string name="main_leisure_remained">Preostalo podataka</string>
@@ -1436,6 +1448,7 @@ podatkovnu vezu"</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
   <string name="main_toolbar_statistic">Statistika uporabe podataka</string>
+  <string name="main_traffic_detail">UporabA podataka</string>
   <string name="main_traffic_overlimit_text">prekoračeno</string>
   <string name="main_traffic_remian_text">preostalo</string>
   <string name="main_traffic_used">%s iskorišteno</string>
@@ -1678,6 +1691,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="note">Napomena</string>
+  <string name="not_limited_brand">Neograničeno</string>
   <string name="note_call_none">Nema poziva</string>
   <string name="note_keyword_none">Nema ključnih riječi</string>
   <string name="note_list_none">Lista je prazna</string>
@@ -2119,6 +2133,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pref_category_daily_package_tile">Dnevni plan podataka</string>
   <string name="pref_category_extra_package_tile">Paket nadoplate</string>
   <string name="pref_category_half_year_package_tile">Polugodišnji paket podataka</string>
+  <string name="pref_category_package_type_title">Vrsta plana podataka</string>
   <string name="pref_category_title_lock_screen_memory_clean">Očisti pri zaključanom zaslonu</string>
   <string name="pref_category_title_module_settings">Postavke značajki</string>
   <string name="pref_category_title_other">Dodatne postavke</string>
@@ -2184,7 +2199,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_setting_operators_message">Uredite poruku koju vaš uređaj šalje operateru za sinkronizaciju statistike uporabe podataka</string>
   <string name="pref_show_mobile_traffic">Prikaži statistiku uporabe podataka tijekom otključavanja nakon što je uređaj zaključan više od 5 minuta</string>
   <string name="pref_special_package_setting">Prilagođeni plan podataka</string>
-  <string name="pref_special_package_setting_summary">Upravljaj ograničenjem, dnevnim planovima podataka i određenim podacima</string>
+  <string name="pref_special_package_setting_summary">Upravljaj ograničenjem i određenim podacima</string>
   <string name="pref_special_traffic_exceed_limit">Obavijesti me kada uporaba podataka dostigne ograničenje</string>
   <string name="pref_special_traffic_limit_warn">Postavite upozorenje uporabe podataka</string>
   <string name="pref_specified_adjust">Postavljanje prilagođenog ograničenja podataka</string>
@@ -2200,11 +2215,17 @@ Isklj. maks.: %2$s</string>
   <string name="pref_title_network_diagnostics">Testiranje mreže</string>
   <string name="pref_title_over_traffic_limit_warning">Kada je premašeno</string>
   <string name="pref_title_traffic_limit_number">Veličina</string>
+  <string name="pref_title_traffic_package_type">Vrsta plana podataka</string>
   <string name="pref_title_traffic_speed_state">Prikaži brzinu mreže u traci obavijesti</string>
   <string name="pref_title_update_notification">Obavijesti uporabe podataka</string>
   <string name="pref_title_upload_data_usage">Prijavi podatke uporabe podataka</string>
+  <string name="pref_traffic_daily_package">Dnevni plan podataka</string>
+  <string name="pref_traffic_daily_package_brand">Davatelj usluga dnevnog plana podataka</string>
   <string name="pref_title_virus_white_list">Iznimke</string>
   <string name="pref_traffic_manage_title">Uporaba podataka</string>
+  <string name="pref_traffic_monthly_package">Mjesečni plan podataka</string>
+  <string name="pref_traffic_package_type_summary">Mjesečni/Dnevni/Neograničeni</string>
+  <string name="pref_traffic_unlimited_package">Neograničeni plan podataka</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dopusti pametne iznimke</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatski dodaj aplikacije s mogućnošću uštede podataka u iznimke</string>
   <string name="pref_traffic_saving_compressed">Smanjeno</string>
@@ -3074,15 +3095,23 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_button1_text">Odustani</string>
   <string name="traffic_setting_fragment_button2_text">Spremi</string>
   <string name="traffic_setting_fragment_city">Grad</string>
+  <string name="traffic_setting_fragment_daily_summary">Mobilni podaci ažuriraju se dnevno</string>
+  <string name="traffic_setting_fragment_daily_title">Dnevni plan podataka</string>
   <string name="traffic_setting_fragment_default">Zadano</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Niste sigurni koji operater?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Niste sigurni koji davatelj usluga?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne mogu se povezati na mrežu. Provjerite svoju podatkovnu vezu i pokušajte ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovno"</string>
+  <string name="traffic_setting_fragment_month_summary">Mobilni podaci i minute poziva ažuriraju se mjesečno</string>
+  <string name="traffic_setting_fragment_month_title">Mjesečni plan podataka</string>
+  <string name="traffic_setting_fragment_next">Dalje</string>
+  <string name="traffic_setting_fragment_not_limited_summary">Opcije neograničenog plana podataka</string>
+  <string name="traffic_setting_fragment_not_limited_title">Neograničeni plan podataka</string>
   <string name="traffic_setting_fragment_loading_text">Dobivanje detalja mreže…</string>
   <string name="traffic_setting_fragment_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="traffic_setting_fragment_null">Prazno</string>
-  <string name="traffic_setting_fragment_operator">Operater</string>
-  <string name="traffic_setting_fragment_operator_setting">Operater</string>
+  <string name="traffic_setting_fragment_operator">Davatelj usluga</string>
+  <string name="traffic_setting_fragment_operator_setting">Davatelj usluga</string>
+  <string name="traffic_setting_fragment_packege_type">Postavke plana podataka</string>
   <string name="traffic_setting_fragment_province">Pokrajina</string>
   <string name="traffic_setting_fragment_send_num">Broj telefona mobilnog operatera</string>
   <string name="traffic_setting_fragment_send_num_tips">Unesite broj telefona</string>
