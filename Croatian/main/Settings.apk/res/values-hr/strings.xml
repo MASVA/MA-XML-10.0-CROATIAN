@@ -3762,6 +3762,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_disturb_title">Ne ometaj</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_input_method_settings">Postavke načina unosa</string>
   <string name="miui_lab_ai_cloud_closed">"AI pred-učitavanje još nije dostupno."</string>
   <string name="miui_lab_ai_preload_desc">AI pred-učitavanje povećava brzinu pokretanja aplikacije</string>
   <string name="miui_lab_ai_preload_title">AI pred-učitavanje</string>

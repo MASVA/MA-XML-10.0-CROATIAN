@@ -22,7 +22,7 @@
   <string name="catch_full_log_action_cancel">Odustani</string>
   <string name="catch_full_log_action_complete">Gotovo i pošalji</string>
   <string name="catch_full_log_action_start">Izradi zapis</string>
-  <string name="catch_full_log_add_original_photo">Dodaj fotografiju</string>
+  <string name="catch_full_log_add_original_photo">Dodaj originalnu sliku ili kratki videozapis</string>
   <string name="catch_full_log_add_photo">Dodaj fotografiju</string>
   <string name="catch_full_log_add_photo_dialog_content">"Ako je problem koji prijavljujete povezan s kvalitetom slike kamere, dodajte izvornu fotografiju uzorka (neobrezanu) kako biste nam pomogli pronaći problem. Želite li sada dodati fotografiju?"</string>
   <string name="catch_full_log_dialog_confirm_text">Idi na Poč. zaslon</string>
@@ -107,7 +107,7 @@
   <string name="feedback_report_remind_login_desc">"Prijavite se sa svojim Mi Računom kako bi vas naši inženjeri mogli kontaktirati. Također možete pregledati napredak vašeg izvješća \"Moja izvješća\"."</string>
   <string name="feedback_report_remind_login_desc2">"Također možete pregledati napredak zapisa u \"Moji zapisi\"."</string>
   <string name="feedback_retest_label">Koraci za reproduciranje</string>
-  <string name="feedback_select_images">Dodaj slike</string>
+  <string name="feedback_select_images">Dodaj sliku ili kratki videozapis</string>
   <string name="feedback_select_modem_log">Dodaj modem zapis</string>
   <string name="feedback_select_modem_log_not_select_desc">"Niste odabrali \"Dodaj modem zapis\""</string>
   <string name="feedback_select_modem_log_select_desc">Odabrano \"Dodaj modem zapis\"</string>
@@ -331,6 +331,7 @@
   <string name="title_catch_full_log">Zapisi</string>
   <string name="title_bbs_feedback_main">Saznajte više o Mi telefonima</string>
   <string name="title_customer_service">Služba za korisnike</string>
+  <string name="title_first_aid">Prva pomoć</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Homes u blizini</string>
   <string name="title_nonsystem_app">Ostale aplik.</string>
@@ -357,7 +358,7 @@
   <string name="toast_report_copied_to_clipboard">Zapis kopiran u međuspremnik</string>
   <string name="toast_report_sent_failed">"Ne mogu poslati zapis"</string>
   <string name="toast_report_sent_succeed">Zapis je poslan</string>
-  <string name="toast_screenshot_too_large">"Ne mogu učitati datoteke veće od 100MB."</string>
+  <string name="toast_screenshot_too_large">"Ne mogu učitati slike ili videozapise veće od 100MB."</string>
   <string name="toast_third_packagename_required">Unesi naziv aplikacije</string>
   <string name="toast_title_required">Opišite svoj problem</string>
   <string name="topic_author">1#</string>

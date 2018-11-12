@@ -19,6 +19,18 @@
   <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+  <string name="abc_slice_error">Povezivanje nije moguće</string>
+  <string name="abc_slice_more">Više</string>
+  <string name="abc_slice_more_content">još %1$d</string>
+  <string name="abc_slice_permission_allow">Dopusti</string>
+  <string name="abc_slice_permission_checkbox">Dopusti aplikaciji %1$s da prikazuje isječke iz bilo koje aplikacije</string>
+  <string name="abc_slice_permission_deny">Odbij</string>
+  <string name="abc_slice_permission_text_1">– može čitati informacije aplikacije %1$s</string>
+  <string name="abc_slice_permission_text_2">– može vršiti radnje u aplikaciji %1$s</string>
+  <string name="abc_slice_permission_title">Želite li dopustiti aplikaciji %1$s da prikazuje isječke aplikacije %2$s?</string>
+  <string name="abc_slice_show_more">Prikaži više</string>
+  <string name="abc_slice_updated">Ažurirano %1$s</string>
+  <string name="abc_slices_permission_request">%1$s želi prikazivati isječke aplikacije %2$s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_accessibility_button">Pristupačnost</string>
   <string name="accessibility_action_divider_bottom_full">Donji zaslon u cijeli zaslon</string>
@@ -100,7 +112,7 @@
   <string name="accessibility_ethernet_disconnected">Prekinuta je veza s ethernetom.</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Ikona aplikacije</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ikona otiska prsta</string>
-  <string name="accessibility_fingerprint_dialog_help_area">Područje pomoći za poruke</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Područje poruke za pomoć</string>
   <string name="accessibility_gps_acquiring">Dohvaćanje GPS-a.</string>
   <string name="accessibility_gps_enabled">GPS je omogućen.</string>
   <string name="accessibility_home">Početna</string>
@@ -108,6 +120,7 @@
   <string name="accessibility_key">Prilagođeni navigacijski gumb</string>
   <string name="accessibility_left_button">Prečac</string>
   <string name="accessibility_location_active">Zahtjevi za lokaciju aktivni su</string>
+  <string name="accessibility_long_click_tile">Otvaranje postavki</string>
   <string name="accessibility_managed_profile">Radni profil</string>
   <string name="accessibility_manual_zen_less_time">Manje vremena.</string>
   <string name="accessibility_manual_zen_more_time">Više vremena.</string>
@@ -130,6 +143,7 @@
   <string name="accessibility_notification_dismissed">Obavijest je odbačena.</string>
   <string name="accessibility_notifications_button">Obavijesti.</string>
   <string name="accessibility_one_bar">Jedan stupac.</string>
+  <string name="accessibility_output_chooser">Promijenite izlazni uređaj</string>
   <string name="accessibility_overflow_action">Pogledajte sve obavijesti</string>
   <string name="accessibility_phone_button">Telefon</string>
   <string name="accessibility_phone_one_bar">Telefon jedan stupac.</string>
@@ -221,14 +235,17 @@
   <string name="accessibility_remove_notification">Očisti obavijest.</string>
   <string name="accessibility_ringer_silent">"Bešumno."</string>
   <string name="accessibility_ringer_vibrate">Vibracija.</string>
+  <string name="accessibility_rotate_button">Zakretanje zaslona</string>
   <string name="accessibility_rotation_lock_off">Zaslon će se automatski zakrenuti.</string>
   <string name="accessibility_rotation_lock_off_changed">Zaslon će se sada automatski zakrenuti.</string>
   <string name="accessibility_rotation_lock_on_landscape">Zaslon je zaključan u pejzažnoj orijentaciji.</string>
   <string name="accessibility_rotation_lock_on_landscape_changed">Zaslon je sada zaključan u vodoravnom usmjerenju.</string>
   <string name="accessibility_rotation_lock_on_portrait">Zaslon je zaključan u portretnoj orijentaciji.</string>
   <string name="accessibility_rotation_lock_on_portrait_changed">Zaslon je sada zaključan u okomitom usmjerenju.</string>
+  <string name="accessibility_scanning_face">Skeniranje lica</string>
   <string name="accessibility_search_light">Pretraži</string>
   <string name="accessibility_search_scanner">Skener</string>
+  <string name="accessibility_send_smart_reply">Pošalji</string>
   <string name="accessibility_settings">Postavke</string>
   <string name="accessibility_settings_button">Postavke sustava.</string>
   <string name="accessibility_signal_full">Signal je pun.</string>
@@ -245,6 +262,7 @@
   <string name="accessibility_voice_assist_button">Glasovna pomoć</string>
   <string name="accessibility_volume_collapse">Sažimanje</string>
   <string name="accessibility_volume_expand">Proširivanje</string>
+  <string name="accessibility_volume_settings">Postavke zvuka</string>
   <string name="accessibility_vpn_on">VPN uključen.</string>
   <string name="accessibility_waiting_for_fingerprint">Čekanje na otisak prsta</string>
   <string name="accessibility_wifi_name">Spojen na %s.</string>
@@ -262,6 +280,7 @@
   <string name="accessibility_work_mode">Način rada</string>
   <string name="accessibility_zero_bars">Nijedan stupac.</string>
   <string name="account_info">Niste prijavljeni</string>
+  <string name="action_bar_expand_collapse_button">Gumb za proširivanje/sažimanje</string>
   <string name="activate_usb_message">Da aktivirate ovu značajku, umetnite vašu SIM karticu</string>
   <string name="activate_usb_title">Aktiviraj USB</string>
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
@@ -285,6 +304,13 @@
   <string name="app_label">"UI Sustava"</string>
   <string name="app_name">Zaklj. zaslon</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
+  <string name="appops_camera">Ova aplikacija upotrebljava kameru.</string>
+  <string name="appops_camera_mic">Ova aplikacija upotrebljava mikrofon i kameru.</string>
+  <string name="appops_camera_mic_overlay">Ova se aplikacija prikazuje preko drugih aplikacija na zaslonu i upotrebljava mikrofon i kameru.</string>
+  <string name="appops_camera_overlay">Ova se aplikacija prikazuje preko drugih aplikacija na zaslonu i upotrebljava kameru.</string>
+  <string name="appops_mic_overlay">Ova se aplikacija prikazuje preko drugih aplikacija na zaslonu i upotrebljava mikrofon.</string>
+  <string name="appops_microphone">Ova aplikacija upotrebljava mikrofon.</string>
+  <string name="appops_overlay">Ova se aplikacija prikazuje preko drugih aplikacija na zaslonu.</string>
   <string name="as_important">Važno</string>
   <string name="as_unimportant">Nevažno</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
@@ -292,6 +318,11 @@
   <string name="audio_effect_settings">Odaberi vrstu slušalica</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite.</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
+  <string name="auto_saver_enabled_text">Štednja baterije uključit će se automatski kad razina baterije padne ispod %d%%.</string>
+  <string name="auto_saver_enabled_title">Uključen je raspored štednje baterije</string>
+  <string name="auto_saver_okay_action">Shvaćam</string>
+  <string name="auto_saver_text">Uključuje se automatski kada je razina baterije na %d%%</string>
+  <string name="auto_saver_title">Dodirnite za zakazivanje štednje baterije</string>
   <string name="available_via_carrier">Dostupno putem %1$s</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="back">Natrag</string>
@@ -307,6 +338,8 @@
   <string name="battery_info_status_not_charging">"Priključeno, trenutno se ne može puniti"</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
+  <string name="battery_low_percent_format_hybrid" formatted="false">Preostalo je %s, još otprilike %s na temelju vaše upotrebe</string>
+  <string name="battery_low_percent_format_hybrid_short" formatted="false">Preostalo je %s, još otprilike %s</string>
   <string name="battery_low_percent_format_saver_started">Preostalo %s. Uključena je štednja baterije.</string>
   <string name="battery_low_title">"Priključite punjač"</string>
   <string name="battery_low_why">Postavke</string>
@@ -350,12 +383,12 @@
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
-  <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano s slušnim aparatom</string>
-  <string name="bluetooth_hearing_aid_profile_summary_use_for">Koristi za Slušni aparat</string>
-  <string name="bluetooth_hearingaid_left_battery_level">Lijevo - baterija %1$s</string>
-  <string name="bluetooth_hearingaid_left_pairing_message">Uparivanje slušnog aparata s lijeve strane…</string>
-  <string name="bluetooth_hearingaid_right_battery_level">Desno - baterija %1$s</string>
-  <string name="bluetooth_hearingaid_right_pairing_message">Uparivanje slušnog aparata s desne strane…</string>
+  <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano sa slušnim aparatom</string>
+  <string name="bluetooth_hearing_aid_profile_summary_use_for">Upotrebljavaj za slušni aparat</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Lijeva strana – %1$s baterije</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Uparivanje lijevog slušnog aparata…</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Desna strana – %1$s baterije</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Uparivanje desnog slušnog aparata…</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Koristi za ulaz</string>
   <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
@@ -413,9 +446,9 @@ brzina uzorkovanja"</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">Računalo</string>
   <string name="bluetooth_talkback_headphone">Slušalice</string>
-  <string name="bluetooth_talkback_headset">Slušalice</string>
+  <string name="bluetooth_talkback_headset">Slušalice s mikrofonom</string>
   <string name="bluetooth_talkback_imaging">Slike</string>
-  <string name="bluetooth_talkback_input_peripheral">Ulaz periferije</string>
+  <string name="bluetooth_talkback_input_peripheral">Periferni uređaj za unos</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bluetooth_tethered">Bluetooth posredno povezan</string>
   <string name="branded_monitoring_description_app_personal">Povezani ste s aplikacijom %1$s koja može nadzirati vašu osobnu aktivnost na mreži, uključujući e-poštu, aplikacije i web-lokacije.</string>
@@ -445,10 +478,16 @@ brzina uzorkovanja"</string>
   <string name="camera_key_action_toggle_title">Promjena stanja prečaca</string>
   <string name="camera_label">Otvori Kameru</string>
   <string name="cancel">Odustani</string>
+  <string name="car_add_user">Dodajte korisnika</string>
+  <string name="car_guest">Gost</string>
   <string name="car_lockscreen_disclaimer_text">Pažljivo pratite promet i uvijek se pridržavajte primjenjivih zakona. Upute mogu biti neprecizne, nepotpune, opasne, neprikladne, zabranjene ili mogu uključivati prelazak administrativnih granica. Podaci o tvrtkama također mogu biti neprecizni i nepotpuni. Podaci nisu u stvarnom vremenu i preciznost lokacije nije zajamčena. Tijekom vožnje ne rukujte mobilnim uređajem i ne upotrebljavajte aplikacije koje nisu namijenjene za Android Auto.</string>
   <string name="car_lockscreen_disclaimer_title">Vozite sigurno</string>
+  <string name="car_new_user">Novi korisnik</string>
+  <string name="carrier_network_change_mode">Promjena mreže mobilnog operatera</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
+  <string name="cell_data_off">Isključeno</string>
+  <string name="cell_data_off_content_description">Mobilni su podaci isključeni</string>
   <string name="change_theme_reboot">Promjena teme zahtijeva ponovno pokretanje.</string>
   <string name="charge_length_format">prije %1$s</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
@@ -490,7 +529,19 @@ brzina uzorkovanja"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo – žuto)</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
+  <string name="data_connection_3_5g">H</string>
+  <string name="data_connection_3_5g_plus">H+</string>
+  <string name="data_connection_3g">3G</string>
+  <string name="data_connection_4g">4G</string>
+  <string name="data_connection_4g_plus">4G+</string>
+  <string name="data_connection_cdma">1X</string>
+  <string name="data_connection_edge">EDGE</string>
+  <string name="data_connection_gprs">GPRS</string>
+  <string name="data_connection_hspa">HSPA</string>
+  <string name="data_connection_lte">LTE</string>
+  <string name="data_connection_lte_plus">LTE+</string>
   <string name="data_connection_no_internet">Nema interneta</string>
+  <string name="data_connection_roaming">Roaming</string>
   <string name="data_saver">Ušteda podataka</string>
   <string name="data_saver_description">Da biste smanjili potrošnju podataka, Ušteda podataka sprječava neke aplikacije da šalju ili primaju podatke u pozadini. Aplikacija koju trenutno koristite može pristupiti podacima, ali to može učiniti rjeđe. To znači, primjerice, da se slike ne prikazuju dok ih ne dodirnete.</string>
   <string name="data_saver_enable_button">Uključi</string>
@@ -565,6 +616,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dlg_summary_nfc">Isključi NFC</string>
   <string name="dlg_summary_title">Ekstremna štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
   <string name="dnd_is_off">DND je isključen</string>
+  <string name="dnd_suppressing_shade_text">Značajka Ne uznemiravaj pauzirala je Obavijesti</string>
   <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">Ovim uređajem upravlja %s</string>
   <string name="do_not_silence">Ne utišavaj</string>
@@ -574,6 +626,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon.</string>
   <string name="download_lock_wallpaper">Dodirnite dvaput da preuzmete aplikaciju Glazba</string>
   <string name="drag_to_add_tiles">Pritisnite i držite da biste dodali ili promijenili raspored stavki</string>
+  <string name="drag_to_remove_disabled">Potrebno je barem 6 pločica</string>
   <string name="drag_to_remove_tiles">Povucite ovdje za uklanjanje</string>
   <string name="drive_mode_tip">"Vi ste u automobilskom načinu"</string>
   <string name="drive_mode_tip_idle">Dodirnite za izlaz iz automobilskog načina</string>
@@ -590,13 +643,15 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="enable_extreme_power_save_mode">Ekstremna Štednja baterije</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
   <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
-  <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_gpu_debug_layers">Omogući slojeve za uklanjanje pogrešaka GPU-a</string>
   <string name="enable_gpu_debug_layers_summary">Omogući učitavanje slojeva za ukl. pogrešaka GPU-a za uklanjanje pogrešaka aplikacija</string>
+  <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_power_save_mode">Uključi Štednju baterije</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
+  <string name="error_disable_esim_msg">Onemogućivanje eSIM-a nije uspjelo zbog pogreške.</string>
+  <string name="error_disable_esim_title">Nije moguće onemogućiti eSIM</string>
   <string name="ethernet_label">Ethernet</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expanded_confirm_disable_notification">Sakrij</string>
@@ -716,6 +771,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="fs_gesture_switch_recents_summary">Prijeđite prstom od dna i pauziraj</string>
   <string name="fsg_demo_back">Natrag</string>
   <string name="fsg_demo_go_on">Nauči</string>
+  <string name="global_action_screenshot">Snimka zaslona</string>
   <string name="go_to_web">Idi na web</string>
   <string name="got_it">Shvaćam</string>
   <string name="gps_notification_found_text">Lokaciju utvrdio GPS</string>
@@ -741,6 +797,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
   <string name="headset">Slušalice</string>
   <string name="headset_settings">Slušalice su priključene</string>
+  <string name="heap_dump_tile_name">Izdvoji mem. SysUI-a</string>
   <string name="help_feedback_label">Pomoć i povratne inf.</string>
   <string name="hidden_notifications_cancel">Ne, hvala</string>
   <string name="hidden_notifications_setup">Postavi</string>
@@ -764,12 +821,20 @@ Kad se ohladi, radit će normalno."</string>
   <string name="important_desc">Sve važne obavijesti prikazat će se izravno u Panelu obavijesti.</string>
   <string name="ims_reg_status_not_registered">Nije registrirano</string>
   <string name="ims_reg_status_registered">Registrirano</string>
-  <string name="ims_reg_title">IMS stanje registracije</string>
+  <string name="ims_reg_title">Stanje registracije IMS-a</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Aplikacije u stanju čekanja</string>
   <string name="incorrect_pincode">Netočan PIN kod</string>
   <string name="incorrect_pukcode">Netočan PUK kod</string>
+  <string name="inline_blocking_helper">"Obično odbacujete te obavijesti. 
+  Želite li da se nastave prikazivati?"</string>
+  <string name="inline_keep_button">Nastavi prikazivati</string>
+  <string name="inline_keep_showing">Želite li da se obavijesti nastave prikazivati?</string>
+  <string name="inline_keep_showing_app">Želite li da se obavijesti te aplikacije nastave prikazivati?</string>
+  <string name="inline_minimize_button">Minimiziraj</string>
+  <string name="inline_stop_button">Zaustavi obavijesti</string>
+  <string name="inline_undo">Poništi</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne mogu promjeniti prostore kada su uključene roditeljske kontrole"</string>
@@ -848,6 +913,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyboardview_keycode_delete">Izbriši</string>
   <string name="keyboardview_keycode_enter">Unos</string>
   <string name="keyguard_accessibility_next_alarm">Sljedeći alarm postavljen za %1$s</string>
+  <string name="keyguard_accessibility_password">Zaporka uređaja</string>
   <string name="keyguard_accessibility_pin_area">Područje PIN-a</string>
   <string name="keyguard_accessibility_sim_pin_area">Područje PIN-a za SIM</string>
   <string name="keyguard_accessibility_sim_puk_area">Područje PUK-a za SIM</string>
@@ -867,6 +933,9 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
   <string name="keyguard_charging_info_tip_text5">Potrebno je duže da se baterija napuni kada postane toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
+  <string name="keyguard_enter_your_password">Unesite zaporku</string>
+  <string name="keyguard_enter_your_pattern">Unesite uzorak</string>
+  <string name="keyguard_enter_your_pin">Unesite PIN</string>
   <string name="keyguard_indication_charging_time">Punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_charging_time_fast">Brzo punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_charging_time_slowly">Sporo punjenje (%s do pune baterije)</string>
@@ -875,9 +944,9 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_left_bankcard">Kalkulator</string>
   <string name="keyguard_left_buscard">Bilješke</string>
   <string name="keyguard_left_remotecentral">Kalendar</string>
-  <string name="keyguard_left_view_lock_wallpaper">Glazba</string>
   <string name="keyguard_left_smarthome">Kontakti</string>
   <string name="keyguard_left_torch">Svjetiljka</string>
+  <string name="keyguard_left_view_lock_wallpaper">Glazba</string>
   <string name="keyguard_low_battery">Priključite punjač.</string>
   <string name="keyguard_missing_sim_instructions">Umetnite SIM karticu.</string>
   <string name="keyguard_missing_sim_instructions_long">SIM kartica nedostaje ili nije čitljiva. Umetnite SIM karticu.</string>
@@ -890,7 +959,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_password_enter_pin_prompt">Novi PIN za SIM</string>
   <string name="keyguard_password_enter_puk_code">Unesite PUK i novi PIN kôd SIM kartice</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kôd SIM kartice</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Dodirnite za unos zaporke</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za unos zaporke&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">PIN kôd nije točan.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Vaša SIM kartica trajno je onemogućena.
  Zatražite drugu SIM karticu od svog davatelja bežičnih usluga."</string>
@@ -899,6 +968,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_plugged_in_charging_fast">Brzo punjenje</string>
   <string name="keyguard_plugged_in_charging_slowly">Sporo punjenje</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Brzo punjenje. Dodirnite da biste vidjeli pojedinosti.</string>
+  <string name="keyguard_sim_error_message_short">Nevažeća kartica.</string>
   <string name="keyguard_sim_locked_message">SIM kartica je zaključana.</string>
   <string name="keyguard_sim_puk_locked_message">SIM kartica je zaključana PUK-om.</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
@@ -944,6 +1014,7 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="kg_puk_enter_pin_hint">Unesite novi PIN kôd</string>
   <string name="kg_puk_enter_puk_hint">SIM je sad onemogućen. Unesite PUK kôd da biste nastavili. Obratite se mobilnom operateru za više pojedinosti.</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM mobilnog operatera \"%1$s\" sada je onemogućen. Unesite PUK kôd da biste nastavili. Obratite se mobilnom operateru za više pojedinosti.</string>
+  <string name="kg_sim_lock_esim_instructions">%1$s Onemogućite eSIM kako biste uređaj upotrebljavali bez mobilne usluge.</string>
   <string name="kg_sim_pin_instructions">Unesite PIN za SIM</string>
   <string name="kg_sim_pin_instructions_multi">Unesite PIN za SIM mobilnog operatera \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
@@ -1011,9 +1082,12 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Zaporke se ne podudaraju</string>
   <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Zrakoplovni način</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
   <string name="lock_screen_no_sim_card">Nema SIM kartice</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Samo hitni poziv</string>
+  <string name="lock_screen_no_sim_card_no_service">Nema usluge</string>
   <string name="lock_wallpaper_enter">Uđi</string>
   <string name="lock_wallpaper_learn_more">Više</string>
   <string name="lockscreen_access_pattern_area">Područje uzorka.</string>
@@ -1023,7 +1097,6 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
   <string name="lockscreen_access_pattern_start">Uzorak započet</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
-  <string name="lock_screen_carrier_airplane_mode_on">Zrakoplovni način</string>
   <string name="lockscreen_charging_msg">Punjenje</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %d puta. Nakon još %d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %d puta. Nakon još %d neuspjelih pokušaja, od vas će se tražiti prijava na vaš Mi Račun kako bi otključali telefon .
@@ -1031,8 +1104,6 @@ Pokušajte ponovo za %2$d s."</string>
 Pokušajte ponovo za %d sek."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
   <string name="lockscreen_none">Ništa</string>
-  <string name="lock_screen_no_sim_card_emergency_only">Samo hitni poziv</string>
-  <string name="lock_screen_no_sim_card_no_service">Nema usluge</string>
   <string name="lockscreen_shortcut_left">Lijevi prečac</string>
   <string name="lockscreen_shortcut_right">Desni prečac</string>
   <string name="lockscreen_sim_error_message_short">SIM kartica nije valjana.</string>
@@ -1048,6 +1119,7 @@ Pokušajte ponovo za %d sek."</string>
   <string name="low_temperature_button_ok">Razumijem</string>
   <string name="low_temperature_warning_message">Temperatura je preniska. Vaš telefon se može isključiti u bilo kojem trenutku. Pazite da spremite sve važne izmjene.</string>
   <string name="low_temperature_warning_title">Upozorenje niske temperature</string>
+  <string name="manage_notifications_text">Upravljanje obavijestima</string>
   <string name="managed_profile_foreground_toast">"Koristite vaš radni profil"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="mdb_entering">Pokretanje…</string>
@@ -1085,6 +1157,10 @@ Pokušajte ponovo za %d sek."</string>
   <string name="mobile_data">Mobilni podaci</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
+  <string name="mobile_data_disable_message">Nećete imati pristup mobilnim podacima ili internetu putem operatera %s. Internet će biti dostupan samo putem Wi-Fi-ja.</string>
+  <string name="mobile_data_disable_message_default_carrier">vaš mobilni operater</string>
+  <string name="mobile_data_disable_title">Želite li isključiti mobilne podatke?</string>
+  <string name="mobile_data_text_format" formatted="false">%s – %s</string>
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
@@ -1115,7 +1191,7 @@ Vaš administrator može nadzirati i upravljati postavkama, korporativnom pristu
   <string name="monitoring_description_named_vpn">"Povezani ste s %1$s, koji može pratiti aktivnosti vaše mreže, uključujući e-poštu, aplikacije i web stranice."</string>
   <string name="monitoring_description_network_logging">"Administrator je uključio mrežni zapisnik koji prati promet na vašem uređaju.
 
-Više informacija možete saznati od administratora."</string>  
+Više informacija možete saznati od administratora."</string>
   <string name="monitoring_description_personal_profile_named_vpn">Vaš je osobni profil povezan s  %1$s, koji može pratiti aktivnosti vaše mreže, uključujući e-poštu, aplikacije i web stranice.</string>
   <string name="monitoring_description_two_named_vpns">Povezani ste s aplikacijama %1$s i %2$s koje mogu nadzirati vašu aktivnost na mreži, uključujući e-poruke, aplikacije i web-lokacije.</string>
   <string name="monitoring_description_vpn">"Dali ste dopuštenje aplikaciji za postavljanje VPN veze.
@@ -1165,6 +1241,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="nav_guide_ok">Postavljanje</string>
   <string name="nav_guide_title">Sakrij tipke zaslona</string>
   <string name="no_application">Ništa</string>
+  <string name="no_auto_saver_action">Ne, hvala</string>
   <string name="no_multi_window_app">Nema aplikacija koje mogu raditi u načinu podijeljenog zaslona</string>
   <string name="no_notification_tips">Nema obavijesti.</string>
   <string name="no_sim_card">Nema SIM kartice</string>
@@ -1175,13 +1252,17 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notice_audition">Zvukovi prirode</string>
   <string name="notification_all_categories">Sve kategorije</string>
   <string name="notification_app_settings">Prilagodite: %1$s</string>
+  <string name="notification_appops_ok">U redu</string>
+  <string name="notification_appops_settings">Postavke</string>
   <string name="notification_channel_alerts">Upozorenja</string>
   <string name="notification_channel_battery">Baterija</string>
   <string name="notification_channel_controls_closed_accessibility">Zatvorene su kontrole obavijesti za %1$s</string>
   <string name="notification_channel_controls_opened_accessibility">Otvorene su kontrole obavijesti za %1$s</string>
   <string name="notification_channel_disabled">Više nećete primati te obavijesti.</string>
   <string name="notification_channel_general">Općenite poruke</string>
+  <string name="notification_channel_hints">Savjeti</string>
   <string name="notification_channel_location">Lokacija</string>
+  <string name="notification_channel_minimized">Te će se obavijesti minimizirati</string>
   <string name="notification_channel_screenbutton">Tipke</string>
   <string name="notification_channel_screenshot">Snimke zaslona</string>
   <string name="notification_channel_storage">Pohrana</string>
@@ -1193,6 +1274,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_done">Gotovo</string>
   <string name="notification_group_collapse_button_text">Presavij</string>
   <string name="notification_group_overflow_indicator">+%s</string>
+  <string name="notification_group_overflow_indicator_ambient" formatted="false">%s, +%s</string>
   <string name="notification_header_default_channel">Obavijesti</string>
   <string name="notification_header_title">Obavijesti</string>
   <string name="notification_hidden_by_policy_text">Sadržaj je skriven</string>
@@ -1212,6 +1294,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_menu_gear_description">kontrole obavijesti</string>
   <string name="notification_menu_remove_from_filter_secondary_text">Sve važne obavijesti od %s pojaviti će se u Panelu obavijesti.</string>
   <string name="notification_menu_remove_from_filter_title">Važno</string>
+  <string name="notification_menu_snooze_action">Odgoda</string>
   <string name="notification_menu_snooze_description">opcije odgode obavijesti</string>
   <string name="notification_more_settings">Više postavki</string>
   <string name="notification_otg_gamestick_in">Igrači kontroler je povezan</string>
@@ -1235,14 +1318,22 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="okay">U redu</string>
   <string name="oldman_airplane_mode_text">Zrakoplov</string>
   <string name="oldman_incall_text">Natrag na poziv</string>
-  <string name="okay">U redu</string>
   <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
   <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
   <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
+  <string name="open_saver_setting_action">Postavke</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="other">Ostalo</string>
+  <string name="output_calls_title">Izlaz telefonskih poziva</string>
+  <string name="output_none_found">Nije pronađen nijedan uređaj</string>
+  <string name="output_none_found_service_off">Nije pronađen nijedan uređaj. Pokušajte uključiti uslugu %1$s</string>
+  <string name="output_service_bt">Bluetooth</string>
+  <string name="output_service_bt_wifi">Bluetooth i Wi-Fi</string>
+  <string name="output_service_wifi">Wi-Fi</string>
+  <string name="output_title">Medijski izlaz</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overview">Pregled</string>
   <string name="phone_hint">Prijeđite prstom od ikone za telefon</string>
@@ -1270,6 +1361,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="pip_phone_dismiss_hint">Povucite prema dolje za odbacivanje</string>
   <string name="pip_phone_expand">Proširi</string>
   <string name="pip_phone_minimize">Sažmi</string>
+  <string name="pip_phone_settings">Postavke</string>
   <string name="pip_play">Reproduciraj</string>
   <string name="pip_skip_to_next">Preskoči na sljedeći</string>
   <string name="pip_skip_to_prev">Preskoči na prethodni</string>
@@ -1286,48 +1378,47 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="power_discharging_duration_enhanced">Još otprilike %1$s na temelju vašeg korištenja (%2$s)</string>
   <string name="power_notification_controls_description">"Napredne kontrole obavijesti omogućuju vam da postavite razinu važnosti za obavijesti aplikacije od 0 do 5. 
 
-"<b>Razina 5</b>" 
-– prikaži na vrhu popisa obavijesti 
-– dopusti prekide prikaza na cijelom zaslonu 
-– uvijek dopusti brzi pregled 
+"&lt;b&gt;Razina 5&lt;/b&gt;" 
+&amp;#8211; prika&amp;#382;i na vrhu popisa obavijesti 
+&amp;#8211; dopusti prekide prikaza na cijelom zaslonu 
+&amp;#8211; uvijek dopusti brzi pregled 
 
-"<b>Razina 4</b>" 
-– onemogući prekid prikaza na cijelom zaslonu 
-– uvijek dopusti brzi pregled 
+"&lt;b&gt;Razina 4&lt;/b&gt;" 
+&amp;#8211; onemogu&amp;#263;i prekid prikaza na cijelom zaslonu 
+&amp;#8211; uvijek dopusti brzi pregled 
 
-"<b>Razina 3</b>" 
-– onemogući prekid prikaza na cijelom zaslonu 
-– nikad ne dopusti brzi pregled
+"&lt;b&gt;Razina 3&lt;/b&gt;" 
+&amp;#8211; onemogu&amp;#263;i prekid prikaza na cijelom zaslonu 
+&amp;#8211; nikad ne dopusti brzi pregled
 
-"<b>Razina 2</b>" 
-– onemogući prekid prikaza na cijelom zaslonu 
-– nikad ne dopusti brzi pregled 
-– nikad ne emitiraj zvuk ni vibraciju 
+"&lt;b&gt;Razina 2&lt;/b&gt;" 
+&amp;#8211; onemogu&amp;#263;i prekid prikaza na cijelom zaslonu 
+&amp;#8211; nikad ne dopusti brzi pregled 
+&amp;#8211; nikad ne emitiraj zvuk ni vibraciju 
 
-"<b>Razina 1</b>" 
-– onemogući prekid prikaza na cijelom zaslonu 
-– nikad ne dopusti brzi pregled 
-– nikad ne emitiraj zvuk ni vibraciju 
-– ne prikazuj na zaključanom zaslonu i traci statusa 
-– prikaži na dnu popisa obavijesti 
+"&lt;b&gt;Razina 1&lt;/b&gt;" 
+&amp;#8211; onemogu&amp;#263;i prekid prikaza na cijelom zaslonu 
+&amp;#8211; nikad ne dopusti brzi pregled 
+&amp;#8211; nikad ne emitiraj zvuk ni vibraciju 
+&amp;#8211; ne prikazuj na zaklju&amp;#269;anom zaslonu i traci statusa 
+&amp;#8211; prika&amp;#382;i na dnu popisa obavijesti 
 
-"<b>Razina 0</b>" 
-– blokiraj sve obavijesti aplikacije"</string>
+"&lt;b&gt;Razina 0&lt;/b&gt;" 
+&amp;#8211; blokiraj sve obavijesti aplikacije"</string>
   <string name="power_remaining_charging_duration_only">Još %1$s do pune baterije</string>
   <string name="power_remaining_duration_only">Još otprilike %1$s</string>
-  <string name="power_remaining_duration_only_enhanced">Još otprilike %1$s na temelju vašeg korištenja</string>
-  <string name="power_remaining_duration_only_shutdown_imminent">Telefon se može uskoro isključiti</string>
-  <string name="power_remaining_duration_shutdown_imminent">Telefon se može uskoro isključiti (%1$s)</string>
-  <string name="power_remaining_less_than_duration">Preostalo manje od %1$s (%2$s)</string>
-  <string name="power_remaining_less_than_duration_only">Preostalo manje od %1$s</string>
-  <string name="power_remaining_more_than_subtext">Preostalo više od %1$s (%2$s)</string>
-  <string name="power_remaining_only_more_than_subtext">Preostalo više od %1$s</string>
-  <string name="private_dns_mode_off">Isklj.</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Telefon bi se uskoro mogao isključiti</string>
+  <string name="power_remaining_duration_shutdown_imminent">Telefon bi se uskoro mogao isključiti (%1$s)</string>
+  <string name="power_remaining_less_than_duration">Preostalo je manje od %1$s (%2$s)</string>
+  <string name="power_remaining_less_than_duration_only">Preostalo je manje od %1$s</string>
+  <string name="power_remaining_more_than_subtext">Preostalo je više od %1$s (%2$s)</string>
+  <string name="power_remaining_only_more_than_subtext">Preostalo je više od %1$s</string>
+  <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
+  <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
-  <string name="private_dns_mode_provider">Naziv privatnog DNS pružatelja</string>
-  <string name="private_dns_mode_provider_failure">"Ne mogu se povezati"</string>
-  <string name="private_dns_mode_provider_hostname_hint">Unesite naziv DNS pružatelja</string>
-  <string name="power_remaining_duration_only_short">Još %1$s</string>
+  <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
+  <string name="private_dns_mode_provider_failure">Povezivanje nije moguće</string>
+  <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="profile_owned_footer">Profil se možda nadzire</string>
   <string name="prompt_danger">Opasno</string>
   <string name="prompt_detecting">Otkrivanje</string>
@@ -1346,6 +1437,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="qs_edit">Uredi</string>
   <string name="qs_paging">Koristi nove Brze postavke Quick settings</string>
   <string name="qs_rearrange">Promijeni raspored Brzih postavki</string>
+  <string name="qs_status_phone_muted">Na telefonu je isključen zvuk</string>
+  <string name="qs_status_phone_vibrate">Telefon je postavljen na vibriranje</string>
   <string name="quick_settings">Brze postavke</string>
   <string name="quick_settings_autobrightness_label">Autom. svjetlina</string>
   <string name="quick_settings_batterysaver_label">Štednja baterije</string>
@@ -1353,6 +1446,11 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (broj uređaja: %d)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth isključen</string>
+  <string name="quick_settings_bluetooth_secondary_label_audio">Audio</string>
+  <string name="quick_settings_bluetooth_secondary_label_battery_level">%s baterije</string>
+  <string name="quick_settings_bluetooth_secondary_label_headset">Slušalice</string>
+  <string name="quick_settings_bluetooth_secondary_label_input">Unos</string>
+  <string name="quick_settings_bluetooth_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTOMATSKI</string>
   <string name="quick_settings_brightness_dialog_title">Svjetlina</string>
   <string name="quick_settings_brightness_label">Svjetlina</string>
@@ -1398,7 +1496,10 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_extreme_batterysaver_label">Ekstremna štednja baterije</string>
   <string name="quick_settings_flashlight_label">Svjetiljka</string>
   <string name="quick_settings_gps_label">GPS</string>
+  <string name="quick_settings_header_onboarding_text">Dodirnite ikone i zadržite pritisak da biste vidjeli više opcija</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
+  <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Ušteda podat. uklj.</string>
+  <string name="quick_settings_hotspot_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_ime_label">Način unosa</string>
   <string name="quick_settings_inversion_label">Zamjena boja</string>
   <string name="quick_settings_location_label">Lokacija</string>
@@ -1435,7 +1536,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_tethering_label">Dijeljenje veze</string>
   <string name="quick_settings_time_label">Vrijeme</string>
-  <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodavanje stavke, dodirnite i zadržite je, a zatim je odvucite na gornji dijelu ploče.</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodavanje stavke, dodirnite i zadržite je, a zatim je odvucite na gornji dio ploče.</string>
   <string name="quick_settings_user_label">Ja</string>
   <string name="quick_settings_user_new_user">Novi korisnik</string>
   <string name="quick_settings_user_title">Korisnik</string>
@@ -1447,7 +1548,9 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_wifi_not_connected">Nije povezano</string>
   <string name="quick_settings_wifi_off_label">WLAN isključen</string>
   <string name="quick_settings_wifi_on_label">WLAN uključen</string>
+  <string name="quick_settings_wifi_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_work_mode_label">Način rada</string>
+  <string name="quick_step_accessibility_toggle_overview">Uključivanje/isključivanje pregleda</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>
   <string name="recent_menu_item_info">Info</string>
@@ -1476,8 +1579,10 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Vlastito</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Podijeli vodoravno</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Podijeli okomito</string>
+  <string name="recents_quick_scrub_onboarding">Povucite udesno da biste brzo promijenili aplikaciju</string>
   <string name="recents_search_bar_label">Traži</string>
   <string name="recents_stack_action_button_label">Ukloni sve</string>
+  <string name="recents_swipe_up_onboarding">Prijeđite prstom prema gore da biste promijenili aplikaciju</string>
   <string name="reject_call">Poziv odbijen</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="remove_from_settings">Ukloni iz Postavki</string>
@@ -1493,6 +1598,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="right_icon">Desna ikona</string>
   <string name="right_keycode">Desni kôd tipke</string>
   <string name="right_nav_bar_button_type">Vrsta dodatnog desnog gumba</string>
+  <string name="ring_toggle_title">Pozivi</string>
   <string name="running_foreground_services_msg">Dodirnite da biste vidjeli pojedinosti o potrošnji baterije i podatkovnom prometu</string>
   <string name="running_foreground_services_title">Izvođenje aplikacija u pozadini</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
@@ -1504,10 +1610,15 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
   <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
-  <string name="screen_pinning_description_accessible">Ovo se prikazuje sve dok ne odznačite. Dodirnite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
+  <string name="screen_pinning_description_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite i zadržite Pregled da biste ga otkvačili.</string>
+  <string name="screen_pinning_description_recents_invisible_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite gumb Početna i zadržite pritisak da biste ga otkvačili.</string>
+  <string name="screen_pinning_exit">Zaslon je otkvačen</string>
   <string name="screen_pinning_negative">Ne hvala</string>
   <string name="screen_pinning_positive">Razumijem</string>
+  <string name="screen_pinning_start">Zaslon je pričvršćen</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>
+  <string name="screen_pinning_toast">Da biste otkvačili ovaj zaslon, dodirnite gumbe Natrag i Pregled i zadržite pritisak</string>
+  <string name="screen_pinning_toast_recents_invisible">Da biste otkvačili ovaj zaslon, dodirnite gumbe Natrag i Početna i zadržite pritisak</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
   <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>
@@ -1572,6 +1683,13 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
+  <string name="slice_permission_allow">Dopusti</string>
+  <string name="slice_permission_checkbox">Dopusti aplikaciji %1$s da prikazuje isječke iz bilo koje aplikacije</string>
+  <string name="slice_permission_deny">Odbij</string>
+  <string name="slice_permission_text_1">– može čitati informacije aplikacije %1$s</string>
+  <string name="slice_permission_text_2">– može vršiti radnje u aplikaciji %1$s</string>
+  <string name="slice_permission_title">Želite li dopustiti aplikaciji %1$s da prikazuje isječke aplikacije %2$s?</string>
+  <string name="smartspace_hours_mins">%1$s %2$s</string>
   <string name="snooze_option_15_min">15 minuta</string>
   <string name="snooze_option_1_hour">1 sat</string>
   <string name="snooze_option_2_hour">2 sata</string>
@@ -1581,6 +1699,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="sos_status_bar_summary">Klikni za izlaz</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="speed_bump_explanation">Manje hitne obavijesti pri dnu</string>
+  <string name="speed_bump_lockout_message">Usredotočite se na cestu</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
   <string name="speed_label_okay">U redu</string>
@@ -1589,7 +1708,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="speed_label_very_slow">Jako sporo</string>
   <string name="ssl_ca_cert_warning">"Mreža se
 možda prati"</string>
-  <string name="standby_bucket_summary">Stanje aplik. na čekanju: %s</string>
+  <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju:  %s"</string>
   <string name="start_dreams">Čuvar zaslona</string>
   <string name="status_bar">Statusna traka</string>
   <string name="status_bar_accessibility_dismiss_recents">Odbaci nedavne aplikacije</string>
@@ -1615,6 +1734,7 @@ možda prati"</string>
   <string name="status_bar_no_notifications_title">Bez obavijesti</string>
   <string name="status_bar_no_recent_apps">Ovdje se pojavljuju vaši nedavni zasloni</string>
   <string name="status_bar_notification_app_settings_title">Postavke aplikacije %s</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_notification_inspect_item_title">Postavke obavijesti</string>
   <string name="status_bar_ongoing_events_title">U tijeku</string>
   <string name="status_bar_recent_guide_all">"Povucite gore za zatvaranje
@@ -1848,9 +1968,11 @@ Telefon se može pregrijati ako:
   <string name="use_ptp_button_title">Učitaj kao kameru (PTP)</string>
   <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
   <string name="user_add_user">Dodavanje korisnika</string>
+  <string name="user_add_user_message_setup">Kada dodate novog korisnika, ta osoba mora postaviti vlastiti prostor.</string>
   <string name="user_add_user_message_short">"Kada dodate novog korisnika, ta osoba mora postaviti vlastiti prostor.
 
 Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string>
+  <string name="user_add_user_message_update">Svaki korisnik može ažurirati aplikacije za ostale korisnike.</string>
   <string name="user_add_user_title">Dodati novog korisnika?</string>
   <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Kliznite prema dolje jednim prstom radi prikaza panela obavijesti</string>
@@ -1872,7 +1994,15 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="volume_and_do_not_disturb">Ne uznemiravaj</string>
   <string name="volume_dialog_accessibility_dismissed_message">Kontrole glasnoće skrivene</string>
   <string name="volume_dialog_accessibility_shown_message">%s kontrole glasnoće prikazane. Kliznite prstom prema gore da biste ih odbacili.</string>
+  <string name="volume_dialog_ringer_guidance_ring">Telefon će zvoniti za pozive i obavijesti (%1$s)</string>
+  <string name="volume_dialog_title">Kontrole glasnoće – %s</string>
   <string name="volume_dnd_silent">Prečac tipki za glasnoću</string>
+  <string name="volume_ringer_hint_mute">isključivanje zvuka</string>
+  <string name="volume_ringer_hint_unmute">uključivanje zvuka</string>
+  <string name="volume_ringer_hint_vibrate">vibriranje</string>
+  <string name="volume_ringer_status_normal">Zvonjenje</string>
+  <string name="volume_ringer_status_silent">Zvuk je isključen</string>
+  <string name="volume_ringer_status_vibrate">Vibriranje</string>
   <string name="volume_stream_content_description_mute">%1$s. Dodirnite da biste isključili zvuk. Usluge pristupačnosti možda neće imati zvuk.</string>
   <string name="volume_stream_content_description_mute_a11y">%1$s. Dodirnite da biste isključili zvuk.</string>
   <string name="volume_stream_content_description_unmute">%1$s. Dodirnite da biste uključili zvuk.</string>
@@ -1915,15 +2045,15 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="weather_publish_time">Ažurirano %1$s</string>
   <string name="wifi_aggressive_handover">Agresivni WLAN na mobilni prijenos</string>
   <string name="wifi_aggressive_handover_summary">Kada je omogućeno, veza će se aktivnije prebaciti na mobilne podatke kada je WLAN signal nizak.</string>
-  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna točka privremeno puna</string>
   <string name="wifi_allow_scan_with_traffic">Uvijek omogući skeniranje WLAN roam-ova</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili ograničite skeniranje WLAN mreža na temelju količine prometa podataka prisutnih u sučelju.</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna točka privremeno puna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_cant_connect">"Ne mogu se povezati"</string>
   <string name="wifi_cant_connect_to_ap">"Ne mogu se povezati na '%1$s'"</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Dopustite ili ograničite skeniranje WLAN mreža na temelju količine prometa podataka prisutnih u sučelju.</string>	  
   <string name="wifi_check_password_try_again">Provjerite zaporku i pokušajte ponovo</string>
-  <string name="wifi_connected_mac_randomization">Povezana MAC Randomizacija</string>
-  <string name="wifi_connected_mac_randomization_summary">Nasumce prikaži MAC adrese prilikom povezivanja s WLAN mrežama</string> 
+  <string name="wifi_connected_mac_randomization">Nasumični odabir MAC-a pri povezivanju</string>
+  <string name="wifi_connected_mac_randomization_summary">Nasumično odaberi MAC adresu pri povezivanju s Wi-Fi mrežama</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
   <string name="wifi_coverage_extend">Omogući značajku proširenja WLAN pokrivenosti</string>
   <string name="wifi_coverage_extend_summary">Omogući proširivanje pokrivenosti WLAN-om pomoću Hotspota</string>
@@ -1939,7 +2069,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_is_off">WLAN je isključen</string>
-  <string name="wifi_metered_label">Odmjeren</string>
+  <string name="wifi_metered_label">S ograničenim prometom</string>
   <string name="wifi_no_internet">"Ne mogu se povezati s internetom"</string>
   <string name="wifi_no_internet_no_reconnect">"Ne mogu se povezati automatski”</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>

@@ -441,7 +441,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="trans_disconnected_tips_title">Daljinski uređaj nije povezan</string>
   <string name="trans_failed_details_page_title">Neuspješni prijenosi</string>
   <string name="trans_generate_qr_code_failed">"Ne mogu izraditi QR kod"</string>
-  <string name="trans_generate_qrcode_failed">"Ne mogu izraditi QR kod. Pokušajte ponovo."</string>
+  <string name="trans_generate_qrcode_failed">"Ne mogu izraditi QR kod. Zatvorite druge aplikacije i pokušajte ponovno."</string>
   <string name="trans_generating_qrcode">Izrada QR koda…</string>
   <string name="trans_install_guide_button_start">Start</string>
   <string name="trans_install_guide_page_title">Instalirajte Mi Mover na svoj stari telefon</string>

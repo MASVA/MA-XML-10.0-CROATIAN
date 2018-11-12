@@ -97,6 +97,7 @@
   <string name="change_phone_number">Promjena broja telefona</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
   <string name="completed">Sve je postavljeno!</string>
   <string name="confirm_activate_email">Potvrđeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potvrdi grupirani broj telefona</string>
@@ -132,6 +133,10 @@
   <string name="device_list_title">Moji uređaji</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_trust_info">Pouzdani uređaji</string>
+  <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
+  <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
+ID:%s
+Pošaljite ovaj kod našem tehničaru."</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
   <string name="error_duplicate_answers">"Nemojte koristiti duplicirane odgovore iz sigurnosnih razloga"</string>
@@ -164,6 +169,7 @@
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
+  <string name="for_diagnosis_usage_only">Koristite ove informacije samo za dijagnozu.</string>
   <string name="get_back_pwd">Resetiranje vaše zaporke</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
@@ -216,6 +222,7 @@
   <string name="oauth_getting_scopes">Provjera računa…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; će dobiti sljedeća dopuštenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se s Mi Računom</string>
+  <string name="ok">U redu</string>
   <string name="other_devices_title">Ostali uređaji</string>
   <string name="passport_Resend">Pošalji ponovno</string>
   <string name="passport_access_denied">Pristup odbijen</string>
@@ -517,7 +524,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>
   <string name="select_location_title">Odaberite vašu lokaciju</string>
+  <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>
+  <string name="sending">Slanje…</string>
   <string name="service_error">Pogreška usluge</string>
   <string name="set_success">Uspješno promjenjeno</string>
   <string name="sign_in">Prijavi se</string>
@@ -528,6 +537,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="talkback_scan_barcode">Skeniraj QR kod</string>
+  <string name="temporary_not_available">Privremeno nije dostupno</string>
   <string name="submit_answers">Pošalji</string>
   <string name="success">Dovršeno</string>
   <string name="trusted_browsers">Pouzdani preglednici</string>

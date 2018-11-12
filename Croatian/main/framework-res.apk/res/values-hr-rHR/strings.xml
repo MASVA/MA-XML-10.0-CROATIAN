@@ -960,6 +960,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="notification_channel_voice_mail">Poruke govorne pošte</string>
   <string name="notification_channel_vpn">Status VPN-a</string>
   <string name="notification_channel_wfc">WLAN pozivi</string>
+  <string name="notification_description">Status glasovnog poziva</string>
   <string name="notification_hidden_by_policy_text">Sadržaj je skriven prema pravilima</string>
   <string name="notification_hidden_text">Sadržaj je skriven</string>
   <string name="notification_inbox_ellipsis">…</string>
