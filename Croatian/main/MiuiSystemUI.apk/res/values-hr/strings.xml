@@ -1086,7 +1086,7 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
   <string name="lock_screen_no_sim_card">Nema SIM kartice</string>
-  <string name="lock_screen_no_sim_card_emergency_only">Samo hitni poziv</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Samo hitni pozivi</string>
   <string name="lock_screen_no_sim_card_no_service">Nema usluge</string>
   <string name="lock_wallpaper_enter">Uđi</string>
   <string name="lock_wallpaper_learn_more">Više</string>
@@ -1696,7 +1696,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="snooze_option_30_min">30 minuta</string>
   <string name="snooze_undo">PONIŠTI</string>
   <string name="snoozed_for_time">Odgođeno na %1$s</string>
-  <string name="sos_status_bar_summary">Klikni za izlaz</string>
+  <string name="sos_status_bar_summary">Dodirni za izlaz</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="speed_bump_explanation">Manje hitne obavijesti pri dnu</string>
   <string name="speed_bump_lockout_message">Usredotočite se na cestu</string>
@@ -1919,7 +1919,7 @@ Telefon se može pregrijati ako:
   <string name="unimportant_desc">Sve nevažne obavijesti pojavit će se u zasebnoj mapi.</string>
   <string name="unimportant_title">Nevažno</string>
   <string name="unknown">Nepoznato</string>
-  <string name="unlock_camera_steady">Držite mirno</string>
+  <string name="unlock_camera_steady">"Ne pomičite telefon"</string>
   <string name="unlock_failed">Interna pogreška</string>
   <string name="unlock_failed_face_not_found">Otkrivanje</string>
   <string name="unlock_label">Otključaj</string>

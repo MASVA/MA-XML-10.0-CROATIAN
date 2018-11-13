@@ -77,7 +77,7 @@
          <item>Poruka iz Preglednika</item>
          <item>Pratite OI sa Mi</item>
      </string-array>
-	 <string-array name="pref_fling_on_border_gesture_entries">
+	 <string-array name="pref_fling_gesture_entries">
          <item>Stranica natrag-naprijed</item>
          <item>Promjeni kartice</item>
          <item>Ništa</item>
