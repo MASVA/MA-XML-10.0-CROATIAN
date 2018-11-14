@@ -73,6 +73,11 @@
   <string name="cast_unmute">Uključi zvuk</string>
   <string name="click_to_reload_more">Dodirni za učitati više</string>
   <string name="click_to_retry">Pokušaj ponovo</string>
+  <string name="com_mixpanel_android_close">Zatvori</string>
+  <string name="com_mixpanel_android_done">Gotovo</string>
+  <string name="com_mixpanel_android_exit">Izlaz</string>
+  <string name="com_mixpanel_android_logo">By Mixpanel</string>
+  <string name="com_mixpanel_android_notification_image">Slika se ne prikazuje</string>
   <string name="com_permission_desc">"Mi Video ne može pristupiti videozapisima na vašem uređaju. Omogućite pristup u Postavkama."</string>
   <string name="com_permission_title">Potrebno je dopuštenje</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
@@ -124,6 +129,7 @@
   <string name="exo_controls_stop_description">Stop</string>
   <string name="explore_On">Istražite</string>
   <string name="explore_on_mi_video">Pronađite više u Mi Video</string>
+  <string name="failed_to_fetch_data">"Ne mogu učitati informacije."</string>
   <string name="finish">Done</string>
   <string name="for_you">Za vas</string>
   <string name="fw_loading">Samo trenutak…</string>
@@ -272,7 +278,7 @@
   <string name="mr_controller_volume_slider">Klizač glasnoće</string>
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
-  <string name="need_update_app">Ažuriraj Mi Video da biste upotrijebili sve njegove značajke</string>
+  <string name="need_update_app">Ažurirajte Mi Video da biste upotrijebili sve njegove značajke</string>
   <string name="network_connect_info">"Ne mogu se povezati na mrežu.. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="network_failed">"Ne mogu se povezati na mrežu"</string>
   <string name="next">Dalje</string>
