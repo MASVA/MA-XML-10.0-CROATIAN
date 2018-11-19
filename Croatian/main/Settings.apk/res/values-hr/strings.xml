@@ -2856,7 +2856,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="header_category_device">UREĐAJ</string>
   <string name="header_category_personal">OSOBNO</string>
   <string name="header_category_system">SUSTAV</string>
-  <string name="header_category_wireless_networks">Mreža</string>
+  <string name="header_category_wireless_networks">Bežično &amp; mreže</string>
   <string name="header_data_and_synchronization">Podaci &amp; sinkronizacija</string>
   <string name="heads_up_enabled_title">Skočni za visoki prioritet</string>
   <string name="headset_calibrate">Podešavanje tipki</string>
@@ -3528,6 +3528,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="long_press_home_key">Dugi pritisak tipke Početna</string>
   <string name="long_press_menu_key">Dugi pritisak tipke Izbornik</string>
   <string name="long_press_menu_key_when_lock">Dugi pritisak tipke Izbornik na Zaklj. zaslonu</string>
+  <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku napajanja 0,5 sekundi da biste uključili Google pomoćnika</string>
   <string name="long_press_volume_down">Dugo pritisnite smanjivanje glasnoće</string>
   <string name="lost_internet_access_cancel">Ostani na WLAN-u</string>
   <string name="lost_internet_access_persist">Nemoj više prikazivati</string>
@@ -4756,6 +4757,14 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_hide_mode_title">Upravljanje korištenjem baterije aplikacija</string>
   <string name="power_high_usage_title">Visoka potrošnja</string>
   <string name="power_idle">Telefon u mirovanju</string>
+  <string name="power_key_how_power_force_off">Kako prisilino ponovno pokretanuti uređaj</string>
+  <string name="power_key_how_power_force_off_detail">Pritisnite i držite držite tipku za uključivanje/isključivanje dok se uređaj ponovno ne pokrene</string>
+  <string name="power_key_how_power_off">Kako otvoriti stranicu za isključivanje</string>
+  <string name="power_key_how_power_off_detail">Pritisnite i držite tipku za uključivanje/isključivanje 3 sekunde</string>
+  <string name="power_key_how_start">Kako uključiti Google pomoćnika</string>
+  <string name="power_key_how_start_detail">Pritisnite i držite tipku za uključivanje/isključivanje 0.5 sek. Otpustite da pričate.</string>
+  <string name="power_key_start_enjoy">Shvatio sam. Saznajte više o Google pomoćniku</string>
+  <string name="power_key_start_guide">Uključite Google pomoćnika pomoću tipku za uključivanje/isključivanje na uređajima na cijelom zaslonu</string>
   <string name="power_last_full_charge_summary">prije ^1</string>
   <string name="power_mgr">Baterija</string>
   <string name="power_mode">Postavke energije</string>
@@ -6779,6 +6788,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="tethering_no_sim_alert_title">Nema SIM kartice</string>
   <string name="tethering_no_sim_card_text">Umetnite SIM karticu da možete dijeliti podatkovnu vezu s drugim uređajima korištenjem mobilnog hotspota ili USB dijeljenje veze za pristup internetu.</string>
   <string name="tethering_settings_not_available">Promijeni postavke dijeljenja veze u Prvom prostoru</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Probudite glasovnog pomoćnika u načinu rada preko cijelog zaslona (bez virtualnih tipki)</string>
   <string name="tethering_settings_summary">"Dijelite mobilnu podatkovnu mrežu vašeg uređaja putem USB-a ili mobilnog hotspota"</string>
   <string name="theme_settings_title">Teme</string>
   <string name="thememanager_not_found">"Ne mogu otvoriti Teme. Provjerite je li aplikacija instalirana."</string>

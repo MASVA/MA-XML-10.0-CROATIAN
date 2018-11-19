@@ -154,6 +154,10 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="green_guard_des3">Upravljajte instaliranim aplikacijama i ograničite upotrebu</string>
   <string name="green_guard_title2">Prikaži informacije o lokaciji</string>
   <string name="green_guard_title3">Upravljaj aplikacijama</string>
+  <string name="greenguard_child_des">Koristite našu aplikaciju da biste ostali povezani​</string>
+  <string name="greenguard_child_des_title">Trebam pomoć mojih prijatelja i obitelji</string>
+  <string name="greenguard_parent_des">"Preuzmite našu aplikaciju i dodajte uređaje drugih osoba"</string>
+  <string name="greenguard_parent_des_title">Trebam pomoći mojim prijateljima i obitelji</string>
   <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
 Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>

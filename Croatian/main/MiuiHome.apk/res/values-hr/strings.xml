@@ -3,11 +3,13 @@
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="add_screen">Dodaj tipku zaslona</string>
+  <string name="announce_for_app_move_in_folder">Premješteno na mjesto %1$d u mapi</string>
   <string name="announce_for_checked">%1$s, provjereno</string>
   <string name="announce_for_choose_default_screen">Postavi zaslon %1$d kao zadani početni zaslon</string>
   <string name="announce_for_close_default_preview">Zatvorene zadane postavke početnog zaslona</string>
   <string name="announce_for_close_folder">Zatvorena mapa</string>
   <string name="announce_for_close_launcher_menu">Zatvoreni izbornik</string>
+  <string name="announce_for_create_folder_with_app">Izrađena mapa s %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Widget</string>
   <string name="announce_for_delete_item">%1$s je izbrisan</string>
   <string name="announce_for_drag_enter_delete_zone">Povučene stavke u zonu deinstalacije</string>
@@ -30,6 +32,7 @@
   <string name="announce_for_open_launcher_menu">Otvoreni izbornik</string>
   <string name="announce_for_show_uninstall_dialog">Pojavio se dijalog za deinstalaciju. Otkažite ili potvrdite.</string>
   <string name="announce_for_unchecked">%1$s, neprovjereno</string>
+  <string name="announce_for_widget_span">Širina %1$d, visina %2$d</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
   <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
@@ -281,12 +284,14 @@
   <string name="recents_config_title">Nedavno</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
+  <string name="recommend_apps_no_data_toast">Nema preporuka za sada.</string>
   <string name="recommend_apps_notice">Promovirane aplik.</string>
   <string name="recommend_apps_notice_nodata">Promovirane aplik. (Nema podataka)</string>
   <string name="recommend_apps_switch_title">Promovirane aplik.</string>
   <string name="recommend_apps_tips">"Ova se značajka mora povezati s internetom da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape."</string>
   <string name="recommend_loading">Samo trenutak</string>
-  <string name="refresh">Osvježi</string>
+  <string name="recommend_refresh">Osvježi</string>
+  <string name="recommend_xout">"Ne prikazuj"</string>
   <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>
   <string name="reset_description_others">Možete vratiti raspored iz %1$s</string>
   <string name="reset_fail">"Ne mogu vratiti"</string>
