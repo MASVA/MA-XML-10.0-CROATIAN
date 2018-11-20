@@ -19,6 +19,7 @@
   <string name="activity_find_city_dialog_message_global">Dopustite aplikaciji Vrijeme pristup vašoj lokaciji i promjenite na način visoke preciznosti dobivanja lokacije da dobijete relevantne informacije o lokaciji.</string>
   <string name="activity_find_city_dialog_set">Postavke</string>
   <string name="activity_find_city_dialog_title">Pristup lokaciji</string>
+  <string name="activity_main_pub_time">Objavljeno u %1$s</string>
   <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="activity_main_time_format">EEEE</string>
   <string name="activity_main_update_time">Ažurirano %1$s</string>
@@ -199,6 +200,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="pull_fresh_updated">Uspješno ažurirano</string>
   <string name="pull_fresh_updating">Ažuriranje…</string>
   <string name="radar_cloud_image_title">Mapa Radara</string>
+  <string name="radar_cloud_update_time">Prije %1$s</string>
   <string name="rainfall_settings_summary">Postavke padalina</string>
   <string name="rainfall_settings_title">Upozorenje padalina</string>
   <string name="real_time_sunrise">Izlazak sunca %1$s</string>

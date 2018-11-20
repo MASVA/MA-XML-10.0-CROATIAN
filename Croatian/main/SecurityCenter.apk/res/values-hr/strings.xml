@@ -87,7 +87,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_virus_settings">Postavke</string>
   <string name="activity_title_white_list">Iznimke</string>
   <string name="ad_btn_default_text">Saznajte više</string>
-  <string name="ad_split_screen_title">Promjenite na način rada preko cijelog zaslona da otključate</string>
+  <string name="ad_split_screen_title">Za otključavanje zaslona izđitete iz cijelog zaslona</string>
   <string name="ad_update_time">Zadnje ažuriranje %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje nepoznato</string>
   <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
@@ -454,7 +454,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="back">Natrag</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
   <string name="back_description_securitycenter">Natrag</string>
-  <string name="back_modifypassword">Vrati se na promjenu zaporke</string>
+  <string name="back_modifypassword">Vrati se na vrstu promjene zaporke</string>
   <string name="back_sound_data">Uključite mobilne podatke i pokušajte ponovo.</string>
   <string name="back_sound_fail">"Nije moguće postaviti. Promijenjene su postavke operatera. Postavite trenutnu SIM karticu kao podatkovnu karticu, povežite se s mrežom i pokušajte ponovo."</string>
   <string name="back_sound_success">Uspješno postavljeno</string>
@@ -1600,8 +1600,8 @@ podatkovnu vezu"</string>
   <string name="mixed_recording_intro_header">Unesite barem 4 znaka</string>
   <string name="mixed_retry_button_text">Odustani</string>
   <string name="mixed_settings_help_how_to_record">Kako postaviti zaporku</string>
-  <string name="modify_password_mode">&lt;u&gt;Promjeni vrstu zaporke&lt;/u&gt;</string>
-  <string name="modifypassword">Promjenite zaporku</string>
+  <string name="modify_password_mode">Promjeni vrstu zaporke</string>
+  <string name="modifypassword">Promjeni vrstu zaporke</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Više</string>
   <string name="monitor_requests_from_pc">Upravljaj instalacijom aplikacija putem USB-a</string>

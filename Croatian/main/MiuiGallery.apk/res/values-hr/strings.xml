@@ -935,6 +935,7 @@ za fotografije"</string>
   <string name="photo_editor_talkback_crop_mirror">Ogledalo</string>
   <string name="photo_editor_talkback_crop_original">Original</string>
   <string name="photo_editor_talkback_crop_rotate">Rotiraj</string>
+  <string name="photo_editor_talkback_crop_screen">Omjer slike preko cijelog zaslona</string>
   <string name="photo_editor_talkback_doodle_arrow">Strelica</string>
   <string name="photo_editor_talkback_doodle_circular">Krug</string>
   <string name="photo_editor_talkback_doodle_line">Linija</string>

@@ -254,6 +254,7 @@
   <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="separate_from_conference">Odvoji poziv</string>
   <string name="sip_call_not_support_record">"Ne mogu snimiti SIP pozive"</string>
+  <string name="supp_service_notification_call_waiting">Linija je zauzeta. Pričekajte…</string>
   <string name="suspect_info">Budite oprezni sa svojim osobnim podacima.</string>
   <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Nepoznato</string>

@@ -806,10 +806,10 @@ Audio"</string>
   <string name="debug_networking_category">Umrežavanje</string>
   <string name="debug_view_attributes">Uključi pregled atributa prikaza</string>
   <string name="default_notification_description">Zadani zvuk (%1$s)</string>
-  <string name="default_preference_summary">&lt;Nije postavljeno&gt;</string>
-  <string name="default_preference_summary_domain_address">&lt;Nije postavljeno&gt;</string>
-  <string name="default_preference_summary_password">&lt;Nije postavljeno&gt;</string>
-  <string name="default_preference_summary_username">&lt;Nije postavljeno&gt;</string>
+  <string name="default_preference_summary">Nije postavljeno</string>
+  <string name="default_preference_summary_domain_address">Nije postavljeno</string>
+  <string name="default_preference_summary_password">Nije postavljeno</string>
+  <string name="default_preference_summary_username">Nije postavljeno</string>
   <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbriši sve kontakte sa SIM kartice</string>
   <string name="deleteSimContacts">Brisanje kontakata…</string>
@@ -1069,7 +1069,7 @@ Audio"</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
   <string name="fdn_with_label">Fiksno biranje (%s)</string>
   <string name="feedback">Pov. informacija</string>
-  <string name="flash_when_ring_summary">Obavijesti Bljeskalicom o dolaznim pozivima</string>
+  <string name="flash_when_ring_summary">Koristi bljeskalicu za obavijesti o dolaznim pozivima</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
   <string name="forbidden_network">(Ograničeno)</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
@@ -1940,7 +1940,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="respond_via_sms_canned_response_2">Nazvat ću vas odmah.</string>
   <string name="respond_via_sms_canned_response_3">Zvat ću vas kasnije.</string>
   <string name="respond_via_sms_canned_response_4">Sada ne mogu razgovarati. Nazovite me kasnije?</string>
-  <string name="respond_via_sms_cannot_empty">Odbijanje poruka ne može biti prazno</string>
+  <string name="respond_via_sms_cannot_empty">"Poruka ne može biti prazna"</string>
   <string name="respond_via_sms_confirmation_format">Poruka poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_menu_reset_default_activity">Vrati zadano</string>
