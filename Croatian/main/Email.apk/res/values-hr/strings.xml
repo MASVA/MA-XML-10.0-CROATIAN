@@ -356,7 +356,9 @@
   <string name="device_not_activiey_lint1">Upravitelj uređaja nije aktiviran</string>
   <string name="device_not_activiey_lint2">Usluga E-pošte ne radi s Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">"Izmijenili ste ručnu sinkronizaciju, potrebno je ručno osvježiti za primanje pošte."</string>
+  <string name="dialog_agree">Slažem se</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne mogu automatski primati nove poruke. Sinkronizacija je isključena."</string>
+  <string name="dialog_disagree">Ne slažem se</string>
   <string name="dialog_change_sync_lookback">Poruka e-pošte primljena prije %s će automatski biti izbrisana. Dodirnite za promjenu.</string>
   <string name="dialog_gmail_proxy_server_is_error">Pogreška Gmail proxy poslužitelja.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nedovoljno prostora za preuzimanje privitaka za %s.</string>
@@ -543,9 +545,10 @@
   <string name="information_subscribe_first_intro">"Izgleda da koristite Novosti po prvi put. Recite nam nešto o svojim interesima da vam možemo personalizirati vijesti."</string>
   <string name="inline_picture_deleted">Preuzimanje slike koja nedostaje…"</string>
   <string name="input_password_prompt">Unesite zaporku:</string>
-  <string name="interact_with_server_error">"Povezivanje s poslužiteljem nije uspjelor"</string>
+  <string name="interact_with_server_error">"Povezivanje s poslužiteljem nije uspjelo"</string>
   <string name="invalid_recipient">Adresa %s nije važeća.</string>
   <string name="invalid_recipient_title">Pogreška primatelja</string>
+  <string name="list_empty_to_fresh">Nema e-pošte, povucite dolje da biste osvježili.</string>
   <string name="kilobytes">%s KB</string>
   <string name="load_from_remote">Traži pošt. sandučić na poslužitelju</string>
   <string name="load_more">Učitaj više</string>
@@ -1065,7 +1068,7 @@ Zaustaviti sada?"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Uživajte u dodatnim značajkama usluge WPS Mail</string>
   <string name="updated_at">Osvježeno u: %1$s</string>
-  <string name="upload_log">Pošalji dnevnike</string>
+  <string name="upload_log">Pošalji</string>
   <string name="upload_log_failed">"Ne mogu poslati dnevnik"</string>
   <string name="upload_log_no">Odustani</string>
   <string name="upload_log_success">"Uspješno poslano, čujemo se uskoro."</string>

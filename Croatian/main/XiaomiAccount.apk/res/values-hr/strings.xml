@@ -169,7 +169,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="find_device_request_prepare_error">"Ne mogu dobiti status, pokušajte ponovno kasnije"</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
-  <string name="for_diagnosis_usage_only">Koristite ove informacije samo za dijagnozu.</string>
+  <string name="for_diagnosis_usage_only">Koristi se samo za pronalaženje problema.</string>
   <string name="get_back_pwd">Resetiranje vaše zaporke</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
@@ -323,11 +323,11 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_input_password_for_login">Ovaj je broj povezan s postojećim računom, unesite svoju zaporku</string>
   <string name="passport_input_password_hint">Unesite zaporku</string>
   <string name="passport_input_phone_hint">Unesite broj telefona</string>
-  <string name="passport_input_phone_password">Unesite zaporku za broj %s</string>
+  <string name="passport_input_phone_password">Unesite zaporku za %s</string>
   <string name="passport_input_vcode_hint">Unesite kod za provjeru</string>
   <string name="passport_input_voice_captcha_hint">Unesite glasovni kôd za provjeru</string>
   <string name="passport_input_voice_hint">Unesite glasovni kôd</string>
-   <string name="passport_international_register_by_email">Izradite račun pomoću adrese e-pošte</string>
+  <string name="passport_international_register_by_email">Izradite račun pomoću adrese e-pošte</string>
   <string name="passport_instant_login">Prijavi se</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
   <string name="passport_license_info_collapse">Sažmi</string>
@@ -429,7 +429,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
   <string name="passport_sms_send_success">Poslano</string>
   <string name="passport_sms_verification_code_login">Prijavite se pomoću SMS-a</string>
-  <string name="passport_sms_verification_code_login_or_register">Prijavite se ili se registrirajte pomoću SMS-a</string>
+  <string name="passport_sms_verification_code_login_or_register">Prijavite se ili izradite račun pomoću SMS-a</string>
   <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
   <string name="passport_title_reg">Izradi račun</string>
@@ -537,7 +537,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="talkback_scan_barcode">Skeniraj QR kod</string>
-  <string name="temporary_not_available">Privremeno nije dostupno</string>
+  <string name="temporary_not_available">"Ova značajka još nije dostupna."</string>
   <string name="submit_answers">Pošalji</string>
   <string name="success">Dovršeno</string>
   <string name="trusted_browsers">Pouzdani preglednici</string>
