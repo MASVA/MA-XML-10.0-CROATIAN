@@ -266,6 +266,8 @@
   <string name="extract">Raspakiraj</string>
   <string name="fail_to_create_folder">Nedovoljno prostora ili mapa već postoji.</string>
   <string name="fail_to_create_folder_unknown">"Ne mogu napraviti mapu"</string>
+  <string name="failed_not_access_sd_card">Najprije omogućite pristup SD kartici</string>
+  <string name="failed_obtain_permissions">"Ne mogu dobiti dopuštenje"</string>
   <string name="fail_to_rename">Datoteka s istim nazivom već postoji.</string>
   <string name="favorite_photo">Fotografije</string>
   <string name="favorite_ringtone">Zvukovi zvona</string>
@@ -549,6 +551,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_wifi">Nema dostupnih WLAN mreža.</string>
   <string name="no_wifi_hint">Nema dostupnih mreža</string>
   <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
+  <string name="not_support_documentui">"Aplikacija DocumentUI nije podržana na ovom uređaju"</string>
   <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
   <string name="notification_content_hint">Dodirni za prikaz</string>
@@ -739,6 +742,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="report_politics">Politika</string>
   <string name="report_porn">Porn</string>
   <string name="report_violence">Nasilje</string>
+  <string name="request_document_permission">Da biste upravljali datotekama na SD kartici, dajte aplikaciji Datoteke potrebna dopuštenja.</string>
+  <string name="request_document_permission_title">Potrebno je dopuštenje</string>
   <string name="request_timeout">Isteklo je vrijeme zahtjeva za mrežom</string>
   <string name="reset_password">Promjena zaporke</string>
   <string name="restoring">Obnavljam…</string>

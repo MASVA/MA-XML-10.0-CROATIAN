@@ -311,6 +311,7 @@
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži sve</string>
   <string name="show_mem_info_title">Prikaži status memorije</string>
+  <string name="show_recents_recommend_title">Prikaži prijedloge</string>
   <string name="sort_by_abc">Poredaj po nazivu</string>
   <string name="sort_by_frequency">Poredaj po korištenju</string>
   <string name="sort_by_not_defined">Automatski poredaj</string>

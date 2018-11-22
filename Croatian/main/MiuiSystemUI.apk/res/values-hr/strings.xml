@@ -1589,6 +1589,12 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="recents_quick_scrub_onboarding">Povucite udesno da biste brzo promijenili aplikaciju</string>
   <string name="recents_search_bar_label">Traži</string>
   <string name="recents_stack_action_button_label">Ukloni sve</string>
+  <string name="recents_title_app_manager">Upravljaj aplikacijama</string>
+  <string name="recents_title_game">Igre</string>
+  <string name="recents_title_garbage_cleanup">Čistač</string>
+  <string name="recents_title_garbage_deepclean">Full čišćenje</string>
+  <string name="recents_title_market">Pronađi aplikacije</string>
+  <string name="recents_title_security_scan">Sigurnosno skeniranje</string>
   <string name="recents_swipe_up_onboarding">Prijeđite prstom prema gore da biste promijenili aplikaciju</string>
   <string name="reject_call">Poziv odbijen</string>
   <string name="remaining_length_format">Još %1$s</string>
