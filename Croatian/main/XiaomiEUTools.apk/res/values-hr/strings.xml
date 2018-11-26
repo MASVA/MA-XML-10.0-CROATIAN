@@ -17,8 +17,6 @@
     <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
-    <string name="search_menu_title">Pretraživanje</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 	<string name="about">"XiaomiEU Alati v1.0 je koncept koji se temelji na MIUI aplikaciji Sigurnost kojeg je projektirao ZduneX25
 2018 Sva prava pridržana."</string>
     <string name="app_name">XiaomiEU Alati</string>
@@ -43,7 +41,6 @@
     <string name="search_menu_title">Traži</string>
     <string name="space_desc">Još jedan zaseban prostor</string>
     <string name="space_title">Drugi prostor</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="theme_desc">Prilagodite izgled uređaja</string>
     <string name="theme_title">Teme</string>
     <string name="tools">Alati %1$s</string>

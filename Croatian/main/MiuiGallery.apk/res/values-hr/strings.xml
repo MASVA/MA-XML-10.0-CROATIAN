@@ -999,7 +999,6 @@ za fotografije"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju</string>
   <string name="photo_print_package_finish">Uspješno učitan dodatak ispisa…</string>
   <string name="photo_print_package_installing">Učitavanje dodatka…</string>	  
-  <string name="photo_print_package_installing">Učitavanje dodatka ispisa…</string>  
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_save_to_msg">Spremljeno u %s</string>
   <string name="photoeditor_name">Foto Studio</string>
