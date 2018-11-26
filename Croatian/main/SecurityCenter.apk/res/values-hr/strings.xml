@@ -797,6 +797,12 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="deep_clean_disconnect_data_title">Isključi mobilne podatke kada je uređaj zaključan</string>
   <string name="deep_clean_memory_clean_title">Izbriši predmemoriju kada je uređaj zaključan</string>
   <string name="deep_clean_never_memory_clean">Nikad</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Automatski prilagodite svjetlinu zaslona kako biste uštedjeli bateriju</string>
+  <string name="deep_power_save_item_summary_bluetooth">Isključi Bluetooth kako biste uštedjeli bateriju</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Isključi zaslon na mirovanje nakon 30 sekundi neaktivnosti kako bist uštedjeli bateriju</string>
+  <string name="deep_power_save_item_title_auto_brightness">Uključi automatsku svjetlinu</string>
+  <string name="deep_power_save_item_title_bluetooth">Isključi Bluetooth</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Isključi zaslon</string>
   <string name="deep_save_memory_clean_summary">Izbriši predmemoriju kada je uređaj zaključan da spriječite aplikacije od korištenja baterije</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Odredite vrijeme za uključivanje i isključivanje uređaja</string>
   <string name="delete">Izbriši</string>
@@ -1372,7 +1378,6 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="lockpattern_need_to_unlock_wrong">Pokušajte ponovno</string>
   <string name="lockpattern_pattern_confirmed_header">Novi uzorak za otključavanje</string>
   <string name="lockpattern_pattern_entered_header">Uzorak je dodan</string>
-  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanje %d točke</string>
   <string name="lockpattern_recording_inprogress">"Podignite prst kad ste završili"</string>
   <string name="lockpattern_recording_intro_header">Povežite najmanje 4 točke za izradu uzorka</string>
   <string name="lockpattern_retry_button_text">Pokušaj ponovno</string>
@@ -1596,7 +1601,6 @@ podatkovnu vezu"</string>
   <string name="mixed_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="mixed_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
   <string name="mixed_pattern_entered_header">Zaporka uspješno postavljena</string>
-  <string name="mixed_recording_incorrect_too_short">Unesite barem %d znakova.</string>
   <string name="mixed_recording_intro_header">Unesite barem 4 znaka</string>
   <string name="mixed_retry_button_text">Odustani</string>
   <string name="mixed_settings_help_how_to_record">Kako postaviti zaporku</string>
@@ -1732,7 +1736,6 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="numeric_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="numeric_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
   <string name="numeric_pattern_entered_header">PIN uspješno postavljen</string>
-  <string name="numeric_recording_incorrect_too_short">Unesite barem %d znamenki.</string>
   <string name="numeric_recording_intro_header">Unesite zaporku</string>
   <string name="numeric_retry_button_text">Odustani</string>
   <string name="numeric_settings_help_how_to_record">Kako postaviti PIN</string>

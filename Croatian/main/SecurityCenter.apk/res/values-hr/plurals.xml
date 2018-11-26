@@ -301,6 +301,18 @@
         <item quantity="other">Zaporka treba sadržavati najmanje %d znakova osim slova.</item>
         <item quantity="one">Zaporka treba sadržavati najmanje 1 znak osim slova.</item>
     </plurals>
+	<plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Povežite barem %d točaka</item>
+        <item quantity="one">Povežite barem %d točku</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Unesite barem %d brojeva</item>
+        <item quantity="one">Unesite barem %d broj</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Unesite barem %d znakova</item>
+        <item quantity="one">Unesite barem %d znak</item>
+    </plurals>
 	<plurals name="number_masked">
          <item quantity="other">Aplikacija: %d</item>
          <item quantity="one">%d aplikacija</item>

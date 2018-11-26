@@ -154,7 +154,13 @@ i na trenutak izađite iz pregleda"</string>
   <string name="confirm_recording_fail_title">"Ne mogu snimiti"</string>
   <string name="confirm_restore_message">"Obnoviti Kameru na zadane postavke?"</string>
   <string name="confirm_restore_title">Obnovi na zadane postavke</string>
-  <string name="connect_wifi">Poveži se s tom mrežmo</string>
+  <string name="custom_watermark_contains_senstive_words">Promijenite osjetljivi tekst %1$s</string>
+  <string name="custom_watermark_tips">Gornji tekst bit će drugi redak oznake na fotografiji. Ograničite ga na 15 slova.</string>
+  <string name="custom_watermark_too_many_words">Predugačko</string>
+  <string name="custom_watermark_words">Korisnik definira riječi oznake</string>
+  <string name="custom_watermark_words_input_hint">Unesite riječi</string>
+  <string name="custom_watermark_words_save_success">Uspješno spremljeno</string>
+  <string name="connect_wifi">Poveži se s tom mrežom</string>
   <string name="contact_address">Adresa</string>
   <string name="contact_birthday">Rođendan</string>
   <string name="contact_company">Tvrtka</string>
@@ -688,6 +694,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh je zatvoren</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
+  <string name="pref_userdefine_watermark_title">Korisnik određuje naziv oznake</string>
   <string name="pref_camera_video_duration_entry_10">10 minuta</string>
   <string name="pref_camera_video_duration_entry_120">Bez ograničenja</string>
   <string name="pref_camera_video_duration_entry_30">30 minuta</string>
