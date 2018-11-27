@@ -128,6 +128,14 @@ Napomena: Datoteka će također biti izbrisana iz ovog uređaja."</item>
          <item quantity="other">Pjesama: %d</item>
          <item quantity="one">%1$d pjesma</item>
      </plurals>
+	 <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Preuzimanje datoteka: %1$d</item>
+        <item quantity="one">Preuzimanje %1$d datoteke</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Ne mogu preuzeti stavke: %1$d"</item>
+        <item quantity="one">"Ne mogu preuzeti %1$d stavku"</item>
+    </plurals>
      <plurals name="reader_count">
          <item quantity="other">%d čitatelja</item>
          <item quantity="one">%d čitatelj</item>

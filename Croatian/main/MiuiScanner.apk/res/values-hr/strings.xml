@@ -98,6 +98,7 @@
   <string name="module_title_code">QR kod</string>
   <string name="low_version_tip">MIUI verzija je prestara. Ažurirajte MIUI da možete koristiti Skener.</string>
   <string name="module_title_document">Dokumenat</string>
+  <string name="module_title_plant">Biljka</string>
   <string name="module_title_namecard">Posjetnica</string>
   <string name="module_title_shopping">Kupovina</string>
   <string name="module_title_study">Studiranje</string>
@@ -120,6 +121,11 @@
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
   <string name="place_barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
+  <string name="plant_fail">"Ne mogu prepoznati"</string>
+  <string name="plant_loading">Identificiranje…</string>
+  <string name="plant_reg_fail_2">"Ne mogu prepoznati ovaj objekt. Skener može identificirati samo biljke."</string>
+  <string name="plant_support">" (Tehnička podrška)"</string>
+  <string name="plant_title">Skenirajte biljku koju želite identificirati</string>
   <string name="preparing_sd">Priprema unutarnje pohrane…</string>
   <string name="previous">Natrag</string>
   <string name="qr_code_details">Detalji QR koda:</string>

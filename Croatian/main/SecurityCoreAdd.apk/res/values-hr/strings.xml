@@ -19,6 +19,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="app_name">Komponenta Sigurnosti jezgre</string>
   <string name="back">Natrag</string>
   <string name="bind_device">Dodaj uređaje</string>
+  <string name="button_text_next_step">Dalje</string>
+  <string name="button_text_next_step_timer">Sljedeći korak (%d)</string>
   <string name="can_not_delete_when_calling">"Ne mogu se izbrisati prostori tijekom poziva"</string>
   <string name="can_not_switch_when_calling">"Ne mogu se mjenjati prostori tijekom poziva"</string>
   <string name="can_not_switch_when_green_kid_active">Prebacivanje na Drugi prostor ograničeno je roditeljskim nadzorom</string>
@@ -65,6 +67,9 @@ Isključiti svejedno?"</string>
   <string name="create_space_loading">Izrada Drugog prostora…</string>
   <string name="create_work_space">Izradi Radni prostor</string>
   <string name="creating_app_icon">Izrada ikone…</string>
+  <string name="cta_declaration_agree_and_continue">Slažem se</string>
+  <string name="cta_declaration_message_format" formatted="false">Morate pročitati i složiti se s našim &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; prije korištenja Enterprise načina. Vaš uređaj treba biti povezan na internet za aktiviranje Enterprise načina. Slažete li se?</string>
+  <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Korištenje Drugog prostora je kao da imate dva uređaja.</string>
   <string name="declare_dialog_title">O Dvojnim aplikacijama</string>
@@ -76,7 +81,11 @@ Isključiti svejedno?"</string>
   <string name="delete_phone_fingerprint">Izbriši otisak prsta za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
+  <string name="dialog_message_service_error">"Nije bilo moguće opozvati autorizaciju i izvršiti vraćanje na tvorničke postavke. Pokušajte ponovo."</string>
+  <string name="dialog_tip_need_network">Vaš uređaj treba biti povezan na internet za opozivanje autorizacije.</string>
   <string name="dialog_title">Pažnja</string>
+  <string name="dialog_title_service_error">Pogreška poslužitelja</string>
+  <string name="dialog_undo_negative">"Ne opozivaj"</string>
   <string name="dir_switch_out_all_photos">Galerija Drugog prostora</string>
   <string name="disable">Isključi</string>
   <string name="disagree">"Ne slažem se"</string>
@@ -195,7 +204,11 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="loading_space">Samo trenutak…</string>
   <string name="loading_success">Uspješno učitano</string>
   <string name="lock_screen_open_second_space">Uđite u Drugi prostor sa Zaklj. zaslona</string>
+  <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
+  <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
+  <string name="master_clear_apply_title">Pažnja</string>
   <string name="messageData">Poruke</string>
+  <string name="more_settings">Više</string>
   <string name="menu_item_about_privacy_title">Pravila o Privatnosti</string>
   <string name="msg_switch_file">Izbrisati ove datoteke u Prvom prostoru nakon što ste ih premjestili?</string>
   <string name="msg_switch_file_second">Izbrisati ove datoteke u Drugom prostoru nakon što ste ih premjestili?</string>
@@ -412,6 +425,11 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugog prostora će biti premještene u album \"Drugi prostor\" u Prvom prostoru</string>
   <string name="transferMessage">Poruke iz Drugog prostora će biti premještene u Prvi prostor</string>
   <string name="tryNow">Isprobajte sada</string>
+  <string name="undo_activated_dialog_message">"Opoziv autorizacije isključit će način rada Enterprise i vratiti uređaj na tvorničke postavke. Sve povezane značajke više neće biti dostupne. Osim toga, Xiaomi će prestati prikupljati informacije potrebne za način rada Enterprise (IMEI, ID uređaja, verzija sustava, regija itd.). Želimo vas podsjetiti da Xiaomi ne upravlja podacima koje prikuplja za način rada Enterprise. Učinit ćemo sve kako bi obavijestili sve povezane stranke, no preporučujemo da kontaktirate nadzornike svoje tvrtke da biste odobrili opoziv. Opozvati autorizaciju i vratiti uređaj na tvorničke postavke?"</string>
+  <string name="undo_activated_dialog_ok">Opozovi</string>
+  <string name="undo_grant_dialog_message">Xiaomi će prestati prikupljati informacije potrebne za tu značajku (IMEI, ID uređaja, verzija sustava, regija itd.) nakon opoziva autorizacije. Opozvati sada?</string>
+  <string name="undo_privacy_menu">Opozovi autorizaciju</string>
+  <string name="undo_success">Uspješno opozvano</string>
   <string name="use_xiaoai_open">Probudi pomoću glasovnog pomoćnika</string>
   <string name="wating">Samo trenutak…</string>
   <string name="weibo_send">Pošalji na Weibo</string>

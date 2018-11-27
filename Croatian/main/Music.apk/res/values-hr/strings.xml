@@ -126,6 +126,7 @@
   <string name="avoid_to_use_traffic_summary">"Nemoj koristiti mobilnu mrežu za stream glazbe"</string>
   <string name="avoid_to_use_traffic_title">Pitaj pri korištenju mobilnih podataka za reprodukciju pjesama</string>
   <string name="back_confirm">Dodirnite ponovno za stavljanje aplikacije u pozadinu</string>
+  <string name="banner_op">Mi Glazba</string>
   <string name="backup_complete">Sve pjesme su pohranjene na Mi Cloud</string>
   <string name="backup_empty_button">Nema odabranih pjesama</string>
   <string name="backup_immediate">Pohrani</string>
@@ -773,13 +774,11 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…</string>
   <string name="notif_title_file_size">%1$d ukupno</string>
-  <string name="notif_title_multiple_downloading">Preuzimanje datoteka: %1$d</string>
   <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
   <string name="notification_des_next_song">Sljedeća pjesma: %s</string>
   <string name="notification_des_no_song">Mi Glazba. Svakodnevno nova glazba.</string>
   <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
-  <string name="notification_download_failed_more">"Ne mogu preuzetistavke: %1$d"</string>
   <string name="notification_download_success_more">Preuzeto: %1$d</string>
   <string name="notification_favorite_summary">Primajte obavijesti o novim izdanjima i najnovijim hitovima</string>
   <string name="notification_favorite_title">Obavijest o omiljenim izvođačima</string>
@@ -799,6 +798,13 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="nowplaying_dialog_title_delete_tracks">Želite li ukloniti ovu pjesmu iz reda čekanja?</string>
   <string name="nowplaying_menu_item_delete">Ukloni iz reda čekanja</string>
   <string name="ok">"U redu"</string>
+  <string name="online_apk_download_error_no_enough_space">"Ne mogu preuzeti zbog nedovoljnog prostora za pohranu."</string>
+  <string name="online_apk_downloading">Preuzimanje…%d%%</string>
+  <string name="online_apk_install_alert_confirm">Preuzmi</string>
+  <string name="online_apk_install_alert_message">Trebate preuzeti dodatak Yandex Music. Preuzeti sada?</string>
+  <string name="online_apk_install_alert_note">Tu uslugu pruža Yandex Music</string>
+  <string name="online_apk_install_error_no_enough_space">"Ne mogu instalirati zbog nedovoljnog prostora za pohranu."</string>
+  <string name="online_apk_install_error_with_reason">"Ne mogu instalirati (Pogreška %d)"</string>
   <string name="one_month">1 mmjesec</string>
   <string name="online_bill">Račun</string>
   <string name="online_favor">Istaknuto</string>
@@ -1211,4 +1217,11 @@ uglavnom pruža Ultimate Inc.</string>
 
 Dodirnite %s da biste pokrenuli preuzimanje sljedeći put kada se povežete s WLAN mrežom."</string>
   <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatora</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
+Veličina: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina Delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
 </resources>
