@@ -16,6 +16,8 @@
   <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč. zaslona, postavke sustava, itd.</string>
   <string name="backup_now">Izradi Sig. kopiju sada</string>
   <string name="backup_size">Veličina: %s</string>
+  <string name="backup_stopped_msg">Nastavi izradu Sig. kopije iznad postojeće Cloud Sig. kopije, kliknite za prikaz.</string>
+  <string name="backup_stopped_title">Cloud Sig. kopija je zaustavljena</string>
   <string name="backup_success">Sig. kopija uspješno izrađena</string>
   <string name="backup_successfully">Sig. kopija uspješno izrađena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
@@ -99,13 +101,16 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="desktop_waiting">Čekanje</string>
   <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
+  <string name="dialog_btn_cancel_backup">Odustani</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_btn_next">Dalje</string>
+  <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrati kasnije</string>
   <string name="dialog_cancel_backup_cancel">Odustani</string>
   <string name="dialog_cancel_backup_confirm">U redu</string>
   <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
   <string name="dialog_cancel_backup_title">Otkazati izradu u tijeku?</string>
+  <string name="dialog_msg_overwrite_backup">Razlika između lokalne i Cloud Sig. kopije je velika, nastavak izrade Sig. kopije će prebrisati postojeću.</string>
   <string name="dialog_msg_restore_require_wlan">Vraćanje sigurnosnih kopija zahtijeva povezivanje s WLAN mrežom.</string>
   <string name="dialog_title_require_wlan">Povežite se na WLAN</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
