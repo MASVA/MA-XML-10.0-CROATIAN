@@ -505,12 +505,12 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="application_item_disable">Odbij</string>
   <string name="application_item_permission">Dopusti</string>
   <string name="application_lock_name">Zaklj. aplikacije</string>
-  <string name="application_manager_section_title">Postavke aplikacije</string>
+  <string name="application_manager_section_title">Aplikacije</string>
   <string name="application_permission_manager">Dopuštenja aplikacija</string>
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="application_restrictions">Dopusti aplikacije i sadržaj</string>
   <string name="application_size_label">Aplikacija</string>
-  <string name="applications_settings">Instalirane aplikacije</string>
+  <string name="applications_settings">Upravljaj aplikacijama</string>
   <string name="applications_settings_header">Postavke aplikacije</string>
   <string name="applications_settings_summary">Upravljanje aplikacijama, postavljanje prečaca za brzo pokretanje</string>
   <string name="apply">Primijeni</string>
@@ -6646,8 +6646,8 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="swipe_up_to_switch_apps_title">Prijeđite prstom prema gore po gumbu početnog zaslona</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
-  <string name="switch_screen_button_order">Zrcalne tipke</string>
-  <string name="switch_screen_button_order_desc">Zrcalna tipka Natrag i tipke Izbornika</string>
+  <string name="switch_screen_button_order">Zamjeni tipke</string>
+  <string name="switch_screen_button_order_desc">Zamjeni raspored tipki Natrag i Izbornik</string>
   <string name="symbols_not_allowed_for_password">"Zaporka ne može sadržavati simbole"</string>
   <string name="sync_active">Sinkronizacija aktivna</string>
   <string name="sync_automatically">Autom. sinkr. podataka aplikacije</string>
@@ -6678,12 +6678,12 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="system_alert_window_summary" formatted="false">Aplikacije koje se mogu povlačiti iznad drugih aplikacija: %d/%d</string>
   <string name="system_and_device_section_title">Sustav &amp; uređaj</string>
   <string name="system_app">(Sustav)</string>
-  <string name="system_app_settings">Aplikacije sustava</string>
+  <string name="system_app_settings">Postavke aplikacija sustava</string>
   <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
   <string name="system_backup">Sig. kopija</string>
   <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
   <string name="system_backup_section_title">Sig. kopija</string>
-  <string name="system_dashboard_summary">Jezici, vrijeme, sigurnosna kopija, ažuriranja</string>
+  <string name="system_dashboard_summary">Jezici, vrijeme, Sig. kopija, ažuriranja</string>
   <string name="system_default_app">(Zadano sustavom)</string>
   <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
   <string name="system_shortcut_wake">Probudi sa prečacima tipki</string>

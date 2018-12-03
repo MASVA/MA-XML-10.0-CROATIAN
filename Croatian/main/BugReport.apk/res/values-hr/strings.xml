@@ -124,6 +124,7 @@
   <string name="feedback_status_change_notification_title">"Vaš napredak zapisa je ažuriran"</string>
   <string name="feedback_status_collect_log_failed">"Ne mogu dobiti zapise"</string>
   <string name="feedback_status_commit_failed_title">"Ne mogu poslati zapis"</string>
+  <string name="feedback_status_commit_in_queue_title">Na čekanju…</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Šaljem…</string>
   <string name="feedback_status_forum_reply">Odgovori</string>
@@ -315,7 +316,7 @@
   <string name="select_system_app_tag">Odaberite problem</string>
   <string name="submit_dialog_cancel">"Ne slažem se"</string>
   <string name="submit_dialog_confirm">Slažem se</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima i zapisima će biti poslani na MIUI poslužitelje. Isti može sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Morate se složiti s našim <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Pravila o Privatnosti</a> i <a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">Korisnički Sporazum</a> da bi mogli koristiti povratne informacije. Problemi koje prijavljujete zajedno s stavkama koje priložite (mogu sadržavati osobne podatke, kao i informacije o vašem uređaju i mreži) bit će prenesene na poslužitelje MIUI-a. To će nam pomoći da pronađemo i riješimo probleme koje prijavljujete&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s prilozima (ako postoje) i zapisima (možete isključiti odgovarajuće okvire za stavke koje ne želite poslati) će biti poslani na MIUI poslužitelje i ograničeni dio MIUI Foruma za programere. Informacije o vašim temama i forumu također će se prikupljati za analizu i daljnju komunikaciju. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privaila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Pošalji zapis o pogrešci</string>
   <string name="submit_feedback_info_failed">"Ne mogu poslati zapis"</string>
@@ -344,7 +345,6 @@
   <string name="toast_feedback_pending_wlan">"Izvješće će biti poslano kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Zapis je poslan</string>
   <string name="toast_feedback_submitting">Slanje…</string>
-  <string name="toast_feedbackservice_in_submit">Upravljanje prethodnih informacija…</string>
   <string name="toast_fill_brackets">Vašem Zapisu nedostaju neke informacije</string>
   <string name="toast_loading_app_id">Dobivanje informacija…</string>
   <string name="toast_log_not_exists">"Traženi zapis ne postoji ii je izbrisan"</string>

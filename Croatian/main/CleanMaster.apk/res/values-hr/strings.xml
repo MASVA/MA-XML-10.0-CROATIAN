@@ -223,6 +223,8 @@
   <string name="facebook_clean_exit_confirm_ok">Zaustavi</string>
   <string name="facebook_clean_exit_confirm_title">Zaustaviti skeniranje?</string>
   <string name="facebook_cleaner">Facebook čistač</string>
+  <string name="facebook_function_summery">Očisti stavke predmemorije Facebooka</string>
+  <string name="facebook_function_title">Facebook čistač</string>
   <string name="facebook_group_cache">Datoteke predmemorije</string>
   <string name="facebook_group_gif">GIF-ovi</string>
   <string name="facebook_group_image">Slike</string>

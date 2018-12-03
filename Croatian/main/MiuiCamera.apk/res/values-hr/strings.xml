@@ -21,6 +21,8 @@
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Sklopka prednje i stražnje kamere</string>
   <string name="accessibility_camera_picker_finish">Kamere uspješno promjenjene</string>
+  <string name="accessibility_camera_record_start">Započni snimanje</string>
+  <string name="accessibility_camera_record_stop">Zaustavi snimanje</string>
   <string name="accessibility_camera_shutter_finish">Fotografija uspješno napravljena</string>
   <string name="accessibility_close_more_ptions">Onemogući više opcija</string>
   <string name="accessibility_closed">Isključeno</string>
@@ -56,6 +58,7 @@
   <string name="accessibility_peak">Tipka Focus-Peak</string>
   <string name="accessibility_portrait_button">Portretni način</string>
   <string name="accessibility_protrait">Portret</string>
+  <string name="accessibility_record_button">Tipka Snimanje</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_scroll_button_slider">Kamera-Video-Prekidač</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
@@ -70,6 +73,9 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_video_capture_button">Tipka okidača za snimanje videozapisa</string>
+  <string name="accessibility_video_pause_button">Pauziranj snimanje</string>
+  <string name="accessibility_video_resume_button">Nastavi snimanje</string>
   <string name="accessibility_zoom_button">Zoom</string>
   <string name="accessibility_zoom_control">Zoom kontrola</string>
   <string name="ai_scene_mode_use_hint_text">"AI kamera automatski prepoznaje prizore
@@ -339,6 +345,12 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="lighting_pattern_rainbow">Duga</string>
   <string name="lighting_pattern_shutter">Zavjese</string>
   <string name="lighting_pattern_stage">Pozornica</string>
+  <string name="live_speed_extreme_fast">Najbrže</string>
+  <string name="live_speed_extreme_slow">Najsporije</string>
+  <string name="live_speed_fast">Brzo</string>
+  <string name="live_speed_fragment_tab_name">Brzina</string>
+  <string name="live_speed_normal">Normalno</string>
+  <string name="live_speed_slow">Sporo</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
@@ -358,6 +370,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="module_name_new_slow_motion">Usporeno snimanje</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portret</string>
+  <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"Kamera ne radi u podijeljenom zaslonu"</string>
@@ -702,6 +715,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_video_duration_title">Trajanje videozapisa</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Okidač</string>
+  <string name="pref_camera_volumekey_function_entry_timer">Odbrojavanje okidača</string>
   <string name="pref_camera_volumekey_function_entry_volume">Glasnoća</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Funkcija tipaka glasnoće</string>
@@ -709,7 +723,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačno</string>
   <string name="pref_camera_whitebalance_entry_daylight">Dnevno svjetlo</string>
-  <string name="pref_camera_whitebalance_entry_fluorescent">Fluoroscentno</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">Fluroscentno</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Usijano</string>
   <string name="pref_camera_whitebalance_entry_manual">Ručno</string>
   <string name="pref_camera_whitebalance_entry_measure">Mjerenje</string>
