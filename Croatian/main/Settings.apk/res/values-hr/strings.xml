@@ -1906,6 +1906,8 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_for_work">Zadano za posao</string>
   <string name="default_input_method">Odaberi zadanu tipkovnicu</string>
   <string name="default_keyboard_layout">Zadano</string>
+  <string name="default_launcher_set_jeejen_message">Pritisnite tipku Početna da biste postavili Jeejen</string>
+  <string name="default_launcher_set_system_message">Pritisnite tipku Početna da biste vratili zadani pokretač</string>
   <string name="default_launcher_title">Zadani Pokretač</string>
   <string name="default_map_app_title">Aplikacija Karta</string>
   <string name="default_notification_assistant">Pomoćnik za obavijesti</string>
@@ -2261,6 +2263,10 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dump_log">Dobivanje zapisa vezane uz probleme</string>
+  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje 284 zapisa u alfa i beta verzijama MIUI. Koristite je s oprezom.
+Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
+  <string name="dump_log_title">O ovoj značajci</string>
   <string name="eab_provisioned_switch_string">Pruža se usluga EAB-a/prisutnosti</string>
   <string name="edge_mode_back">Natrag</string>
   <string name="edge_mode_back_summary">Dvaput dodirnite rub telefona za natrag</string>

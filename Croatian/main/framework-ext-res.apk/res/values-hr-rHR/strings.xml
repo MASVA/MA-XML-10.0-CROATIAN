@@ -138,6 +138,7 @@
   <string name="standard">Bešumno</string>
   <string name="standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="standard_title">Bešumno</string>
+  <string name="start_dump_log">Započni dobivanje zapisa vezane uz probleme</string>
   <string name="start_security_permission_verify_text">Provjerite dopuštenja sa svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
