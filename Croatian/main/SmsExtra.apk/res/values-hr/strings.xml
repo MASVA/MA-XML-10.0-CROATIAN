@@ -41,6 +41,7 @@
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messaging">Poruke</string>
   <string name="more">Više</string>
+  <string name="mx_message">Mi Poruka</string>
   <string name="net_sms_unsubscribe">Pretplata otkazana</string>
   <string name="packages_select_sim_cards_title">Odaberite SIM karticu</string>
   <string name="received_label">"Primljeno: "</string>

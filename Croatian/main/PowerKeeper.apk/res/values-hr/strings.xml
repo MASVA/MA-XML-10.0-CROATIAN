@@ -57,9 +57,13 @@
   <string name="enable_hide_mode">Uključi Štednju baterije</string>
   <string name="enable_sleep_mode">Uključite stanje mirovanja kako biste optimizirali potrošnju baterije noću</string>
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
+  <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
+  <string name="extreme_add_white_list_title">Iznimke u pozadini</string>
   <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u Ekstremnom načinu</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Promjena na Ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
+  <string name="extreme_power_config_mode_summary">Ekstremni način ograničava pozadinske aktivnosti i zaustavlja sinkronizaciju.</string>
+  <string name="extreme_power_settings_title">Postavke</string>
   <string name="extreme_power_config_mode_title">Ekstremni način</string>
   <string name="failure">Pogreška</string>
   <string name="foreground_change">Aplikacija se izvodi u pozadini</string>
@@ -107,7 +111,10 @@
   <string name="normal">Zadani način</string>
   <string name="notify_app_consume_abnormal_title">troši jako bateriju</string>
   <string name="notify_abnormal">Napomena abnormalne energije</string>
-  <string name="notify_abnormal_title">Obavijest</string>
+  <string name="notify_abnormal_title">Obavijest</string>     
+  <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
+  <string name="notification_exit_extreme_mode_title">Ekstremni način je isključen</string>
+  <string name="notification_open_extreme_mode_text">Ekstremni način je uključen</string>
   <string name="operation_create_group">Naziv</string>
   <string name="operation_create_group_message">Unesite novi naziv grupe</string>
   <string name="performance_category">Performanse</string>

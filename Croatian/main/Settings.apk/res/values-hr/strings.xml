@@ -1916,6 +1916,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="default_sound">Zadani zvuk</string>
   <string name="default_spell_checker">Zadana provjera pravopisa</string>
   <string name="default_theme">Zadano</string>
+  <string name="default_vol_stream_title">Zadana kontrola glasnoće streama</string>
   <string name="default_usb_mode">USB veza</string>
   <string name="delete">"Izbriši"</string>
   <string name="delete_backup_process">Brisanje…</string>
@@ -6603,6 +6604,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="summary_font_size_v2">Podešavanje veličine teksta, slika i ikona</string>
   <string name="super_resolution_access_title">Dostupne aplikacije</string>
   <string name="super_resolution_desc">Učinite slike oštrije pomoću AI algoritma</string>
   <string name="super_resolution_maintain">"Super rezolucija još nije dostupna."</string>
@@ -6810,11 +6812,13 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
+  <string name="title_font_v2">Tekstt &amp; UI elementi</string>
   <string name="title_font_current">Font sustava</string>
   <string name="title_font_current2">Font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Postavke korekcije boje</string>
   <string name="title_jeejen">Jeejen Početni zaslon</string>
+  <string name="title_layout_v2">Veličina teksta &amp; skaliranje</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
   <string name="title_local_resource">Lokalni resursi</string>

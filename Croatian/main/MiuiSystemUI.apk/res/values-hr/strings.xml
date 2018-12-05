@@ -1414,6 +1414,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
 &amp;#8211; blokiraj sve obavijesti aplikacije"</string>
   <string name="power_remaining_charging_duration_only">Još %1$s do pune baterije</string>
   <string name="power_remaining_duration_only">Još otprilike %1$s</string>
+  <string name="power_remaining_duration_only_enhanced">Još otprilike %1$s na temelju vaše upotrebe</string>
+  <string name="power_remaining_duration_only_short">Preostalo je %1$s</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon bi se uskoro mogao isključiti</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon bi se uskoro mogao isključiti (%1$s)</string>
   <string name="power_remaining_less_than_duration">Preostalo je manje od %1$s (%2$s)</string>

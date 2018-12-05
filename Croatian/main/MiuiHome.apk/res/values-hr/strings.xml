@@ -292,6 +292,7 @@
   <string name="recommend_loading">Samo trenutak</string>
   <string name="recommend_refresh">Osvježi</string>
   <string name="recommend_xout">"Ne prikazuj"</string>
+  <string name="refresh">Osvježi</string>
   <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>
   <string name="reset_description_others">Možete vratiti raspored iz %1$s</string>
   <string name="reset_fail">"Ne mogu vratiti"</string>

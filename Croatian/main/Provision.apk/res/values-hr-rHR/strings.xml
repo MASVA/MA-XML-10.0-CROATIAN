@@ -123,4 +123,5 @@ Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke.
   <string name="voice_assist_desp">Recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
   <string name="voice_assist_title">Probudi sa glasom</string>
   <string name="welcome">Dobrodošli</string>
+  <string name="zone_picker_title">Odaberite vremensku zonu</string>
 </resources>
