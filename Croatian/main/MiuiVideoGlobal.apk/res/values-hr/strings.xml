@@ -20,6 +20,14 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="agree">Slažem se</string>
+  <string name="ai_animation_music_text">AI soundtrack</string>
+  <string name="ai_music_save_cancel">Odustani</string>
+  <string name="ai_music_save_dialog_title">Spremi</string>
+  <string name="ai_music_save_fail">"Ne mogu spremiti"</string>
+  <string name="ai_music_save_info">AI soundtrack uspješno dodan. Spremiti videozapis?</string>
+  <string name="ai_music_save_ok">Spremi</string>
+  <string name="ai_music_save_success">Uspješno spremljeno</string>
+  <string name="ai_music_saved">Spremljeno</string>
   <string name="alert_dialog_download">"Već ste preuzeli tu aplikaciju."</string>
   <string name="alert_dialog_download_btn_hide">Sakrij</string>
   <string name="alert_dialog_download_confirm">O aplikaciji</string>
@@ -408,6 +416,7 @@ Pogledajte ostale videozapise!"</string>
   <string name="pw_video_history">Povijest reprodukcije</string>
   <string name="pw_video_mine">Moji videozapisi</string>
   <string name="pw_video_offline">Lokalni videozapisi</string>
+  <string name="read_and_agree">Slažem se</string>
   <string name="recommend_online_switch">Online preporuke</string>
   <string name="recommend_online_tips">Uključite da biste dobili preporučene online videozapise</string>
   <string name="recommend_page_replay">REPLAY</string>
@@ -421,6 +430,7 @@ Pogledajte ostale videozapise!"</string>
   <string name="s6">Dopustiti oglasu izradu događaja u Kalendar?</string>
   <string name="s7">Test Ad</string>
   <string name="save">Spremi</string>
+  <string name="save_cancel_toast">Dodirni ponovo za otkazivanje spremanja</string>
   <string name="screenrecord_cancel">Problemi s kompatibilnošću</string>
   <string name="screenrecord_nosupport_record">"Snimač zaslona trenutačno nije podržan na ovom uređaju."</string>
   <string name="search">Traži</string>
@@ -430,6 +440,8 @@ Pogledajte ostale videozapise!"</string>
   <string name="session_create_error">Poslužitelj je vratio SESSION CREATE ERROR kôd, molimo kontaktirajte SDK programere!</string>
   <string name="share">Podijeli</string>
   <string name="storage_permission_denied">Dopuštenje za pristup pohrani je odbijeno</string>
+  <string name="slid_fail_message">"Ne mogu spremiti"</string>
+  <string name="slide_save_message">Izrada videozapisa…</string>
   <string name="switch_ratio_pause">Brzina reprodukcije je nestabilna. Vraćanje na zadanu brzinu…</string>
   <string name="t_downloading">Preuzimanje:</string>
   <string name="t_exit_app">Dodirni opet za izlaz.</string>
@@ -452,7 +464,10 @@ Pogledajte ostale videozapise!"</string>
   <string name="ui_log_tip">Dodirnite ovo područje da biste sakrili, pritisnite i držite da biste izbrisali stare zapise. Ručno povucite zapise.</string>
   <string name="update">Ažuriraj</string>
   <string name="v_app_name">Mi Video</string>
+  <string name="v_cancel">Odustani</string>
+  <string name="v_ok">U redu</string>
   <string name="v_pw_need_update_app">Ažurirajte Mi Video da biste upotrijebili sve njegove značajke</string>
+  <string name="v_save">Spremi</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje Datoteka nije uspjelo, provjerite stanje u aplikaciji.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
