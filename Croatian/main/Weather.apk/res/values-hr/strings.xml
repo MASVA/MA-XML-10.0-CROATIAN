@@ -6,6 +6,7 @@
   <string name="act_find_city_hint">Unesite grad</string>
   <string name="act_find_city_hot_attractions_title">Popularni gradovi</string>
   <string name="act_find_city_hot_city_title">Popularni gradovi</string>
+  <string name="act_location_error_to_find_city">"Ne mogu dobiti podatke o lokaciji. Možete dodati grad ručno."</string>
   <string name="act_find_city_hot_title">Dodaj</string>
   <string name="act_set_city_find_side">Lociranje…</string>
   <string name="act_set_city_find_side_error">"Ne mogu locirati uređaj"</string>
@@ -16,7 +17,7 @@
   <string name="act_weather_find_city_searching">Pretraživanje…</string>
   <string name="activity_find_city_dialog_cancel">Odustani</string>
   <string name="activity_find_city_dialog_message">Dopustite aplikaciji Vrijeme pristup vašoj lokaciji da dobijete točne informacije o lokaciji.</string>
-  <string name="activity_find_city_dialog_message_global">Dopustite aplikaciji Vrijeme pristup vašoj lokaciji i promjenite na način visoke preciznosti dobivanja lokacije da dobijete relevantne informacije o lokaciji.</string>
+  <string name="activity_find_city_dialog_message_global">Uključite usluge lokacije i dopustite uređaju da utvrdi lokaciju putem bežičnih mreža.</string>
   <string name="activity_find_city_dialog_set">Postavke</string>
   <string name="activity_find_city_dialog_title">Pristup lokaciji</string>
   <string name="activity_main_pub_time">Objavljeno u %1$s</string>
@@ -90,6 +91,9 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="dislike_alert_dialog_title">Zašto ne želite vidjeti ovaj sadržaj?</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Uredi grad</string>
+  <string name="empty_view_net_loading">Ažuriranje…</string>
+  <string name="empty_view_net_unavailable">"Ne mogu se povezati na mrežu"</string>
+  <string name="empty_view_refresh">Pokušaj ponovno</string>
   <string name="eu_region_version_first_start_network_msg">"Koristeći ovaj proizvod prihvaćate da će se ovaj proizvod povezati na mrežu, prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući koordinate gradova koje pretražujete i druge vrste podataka navedenih u našim pravilima o privatnosti. Pogledajte naša pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo podatke. Dodirom "Slažem se", pristajete na Xiaomi %1$s i %2$s."</string>
   <string name="feedback_cloudy">Oblačno</string>
   <string name="feedback_foggy">Magla</string>
@@ -111,11 +115,13 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="hourly_forcast_now">Sada</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">24-satna prognoza</string>
-  <string name="hourly_forecast_title_hourly_desc">prognoza svakog sata</string>
+  <string name="hourly_forecast_title_hourly_desc">Prognoza svakog sata</string>
+  <string name="index_item_downloading">Preuzimanje</string>
   <string name="hourly_forecast_title">Vremenska prognoza svakog sata</string>
   <string name="index_item_experience_now">Instaliraj sada</string>
   <string name="index_item_install_now">Instaliraj sada</string>
   <string name="index_item_installing">Instaliranje</string>
+  <string name="index_item_installing2">Instaliranje</string>
   <string name="indices_desc_feel">Osjećaj %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -145,6 +151,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="it_is_going_to_rain">Padati će kiša</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
+  <string name="location_provider_btn_text">Uključite usluge lociranja</string>
   <string name="location_management">Lokacije</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Uredi lokacije</string>
@@ -173,7 +180,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="no_vote_ratio">Protiv %1$s%%</string>
-  <string name="open">Otvori</string>
+  <string name="open">Otvori sad</string>
   <string name="open_browser">Otvori u Pregledniku</string>
   <string name="open_now">Otvori</string>
   <string name="other">Ostalo</string>

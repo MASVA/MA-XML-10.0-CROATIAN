@@ -1976,6 +1976,12 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_cpu4_info">"4-jezgreni "</string>
   <string name="device_cpu6_info">"6-jezgreni "</string>
   <string name="device_cpu8_info">"8-jezgreni "</string>
+  <string name="device_description_battery">Kapacitet baterije</string>
+  <string name="device_description_camera">Stražnja kamera</string>
+  <string name="device_description_cpu">CPU</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">Rezolucija</string>
+  <string name="device_description_screen">Veličina zaslona</string>
   <string name="device_details_title">Pojedinosti o uređaju</string>
   <string name="device_display_layout_title">Značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
@@ -4045,6 +4051,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="network_dashboard_title">Mreža i internet</string>
   <string name="network_detail">Detalji mreže %s</string>
   <string name="network_error">Pogreška mreže.</string>
+  <string name="network_name_input_error">"Ne mogu spremiti SSID. Pokušajte ponovo."</string>
   <string name="network_name_displayed_summary">Prikaži naziv mreže na statusnoj traci</string>
   <string name="network_operator_display_title">Prikaži mrežu operatera</string>
   <string name="network_operators_settings">Mrežni operateri</string>

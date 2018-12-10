@@ -1419,7 +1419,7 @@ podatkovnu vezu"</string>
   <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
   <string name="main_button_mi_sim_open">Prikaz detalja</string>
   <string name="main_button_usage_adjust">Sinkr. uporabe podataka</string>
-  <string name="main_button_usage_adjust_manual">Postavite ograničenje uporabe podataka</string>
+  <string name="main_button_usage_adjust_manual">Postavite uporabu podataka</string>
   <string name="main_button_usage_adjusting">Promjena…</string>
   <string name="main_button_usage_adjusting_bill">Promjena…</string>
   <string name="main_button_usage_package_setting">Postavite ograničenje uporabe podataka</string>

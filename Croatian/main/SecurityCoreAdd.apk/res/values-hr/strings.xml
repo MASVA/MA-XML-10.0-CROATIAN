@@ -152,7 +152,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="function_not_support">Nije podržano na ovom uređaju</string>
   <string name="gms_message">Izrada dvojnih aplikacija zahtijeva rad s Googleovim uslugama. Izraditi dvojnu aplikaciju za Google usluge?</string>
   <string name="gms_open_button">Uključi</string>
-  <string name="gms_title">Uključite Googleove usluge</string>
+  <string name="gms_title">Dvojna aplikacija za Googleove usluge</string>
   <string name="goToSecondSpacce">Idi u Drugi prosotor</string>
   <string name="go_on_import">Nastavi s uvozom</string>
   <string name="gpg_message">Izrada dvojnih aplikacija zahtijeva rad s Google Play igrama. Izraditi dvojnu aplikaciju za Google Play igre?</string>
