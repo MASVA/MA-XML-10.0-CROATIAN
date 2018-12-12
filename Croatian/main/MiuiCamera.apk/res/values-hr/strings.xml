@@ -135,6 +135,15 @@ i na trenutak izađite iz pregleda"</string>
   <string name="color_effect_entry_soda">Soda</string>
   <string name="color_effect_entry_vivid">Vivid</string>
   <string name="color_effect_entry_warm">Sunce</string>
+  <string name="color_effect_live_blue">Orhideja</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="color_effect_live_deepblack">B&amp;W</string>
+  <string name="color_effect_live_fair">Pale</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Mousse</string>
+  <string name="color_effect_live_none">Normalno</string>
+  <string name="color_effect_live_solar">Nebesko plava</string>
+  <string name="color_effect_live_years">Sepia</string>
   <string name="config_name_group">Grupni selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Magija</string>
@@ -351,6 +360,8 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="live_speed_fragment_tab_name">Brzina</string>
   <string name="live_speed_normal">Normalno</string>
   <string name="live_speed_slow">Sporo</string>
+  <string name="live_sticker_fragment_tab_name">Magija</string>
+  <string name="live_sticker_updating">Ažuriranje…</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
@@ -504,6 +515,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvuk</string>
   <string name="pref_camera_delay_capture_entry_off">Isklj.</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
+  <string name="pref_camera_device_watermark_title">Oznaka uređaja</string>
   <string name="pref_camera_denoise_title">Wavelet denoise način</string>
   <string name="pref_camera_device_watermark_title">Oznaka fotografije</string>
   <string name="pref_camera_dual_enable_title">Uključi dvojnu kameru</string>
@@ -914,7 +926,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="user_agree">Slažem se</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement4">Pravila o Privatnosti</string>
-  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s i %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge, slažete se s Xiaomi %1$s i %2$s. Pristajete li se povezati s internetom?"</string>
   <string name="user_notice_title">Uvjeti i Odredbe</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>

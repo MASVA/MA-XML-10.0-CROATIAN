@@ -22,7 +22,7 @@
   <string name="dialog_btn_wifi">Promjeni na WLAN</string>
   <string name="dialog_stop_desc">Možete pauzirati ili zaustaviti preuzimanje, na vama je da odaberete što želite.</string>
   <string name="dialog_stop_title">Zaustaviti preuzimanje?</string>
-  <string name="dialog_twrp">Vaša unutarnja pohrana je šifrirana. Nakon ponovnog pokretanja u TWRP unesite zaporku za otključavanje dešifriranja pohrane vašeg uređaja.</string>
+  <string name="dialog_twrp">Vaša unutarnja pohrana je šifrirana. Nakon ponovnog pokretanja u TWRP, unesite zaporku za otključavanje uređaja da biste nastavili.</string>
   <string name="download_cancel">Odustani</string>
   <string name="download_done">Uspješno preuzeto!</string>
   <string name="download_fail">Pogreška prilikom preuzimanja!</string>
