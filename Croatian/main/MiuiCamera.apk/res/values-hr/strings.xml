@@ -354,6 +354,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="lighting_pattern_stage">Pozornica</string>
   <string name="live_edit_exit_confirm">Izlaz</string>
   <string name="live_edit_exit_message">Odbaciti snimku?</string>
+  <string name="live_edit_share_title">Podijeli</string>
   <string name="live_speed_extreme_fast">Najbrže</string>
   <string name="live_speed_extreme_slow">Najsporije</string>
   <string name="live_speed_fast">Brzo</string>
