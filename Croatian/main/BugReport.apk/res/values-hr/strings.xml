@@ -28,13 +28,12 @@
   <string name="catch_full_log_dialog_confirm_text">Idi na Poč. zaslon</string>
   <string name="catch_full_log_dialog_content">"MIUI generira zapis. To može utjecati na ukupne performanse vašeg uređaja. Ako ne možete reproducirati problem koji želite prijaviti, vratite se na zapise i dodirnite \"Odustani\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Ne mogu generirati zapis laga"</string>
-  <string name="catch_full_log_item_content_catch_direct">"Koraci:
-1. Vratite se na značajku koju želite prijaviti i reproducirajte je.
+  <string name="catch_full_log_item_content_catch_direct">"1. Vratite se na značajku koju želite prijaviti i reproducirajte je.
 2. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Koraci:
-1. Dodirnite \"Izradi zapis\".
+  <string name="catch_full_log_item_content_need_open">"1. Dodirnite \"Izradi zapis\".
 2. Vratite se na značajku koju želite prijaviti i reproducirajte je.
 3. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
+  <string name="catch_full_log_item_content_title">Koraci:</string>
   <string name="catch_full_log_item_title_audio">Zvuk, snimanje zvuka i zvuk tijekom poziva</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lag</string>
@@ -81,6 +80,7 @@
   <string name="err_type_xiaomi_service">Služba za korisnike</string>
   <string name="error_no_connection">"Ne mogu se povezati na mrežu"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problem \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Odaberi problem</string>
   <string name="feedback_choose_module">Odaberi stavku</string>
   <string name="feedback_choose_module_hint">Potrebno</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
@@ -338,6 +338,8 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Slični problemi na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
+  <string name="title_user_guide">Korisnički vodič</string>
+  <string name="toast_app_tag_required">Odaberi problem</string>
   <string name="toast_catch_full_log_catching">Istovremeno možete generirati samo jedan zapis.</string>
   <string name="toast_catch_full_log_open_failed">"Ne mogu pokrenuti snimanje zapisa."</string>  
   <string name="toast_description_required">Potreban je opis</string>

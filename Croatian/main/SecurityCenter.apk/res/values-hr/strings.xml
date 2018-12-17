@@ -1717,7 +1717,9 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
+  <string name="notify_channel_mipush">Sigurnost push poruka</string>
   <string name="notify_channel_name_security">Sigurnost sustava</string>
+  <string name="notify_channel_optimize">Obavijesti o sigurnosti</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je izmijenjena</string>
   <string name="notification_sysapp_cracked_title">Otkriven je sigurnosni rizik</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>

@@ -2,7 +2,9 @@
 <resources>
   <string name="about_extreme_mode">Ekstremni način</string>
   <string name="about_hide_mode">O Štednji baterije</string>
-  <string name="active_classify">Poredaj po statusu aktivnostiu</string>
+  <string name="active_classify">Poredaj po statusu aktivnosti</string>
+  <string name="adaptive_battery_summary">"Ograničite bateriju za aplikacije koje često ne upotrebljavate"</string>
+  <string name="adaptive_battery_title">Koristite Prilagodljivu bateriju</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Postavke</string>
   <string name="action_title_optimize">Optimiziraj sada</string>

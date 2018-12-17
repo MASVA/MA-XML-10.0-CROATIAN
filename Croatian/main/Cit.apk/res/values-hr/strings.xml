@@ -181,7 +181,9 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_dial_emergencycall">Biraj 112</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
-  <string name="cit_display_continue">Dodirnite zaslon za početak testiranje</string>
+  <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>
+  <string name="cit_display_test_end">Test završen</string>
+  <string name="cit_display_test_next">Dalje</string>
   <string name="cit_emergencycall_check_summary">Pritisnite Biraj 112 za biranje broja 112 kako biste provjerili može li se 112 birati.</string>
   <string name="cit_emergencycall_check_title">Žurni poziv</string>
   <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>

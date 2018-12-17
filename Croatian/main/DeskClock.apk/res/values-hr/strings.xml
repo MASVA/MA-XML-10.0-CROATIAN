@@ -36,6 +36,7 @@
   <string name="cancel">Odustani</string>
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_timer">Odbrojavanje</string>
+  <string name="check_theme_app_install">Provjerite je li aplikacija Teme instalirana na vašem uređaju.</string>
   <string name="close_alarm">Isključi</string>
   <string name="common_settings">Postavke</string>
   <string name="confirm_abort">Odbaci</string>
