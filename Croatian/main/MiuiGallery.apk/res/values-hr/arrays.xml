@@ -89,4 +89,10 @@
          <item>Studeni</item>
          <item>Prosinac</item>
     </string-array>
+	<string-array name="weekend_title">
+         <item>Prošli vikendi</item>
+         <item>Dani za pamćenje</item>
+         <item>Dnevni događaji</item>
+         <item>Obični &amp; neobični</item>
+     </string-array>
 </resources> 

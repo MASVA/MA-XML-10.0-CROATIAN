@@ -7127,9 +7127,10 @@ i Mi Mover uključen"</string>
   <string name="turn_off_keyguard_password_alert_title">Isključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Neke sigurnosne značajke neće funkcionirati bez vaše zaporke."</string>
   <string name="turn_off_keyguard_password_wait_dialog">Isključivanje zaporke…</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni podaci lica bit će izbrisani. Nećete moći otključati uređaj pomoću lica."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nećete biti u mogućnosti otključati uređaj pomoću otiska prsta nakon isključivanja zaporke.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete moći otključati uređaj pomoću otiska prsta."</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju bit će izbrisani. Nećete moći otključati uređaj pomoću otiska prsta."</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Nakon što isključite zaporku Zaklj. zaslona, snimljeni otisci prstiju i podaci lica bit će izbrisani. Nećete moći otključati uređaj pomoću lica i otiska prsta."</string>
   <string name="turn_off_radio">Isključi radio</string>
   <string name="turn_off_security_lock">Isključi Zaklj. zaslona</string>
   <string name="turn_on_keyguard_password">Uključi zaporku Zaklj. zaslona</string>

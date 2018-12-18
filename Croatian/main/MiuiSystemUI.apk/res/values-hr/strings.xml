@@ -119,7 +119,7 @@
   <string name="accessibility_ime_switch_button">Promjena načina unosa</string>
   <string name="accessibility_key">Prilagođeni navigacijski gumb</string>
   <string name="accessibility_left_control_center_button">Prečac</string>
-  <string name="accessibility_left_lock_screen_magazine_button">Glazba</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Wallpaper Carousel</string>
   <string name="accessibility_location_active">Zahtjevi za lokaciju aktivni su</string>
   <string name="accessibility_long_click_tile">Otvaranje postavki</string>
   <string name="accessibility_managed_profile">Radni profil</string>
@@ -626,7 +626,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dock_forced_resizable">Aplikacija možda neće funkcionirati s podijeljenim zaslonom.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Podijeljeni zaslon nije podržan na Zaklj. zaslonu.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon.</string>
-  <string name="download_lock_wallpaper">Dodirnite dvaput da preuzmete aplikaciju Glazba</string>
+  <string name="download_lock_wallpaper">Dodirnite dvaput da preuzmete Wallpaper Carousel</string>
   <string name="drag_to_add_tiles">Pritisnite i držite da biste dodali ili promijenili raspored stavki</string>
   <string name="drag_to_remove_disabled">Potrebno je barem 6 pločica</string>
   <string name="drag_to_remove_tiles">Povucite ovdje za uklanjanje</string>
@@ -944,12 +944,18 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_indication_charging_time_slowly">Sporo punjenje (%s do pune baterije)</string>
   <string name="keyguard_indication_trust_disabled">Uređaj će ostati zaključan dok ga ručno ne otključate</string>
   <string name="keyguard_instructions_when_pattern_disabled">Pritisnite Izbornik da biste otključali.</string>
+  <string name="keyguard_left_calculator">Kalkulator</string>
+  <string name="keyguard_left_calendar">Kalendar</string>
+  <string name="keyguard_left_contacts">Kontakti</string>
+  <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+  <string name="keyguard_left_music">Glazba</string>
+  <string name="keyguard_left_notes">Bilješke</string>
+  <string name="keyguard_left_remotecentral">Mi Remote</string>
   <string name="keyguard_left_bankcard">Kalkulator</string>
   <string name="keyguard_left_buscard">Bilješke</string>
-  <string name="keyguard_left_remotecentral">Kalendar</string>
   <string name="keyguard_left_smarthome">Kontakti</string>
   <string name="keyguard_left_torch">Svjetiljka</string>
-  <string name="keyguard_left_view_lock_wallpaper">Glazba</string>
+  <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
   <string name="keyguard_low_battery">Priključite punjač.</string>
   <string name="keyguard_missing_sim_instructions">Umetnite SIM karticu.</string>
   <string name="keyguard_missing_sim_instructions_long">SIM kartica nedostaje ili nije čitljiva. Umetnite SIM karticu.</string>
@@ -1090,7 +1096,7 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
   <string name="lock_screen_magazine_default_content">Dnevni dio svježih slika</string>
   <string name="lock_screen_magazine_default_entry_title">Detalji o slici pozadine</string>
-  <string name="lock_screen_magazine_default_title">Glazba</string>
+  <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">Više</string>
   <string name="lock_screen_no_sim_card">Nema SIM kartice</string>
   <string name="lock_screen_no_sim_card_emergency_only">Samo hitni pozivi</string>
