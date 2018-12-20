@@ -45,6 +45,7 @@
   <string name="accessibility_action_divider_top_full">Gornji zaslon u cijeli zaslon</string>
   <string name="accessibility_airplane_mode">Zrakoplov</string>
   <string name="accessibility_ambient_display_charging">Punjenje</string>
+  <string name="accessibility_aspect_button">Cijeli zaslon</string>
   <string name="accessibility_assistant">Izbornik prečaca.</string>
   <string name="accessibility_back">Natrag</string>
   <string name="accessibility_battery_details">Otvaranje pojedinosti o bateriji</string>
@@ -314,6 +315,10 @@
   <string name="appops_overlay">Ova se aplikacija prikazuje preko drugih aplikacija na zaslonu.</string>
   <string name="as_important">Važno</string>
   <string name="as_unimportant">Nevažno</string>
+  <string name="aspect_cancel">Odustani</string>
+  <string name="aspect_message">Ta će aplikacija biti ponovno pokrenuta u načinu rada cijelim zaslonom. Ako naiđete na probleme, možete isključiti način rada cijelog zaslona za ovu aplikaciju u Postavke &gt; Prikaz preko cijelog zaslona &gt; Cijeli zaslon.</string>
+  <string name="aspect_ok">U redu</string>
+  <string name="aspect_title">Fullscreen mode</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj zvuk</string>
   <string name="audio_effect_settings">Odaberi vrstu slušalica</string>

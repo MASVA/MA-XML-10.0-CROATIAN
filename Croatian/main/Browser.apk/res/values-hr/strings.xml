@@ -151,6 +151,7 @@
   <string name="bookmark_btn_select_none">Poništi sve</string>
   <string name="bookmark_cannot_save_url">"Ova se poveznica ne može spremiti kao oznaka."</string>
   <string name="bookmark_deleted">Izbriši oznaku</string>
+  <string name="bookmark_error_page_title">Dogodila se pogreška</string>
   <string name="bookmark_folder_needs_title">Unesite naziv grupe</string>
   <string name="bookmark_group_lable">Grupa</string>
   <string name="bookmark_move_to">Premjesti u</string>
@@ -191,6 +192,7 @@
   <string name="check_permission_of_current_url">Poveznice web stranica koje posjećujete</string>
   <string name="check_security_tip_privacy_policy">Pravila o Privatnosti</string>
   <string name="check_security_tip_user_agreement">Korisnički Sporazum</string>
+  <string name="checking_now">Provjera…</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
   <string name="clear_history">Očisti povijest</string>
   <string name="clear_most_visited">Nedavno</string>
@@ -234,6 +236,7 @@
   <string name="comment_max_length">Ulazna pošta je puna.</string>
   <string name="comment_menu">Komentar</string>
   <string name="comment_num_description">Broj komentara</string>
+  <string name="comment_publish_to_topic">Komentari sinkr. na</string>
   <string name="common_use_phrase_bottom_bar_text_next">Dalje</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Preth.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -270,6 +273,7 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Uvijek vjerujte da će se nešto
 divno dogoditi"</string>
+  <string name="custom_head_content_pull_down_text">Povuci dolje</string>
   <string name="custom_head_pull_down_text">Unesite infoFlow</string>
   <string name="custom_head_card_text_incognito">"Sada ste anonimni!
 Stranice koje gledate neće se pojaviti u povijesti.​"</string>
@@ -309,7 +313,9 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="dialog_insufficient_space_on_external">Nema dovoljno prostora na USB pohrani</string>
   <string name="dialog_media_not_found">"Ne mogu preuzeti: nema otkrivene USB pohrane"</string>
   <string name="dialog_queued_body">Ova datoteka je u redu čekanja za preuzimanje.</string>
+  <string name="dialog_recovery_tabs_action">Dodirni za vraćanje</string>
   <string name="dialog_recovery_tabs_disc">Otkrivanje neotkrivenih stranica zahtijeva potpun oporavak.</string>
+  <string name="dialog_recovery_tabs_tip">Pronađi web-prikaz nije zatvoren posljednji put</string>
   <string name="dialog_recovery_tabs_title">Otvori stranicu prije oporavka</string>
   <string name="dialog_title_not_available">"Ne mogu preuzeti"</string>
   <string name="dialog_title_queued_body">Datoteka još nije dostupna</string>
@@ -671,6 +677,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="month_picker_dialog_title">Postavi mjesec</string>
   <string name="more_description">Izbornik</string>
   <string name="more_option">Više opcija</string>
+  <string name="movie_player_3g_tip_retry">Nastavi</string>
+  <string name="movie_player_loading">Uskoro dolazi: %s</string>
   <string name="mw_abc_action_bar_home_description">Na početnu</string>
   <string name="mw_abc_action_bar_up_description">Gore</string>
   <string name="mw_abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -1081,6 +1089,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Odustani</string>
   <string name="navigationbar_rightbutton_actiontext_go">Kreni</string>
   <string name="navigationbar_rightbutton_actiontext_search">Traži</string>
+  <string name="network_error_tips">Pogreška mreže, pokušajte ponovo</string>
   <string name="network_not_available_comment">Nema internetske veze, ne može se komentirati</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Pronađen je WLAN hotspot u blizini. Pokušati se povezati?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupna je WLAN mreža</string>
@@ -1125,11 +1134,18 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="permission_unknown">Nepoznata radnja</string>
   <string name="permissions_prompt_message">%s želi da</string>
   <string name="play_pause_video">Reproduciraj ili pauziraj videozapis</string>
+  <string name="play_retry">Reproduciraj opet</string>
   <string name="play_video">Reproduciraj videozapis</string>
+  <string name="player_3g_tip_sub_title">Reprodukcija će generirati dodatne troškove prometa</string>
+  <string name="player_3g_tip_title">Trenutačno se upotrebljava mobilna mreža, nastavak reprodukcije će generirati dodatne troškove prometa</string>
+  <string name="player_data_error_tip">Videozapis privremeno nije dostupan. Molimo pokušajte ponovo kasnije</string>
+  <string name="player_net_error">Niste povezani s mrežom, provjerite mrežne postavke</string>
+  <string name="player_no_data">Sorry! This video is gone.</string>
   <string name="popup_video">Skočni videozapis</string>
   <string name="popup_window_attempt">Dozvoliti ovoj stranici otvaranje skočnih obavijesti?</string>
   <string name="positive_confirm_message">Isključi svejedno</string>
   <string name="pref_accept_quicklink_push">Vijesti</string>
+  <string name="pref_accessibility_recommending_search_title">Preporučeno pretraživanje</string>
   <string name="pref_accessibility">Pristupačnost</string>
   <string name="pref_accessibility_title">Pristupačnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Kod unosa iz adresne trake, zajedničke kombinacije slova mogu se unijeti jednim dodirom na tipku</string>
@@ -1244,7 +1260,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="profiler_started_toast">Profiler se pokrenuo</string>
   <string name="profiler_stopped_toast">Profiler je završio. Rezultati spremljeni u %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Podešavanje slike pozadine…</string>
-  <string name="publish_to_topic">Objaviti u temi</string>
+  <string name="pull_refresh_begin">Povuci dolje za osvježiti</string>
+  <string name="pull_refresh_end">Otpusti za osvježiti</string>
+  <string name="pull_refresh_refreshing">Osvježavanje</string>
   <string name="pull_to_refresh_pull_label">Povuci za osvježiti…</string>
   <string name="pull_to_refresh_release_label">Otpusti za preporučeno i osvježi</string>
   <string name="pwa_app_name">Web aplikacija</string>
@@ -1278,7 +1296,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="readmode_recommend_message">"Pročitali ste sve dijelove ove knjige. Odaberite drugu"</string>
   <string name="readmode_refresh">Osvježi</string>
   <string name="readmodelist_bookmarks_to_show">Popis čitanja</string>
+  <string name="recommending_close_toast_text">Postavite ovu funkciju u naprednim postavkama</string>
   <string name="refresh_description">Osvježi</string>
+  <string name="refresh_text">Osvježi</string>
   <string name="refuse_permissions_request">Ograniči</string>
   <string name="remember_passwords_confirm_message">Isključivanje ove značajke može utjecati na potrošnju.</string>
   <string name="remove_bookmark">Izbriši oznaku</string>
@@ -1376,6 +1396,13 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči ovu verziju</string>
   <string name="slide_guide">Klizni za natrag</string>
+  <string name="small_video_boba_tab">Emitiraj</string>
+  <string name="small_video_load_failed">Ne mogu učitati</string>
+  <string name="small_video_loading">Učitavanje…</string>
+  <string name="small_video_main_tab">Preporučeno</string>
+  <string name="small_video_native_tab">Mali videozapis</string>
+  <string name="small_video_net_error">Greška u povezivanju</string>
+  <string name="small_video_no_more_date">Nema podataka</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">"Ne mogu spremiti stranicu"</string>
   <string name="snapshot_successed">Otvori Oznake &amp; Povijest -&gt; LOKALNO za prikaz stranice</string>
@@ -1489,7 +1516,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="unsecurity_url_toast">"Ova web stranica nije sigurna"</string>
   <string name="up_to_loading_tips">Otpusti za osvježiti</string>
   <string name="update_no_network_toast">"Ne mogu se povezati na mrežu"</string>
-  <string name="updating_chrome">Ažuriranje Chrome-a...</string>
+  <string name="updating_chrome">Ažuriranje Chrome-a…</string>
   <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="url_copy_done">Poveznica kopirana u međuspremnik</string>
   <string name="url_find_on_page_result">Prikaži u Pregledniku</string>

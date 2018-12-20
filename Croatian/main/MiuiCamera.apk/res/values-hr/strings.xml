@@ -779,6 +779,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Možete snimati samo 720P videozapise s 240FPS</string>
   <string name="pref_priority_storage_title">Spremi na SD karticu</string>
+  <string name="pref_privacy_title">Pravila o Privatnosti</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_retain_camera_mode_summary">Promjenite kameru na prethodno korišteni način kada otvorite aplikaciju.</string>
   <string name="pref_retain_camera_mode_title">Spremi prethodan način</string>
