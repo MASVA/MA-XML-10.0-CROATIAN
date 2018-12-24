@@ -65,7 +65,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Skeniranje...</item>
+        <item>Skeniranje…</item>
         <item>Povezivanje na mrežu %1$s…</item>
         <item>Autentikacija s mrežom %1$s…</item>
         <item>Dohvaćanje IP adrese s mreže %1$s…</item>

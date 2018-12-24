@@ -37,21 +37,19 @@
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_timer">Odbrojavanje</string>
   <string name="check_theme_app_install">Provjerite je li aplikacija Teme instalirana na vašem uređaju.</string>
+  <string name="check_voice_assist_app_version">Ažurirajte Mi AI na najnoviju verziju.</string>
   <string name="close_alarm">Isključi</string>
   <string name="common_settings">Postavke</string>
   <string name="confirm_abort">Odbaci</string>
   <string name="content_desc_keep_screen">Tipka \"Drži zaslon uklj.\"</string>
   <string name="control_set_alarm">Postavi alarm</string>
   <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
-  <string name="day">1 dan</string>
   <string name="day_concat">", "</string>
-  <string name="days">%d dana</string>
   <string name="default_alarm_alert">Zadani zvuk alarma</string>
   <string name="default_alarm_title">Zadani zvuk alarma</string>
   <string name="default_label">Alarm</string>
   <string name="delete">Izbriši</string>
   <string name="delete_alarm">Izbriši alarm</string>
-  <string name="delete_alarm_confirm">Izbrisati odabran(e) alarm(e)?</string>
   <string name="delete_selected_timer_item">Izbrisati odabrane zadatke Kronometra?</string>
   <string name="delete_timer_item_title">Izbriši odabrani zadatak</string>
   <string name="delete_timezone_title">Izbriši vremensku zonu</string>
@@ -72,9 +70,7 @@
   <string name="force_touch_enter_timer">Kronometar</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Natrag</string>
-  <string name="hour">1 sat</string>
   <string name="hour_unit">h</string>
-  <string name="hours">%d sati</string>
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
   <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
@@ -97,7 +93,6 @@
   <string name="life_post_setting_open_title">Primaj jutarnja izvješća</string>
   <string name="life_post_setting_wake_up_list_title">Povijest buđenja</string>
   <string name="life_post_wake_up_acumu_day_title">Broj dana</string>
-  <string name="life_post_wake_up_item_acumu_day">Dana %1$s</string>
   <string name="life_post_wake_up_item_acumu_day_title">Broj dana</string>
   <string name="life_post_wake_up_item_percentage_title">Mi Fanovi iza vas</string>
   <string name="life_post_wake_up_item_time_title">Vrijeme buđenja</string>
@@ -114,14 +109,12 @@
   <string name="menu_item_dock_settings">Postavke Docka</string>
   <string name="menu_item_sort_by_gmt_offset">Poredaj po vremenu</string>
   <string name="menu_item_sort_by_name">Poredaj po nazivu</string>
-  <string name="minute">1 minuta</string>
-  <string name="minutes">%d min</string>
   <string name="module_download_cancel">Ne hvala</string>
-  <string name="module_download_data_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke (20 MB) za zvukove okoline i pametne alarme. Sada upotrebljavate mobilne podatke. Dopustiti?”</string>
-  <string name="module_download_data_msg_golbal">"Sat mora preuzeti audio datoteke (20MB) za ambijentalne zvukove i pametne alarme. Sada koristite mobilne podatke. Dopustiti?"</string>
+  <string name="module_download_data_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Za ovo preuzimanje bit će potrebno 20 MB mobilnih podataka. Slažete li se?”</string>
+  <string name="module_download_data_msg_golbal">"Sat mora preuzeti audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Za ovo preuzimanje bit će potrebno 20 MB mobilnih podataka. Slažete li se?"</string>
   <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
-  <string name="module_download_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke za ambijentalne zvukove i pametne alarme. Dopustiti?</string>
-  <string name="module_download_msg_golbal">Sat mora preuzeti audio datoteke za ambijentalne zvukove i pametne alarme. Dopustiti?</string>
+  <string name="module_download_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Slažete li se?"</string>
+  <string name="module_download_msg_golbal">Sat mora preuzeti audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Slažete li se?"</string>
   <string name="module_download_no_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="module_download_ok">Dopusti</string>
   <string name="module_download_success">Uspješno preuzeto</string>
@@ -182,7 +175,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dodirnite zaslon da zaustavite zvonjavu</string>
   <string name="timer_alarm_dot_matrix_label">ODBROJAVANJE</string>
-  <string name="timer_alert_alert_silenced">Odbrojavanje isključeno nakon %d min.</string>
+  <string name="timer_alert_alert_silenced">Odbrojavanje isključeno nakon %1$s.</string>
   <string name="timer_alert_mute_off">Alarm će se oglasiti kada se odbrojavanje zaustavi</string>
   <string name="timer_alert_mute_on">"Alarm se neće oglasiti kada se odbrojavanje zaustavi"</string>
   <string name="timer_alert_mute_remind">Dodirni za isključivanje alarma</string>
@@ -236,6 +229,6 @@
   <string name="worldclock_world_time">Vremenske zone</string>
   <string name="worldcolock_timezone_current">Trenutno: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
-  <string name="worldcolock_timezone_gap">Sat</string>
+  <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
 </resources>

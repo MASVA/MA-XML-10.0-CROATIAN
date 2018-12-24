@@ -5912,6 +5912,8 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="set_data_limit">Postavi ograničenje podataka</string>
   <string name="set_data_time_range">Prikaži raspon vremena</string>
   <string name="set_data_warning">Postavi upozorenje o podacima</string>
+  <string name="set_jeejen_prompt_message">Jeejen bit će postavljen kao zadani pokretač. Možete promijeniti zadani pokretač u Postavke &gt; Postavke sustava &gt; POč. zaslon &amp; Nedavno &gt; Zadani pokretač.</string>
+  <string name="set_jeejen_prompt_title">Potvrdi promjene</string>
   <string name="set_password_action">Postavi zaporku</string>
   <string name="set_password_message">Postavite zaporku za isključivanje Dječjeg načina, kao i za otključavanje ovog uređaja.</string>
   <string name="set_password_title">Postavi zaporku</string>
@@ -6823,7 +6825,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
-  <string name="title_font_v2">Tekstt &amp; UI elementi</string>
+  <string name="title_font_v2">Tekst &amp; UI elementi</string>
   <string name="title_font_current">Font sustava</string>
   <string name="title_font_current2">Font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
@@ -8311,6 +8313,9 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem poslovnom profilu.</string>
   <string name="work_ringtone_title">Melodija zvona radnog telefona</string>
   <string name="work_sim_title">Radni SIM</string>
+  <string name="work_sound_permission_dialog_button_text_known">Razumijem</string>
+  <string name="work_sound_permission_dialog_message">"Ne možete koristiti Teme u Enterprise načinu. Obratite se svom nadzorniku za pristup."</string>
+  <string name="work_sound_permission_dialog_title">Ograničenja Enterprise načina</string>
   <string name="work_sound_same_as_personal">Isto kao osobni profil</string>
   <string name="work_space_delete">Izbriši Radni prostor</string>
   <string name="work_space_delete_confirm">Izbriši sada</string>
