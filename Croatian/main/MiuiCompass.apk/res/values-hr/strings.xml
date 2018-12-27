@@ -19,6 +19,7 @@
   <string name="calibrate_success">Kalibrirano</string>
   <string name="calibrate_tip">Naginjite uređaj da kotrljate loptom oko kruga</string>
   <string name="calibrate_title">Kalibriranje kompasa</string>
+  <string name="compass_settings">Postavke</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_body_no_network">"Povežite se s WLAN mrežom ili uključite mobilne podatke."</string>

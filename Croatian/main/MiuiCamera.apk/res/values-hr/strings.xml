@@ -358,6 +358,10 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="live_error_confirm">Prilagodi</string>
   <string name="live_error_message">Pogreška funkcije</string>
   <string name="live_error_title">Pogreška funkcije</string>
+  <string name="live_music_change_bgm">Zamijeni Glazbu</string>
+  <string name="live_music_close_cancel_message">Odustani</string>
+  <string name="live_music_close_message">Želite li zatvoriti trenutnu glazbu?</string>
+  <string name="live_music_close_sure_message">Zatvori</string>
   <string name="live_reverse_confirm">Izbriši</string>
   <string name="live_reverse_message">Izbrisati posljednji segment?</string>
   <string name="live_speed_extreme_fast">Najbrže</string>
