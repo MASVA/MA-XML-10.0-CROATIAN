@@ -109,6 +109,7 @@
   <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
+  <string name="double_tap_to_lock_title">Dvaput dodirnite da zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
   <string name="edit_mode_group">Grupiraj</string>

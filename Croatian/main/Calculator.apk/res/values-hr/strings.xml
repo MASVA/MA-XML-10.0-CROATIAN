@@ -24,6 +24,7 @@
   <string name="cancel">Odustani</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
   <string name="check_phone_io_error">"Ne mogu se povezati na mrežu</string>
+  <string name="children_education">"Obrazovanje djece"</string>
   <string name="choose_currency">Odaberite valutu</string>
   <string name="choose_unit">Odaberite jedinicu</string>
   <string name="city">Grad</string>
@@ -67,6 +68,10 @@
   <string name="error_title">"Ne mogu sinkronizirati"</string>
   <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
   <string name="evening">PM</string>
+  <string name="exit">Izlaz</string>
+  <string name="extra_deduction_instruction">Pojedinosti o odbitku</string>
+  <string name="extra_deduction_tips">Dodirnite tipku u gornjem kutu zaslona da biste vidjeli detalje o odbitku.</string>
+  <string name="extra_deduction_title">Dodatni odbici</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -122,8 +127,12 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="from_unit_en">kilometara na sat</string>
+  <string name="further_education">Daljnje obrazovanje</string>
   <string name="global_network_confirm_content">"Pretvarač valuta kalkulatora treba koristiti mrežnu vezu vašeg uređaja da radi normalno."</string>
   <string name="home_title_calculator">Kalkulator</string>
+  <string name="house_rent">Najam</string>
+  <string name="help_content_desc">Pomoć</string>
+  <string name="home_loan">Kamata kredita</string>
   <string name="hybrid_provider">Pruža %1$s</string>
   <string name="im">IM</string>
   <string name="immersion_button_close_description">Zatvori</string>
@@ -146,6 +155,8 @@
   <string name="item_title_vel_conversion">Brzina</string>
   <string name="item_title_volume_conversion">Volumen</string>
   <string name="item_title_weight_conversion">Masa</string>
+  <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Provjerite postavke mreže i pokušajte ponovno."</string>
+  <string name="loading">Samo trenutak…</string>
   <string name="loading_fail_message_no_network">"Ne mogu se povezati na mrežu. Dodirnite ovdje da biste pokušali ponovno."</string>
   <string name="loading_fail_refresh">Osvježi</string>
   <string name="loading_message">Učitavanje aplikacije…</string>
@@ -160,6 +171,7 @@
   <string name="loan_pay_years">Razdoblje kredita</string>
   <string name="loan_payback_way">Otplata</string>
   <string name="loan_unit">×10K</string>
+  <string name="medical_treatment">Liječenje</string>
   <string name="menuDesc">izbornik</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
@@ -232,6 +244,7 @@
   <string name="mortgage_tab_combining_loan">Kombinirano</string>
   <string name="mortgage_tab_commercial_loan">Komercijalno</string>
   <string name="mortgage_years_amount">Trajanje kredita</string>
+  <string name="mt_max">Uneseni iznos je prevelik</string>
   <string name="name">Ime</string>
   <string name="negDesc">Promjeni između temperatura ispod i iznad nule</string>
   <string name="network_confirm_content">"Izračun valute, poreza i hipoteke treba koristiti mrežnu vezu i uslugu lociranja vašeg uređaja da radi normalno."</string>
@@ -240,6 +253,7 @@
   <string name="night">PM</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_sim">Nema SIM kartice</string>
+  <string name="none">Ništa</string>
   <string name="noon">PM</string>
   <string name="note">Bilješka</string>
   <string name="ok">U redu</string>
@@ -331,6 +345,7 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="support_elder">Podrška za starije osobe</string>
   <string name="sync_one_time_sync">Sinkronizacija (%1$s)</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Unesite svoj bonus prije poreza</string>
@@ -359,6 +374,7 @@
   <string name="tax_last_salary_number">Primanja</string>
   <string name="tax_medical">Medicinsko</string>
   <string name="tax_param_error">Unesite ispravnu stopu osiguranja</string>
+  <string name="tax_rate_provider">Izračunava se prema novim poreznim propisima. Podatke osiguravaju hexun.com i East Money.</string>
   <string name="tax_result_real_get">Stvarna dobit</string>
   <string name="tax_social_insurance">Socijalno osiguranje</string>
   <string name="tax_thershold_foreign">%s (strano državljanstvo)</string>
@@ -514,7 +530,8 @@
   <string name="unit_myriads"/>
   <string name="unit_year">G</string>
   <string name="unit_year_format">Godina %s</string>
-  <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="updating">Ažuriranje Kalkulatora…</string>
+  <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_manual">Upute</string>
   <string name="web_sso_login_fail">Morate se prijaviti ponovno</string>
   <string name="web_sso_login_message">Prijava…</string>

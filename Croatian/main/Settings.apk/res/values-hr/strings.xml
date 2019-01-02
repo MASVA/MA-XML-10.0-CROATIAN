@@ -371,6 +371,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="another_migration_already_in_progress">Druga migracija je već u tijeku.</string>
   <string name="anr_record_interval_title">Snimi ANR intervale</string>
   <string name="anti_spam">Lista blokiranih</string>
+  <string name="aod_clock_style_title">Stil sata</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_got_it">Razumijem</string>
   <string name="aod_mode_summary">Uvijek prikaži vrijeme, datum i poruke kada je zaslon isključen.</string>
