@@ -609,6 +609,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_jpegquality_entry_low">Niska</string>
   <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
+  <string name="pref_camera_live_sticker_internal_title">Interni čarobni alati</string>
   <string name="pref_camera_long_press_shutter_feature_title">Duži pritisak na tipku okidača</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Brzo snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>

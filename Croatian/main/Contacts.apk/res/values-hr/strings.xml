@@ -274,6 +274,7 @@ Kartice kontakata su isključene"</string>
   <string name="contactsGroupsLabel">"Grupe"</string>
   <string name="contactsJoinedMessage">Kontakti su pridruženi</string>
   <string name="contactsList">"Kontakti"</string>
+  <string name="contacts_default_notification_channel">Obavijesti</string>
   <string name="contacts_hybrid_activity_label">Obnovi kontakte</string>
   <string name="contacts_setting_title">Postavke kontakta</string>
   <string name="contacts_unavailable_add_account">Prijavite se na račun</string>

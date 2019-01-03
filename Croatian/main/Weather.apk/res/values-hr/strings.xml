@@ -246,6 +246,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="traffic_control_today_numbers">Danas: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Sutra: %1$s</string>
   <string name="traffic_controls">Kontrola prometa</string>
+  <string name="translate_notification_info">Prevođenje u pozadini…</string>
   <string name="tts_report_aqi"/>
   <string name="tts_report_city_name"/>
   <string name="tts_report_defautl_head"/>
@@ -260,6 +261,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="unit_wind">Jedinica brzine vjetra</string>
   <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između 23:00 i 07:00</string>
   <string name="update_night_setting_title_text">Ažuriraj autom. tijekom noći</string>
+  <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
   <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>
   <string name="updated_a_moment_ago">Ažurirano prije nekoliko trenutaka</string>
   <string name="updating">Ažuriranje…</string>
@@ -271,6 +273,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
+  <string name="weather_alert_channel_name">Upozorenja</string>
+  <string name="weather_service_channel_name">Usluge u pozadini</string>
   <string name="weather_alert">Upozorenja vremena</string>
   <string name="wind_direction_no_data">Vjetar</string>
   <string name="xiaomi_weather_description_content">Aplikacija Vrijeme pruža točne informacije o vremenskoj prognozi. Bez ove aplikacije, traka statusa i widget Vrijeme na početnom zaslonu neće raditi ispravno. Prije nego deinstalirate aplikaciju, nemojte raditi bez tih značajki.</string>

@@ -434,6 +434,9 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">%s minuta</item>
         <item quantity="few">%s minute</item>
      </plurals>
+	 <plurals name="miui_sos_emergency_contacts_quantity">
+         <item quantity="other">%d dodan</item>
+     </plurals>
      <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ograničenja</item>
         <item quantity="one">%1$d ograničenje</item>
