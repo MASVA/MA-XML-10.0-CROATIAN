@@ -6311,6 +6311,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_notification_use_app_icon">Koristi ikonu aplikacije za obavijesti</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_peek_notification_icon">Prikaži ikone za dolazne obavijesti</string>
+  <string name="status_bar_settings_qs_layout">Raspored prečaca</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
   <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Prikaži naziv operatera kada je uređaj zaključan</string>

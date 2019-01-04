@@ -1335,4 +1335,17 @@
         <item>Prikaži animaciju</item>
         <item>"Ne uključuj zaslon"</item>
     </string-array>
+	<string-array name="status_bar_settings_qs_layout_entries">
+	   <item>Zadano</item>
+	   <item>Kompaktno</item>
+	</string-array>	
+	<string-array name="default_vol_stream_entries">
+	    <item>Melodija zvona</item>
+	    <item>Mediji</item>
+	 </string-array>
+	 <string-array name="aod_clock_style_entries">
+	   <item>Vodoravno</item>
+	   <item>Okomito</item>
+	   <item>Linija</item>
+	 </string-array>  
 </resources>
