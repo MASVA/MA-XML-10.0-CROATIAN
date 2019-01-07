@@ -942,14 +942,14 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_connect_failed">Povezivanje nije uspjelo. Pokušajte ponovo.</string>
   <string name="bluetooth_connect_specific_profiles_title">Poveži se na…</string>
   <string name="bluetooth_connected">Povezano</string>
-  <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_battery_level">Povezano| Baterija %1$s</string>
   <string name="bluetooth_connected_multiple_devices_summary">Povezano s više uređaja</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (bez medija): %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija), baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija)| Baterija %1$s</string>
   <string name="bluetooth_connected_no_headset">Povezano (bez telefona): %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona), baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona)| Baterija %1$s</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona i medija): %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona i medija), baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona i medija)| Baterija %1$s</string>
   <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama): %1$s</string>
   <string name="bluetooth_connected_summary">Povezano s uređajem %1$s</string>
   <string name="bluetooth_connecting">Povezivanje…</string>
@@ -2458,6 +2458,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="eq_preset_hint">Naziv efekta</string>
   <string name="eq_preset_rename">Preimenuj</string>
   <string name="eq_preset_select">Odaberi preset</string>
+  <string name="eq_return">Natrag</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="erase_application">Izbriši aplikacije</string>
@@ -4446,7 +4447,11 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Teme</string>
   <string name="page_layout_confirm_message">"Vaš uređaj se mora ponovno pokrenuti za primjenu ovih izmjena. To traje oko 1 minutu."</string>
+  <string name="page_layout_confirm_message_enlarge">Tekst, slike i ikone će se povećati. Neke ikone mogu promijeniti svoja mjesta.</string>
+  <string name="page_layout_confirm_message_narrow">Tekst, slike i ikone će se smanjiti. Neke ikone mogu promijeniti svoja mjesta.</string>
   <string name="page_layout_confirm_title">Promjena postavki prikaza</string>
+  <string name="page_layout_confirm_title_enlarge">Veće stavke</string>
+  <string name="page_layout_confirm_title_narrow">Manje stavke</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -5396,6 +5401,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_on_proximity_sensor_summary">Zaključaj geste dodira kada je stavljen u džep</string>
   <string name="screen_on_proximity_sensor_title">Džepni način</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize_disabled">"Ne mogu podesiti kontrast kada je uključen Način čitanja"</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
   <string name="screen_paper_mode_apps_title">Koristi Način čitanja</string>

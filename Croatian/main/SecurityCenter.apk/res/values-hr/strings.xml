@@ -3149,6 +3149,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_setting_fragment_sms_content_tips">Ovdje upišite svoju poruku</string>
   <string name="traffic_setting_fragment_template">Predložak poruke</string>
   <string name="traffic_setting_fragment_title">Upit uporabe podataka</string>
+  <string name="traffic_setting_fragment_title_guide">Mob. operateri i planovi podataka</string>
+  <string name="traffic_usage_warning_body">"Potrošili ste %s mobilnih podataka ovog mjeseca."</string>
+  <string name="traffic_usage_warning_limit">Ograničenje upozorenja uporabe podataka</string>
+  <string name="traffic_usage_warning_title">Upozorenje uporabe podataka</string>
   <string name="traffic_setting_open">Uključeno</string>
   <string name="traffic_setting_step_num">Postavke uporabe</string>
   <string name="traffic_warning_purchase_title">Upozorenje uporabe podataka</string>

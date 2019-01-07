@@ -48,7 +48,7 @@
   <string name="cloud_app_restore_app_and_data">Postavite svoj uređaj</string>
   <string name="cloud_app_restore_data">Osobni podaci i prethodno instalirane aplikacije će se pojaviti na vašem uređaju automatski</string>
   <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
-  <string name="cloud_app_restore_success">Aplikacije vraćene</string>
+  <string name="cloud_app_restore_success">Aplikacije su vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Mi Cloudu.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
@@ -63,9 +63,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na WLAN"</string>
   <string name="cloud_back_up_ok_btn">U redu</string>
   <string name="cloud_back_up_opening">Samo trenutak…</string>
-  <string name="cloud_back_up_share_activity_confirm">Nadogradi</string>
-  <string name="cloud_back_up_share_activity_discription">Dobijte više prostora za pohranu dnevnih Sig. kopija i više.</string>
-  <string name="cloud_back_up_share_activity_title">Nadogradi Mi Račun</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Nadogradi</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Dobijte više prostora za pohranu dnevnih Sig. kopija i više.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Nadogradi Mi Račun</string>
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_backup">Mi Cloud Sig. kopije</string>
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
