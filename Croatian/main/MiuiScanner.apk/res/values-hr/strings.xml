@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_title">O aplikaciji</string>
   <string name="accept">U redu</string>
   <string name="access_sd_fail">"Ne mogu pristupiti SD kartici"</string>
   <string name="accessibility_shutter_button">Okidač</string>
@@ -131,6 +132,7 @@
   <string name="nickname">Nadimak:</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="no_storage">Nema unutarnje pohrane</string>
+  <string name="no_support_to_translate_type">"Ovaj jezik nije podržan"</string>
   <string name="not_insert_contact">"Ne mogu dodati kontakt"</string>
   <string name="not_recommend_access_web_url">Gibaj odavde</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
@@ -162,11 +164,18 @@
   <string name="recognize_fail">"Ne mogu pročitati kod"</string>
   <string name="scan_fail">"Ne mogu skenirati kod"</string>
   <string name="scan_result">Rezultat</string>
+  <string name="scan_support_type">WeChat, Alipay, QR kodovi, bar kodovi</string>
   <string name="sdk_not_ready">Priprema SDK. Pokušajte ponovno kasnije.</string>
   <string name="secure_access_web_url">Idi na web stranicu</string>
   <string name="see_app_details">Prikaz pojedinosti o aplikaciji</string>
   <string name="select_dialog_confirm">U redu</string>
   <string name="send_mail">Pošalji email</string>
+  <string name="setting_alipay">Alipay</string>
+  <string name="setting_choose_every_time">Uvijek pitaj</string>
+  <string name="setting_default_function">Zadana značajka</string>
+  <string name="setting_preference_pay">Željeni način plaćanja</string>
+  <string name="setting_use_last_choose">Zapamti prethodni izbor</string>
+  <string name="setting_wechat">WeChat</string>
   <string name="settings">Postavke</string>
   <string name="shopping_searching">Traženje…</string>
   <string name="shopping_title">Snimite fotografiju proizvoda</string>
@@ -182,6 +191,7 @@
   <string name="tel">Telefon</string>
   <string name="tips_message">"Povežite se se na internet kako bi provjerili je li web-lokacija koju posjećujete sigurna."</string>
   <string name="title">Naslov:</string>
+  <string name="to_pay">Dovršite plaćanje</string>
   <string name="translate_auto_lock">Zaključaj prijevod</string>
   <string name="translate_auto_unlock">Otključaj prijevod</string>
   <string name="translate_copy_success">Uspješno kopirano</string>
