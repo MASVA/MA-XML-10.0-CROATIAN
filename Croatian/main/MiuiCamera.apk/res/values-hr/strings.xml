@@ -66,6 +66,7 @@
   <string name="accessibility_peak">Tipka Focus-Peak</string>
   <string name="accessibility_portrait_button">Portretni način</string>
   <string name="accessibility_protrait">Portret</string>
+  <string name="accessibility_pull_down_to_open_camera">Povuci prema dolje za otvaranje kamere</string>
   <string name="accessibility_record_button">Tipka Snimanje</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
   <string name="accessibility_scroll_button_slider">Kamera-Video-Prekidač</string>
@@ -406,7 +407,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="live_speed_extreme_fast">Super brzo</string>
   <string name="live_speed_extreme_slow">Super sporo</string>
   <string name="live_speed_fast">Brzo</string>
-  <string name="live_speed_fragment_tab_name">Brzina</string>
+  <string name="live_speed_fragment_tab_name">Brzina snimanja</string>
   <string name="live_speed_normal">Normalno</string>
   <string name="live_speed_slow">Sporo</string>
   <string name="live_sticker_fragment_tab_name">Naljepnice</string>
