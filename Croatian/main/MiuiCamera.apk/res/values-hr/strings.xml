@@ -1034,4 +1034,5 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene."</
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Prije povezivanja, provjerite je li mreža koju upotrebljavate sigurna."</string>
+  <string name="zoom_no_support_tip_48M">"Zumiranje ne radi u 48MP načinu"</string>
 </resources>

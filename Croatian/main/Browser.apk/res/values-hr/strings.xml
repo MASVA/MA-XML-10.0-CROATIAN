@@ -468,6 +468,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="hint">Savjet</string>
   <string name="history">Povijest</string>
   <string name="home_description">Početna</string>
+  <string name="home_hybrid_application_tips">Mini programi uključeni ovdje</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
   <string name="homepage_get_location">Dobivanje lokacije</string>
@@ -477,6 +478,8 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="homepage_search_hint">Pretraži</string>
   <string name="homepage_top_card_menu">Na vrh</string>
   <string name="hot_words_item_ads_mark">Oglasi</string>
+  <string name="hybrid_application_no_data_text">Nema Mini programa</string>
+  <string name="hybrid_popup_window_delete_button">Izbriši</string>
   <string name="ignore_add_pwa_dialog_today">Ne prikazuj danas</string>
   <string name="in_incognito">Anoniman mod je aktivan, neće ostati povijest preglednika.</string>
   <string name="in_secureaccess">Preglednik u sigurnom načinu rada</string>
@@ -1628,4 +1631,5 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="webview_find_on_page">Pronađi na stranici</string>
   <string name="webviewchromium_private_browsing_warning">"Ova funkcija nije podržana u ovoj verziji Androida."</string>
   <string name="week_picker_dialog_title">Postavite tjedan</string>
+  <string name="window_manager_hybrid_application_list_title_text">Nedavno korišteno</string>
 </resources>
