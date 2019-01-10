@@ -1420,7 +1420,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_evdo_only_summary">Način željene mreže: Samo EvDo</string>
   <string name="preferred_network_mode_global_summary">Preferirani način mreže: Globalni</string>
   <string name="preferred_network_mode_gsm_only_summary">Način željene mreže: Samo GSM</string>
-  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">Preferirani GSM/WCDMA</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Način željene mreže: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferirani mrežni način: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Način željene mreže: LTE/CDMA</string>

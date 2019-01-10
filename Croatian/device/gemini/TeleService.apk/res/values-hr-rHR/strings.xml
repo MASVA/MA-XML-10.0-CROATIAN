@@ -1422,7 +1422,6 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_gsm_wcdma_summary">Način željene mreže: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferirani mrežni način: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Način željene mreže: LTE/CDMA</string>
-  <string name="preferred_network_mode_lte_choice">LTE</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Preferirani način mreže: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferirani mrežni način: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Preferirani mrežni način: LTE</string>
@@ -1437,11 +1436,9 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_td_scdma_gsm_lte_summary">Preferirani način mreže: TD-SCDMA/GSM/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_summary">Preferirani način mreže: TD-SCDMA / GSM</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_summary">Preferirani način mreže: TD-SCDMA/GSM/WCDMA/CDMA/EvDo</string>
-  <string name="preferred_network_mode_td_scdma_gsm_wcdma_choice">TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_lte_summary">Preferirani način mreže: TD-SCDMA/GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_gsm_wcdma_summary">Preferirani način mreže: TD-SCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_td_scdma_lte_cdma_evdo_gsm_wcdma_summary">Preferirani način mreže: TD-SCDMA/LTE/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice">TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</string>
   <string name="preferred_network_mode_td_scdma_lte_summary">Preferirani način mreže: TD-SCDMA / LTE</string>
   <string name="preferred_network_mode_td_scdma_only_summary">Preferirani način mreže: Samo TD-SCDMA</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Preferirani način mreže: TD-SCDMA/WCDMA/LTE</string>
