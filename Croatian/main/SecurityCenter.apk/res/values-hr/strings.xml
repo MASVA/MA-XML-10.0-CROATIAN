@@ -1059,7 +1059,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="firewall_temp_rule_reason">%2$s je ograničio internetsku vezu za %1$s​</string>
   <string name="firewall_wifi">WLAN</string>
   <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću WLAN-a kada je ova stavka isključena.​"</string>
-  <string name="first_aid_activity_title">Prva pomoć</string>
+  <string name="first_aid_activity_title">Ispravi probleme</string>
   <string name="first_aid_card_airplane_button">Isključi</string>
   <string name="first_aid_card_airplane_summary">Isključite Zrakoplovni način kako biste mogli upućivati pozive i povezati se s mrežom</string>
   <string name="first_aid_card_airplane_title">"Ne mogu upućivati pozive ili se povezati s mrežom"</string>
@@ -1097,7 +1097,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_item4_content">Baterija</string>
   <string name="first_aid_item5_content">Ostali problemi</string>
   <string name="first_aid_result_feedback_button">Pošalji</string>
-  <string name="first_aid_result_feedback_summary">"Ne mogu riješiti probleme na svom uređaju."</string>
+  <string name="first_aid_result_feedback_summary">"Ne mogu pronaći nikakve probleme. Međutim, primjetio sam neke."</string>
   <string name="first_aid_result_feedback_title">Povratne inf.</string>
   <string name="first_aid_result_summary_normal">Sve izgleda dobro!</string>
   <string name="first_aid_result_summary_not_finished">"Skeniranje nije dovršeno. Neki rizici možda neće biti otkriveni."</string>
@@ -2740,7 +2740,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="summary_do_not_disturb">"Koristitite DND način."</string>
   <string name="summary_eye_shield">"Isključite način čitanja da biste vratili na zadane postavke."</string>
   <string name="summary_find_device">Pronađite i zaključajte svoj uređaj s bilo kojeg mjesta</string>
-  <string name="summary_first_aid_kit">Popravite probleme pomoću našeg paketa za prvu pomoć</string>
+  <string name="summary_first_aid_kit">Sada ispravite probleme na svom uređaju</string>
   <string name="summary_flow_notification">Prikaži mjesečnu statistiku uporabe podataka u panelu obavijesti.</string>
   <string name="summary_flow_purchase">"Izgleda da nemate još puno preostalih podataka. Kupita podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">"Premašili ste ograničenje uporabe podataka ovaj mjesec za %sMB."</string>
@@ -2939,7 +2939,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_do_not_disturb">"Ne čujete zvuk zvona?"</string>
   <string name="title_eye_shield">"Boja zaslona ne izgleda dobro?"</string>
   <string name="title_find_device">Pronađi uređaj</string>
-  <string name="title_first_aid_kit">Prva pomoć</string>
+  <string name="title_first_aid_kit">Ispravite probleme</string>
   <string name="title_flow_notification">Obavijest mobilnih podataka</string>
   <string name="title_flow_purchase">Kupi mobilne podatke</string>
   <string name="title_flow_rank">Uporaba mobilnih podataka</string>

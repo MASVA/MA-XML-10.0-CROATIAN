@@ -3059,6 +3059,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyboard_shortcuts_helper">Pomoć za tipkovne prečace</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostupnih prečaca</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
+  <string name="keyguard_double_tap_to_sleep_title">Dvaput dodirnite zaslona za mirovanje</string>
   <string name="keyguard_notification_status_title">Kada dođe obavijest i zaslon je isključen</string>
   <string name="keyguard_left_function_chooser_hint_text">Lijevi prečac promijenjen u %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>

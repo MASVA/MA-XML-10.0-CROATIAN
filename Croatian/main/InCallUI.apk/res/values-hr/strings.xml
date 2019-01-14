@@ -36,6 +36,7 @@
   <string name="call_button_tools_text">Značajke</string>
   <string name="call_contacts_deny_permission_msg">"Odbili ste dopuštenje za čitanje kontakata ne mogu prikazati informacije o kontaktima."</string>
   <string name="call_description_recording">Snimanje…</string>
+  <string name="call_not_support_high_frequency_click">"Ne dodirujte ovu tipku tako često"</string>
   <string name="call_extension_conference_mode">Konferencija</string>
   <string name="call_record_button_label">Snimanje %s</string>
   <string name="call_record_wait_label">Čekanje</string>
