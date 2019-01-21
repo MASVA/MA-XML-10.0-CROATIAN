@@ -366,7 +366,10 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Ograničena veza za ovoliko aplikacija: %s</item>
         <item quantity="one">Ograničena veza za %s aplikaciju</item>
     </plurals>
-	     <plurals name="app_notification_listing_summary_others">
+	<plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Sat %2$s"</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Isključeno za %d aplikacija</item>
         <item quantity="one">Isključeno za %d aplikaciju</item>
         <item quantity="few">Isključeno za %d aplikacije</item>
