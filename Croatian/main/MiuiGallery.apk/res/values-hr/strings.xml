@@ -1373,6 +1373,8 @@ za fotografije"</string>
   <string name="text_edit_dialog_style_shadow">Sjena</string>
   <string name="text_edit_dialog_style_transparent">Neprozirnost</string>
   <string name="text_edit_sub_menu_text">Mjehurić</string>
+  <string name="text_tab_bubble">Mjehurići</string>
+  <string name="text_tab_watermark">Vodeni žig</string>  
   <string name="things_album_empty_title">Fotografije se mogu razvrstati po objektima na njima</string>
   <string name="thumbnail_name">minijatura</string>
   <string name="tint">Boja</string>
