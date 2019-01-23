@@ -83,14 +83,14 @@
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP uklj.</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP isklj.</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP uklj.</string>
-  <string name="accessibility_ultra_wide_off">Širokokutna kameraje isklj.</string>
-  <string name="accessibility_ultra_wide_on">Širokokutna kamera je uklj.</string>
+  <string name="accessibility_ultra_wide_off">Ultra široki kut je isklj.</string>
+  <string name="accessibility_ultra_wide_on">Ultra široki kut je uklj.</string>
   <string name="accessibility_video_capture_button">Tipka okidača za snimanje videozapisa</string>
   <string name="accessibility_video_module_picker">Odabir modula</string>
   <string name="accessibility_video_pause_button">Pauziranj snimanje</string>
   <string name="accessibility_video_resume_button">Nastavi snimanje</string>
   <string name="accessibility_zoom_button">Zoom</string>
-  <string name="accessibility_zoom_control">Zoom kontrola</string>
+  <string name="accessibility_zoom_control">Kontrola Zoom-a</string>
   <string name="ai_scene_mode_use_hint_text">"AI kamera automatski prepoznaje prizore
   
 i optimizira vaše fotografije na temelju ove informacije"</string>
@@ -333,6 +333,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="fps960_toast">Usporeno snimanje započinje kada mjerač vremena dosegne bijelu točku</string>
   <string name="front_camera_hint_text_place">Snimanje selfija bit će lakše\nako zakrenete telefon</string>
   <string name="front_camera_hint_text_rotate">Zakrenite telefon</string>
+  <string name="hand_gesture_open_tip">Pokažite dlan u kameru da biste pokrenuli timer</string>
+  <string name="hand_gesture_tip">Slikanje dlanom</string>
   <string name="group_by">Poredaj po</string>
   <string name="group_by_album">Album</string>
   <string name="group_by_faces">Osobe</string>
@@ -776,8 +778,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_touchafaec_title">Dodirni AF/AEC</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Ispravi izobličene objekte automatski</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Ispravno izobličenje u širokokutnim snimkama</string>
-  <string name="pref_camera_ultra_wide_mode_title">Širokokutna kamera</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Ispravi izobličenje u ultra širokim snimkama</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultra široki kut</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh je zatvoren</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">10 minuta</string>
@@ -801,7 +803,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_whitebalance_entry_measure">Mjerenje</string>
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Široki kut</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
   <string name="pref_camera_zoom_mode_title">LEĆE</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
@@ -979,7 +981,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Brzo uzastopno snimanje nije podržano kada je snimanje zvuka uključeno."</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktivirano "Istakni tonove kože"</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
-  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Morate postaviti ISO 'auto'"</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Morate postaviti ISO na 'auto'"</string>
   <string name="toast_saving">Spremanje fotografija…</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
@@ -990,12 +992,12 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="ultra_wide_bokeh_close_tip">Način cijelog tijela je isklj.</string>
   <string name="ultra_wide_bokeh_open_tip">Način cijelog tijela</string>
-  <string name="ultra_wide_close_tip">Široki kut je isklj.</string>
-  <string name="ultra_wide_mode">Široki kut</string>
+  <string name="ultra_wide_close_tip">Ultra široki kut je isklj.</string>
+  <string name="ultra_wide_mode">Ultra široki kut</string>
   <string name="ultra_wide_mode_use_hint_text">"Koristite ovaj način za uključivanje više scena na fotografiju.
 Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene."</string>
-  <string name="ultra_wide_open_tip">Način širokog kuta</string>
-  <string name="ultra_wide_recommend_tip_hint">Isprobajte način širokog kuta</string>
+  <string name="ultra_wide_open_tip">Ultra široki kut</string>
+  <string name="ultra_wide_recommend_tip_hint">Isprobajte Ultra široki kut</string>
   <string name="undo">Poništi</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Slažem se</string>

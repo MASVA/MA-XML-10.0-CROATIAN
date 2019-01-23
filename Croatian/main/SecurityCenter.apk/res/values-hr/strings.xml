@@ -630,6 +630,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>
   <string name="card_main_datasave_title">Štednja podataka</string>
   <string name="card_main_deepclean_action">Očisti</string>
+  <string name="card_main_deepclean_facebook_title">Facebook čistač</string>
   <string name="card_main_deepclean_qq_title">QQ čistač</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Full čišćenje</string>

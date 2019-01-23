@@ -79,7 +79,7 @@
   <string name="full_screen_enter">Cijeli zaslon</string>
   <string name="full_screen_exit">Izlaz iz cijelog zaslona</string>
   <string name="google_base_app_install_choice">\"%s\" zahtijeva Google Service Framework aplikacije da radi normalno, preuzeti i instalirati ih?</string>
-  <string name="hide_mode_desc"><font color="#000000">Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Ova će funkcija dobiti i koristiti korisničke podatke prema %s</font></string>
+  <string name="hide_mode_desc">Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Ova će funkcija dobiti i koristiti korisničke podatke prema %s</string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
   <string name="hide_system_app">Sakrij aplikacije sustava</string>
   <string name="high_temp_state">Pregrijavanje</string>
