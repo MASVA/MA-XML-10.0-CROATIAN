@@ -69,7 +69,7 @@
          <item quantity="one">Sinkronizacija je pauzirana. Nastavi sinkr. nakon %d min.</item>
      </plurals>
      <plurals name="last_sync_time_mins_ago">
-        <<item quantity="other">"  min. ranije"</item>
+        <item quantity="other">"  min. ranije"</item>
         <item quantity="one">" min. ranije"</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
