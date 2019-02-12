@@ -1107,7 +1107,6 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="navigate_feedback_dislike_tips">Ne želim primate preporuke</string>
   <string name="navigate_feedback_input_report_label">Ostali razlozi</string>
   <string name="navigate_feedback_report">Prijavi</string>
-  <string name="navigate_feedback_report_input_length">%1$d/100</string>
   <string name="navigate_feedback_report_input_tips">Ostavite svoje pitanje, obradit ćemo ga što je prije moguće</string>
   <string name="navigate_feedback_report_success">Uspješno prijavljeno</string>
   <string name="navigate_feedback_report_title">Razlog prijave</string>
