@@ -100,7 +100,8 @@
   <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
   <string name="completed">Sve je postavljeno!</string>
   <string name="confirm_activate_email">Potvrđeno</string>
-  <string name="confirm_bundled_phone_dialog_title">Potvrdi grupirani broj telefona</string>
+  <string name="confirm_bundled_phone_dialog_title">Potvrdi povezan broj telefona</string>
+  <string name="confirm_new_pwd">Potvrdi novu zaporke</string>
   <string name="confirm_delete_app_message">Nakon brisanja ove aplikacije, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Nakon brisanja ovog preglednika, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Nakon brisanja ovog uređaja, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
@@ -177,8 +178,10 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="identity">Identifikacija</string>
+  <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
   <string name="ignore">Ne sada</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
+  <string name="input_new_pwd">Unesite novu zaporku</string>
   <string name="io_error_title">Potvrdite vašu mrežu</string>
   <string name="just_a_second">Samo trenutak…</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
@@ -488,6 +491,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="restart_action">Započni ispočetka</string>
   <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
+  <string name="same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
   <string name="search_account_protection">Zaštita računa</string>
   <string name="search_account_protection_desc">Zaštita računa</string>
@@ -530,6 +534,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="service_error">Pogreška usluge</string>
   <string name="set_success">Uspješno promjenjeno</string>
   <string name="sign_in">Prijavi se</string>
+  <string name="sim_card">SIM kartica</string>
   <string name="sim_changed_notification_msg">Dodirnite za ažuriranje vašeg telefona za oporavak i zadržite svoj račun sigurnijim.</string>
   <string name="sim_changed_notification_title">Broj telefona je promijenjen?</string>
   <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
@@ -557,6 +562,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
   <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
   <string name="updated_nothing">Ažurirano</string>
+  <string name="used_cloud_storage_info">Iskorišten prostor za pohranu %s</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="verified_apps">Provjerene aplikacije</string>

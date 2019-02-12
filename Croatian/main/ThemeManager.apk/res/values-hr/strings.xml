@@ -122,7 +122,7 @@
   <string name="exit_extreme_mode_dialog_cancel">Isključi</string>
   <string name="exit_extreme_mode_dialog_title">Isključi Ekstremni način</string>
   <string name="exo_controls_fastforward_description">Brzo naprijed</string>
-  <string name="exo_controls_fullscreen_description">Način cijelog zaslona</string>
+  <string name="exo_controls_fullscreen_description">Cijeli zaslon</string>
   <string name="exo_controls_next_description">Sljedeća pjesma</string>
   <string name="exo_controls_pause_description">Pauza</string>
   <string name="exo_controls_play_description">Reproduciraj</string>

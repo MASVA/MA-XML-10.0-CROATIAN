@@ -72,6 +72,10 @@
   <string name="show_hard_key_summary">Prikaži upit kod pritiska na tipke Početna, Izbornik i Natrag</string>
   <string name="show_screen_touch">Prikaži geste dodira</string>
   <string name="show_screen_touch_summary">Vizualiziraj geste koristeći točku</string>
+  <string name="size_byte">B</string>
+  <string name="size_gigabyte">GB</string>
+  <string name="size_kilobyte">KB</string>
+  <string name="size_megabyte">MB</string>
   <string name="sound_source">Izvor zvuka</string>
   <string name="sound_source_summary">Zvukovi sustava ili mikrofon</string>
   <string name="sound_source_summary_without_system_sounds">Upotrijebi mikrofon ili utišaj zvuk</string>

@@ -1736,7 +1736,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="daltonizer_type">Način korekcije</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
   <string name="dangerous_option">Razvojne opcije visokog rizika</string>
-  <string name="dangerous_option_hint">%1$s su omogućene. Dodirnite za promjenu postavki.</string>
+  <string name="dangerous_option_hint">\"%1$s\" su omogućene. Dodirnite za promjenu postavki.</string>
   <string name="dangerous_option_hint_title">Razvojne opcije visokog rizika omogućene</string>
   <string name="dangerous_option_switch_title">Obavijesti o visokorizičnim značajkama</string>
   <string name="dark_color_mode">Tamni način</string>
@@ -2970,6 +2970,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
+  <string name="incall_show">Profilni videozapis za odlazne pozive</string>
   <string name="include_app_data_title">Uključi podatke aplikacija</string>
   <string name="incoming_call_breathing_light_color_title">Boja LED-a kod poziva</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvencija treperenja kod poziva</string>
@@ -3898,6 +3899,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="modem_tool_log_stop_toast">"Zaustavi zapisn modema iz %s"</string>
   <string name="modify_instruction_password_settings">Postavi zaporku</string>
   <string name="modify_privacy_password">Promjeni zaporku</string>
+  <string name="more_dangerous_option_hint">Značajke visokog rizika, uključujući \"%1$s\" su omogućene. Dodirni za promjenu postavki.</string>
   <string name="move_app">Premjesti</string>
   <string name="move_app_failed_dlg_text">"Ne mogu premjestiti aplikaciju %1$s."</string>
   <string name="move_app_failed_dlg_title"/>
@@ -4020,6 +4022,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="music_unsupport_effect_summary">USB slušalice nisu podržane</string>
   <string name="musicfx_title">Glazbeni efekti</string>
   <string name="mute_music_stream">Utišaj stream glazbe</string>
+  <string name="mute_voiceassist_stream">Utišaj glosovnog pomoćnika</string>
   <string name="mvno_match_data">Vrijednost MVNO-a</string>
   <string name="mvno_type">Vrsta MVNO-a</string>
   <string name="my_device">Moj uređaj</string>

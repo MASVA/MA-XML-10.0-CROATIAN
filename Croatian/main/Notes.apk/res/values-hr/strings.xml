@@ -150,6 +150,10 @@ Dodirnite + da napravite mapu"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
+  <string name="permission_intro_contact">Za označavanje bilješki snimljenih tijekom poziva</string>
+  <string name="permission_intro_microphone">Za snimanje glasovnih bilješki</string>
+  <string name="permission_intro_phone">Za označavanje bilješki snimljenih tijekom poziva</string>
+  <string name="permission_intro_storage">Za spremanje bilješki i privitaka</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>

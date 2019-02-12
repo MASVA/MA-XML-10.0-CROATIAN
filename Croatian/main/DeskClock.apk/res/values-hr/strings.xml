@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="allow">Dopusti</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj sat</string>
   <string name="add_timezone_title">Dodaj vremensku zonu</string>
@@ -75,7 +95,13 @@
   <string name="install_weather_app_loading">Samo trenutak…</string>
   <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
   <string name="invalid_timer_length">Nevažeća duljina odbrojavanja</string>
-  <string name="keep_screen_on">Drži zaslon upaljenim</string>
+  <string name="keep_screen_on">Drži zaslon uključen</string>
+  <string name="korea_permission_calendar">Kalendar</string>
+  <string name="korea_permission_calendar_desc">Za pristupanje informacijama o događaju i slanje podsjetnika</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_desc">Za pristup statusu uređaja i utišavanje podsjetnika tijekom poziva</string>
+  <string name="korea_permission_storage">Pohrana</string>
+  <string name="korea_permission_storage_desc">Za spremanje alarma</string>
   <string name="label">Upiši tekst</string>
   <string name="label_pref_summary">Tekst ovoga alarma</string>
   <string name="lap">Krug</string>
@@ -112,9 +138,11 @@
   <string name="module_download_cancel">Ne hvala</string>
   <string name="module_download_data_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Za ovo preuzimanje bit će potrebno 20 MB mobilnih podataka. Slažete li se?”</string>
   <string name="module_download_data_msg_golbal">"Sat mora preuzeti audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Za ovo preuzimanje bit će potrebno 20 MB mobilnih podataka. Slažete li se?"</string>
+  <string name="module_download_data_msg_replace">Dostupan je ažurirani zvuk za pametne alarme (≈20MB). Povezati se s mrežom i preuzeti pomoću mobilnih podataka?</string>
   <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
   <string name="module_download_msg">"Sat se treba povezati s internetom radi preuzimanja audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Slažete li se?"</string>
   <string name="module_download_msg_golbal">Sat mora preuzeti audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Slažete li se?"</string>
+  <string name="module_download_msg_replace">Dostupan je ažurirani zvuk za pametne alarme. Povezati se s mrežom i preuzeti?</string>
   <string name="module_download_no_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="module_download_ok">Dopusti</string>
   <string name="module_download_success">Uspješno preuzeto</string>
@@ -134,6 +162,7 @@
   <string name="reset">Resetiraj</string>
   <string name="revert">Obnovi</string>
   <string name="search_alarm_clock_keywords">Alarm;Budilica;</string>
+  <string name="search_menu_title">Traži</string>
   <string name="search_stopwatch_keywords">Štoperica</string>
   <string name="search_timer_keywords">Kronometar</string>
   <string name="search_worldclock_keywords">Vrijeme;Svjetski sat;Sat</string>

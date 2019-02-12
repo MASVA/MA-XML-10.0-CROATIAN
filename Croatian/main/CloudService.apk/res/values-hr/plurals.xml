@@ -64,12 +64,16 @@
          <item quantity="other">"%d skrivenih fotografija nije sinkronizirano. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
          <item quantity="one">"%d skrivena fotografija nije sinkronizirana. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
     </plurals>
-	<plurals name="micloud_main_resume_sync_hour">
-         <item quantity="other">Nastavi sinkr. nakon sati: %d</item>
-         <item quantity="one">Nastavi sinkr. nakon %d sata</item>
+	<plurals name="micloud_manual_pause_and_resume">
+         <item quantity="other">Sinkronizacija je pauzirana. Nastavi sinkr. nakon %d min.</item>
+         <item quantity="one">Sinkronizacija je pauzirana. Nastavi sinkr. nakon %d min.</item>
      </plurals>
-     <plurals name="micloud_main_resume_sync_min">
-         <item quantity="other">Nastavi sinkr. nakon %d min.</item>
-         <item quantity="one">Nastavi sinkr. nakon %d min.</item>
-     </plurals>
+     <plurals name="last_sync_time_mins_ago">
+        <<item quantity="other">"  min. ranije"</item>
+        <item quantity="one">" min. ranije"</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">" sati ranije"</item>
+        <item quantity="one">" sat ranije"</item>
+	</plurals>
 </resources>
