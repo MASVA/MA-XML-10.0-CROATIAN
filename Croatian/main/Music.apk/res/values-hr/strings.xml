@@ -55,6 +55,7 @@
   <string name="add_to_last_of_playlist">Dodaj na kraj popisa pjesama</string>
   <string name="add_to_playlist_successful">Uspješno dodano</string>
   <string name="added_next_play">Dodano za sljedeću reprodukciju</string>
+  <string name="agreement_desc">Korisnički ugovor (obavezno)</string>
   <string name="alaka_required">"Ova pjesma nije dostupna."</string>
   <string name="album_label">Omoti Albuma</string>
   <string name="album_name">Album</string>
@@ -84,6 +85,16 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s preuzimanja</string>
   <string name="app_label">Preuzimanja</string>
+  <string name="app_permission_confirm">Razumijem</string>
+  <string name="app_permission_optional">Izborna dopuštenja</string>
+  <string name="app_permission_require">Obvezna dopuštenja</string>
+  <string name="app_permission_use_desc">Dopuštenja</string>
+  <string name="app_permission_use_group_account">Računi</string>
+  <string name="app_permission_use_group_account_desc">Za dobivanje informacija o Mi Računu</string>
+  <string name="app_permission_use_group_phone">Telefon</string>
+  <string name="app_permission_use_group_phone_desc">Za usluge Google Push</string>
+  <string name="app_permission_use_group_storage">Pohrana</string>
+  <string name="app_permission_use_group_storage_desc">Za pronalaženje i reprodukciju pjesama spremljenih na uređaju</string>
   <string name="artist">Izvođači</string>
   <string name="artist_album">Albumi</string>
   <string name="artist_area_all">Sve</string>
@@ -246,6 +257,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="data_usage_warning">Uporaba podataka</string>
   <string name="data_usage_warning_summary">Korištenje vaše mobilne podatkovne veze za streaming visoko kvalitetne glazbe može povećati troškove uporabe podataka.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
+  <string name="data_use_desc">Legalni dokumenti</string>
   <string name="delete">Izbriši</string>
   <string name="delete_download">Izbriši</string>
   <string name="delete_downloads_records">Izbriši preuzimanja</string>
@@ -896,6 +908,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="priority_storage_summary">Automatsko preuzimanje na vanjsku SD karticu ako je dostupna</string>
   <string name="privacy_notif_content">Dodirnite za pregled detalja.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je uključen</string>
+  <string name="privacy_desc">Pravila o Privatnosti (obavezno)</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_tip_cancel">Odustani</string>
   <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? URL domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere da li imate aktivne pretplate na ovu uslugu."</string>
