@@ -49,6 +49,11 @@
   <string name="adjust_saturation">Saturacija</string>
   <string name="adjust_sharpen">Izoštri</string>
   <string name="adjust_vignette">Vinjeta</string>
+  <string name="agreement_agree">Prihvati</string>
+  <string name="agreement_optional_tip">(Opcija)</string>
+  <string name="agreement_quit">Izlaz</string>
+  <string name="agreement_required_tip">(Obavezno)</string>
+  <string name="agreement_summary">Legalni dokumenti</string>
   <string name="ai_album_open_switch_button_title">Započni analizu fotografija</string>
   <string name="ai_album_requesting_title">AI algoritam još uvijek obrađuje vaše fotografije. Vrati se za malo kasnije.</string>
   <string name="ai_album_setting_sub_title">Dopusti AI algoritmu da prepozna osobe, mjesta i objekte na vašim fotografijama kako biste ih brže pronašli.</string>
@@ -942,6 +947,15 @@ za fotografije"</string>
   <string name="people_mark_mode_title_no_mark_name">Odaberi osobu</string>
   <string name="people_page_label">Osobe</string>
   <string name="people_page_unname">Bez imena</string>
+  <string name="permissin_contract_desc">For naming people on photos</string>
+  <string name="permission_contract_name">Kontakti</string>
+  <string name="permission_optional_category">Izborna dopuštenja</string>
+  <string name="permission_phone_desc">Za mrežne zahtjeve na temelju ID-a uređaja</string>
+  <string name="permission_phone_name">Telefon</string>
+  <string name="permission_require_category">Obvezna dopuštenja</string>
+  <string name="permission_storage_desc">Za prikaz, uređivanje i spremanje fotografija</string>
+  <string name="permission_storage_name">Pohrana</string>
+  <string name="permission_use_desc">Dopuštenja</string>
   <string name="pet_album_display_name">Fotografije ljubimaca</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Dodaj broj telefona</string>
@@ -1240,6 +1254,7 @@ za fotografije"</string>
   <string name="secret_reason_unknow_reasons">Nepoznata pogreška</string>
   <string name="secret_reason_video_not_support">"Nije moguće dodati videozapise u skriveni album"</string>
   <string name="see_ignore_faces">"Prikaži ignorirane osobe"</string>
+  <string name="select_all">Odaberi sve</string>
   <string name="select_image_operation">Dodavanje fotografija</string>
   <string name="select_item_face">"Na fotog. je %s ?"</string>
   <string name="select_origin_tip">Izvorna datoteka (%s)</string>
