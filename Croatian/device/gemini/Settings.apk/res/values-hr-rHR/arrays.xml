@@ -210,12 +210,6 @@
         <item>10 minuta</item>
         <item>30 minuta</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Malen</item>
-        <item>Zadano</item>
-        <item>Velik</item>
-        <item>Najveće</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Gumb</item>
         <item>PIN s paralelnog uređaja</item>
