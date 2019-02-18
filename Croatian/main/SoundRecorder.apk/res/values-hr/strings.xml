@@ -45,6 +45,12 @@
   <string name="head_set_tip_dialog_ok">Razumijem</string>
   <string name="head_set_tip_dialog_title">Koristi unutarnji mikrofon</string>
   <string name="invalid_argument">Nevažeći argument</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_resc">Za pristup statusu uređaja i rukovanje snimkama tijekom poziva</string>
+  <string name="korea_permission_record">Mikrofon</string>
+  <string name="korea_permission_record_resc">Za snimanje zvuka</string>
+  <string name="korea_permission_storage">Pohrana</string>
+  <string name="korea_permission_storage_desc">Za spremanje snimaka</string>
   <string name="low_battery_error">"Preostalo je manje od 5% baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
   <string name="low_battery_error_confirm">U redu</string>
   <string name="low_battery_error_title">Slaba baterija</string>

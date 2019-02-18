@@ -5960,6 +5960,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="settings_manual_activity_title">Priručnik</string>
   <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
   <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Mi Cloud da im pristupite nakon što promjenite telefone.</string>
+  <string name="settings_notify_new_version">Dostupno je ažuriranje. Dodirnite za prikaz pojedinosti.</string>
   <string name="settings_notify_phone_recycled">Vaš je broj telefona recikliran. Dodirnite za dodavanje drugog broja telefona.</string>
   <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>

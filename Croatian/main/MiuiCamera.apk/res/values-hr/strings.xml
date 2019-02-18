@@ -354,6 +354,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hine_hht">"Pri slabom osvjetljenju, kamera će snimiti više fotografija
   a zatim izraditi snimku s minimalnom količinom šuma."</string>
   <string name="hint_ae_af_lock">Autom. izoštravanje / Autom. ekspozicija je zaključana</string>
+  <string name="hint_ae_lock">Autom. ekspozicija je zaključana</string>
   <string name="hint_device_water_mark">Oznaka će biti dodana na fotografiju automatski.</string>
   <string name="hint_eye_light">Svjetlo oko očiju će biti bolje kada je uključena bljeskalica</string>
   <string name="hint_fast_motion">Videozapis koji snimate reproducirat će se brže.</string>

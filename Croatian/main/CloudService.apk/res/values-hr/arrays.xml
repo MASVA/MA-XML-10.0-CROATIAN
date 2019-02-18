@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Za identificiranje sinkroniziranih stavki</item>
+        <item>Za sinkronizaciju poruka</item>
+        <item>Za sinkronizaciju kontakata</item>
+        <item>Za sinkronizaciju događaja u kalendaru</item>
+        <item>Za sinkronizaciju stavki s uslugama koje koriste pohranu</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Kontakti</item>
+        <item>Kalendar</item>
+        <item>Pohrana</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
          <item>Sinkr. podatke aplikacije</item>
          <item>Izradite Sig. kopiju izgleda Početnog zaslona</item>

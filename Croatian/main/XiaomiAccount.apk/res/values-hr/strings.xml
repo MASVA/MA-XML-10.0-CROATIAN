@@ -146,6 +146,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="error_longer_answer_length">Odgovor može sadržavati do 128 znakova</string>
   <string name="error_shorter_answer_length">Odgovor bi trebao biti dugačak barem 2 znaka</string>
   <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
+  <string name="exit">Izlaz</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
   <string name="find_device_access_denied">"Ne mogu dobiti status, pristup odbijen"</string>
@@ -177,6 +178,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
+  <string name="i_agree">U redu</string>
+  <string name="i_agree_continue">Nastavi</string>
   <string name="identity">Identifikacija</string>
   <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
   <string name="ignore">Ne sada</string>
@@ -184,6 +187,12 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="input_new_pwd">Unesite novu zaporku</string>
   <string name="io_error_title">Potvrdite vašu mrežu</string>
   <string name="just_a_second">Samo trenutak…</string>
+  <string name="kr_license_desc">Za Mi Račun i Mi Cloud Usluge trebate prihvatiti Korisnički Sporazum i Pravila o Privatnosti.</string>
+  <string name="kr_permission_contacts_desc">Koristi se za čitanje informacija o kontaktima</string>
+  <string name="kr_permission_desc">U nastavku pročitajte potrebna dopuštenja</string>
+  <string name="kr_permission_phone_desc">Koristi se za sigurnost računa</string>
+  <string name="kr_permission_sms_desc">Koristi se za automatsko popunjavanje kontrolnog koda</string>
+  <string name="kr_permission_storage_desc">Koristi se za informacije o dijagnostici trgovine</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
   <string name="local_device">(ovaj uređaj)</string>
   <string name="locating_current_location">Lociranje</string>
@@ -226,6 +235,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; će dobiti sljedeća dopuštenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se s Mi Računom</string>
   <string name="ok">U redu</string>
+  <string name="optional_permissions">Izborna dopuštenja</string>
   <string name="other_devices_title">Ostali uređaji</string>
   <string name="passport_Resend">Pošalji ponovno</string>
   <string name="passport_access_denied">Pristup odbijen</string>
@@ -361,6 +371,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_phone_ticket_login">Prijavite se sa SMS-om</string>
   <string name="passport_prev">Natrag</string>
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
+  <string name="passport_privacy_policy_required">Pravila o Privatnosti (obavezno)</string>
   <string name="passport_pwd_generate_failure">"Ne mogu generirati zaporku"</string>
   <string name="passport_pwd_generating">Generiranje…</string>
   <string name="passport_querying_phone_info">Zahtijevanje podataka o računu…</string>
@@ -451,6 +462,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
   <string name="passport_user_agreement_p3">i</string>
   <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
+  <string name="passport_user_agreement_required">Korisnički sporazum (obavezno)</string>
   <string name="passport_vcode_notice">Kod</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
   <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
@@ -465,6 +477,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_voice">Uneseni kôd nije ispravan</string>
   <string name="passport_yes">Da</string>
+  <string name="permission_group_contacts">Kontakti</string>
+  <string name="permission_group_phone">Telefon</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Pohrana</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
@@ -528,6 +544,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>
   <string name="select_location_title">Odaberite vašu lokaciju</string>
+  <string name="select_all">Odaberi sve</string>
   <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>
   <string name="sending">Slanje…</string>

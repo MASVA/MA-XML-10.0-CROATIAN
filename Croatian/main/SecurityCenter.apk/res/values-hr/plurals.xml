@@ -245,6 +245,10 @@
          <item quantity="other">%d dana od posljednjeg pregleda</item>
          <item quantity="one">%d dan od posljednjeg pregleda</item>
      </plurals>
+	 <plurals name="hints_scan_danger_result_with_number">
+         <item quantity="other">%d​ pronađenih rizika, popravi sada</item>
+         <item quantity="one">%d pronađen rizik, popravi sada</item>
+    </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d rizika,</item>
          <item quantity="one">%d rizik,</item>

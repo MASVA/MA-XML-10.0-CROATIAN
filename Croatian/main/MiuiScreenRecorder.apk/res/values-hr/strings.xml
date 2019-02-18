@@ -56,6 +56,8 @@
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošalji</string>
+  <string name="permission_intro_microphone">Za snimanje zvuka kada je izvor zvuka podešen na mikrofon</string>
+  <string name="permission_intro_storage">Za spremanje snimki zaslona</string>
   <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Pokrenite snimanje s mjesta na kojem ste prekinuli ako još niste završili.</string>
   <string name="recording_without_mic">"Mikrofon je zauzet i ne može snimati zvuk."</string>
   <string name="quit_recording">Izlaz iz Snimača zaslona</string>

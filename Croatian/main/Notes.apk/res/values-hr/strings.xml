@@ -256,6 +256,14 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen na kraju.</string>
   <string name="toast_refuse_to_record_when_in_call">"Nije moguće koristiti ovu značajku tijekom poziva"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Nije moguće koristiti ovu značajku u Podijeljenom zaslonu"</string>
+  <string name="toast_refuse_to_use_contact">"Dopuštenja za kontakte su ograničena.
+Dopustite aplikaciji Bilješke čitanje vaših kontakata i pronalaze račune na uređaju."</string>
+  <string name="toast_refuse_to_use_external_storage">"Dopuštenja za pohranu su ograničena.
+Dopustite aplikaciji Bilješke čitanje sadržaja SD kartice."</string>
+  <string name="toast_refuse_to_use_phone_state">"Dopuštenja za telefon su ograničena.
+Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
+  <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
+Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="toast_unmark_privacy_notes">Uspješno otkriveno</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspješno otkriven</string>
   <string name="toolbar_check_description">Dodaj potvrdni okvir</string>
