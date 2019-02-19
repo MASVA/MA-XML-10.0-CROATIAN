@@ -1708,6 +1708,8 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="crypt_keeper_setup_time_remaining">Pričekajte dok se vaš telefon šifrira. Preostalo vrijeme: ^1</string>
   <string name="crypt_keeper_setup_title">Šifriranje</string>
   <string name="crypt_keeper_switch_input_method">Promjena načina unosa</string>
+  <string name="crypt_keeper_switch_to_pattern">Upotrijebi uzorak</string>
+  <string name="crypt_keeper_switch_to_pin">Upotrijebi PIN</string>
   <string name="crypt_keeper_unplugged_text">Uključite punjač i pokušajte ponovno.</string>
   <string name="crypt_keeper_warn_wipe">Upozorenje: možete pokušati otključati uređaj još ^1 puta. Ako ne uspijete, izbrisat će se podaci na uređaju!</string>
   <string name="cryptkeeper_emergency_call">"Hitan poziv"</string>

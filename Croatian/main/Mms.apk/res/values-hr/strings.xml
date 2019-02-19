@@ -334,6 +334,7 @@
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
   <string name="menu_preferences">Postavke</string>
   <string name="menu_send_as_common">Pošalji kao SMS</string>
+  <string name="menu_traffic_destination">Odredište</string>
   <string name="menu_unlock">Ukloni iz favorita</string>
   <string name="menu_view_contact">Prikaži kontakt</string>
   <string name="menu_yellowpage">Prikaži %s</string>
@@ -479,6 +480,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nove poruke</string>
   <string name="number_add_hint">Unesite broj za dodavanje</string>
+  <string name="number_recognition_partner">Partneri za prepoznavanje brojeva</string>
   <string name="open_audio_record_panel">Otvori ploču za snimanje zvuka</string>
   <string name="open_edit_sms_panel">Otvori ploču uređivanja SMS-a</string>
   <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
@@ -847,6 +849,7 @@
   <string name="too_many_attachments">"Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano."</string>
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
+  <string name="train_edit_destination">Dodaj</string>
   <string name="try_to_send">Pokušati poslati</string>
   <string name="type_attachment">privitak</string>
   <string name="type_audio">audio</string>

@@ -2404,7 +2404,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
  Uređaj se automatski prebacuje na mobilnu mrežu (2G/3G) za upućivanje hitnog poziva.
 
  Hitni pozivi mogući su samo u područjima s pokrivenošću mobilne telefonije."</string>
-  <string name="vowifi_emergency_warning_title">ECC pozivi putem WLAN poziva</string>
+  <string name="vowifi_emergency_warning_title">Hitni pozivi putem WLAN poziva</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
   <string name="vvm_unsupported_message_format">Vrsta poruke nije podržana, nazovite %s da biste je poslušali.</string>
   <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>
