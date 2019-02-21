@@ -344,6 +344,27 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_name_na">Uporaba podataka</string>
   <string name="app_name_securitycenter">Sigurnost</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
+  <string name="app_permission_use_group_calendar">Kalendar</string>
+  <string name="app_permission_use_group_calendar_des">Čitanje i dodavanje informacije kalendara</string>
+  <string name="app_permission_use_group_camera">Kamera</string>
+  <string name="app_permission_use_group_camera_des">Korištenje kamere</string>
+  <string name="app_permission_use_group_contact">Kontakti</string>
+  <string name="app_permission_use_group_contact_des">Čitanje i dodavanje podataka o kontaktu</string>
+  <string name="app_permission_use_group_location">Informacije o lokaciji</string>
+  <string name="app_permission_use_group_location_des">Točna i približna lokacija</string>
+  <string name="app_permission_use_group_mic">Mikrofon</string>
+  <string name="app_permission_use_group_mic_des">Snimanje zvuka</string>
+  <string name="app_permission_use_group_phone">Telefon</string>
+  <string name="app_permission_use_group_phone_des">Čitanje i dodavanje stavki u povijest poziva, upućivanje poziva i pristup statusu poziva</string>
+  <string name="app_permission_use_group_sensor">Biometrijski senzori</string>
+  <string name="app_permission_use_group_sensor_des">Čitanje podataka koje generiraju biometrijski tijela</string>
+  <string name="app_permission_use_group_sms">Poruke</string>
+  <string name="app_permission_use_group_sms_des">Slanje, primanje i čitanje poruka</string>
+  <string name="app_permission_use_group_storage">Pohrana</string>
+  <string name="app_permission_use_group_storage_des">Pristup i spremanje stavki na pohranu</string>
+  <string name="app_permission_use_neccesary">Potrebna dopuštenja</string>
+  <string name="app_permission_use_no_neccesary">Izborna dopuštenja</string>
+  <string name="app_permission_use_title">Dopuštenja</string>
   <string name="app_usage_never">Nije korišteno</string>
   <string name="app_usage_recently">Nedavno korišteno</string>
   <string name="app_version">"Verzija "</string>
@@ -718,6 +739,9 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovno"</string>
+  <string name="cta_dialog_msg">Morate se složiti sa našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja aplikacije Sigurnost. Aplikacija se također mora povezati s internetom i pristupiti vašoj lokaciji kako bi normalno radila i ažurirala antivirusne definicije. Slažete li se?</string>
+  <string name="cta_dialog_negative">Izlaz</string>
+  <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_msg">Aplikacija Sigurnost zahtijeva internetsku vezu za preuzimanje ažuriranja, kao i pristup do lokacije da radi normalno.</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_settings">Dopusti povezivanje s internetom</string>
