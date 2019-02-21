@@ -742,7 +742,6 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cta_dialog_msg">Morate se složiti sa našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja aplikacije Sigurnost. Aplikacija se također mora povezati s internetom i pristupiti vašoj lokaciji kako bi normalno radila i ažurirala antivirusne definicije. Slažete li se?</string>
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_dialog_positive">Slažem se</string>
-  <string name="cta_dialog_msg">Aplikacija Sigurnost zahtijeva internetsku vezu za preuzimanje ažuriranja, kao i pristup do lokacije da radi normalno.</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_settings">Dopusti povezivanje s internetom</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
