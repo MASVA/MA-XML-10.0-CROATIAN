@@ -190,6 +190,14 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
   <string name="particulate_matter_serious_exceeded">Previsoko</string>
+  <string name="permission_device_info">Informacije o uređaju</string>
+  <string name="permission_device_introduce">Za prepoznavanje ID-a uređaja na temelju modela uređaja i IMEI-ja te pružanje lokaliziranih usluga na temelju jezičnih postavki</string>
+  <string name="permission_exit">Izlaz</string>
+  <string name="permission_privacy">Pravila o Privatnosti (obavezno)</string>
+  <string name="permission_select_all">Odaberi sve</string>
+  <string name="permission_storage">Pohrana</string>
+  <string name="permission_storage_introduce">Za pristup stavkama na uređaju i spremanju datoteka</string>
+  <string name="permission_user_protocol">Korisnički Sporazum (obavezno)</string>
   <string name="policy_settings">Uvjeti i odredbe</string>
   <string name="precipitation_degree_five">oluja</string>
   <string name="precipitation_degree_four">pljusak</string>
@@ -275,6 +283,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
   <string name="weather_alert_channel_name">Upozorenja</string>
+  <string name="weather_introduce">Uvijek s vama, kiša ili sunce.</string>
+  <string name="weather_permission_agree">Prihvaćam</string>
   <string name="weather_service_channel_name">Usluge u pozadini</string>
   <string name="weather_alert">Upozorenja vremena</string>
   <string name="wind_direction_no_data">Vjetar</string>

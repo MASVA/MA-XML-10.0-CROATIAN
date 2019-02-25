@@ -285,6 +285,11 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="no_visiable_calendar_message">Morate dodati račun kalendara. Dodirnite Dodaj račun za nastavak.</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun kalendara</string>
+  <string name="notification_channel_name">Podsjetnici Kalendara</string>
+  <string name="notification_open_setting_button_exit">Ne hvala</string>
+  <string name="notification_open_setting_button_ok">Dopusti</string>
+  <string name="notification_open_setting_message">"Nećete moći primati obavijesti o događajima ako ne dopustite Kalendaru da vam šalje obavijesti."</string>
+  <string name="notification_open_setting_title">Dopustiti obavijesti Kalendara?</string>
   <string name="not_synced">Nije sinkronizirano</string>
   <string name="prefDialogTitle_vibrateWhen">Vibracija</string>
   <string name="pref_error_no_ringtone_select">Zadana melodija zvona</string>

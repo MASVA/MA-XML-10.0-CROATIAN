@@ -34,6 +34,7 @@
   <string name="fastboot_unlock_web_title">Idite na službenu MIUI web stranicu da preuzmete alat za otključavanje.</string>
   <string name="function_close">Isključi</string>
   <string name="game_booster">Ubrzaj igre</string>
+  <string name="gamebox_no_network_btn">Učitaj ponovno</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_title">Ubrzanje</string>
   <string name="game_booster_total">Brzina ubrzana %1$s puta, dodano %2$s vremena igranja</string>
