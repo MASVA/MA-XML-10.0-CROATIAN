@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="Accounts_settings_title">Računi</string>
   <string name="aaid_info">"
  Identifikator oglašavanja je stalni ID jedinstven za vaš uređaj. Dobavljači ga koriste za odabir reklamnog sadržaja koji će vam biti koristan.
@@ -1312,10 +1313,12 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="button_quit">Izlaz</string>
   <string name="button_return">Natrag</string>
   <string name="button_start_transfer">Kopiraj</string>
+  <string name="button_send">Pošalji</string>
   <string name="button_text_accept">Prihvaćam</string>
   <string name="button_text_accept_timer">Prihvaćam (%d)</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_login">Prijava</string>
+  <string name="button_text_known">U redu</string>
   <string name="button_text_next_step">Dalje</string>
   <string name="button_text_next_step_timer">Sljedeći korak (%d)</string>
   <string name="button_text_ok">U redu</string>
@@ -1368,6 +1371,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="cancel_action">Odustani</string>
   <string name="cancel_alert">Odbaciti nespremljene promjene?</string>
   <string name="cancel_all_caps">ODUSTANI</string>
+  <string name="cancel_backup">Zaustavi</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancel_description">Odustani</string>
   <string name="cancel_download_buton_text">Odustani</string>
@@ -4780,7 +4784,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Kamera</string>
   <string name="power_cell">Način čekanja</string>
-  <string name="power_center">Performanse</string>
+  <string name="power_center">Optimizacija baterije</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
   <string name="power_charging_duration">%1$s - %2$s do pune baterije</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do pune baterije putem utičnice</string>
@@ -4809,7 +4813,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_key_start_enjoy">Saznajte više o Google pomoćniku</string>
   <string name="power_key_start_guide">Uključite Google pomoćnika pomoću tipku za uključivanje/isključivanje na uređajima na cijelom zaslonu</string>
   <string name="power_last_full_charge_summary">prije ^1</string>
-  <string name="power_mgr">Baterija</string>
+  <string name="power_mgr">Optimizacija baterije</string>
   <string name="power_mode">Postavke energije</string>
   <string name="power_mode_balanced_title">Balansirana energija</string>
   <string name="power_optimize">Ušteda baterije</string>
@@ -5052,6 +5056,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="progress_backup_hint">Izrada Sig. kopije…</string>
   <string name="progress_restore_hint">Vraćanje Sig. kopije…</string>
   <string name="progress_scanning">Pretraživanje</string>
+  <string name="prompt_all">Pitaj za sve</string>
   <string name="prompt_reading">Čitanje…</string>
   <string name="prompt_sending">Slanje…</string>
   <string name="prompt_writing">Spremanje…</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Ekstremni način</string>
+  <string name="about_extreme_mode">Ekstremna Štednja baterije</string>
   <string name="about_hide_mode">O Štednji baterije</string>
   <string name="active_classify">Poredaj po statusu aktivnosti</string>
   <string name="adaptive_battery_summary">"Ograničite bateriju za aplikacije koje često ne upotrebljavate"</string>
@@ -63,12 +63,12 @@
   <string name="error_filename_too_long">Naziv datoteke koji ste unijeli je predugačak.</string>
   <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
   <string name="extreme_add_white_list_title">Iznimke u pozadini</string>
-  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u Ekstremnom načinu</string>
-  <string name="extreme_power_config_mode_category">Ekstremni način</string>
-  <string name="extreme_power_config_mode_desc">Promjena na Ekstremni način će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
-  <string name="extreme_power_config_mode_summary">Ekstremni način ograničava pozadinske aktivnosti i zaustavlja sinkronizaciju.</string>
+  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije mogu se odabrati da se izvode u pozadini u Ekstremnoj Štednji baterije</string>
+  <string name="extreme_power_config_mode_category">Ekstremna Štednja baterije</string>
+  <string name="extreme_power_config_mode_desc">Promjena na Ekstremnu Štednju baterije će isključiti sinkronizaciju, Bluetooth, GPS, NFC, dvostruki dodir, osvjetljenje tipaka, buđenje zaklj. zaslona kod obavijesti kao i pulsno svjetlo obavijesti. MIUI će se usredotočiti na štednju baterije.</string>
+  <string name="extreme_power_config_mode_summary">Ekstremni Štednja baterije ograničava pozadinske aktivnosti i zaustavlja sinkronizaciju.</string>
   <string name="extreme_power_settings_title">Postavke</string>
-  <string name="extreme_power_config_mode_title">Ekstremni način</string>
+  <string name="extreme_power_config_mode_title">Ekstremna Štednja baterije</string>
   <string name="failure">Pogreška</string>
   <string name="foreground_change">Aplikacija se izvodi u pozadini</string>
   <string name="fragment_nonesys_listempty">Nema instaliranih aplikacija</string>
@@ -124,11 +124,11 @@
   <string name="operation_create_group">Naziv</string>
   <string name="operation_create_group_message">Unesite novi naziv grupe</string>
   <string name="performance_category">Performanse</string>
-  <string name="power_center">Štednja baterije</string>
+  <string name="power_center">Optimizacija baterije</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se pokreće abnormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se pokreće abnormalno</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s često dobiva informacije o lokaciji</string>
-  <string name="power_checker_background_gps_title">%1$s ččesto dobiva informacije o lokaciji</string>
+  <string name="power_checker_background_gps_title">%1$s često dobiva informacije o lokaciji</string>
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s pristupa mreži često</string>
   <string name="power_checker_mobile_radio_title">%1$s pristupa mreži često</string>
   <string name="power_checker_multi_apps_title">Aplikacije koje jako troše bateriju: %2$s</string>
@@ -157,7 +157,7 @@
   <string name="power_config_app_background_title">Pozadina</string>
   <string name="power_config_app_full_screen_title">Cijeli zaslon</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Štednja baterije</string>
+  <string name="power_config_apps">Štednja baterije aplkacije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Odaberite vrijeme za ograničavanje podataka u pozadini</string>
   <string name="power_config_bg_data_delay_time_title">Ograniči podatke u pozadini</string>
   <string name="power_config_choose_apps">Odaberi aplikacije</string>

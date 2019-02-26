@@ -211,6 +211,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
   <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
   <string name="master_clear_apply_title">Pažnja</string>
+  <string name="master_clear_not_available">Vraćanje tvorničkih postavki je ograničena od strane Vaše tvrtke.</string>
   <string name="messageData">Poruke</string>
   <string name="more_settings">Više</string>
   <string name="menu_item_about_privacy_title">Pravila o Privatnosti</string>

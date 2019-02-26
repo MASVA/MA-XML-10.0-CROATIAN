@@ -21,7 +21,7 @@
   <string name="Settings_title_anti_virus">Postavke Sigurnosnog skeniranja</string>
   <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
-  <string name="Settings_title_power_center">Postavke baterije</string>
+  <string name="Settings_title_power_center">Postavke optimizacije baterije</string>
   <string name="about_autostart">O autom. pokretanju</string>
   <string name="ac_enable_title">Uključite Zaklj. aplikacija</string>
   <string name="ac_enter_applock">Uđi u Zaklj. aplikacija</string>
@@ -72,7 +72,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_perm_manager">Dopuštenja</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
-  <string name="activity_title_power_manager">Baterija</string>
+  <string name="activity_title_power_manager">Optimizacija baterije</string>
   <string name="activity_title_risk">Rizik</string>
   <string name="activity_title_risk_detail">Detalji</string>
   <string name="activity_title_root_acquired">Dopusti ROOT pristup</string>
@@ -1032,7 +1032,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
 "&lt;li&gt;Ako želite da se aplikacija izvodi u pozadini, zaključajte je u Nedavno ili je dodajte u iznimke pozadine u nastavku. U pozadini se mogu pokrenuti do 4 aplikacije kada je uključena ekstremna štednja baterije.&lt;/li&gt;"
 "&lt;li&gt;Ekstremna štednja baterije isključuje NFC po zadanome. To možete promijeniti u Postavkama.&lt;/li&gt;"
 "&lt;li&gt;Da biste bili sigurni da možete normalno koristiti sve značajke vašeg uređaja, ekstremna štednja baterije automatski će se isključiti kada se baterija napuni 30%.&lt;/li&gt;</string>
-  <string name="extreme_power_save_mode_card_summary">Uključi ekstremnu štednju baterije kada je baterija slaba.</string>
+  <string name="extreme_power_save_mode_card_summary">Uključi Ekstremnu štednju baterije kada je baterija slaba.</string>
   <string name="extreme_power_save_mode_summary">Ekstremna štednja baterije ograničava pozadinsku aktivnost, zaustavlja sinkronizaciju i smanjuje boje zaslona.</string>
   <string name="extreme_power_save_mode_title">Ekstremna štednja baterije</string>
   <string name="face_unlock_be_on_the_screen">Držite uređaj ispred vašeg lica</string>
@@ -1435,8 +1435,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="keywords_networkassistant_4">Veza;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
-  <string name="keywords_powercenter_powerrank">Battery use</string>
-  <string name="keywords_securitycenter">Security;Check;Scan</string>
+  <string name="keywords_powercenter_powerrank">Korištenje baterije</string>
+  <string name="keywords_securitycenter">Sigurnost;Provjeri;Skeniraj</string>
   <string name="keywords_securitycenter_settings">Potrošnja baterije;Dopuštenja;Lista blokiranih;Uporaba podataka:Kalibriraj plan podataka;Test mreže;Zaklj. aplikacija;Štednja baterije;Grijanje;Uključi;Isključi;Baterija;Potrošnja;Autom. pokretanje;ROOT;Lokacija;Pristup kontaktima;Blokiraj;Lista blokiranih;Lista dopuštenih;Prevarant;Trgovac;Agenti;Podaci;Promet;Kalibriraj;Povezanost;Internet;Test;Zaporka;Privatnost;Pristup;Zaštita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
@@ -1644,7 +1644,7 @@ podatkovnu vezu"</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Greška</string>
-  <string name="menu_item_notification_power_text">Energija</string>
+  <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Prikaži izbornik u panelu obavijesti</string>
   <string name="menu_item_settings_title">Postavke</string>
   <string name="menu_item_shortcut_summary">Postavite značajke na vaš početni zaslon</string>
@@ -1692,7 +1692,7 @@ podatkovnu vezu"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povećaj brzinu</string>
-  <string name="menu_text_power_manager">Potrošnja baterije</string>
+  <string name="menu_text_power_manager">Optimizacija baterije</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
   <string name="menu_white">Dodaj u iznimke</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
@@ -2005,7 +2005,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
-  <string name="pc_settings_title">Postavke Štednje baterije</string>
+  <string name="pc_settings_title">Postavke Optimizacije baterije</string>
   <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -2083,7 +2083,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_stop_scan_title">Zaustavi skeniranje</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
-  <string name="power_center_title">Baterija</string>
+  <string name="power_center_title">Optimizacija baterije</string>
   <string name="power_chooser_check_box_title">Odaberite profil</string>
   <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
@@ -2466,7 +2466,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="resource_networkassistant_4">Testiraj mrežu</string>
   <string name="resource_payment_security">Sigurnost plaćanja</string>
   <string name="resource_permcenter">Dopuštenja</string>
-  <string name="resource_powercenter">Potrošnja baterije</string>
+  <string name="resource_powercenter">Optimizacija baterije</string>
   <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Sigurnost</string>
   <string name="resource_securitycenter_settings">Sigurnost</string>
@@ -3019,7 +3019,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_cloud_space_full">"Cloud pohrana je puna"</string>
   <string name="title_cmcc_app_check">"Provjera nije potpuna"</string>
   <string name="title_consume_power">Pronađeni problemi baterije</string>
-  <string name="title_consume_power_rank">Korištenje baterije</string>
+  <string name="title_consume_power_rank">Korištenje baterije aplikacija</string>
   <string name="title_data_flow">Nadziri uporabu podataka</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podataka je uključen</string>
   <string name="title_default_app">"MIUI %s nije postavljena kao zadana aplikacija"</string>

@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Poseban dan</item>
+        <item>Dan za pamćenje</item>
+        <item>Vibrant trenuci</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>"5 minuta"</item>
         <item>"15 minuta"</item>
@@ -10,6 +15,11 @@
     <string-array name="baby_sexy">
         <item>Dječak</item>
         <item>Djevojčica</item>
+    </string-array>
+	<string-array name="last_weekend_title">
+        <item>Moji vikendi</item>
+        <item>Komadići života</item>
+        <item>Vikend sjećanja</item>
     </string-array>
 	 <string-array name="menu_copy_or_move">
         <item>Premjesti</item>
@@ -31,7 +41,12 @@
         <item>Baka s tatine strane</item>
         <item>Djed s majčine strane</item>
         <item>Baka s majčine strane</item>
-     </string-array>		     
+     </string-array>
+     <string-array name="parties_title">
+        <item>Zajedno</item>
+        <item>Dobra vremena</item>
+        <item>U skladu</item>
+    </string-array>	 
     <string-array name="relation_with_me">
          <item>Ja</item>
          <item>Dijete</item>
@@ -95,4 +110,8 @@
          <item>Dnevni događaji</item>
          <item>Obični &amp; neobični</item>
      </string-array>
+	 <string-array name="sports_title">
+        <item>Samo naprijed</item>
+        <item>Pun energije</item>
+    </string-array>
 </resources> 
