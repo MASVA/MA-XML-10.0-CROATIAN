@@ -1755,12 +1755,14 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_dialogtitle_cmcc">Željena vrsta mreže</string>
   <string name="preferred_network_mode_evdo_only_summary">Način željene mreže: Samo EvDo</string>
   <string name="preferred_network_mode_global_summary">Preferirani mrežni način: globalni</string>
+  <string name="preferred_network_mode_gsm_only">Samo GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Način željene mreže: Samo GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Način željene mreže: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferirani mrežni način: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Način željene mreže: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Preferirani način mreže: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferirani mrežni način: GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_lte_only">Samo LTE</string>
   <string name="preferred_network_mode_lte_summary">Preferirani mrežni način: LTE</string>
   <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Preporučeni mrežni način: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Preporučeni mrežni način: LTE/GSM/TDSCDMA</string>
@@ -1786,6 +1788,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_network_mode_tdscdma_summary">Preferirani mrežni način: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Preporučeni mrežni način: TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Željena vrsta mreže</string>
+  <string name="preferred_network_mode_wcdma_lte">WCDMA/LTE</string>
+  <string name="preferred_network_mode_wcdma_only">Samo WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Način željene mreže: Samo WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Način željene mreže: Preferirano WCDMA</string>
   <string name="preferred_network_restrict_network_changed_incall">"Ne mogu promijeniti mobilnu mrežu tijekom poziva"</string>

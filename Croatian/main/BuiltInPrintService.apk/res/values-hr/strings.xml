@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Dodaj</string>
+  <string name="add_manual_printer">Dodaj pisač ručno</string>
   <string name="add_named">Dodaj pisač %1$s</string>
   <string name="add_printer_by_ip">Dodaj pisač po IP adresi</string>
   <string name="app_name">Zadana usluga ispisa</string>
@@ -12,6 +13,7 @@
   <string name="failed_printer_connection">Povezivanje s pisačem nije uspjelo</string>
   <string name="find_wifi_direct">Pronađi pisače s Izravnim WLAN-om</string>
   <string name="forget">Zaboravi</string>
+  <string name="forget_printer">Zaboravi pisač</string>
   <string name="hostname_or_ip">Naziv hosta ili IP adresa</string>
   <string name="media_size_4x6in">4x6 in</string>
   <string name="media_size_54x86mm">54x86 mm</string>
@@ -37,4 +39,5 @@
   <string name="waiting_to_send">Čeka se slanje</string>
   <string name="wifi_direct">WLAN Direct</string>
   <string name="wifi_direct_printers">Pisači s Izravnim WLAN-om</string>
+  <string name="wifi_not_connected">WLAN nije povezan</string>
 </resources>

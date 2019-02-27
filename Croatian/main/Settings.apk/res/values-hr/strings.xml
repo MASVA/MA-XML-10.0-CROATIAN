@@ -381,7 +381,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_lock_screen_date_12">EEEE, dd. MMMM</string>
   <string name="aod_mode_bg">Pozadina</string>
   <string name="aod_mode_clock">Sat</string>
-  <string name="aod_mode_style">Stil vremena i pozadina</string>
+  <string name="aod_mode_style">Stil sata i pozadina</string>
   <string name="aod_mode_summary">Prikaži vrijeme, datum i poruke kada je zaslon isključen.</string>
   <string name="aod_mode_time_summary">Rasporedite vrijeme kada se uređaj treba prebaciti na način Uvijek uključen</string>
   <string name="aod_mode_time_title">Raspored</string>
