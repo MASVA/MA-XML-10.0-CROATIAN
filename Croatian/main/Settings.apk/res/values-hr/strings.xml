@@ -3895,7 +3895,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mode_disable">Onemogućeno</string>
   <string name="mode_enable">Omogućeno</string>
   <string name="model_info">Model</string>
-  <string name="model_name">Naziv modela</string>
+  <string name="model_name">Naziv</string>
   <string name="model_number">Model uređaja</string>
   <string name="model_summary">Model: %1$s</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>

@@ -721,6 +721,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_check_failed">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_close_screen">Približite se zaslonu</string>
   <string name="face_unlock_down">Podignite glavu</string>
+  <string name="face_unlock_fail">"Ne mogu potvrditi lice"</string>
+  <string name="face_unlock_fail_retry">"Ne mogu potvrditi vaše lice. Dodirnite ikonu da biste pokušali ponovno."</string>
   <string name="face_unlock_identify_error">Došlo je do pogreške pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_not_roi">Držite lice unutar okvira</string>
@@ -741,6 +743,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>
   <string name="face_unlock_sc_status">Povucite dolje za otvaranje kamere</string>
   <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
+  <string name="face_unlock_success_stay_screen_msg">Ostani na Zaklj. zaslonu nakon što se vaše lice potvrdi. Prijeđite prstom prema gore da biste otvorili Početni zaslon.</string>
+  <string name="face_unlock_success_stay_screen_title">Ostani na Zaklj. zaslonu nakon otključavanja</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>
   <string name="fingerprint_add_title">Dodajte otisak prsta</string>

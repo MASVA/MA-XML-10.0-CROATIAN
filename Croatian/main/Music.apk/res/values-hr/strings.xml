@@ -199,7 +199,6 @@
   <string name="com_facebook_device_auth_instructions">Posjetite &lt;b&gt;facebook.com/device&lt;/b&gt; i unesite gore navedeni kôd.</string>
   <string name="com_facebook_image_download_unknown_error">Neočekivana pogreška prilikom preuzimanja slike.</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahtijeva dopuštenje INTERNET-a</string>
-  <string name="com_facebook_internet_permission_error_title">AndroidManifest pogreška</string>
   <string name="com_facebook_like_button_liked">Sviđa mi se</string>
   <string name="com_facebook_like_button_not_liked">Sviđa</string>
   <string name="com_facebook_loading">Samo trenutak…</string>
