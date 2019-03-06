@@ -1991,6 +1991,11 @@ Telefon se može pregrijati ako:
   <string name="usb_port_overheated_dialog_content">Priključak za punjenje je pregrijan. Isključite punjač iz uređaja i provjerite je li priključak za punjenje čist. Obratite se korisničkoj podršci ako imate pitanja.</string>
   <string name="usb_port_overheated_notification_content">Isključite punjač iz uređaja i provjerite je li priključak za punjenje čist.</string>
   <string name="usb_port_overheated_title">Priključak za punjenje je pregrijan. Isključite punjač.</string>
+  <string name="usb_port_short_circuit_dialog_content">Punjenje vašeg uređaja je ograničeno. Isključite punjač i obrišite priključak za punjenje uklanjajući sve tekućine kako biste vratili mogućnost punjenja.</string>
+  <string name="usb_port_short_circuit_notification_content">Isključite punjač i obrišite priključak za punjenje uklanjajući sve tekućine.</string>
+  <string name="usb_port_short_circuit_recovered_content">Možete ga koristiti za punjenje ili povezivanje s drugim uređajima.</string>
+  <string name="usb_port_short_circuit_recovered_title">Priključak za punjenje sada radi normalno</string>
+  <string name="usb_port_short_circuit_title">"Ima vodene pare u priključku za punjenje"</string>
   <string name="usb_preference_title">Opcije USB prijenosa datoteka</string>
   <string name="usb_ptp_text">Fotografije</string>
   <string name="usb_share_net_info">"Koristi internetsku vezu računala"</string>
