@@ -159,4 +159,8 @@
         <item quantity="other">Svakih %1$d tjedana na %2$s</item>
         <item quantity="one">Tjedno na %2$s</item>
      </plurals>
+	 <plurals name="repeat_custom_prompt">
+        <item quantity="other">svakog %1$s na %2$s</item>
+        <item quantity="one">svakog %1$s na %2$s</item>
+    </plurals>
 </resources>
