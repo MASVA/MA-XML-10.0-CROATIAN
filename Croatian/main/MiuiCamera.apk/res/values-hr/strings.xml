@@ -658,13 +658,16 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_jpegquality_entry_normal">Standardna</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_live_sticker_internal_title">Interni čarobni alati</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Duži pritisak na tipku okidača</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Pritisnite &amp; držite tipku okidača</string>
+  <string name="pref_camera_long_press_viewfinder_title">Pritisnite &amp; držite Tražilo</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Brzo snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Uzastopno snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak tipke Okidač</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite tipku okidača za zaključavanje AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google leće</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Zaklj.</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ručno</string>
   <string name="pref_camera_mfnr_sat_enable_title">Uključi MFNR</string>
@@ -828,6 +831,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_google_lens">Google leće</string>
+  <string name="pref_google_lens_summary">Autom. prepoznaj QR kodove, e-poruke, brojeve i tekst</string>
+  <string name="pref_google_lens_title">Pametni prijedlozi</string>
   <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>

@@ -267,6 +267,7 @@
    <string name="video_crbt_title">"Reproducira se zvuk videozapisa drugog partnera"</string>
   <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
    <string name="voicemail">GOVORNA POŠTA</string>
+   <string name="volte_call">VoLTE poziv</string>
    <string name="volume_boost_text">Glasnoća uspješno pojačana</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?"

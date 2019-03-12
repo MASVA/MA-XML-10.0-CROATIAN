@@ -1734,6 +1734,10 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="current_use_uicc_se">Korištenje sigurnosnog elementa na SIM kartici</string>
   <string name="current_use_uicc_wallet">"Koristite SIM%1$s Wallet"</string>
   <string name="current_zone">(trenutno)</string>
+  <string name="cutout_mode_always">Uvijek prikaži urez</string>
+  <string name="cutout_mode_default">Autom.</string>
+  <string name="cutout_mode_settings_title">Neke aplikacije mogu se prikazati pogrešno ako prilagodite način prikaza ureza.</string>
+  <string name="cutout_mode_title">Urez u pojedinačnim aplikacijama</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno–zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
@@ -3556,6 +3560,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="login">Prijava</string>
   <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
+  <string name="login_account_summary">Upravljanje računima, uslugama u oblaku, plaćanjima i još mnogo toga</string>
   <string name="login_action">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti. Pokušajte ponovno."</string>
   <string name="logining">Prijavljivanje…</string>
@@ -3821,6 +3826,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
   <string name="miui_lab_super_resolution_title">Super rezolucija</string>
   <string name="miui_master_clear_summary">Briše sve podatke na telefonu</string>
+  <string name="miui_more_special_feature">Istražite nove značajke</string>
   <string name="miui_optimization_disabled">Isključi MIUI optimizaciju</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
@@ -3876,6 +3882,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_sos_settings_category">SOS postavke</string>
   <string name="miui_sos_statusbar_summary">Dodirni za isključiti</string>
   <string name="miui_sos_statusbar_title">Uključen je hitni SOS</string>
+  <string name="miui_special_feature">Posebne značajke</string>
   <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>
@@ -4427,6 +4434,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="other_device_info">Ostalo</string>
   <string name="other_personal_settings">Osobne postavke</string>
   <string name="other_relative">Ostalo</string>
+  <string name="other_settings_sync_settings">Sinkr.</string>
   <string name="other_sound_category_preference_title">Ostali zvukovi i vibracije</string>
   <string name="other_sound_settings">Ostali zvukovi</string>
   <string name="others">Ostalo</string>
@@ -4736,7 +4744,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="person_hotpot">Mobilni hotspotovi</string>
   <string name="personal_data_section_title">Osobni podaci</string>
   <string name="personal_device_admin_title">Osobno</string>
-  <string name="personal_section_title">Osobno</string>
+  <string name="personal_section_title">Personalizacija</string>
   <string name="phone_call_noise_suppression">Utišaj buku tijekom poziva</string>
   <string name="phone_info_label">Informacije o uređaju</string>
   <string name="phone_language">Jezici</string>
@@ -6735,7 +6743,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="system_alert_window_on">Da</string>
   <string name="system_alert_window_settings">Povlačenje preko drugih aplikacija</string>
   <string name="system_alert_window_summary" formatted="false">Aplikacije koje se mogu povlačiti iznad drugih aplikacija: %d/%d</string>
-  <string name="system_and_device_section_title">Sustav &amp; uređaj</string>
+  <string name="system_and_device_section_title">Postavke sustava</string>
   <string name="system_app">(Sustav)</string>
   <string name="system_app_settings">Postavke aplikacija sustava</string>
   <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
@@ -7282,6 +7290,8 @@ i Mi Mover uključen"</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Postavite zaključavanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja Zaklj. zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>
+  <string name="unlogin_account_summary">Sve Mi usluge. Jedan Mi Račun</string>
+  <string name="unlogin_account_title">Prijavite se u Mi Račun</string>
   <string name="unmount_inform_text">USB Memorija bit će isključena.</string>
   <string name="unmute_sound_title">Uključi zvuk</string>
   <string name="unrestrict_max_aspect_ratio_title">Te su aplikacije optimizirane za cijeli zaslon</string>
