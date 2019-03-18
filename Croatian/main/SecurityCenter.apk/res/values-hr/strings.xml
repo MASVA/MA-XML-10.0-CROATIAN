@@ -2551,6 +2551,7 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="section_title_clear_acc">Očisti predmemoriju</string>
   <string name="section_title_security_defend">Sigurnost</string>
   <string name="section_title_system">Sigurnost sustava</string>
+  <string name="security_center_slogan">Sigurnost. Uvijek na oprezu.</string>
   <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_scan_card_clean_now">Skeniraj</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
@@ -2990,6 +2991,9 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="thermal_tips_message">Igranje igara u načinu Performansi može dovesti do problema s pregrijavanjem.</string>
   <string name="thermal_tips_title">Pažnja</string>
   <string name="third_application">Instalirane aplikacije</string>
+  <string name="third_desktop_dialog_content">Budući da aplikacije za pokretače od trećih strana mogu rezultirati problemima kao što su curenje podataka, neuobičajeno trošenje baterije i usporenost, itd. Samo one koje je potvrdio MIUI mogu se postaviti kao zadani pokretač.</string>
+  <string name="third_desktop_dialog_ok">Razumijem</string>
+  <string name="third_desktop_dialog_title">Pogreška</string>
   <string name="three_percent_total_pkg">%s (3%% od mjes. podataka)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>

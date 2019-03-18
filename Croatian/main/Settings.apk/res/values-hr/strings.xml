@@ -608,6 +608,8 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke u vodoravnom položaju</string>
   <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske tipke prilikom korištenja odabrane aplikacije. Dvaput dodirnite bilo koju navigacijsku tipku da ih ponovno omogućite.</string>
   <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
+  <string name="auto_dual_clock_summary">Pokaži Dvostruki sat kada se trenutno vrijeme razlikuje od vremena na drugom satu</string>
+  <string name="auto_dual_clock_title">Dvostruki sat</string>
   <string name="auto_launch_disable_text">Nema zadanih postavki.</string>
   <string name="auto_launch_enable_text">"Odlučili ste da se ta aplikacija pokreće prema zadanim postavkama za neke radnje."</string>
   <string name="auto_launch_label">Otvori prema zadanim postavkama</string>
@@ -1745,6 +1747,8 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="cutout_mode_default">Autom.</string>
   <string name="cutout_mode_settings_title">Neke aplikacije mogu se prikazati pogrešno ako prilagodite način prikaza ureza.</string>
   <string name="cutout_mode_title">Urez u pojedinačnim aplikacijama</string>
+  <string name="cutout_type_desc">Uključite za poravnavanje krivulja ureza</string>
+  <string name="cutout_type_title">Prilagodite oblik ureza</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno–zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatizam</string>
@@ -2300,6 +2304,11 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="drive_mode_title">Automobilski način</string>
   <string name="drive_mode_voice_report">Izlaz pretvaranja teksta u govor</string>
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
+  <string name="dual_clock">Dvostruki sat</string>
+  <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Početni zaslon, provjerite koristite li standardni widget sata sustava."</string>
+  <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Početni zaslon, provjerite koristite li zadani widget sata sustava."</string>
+  <string name="dual_clock_ok">Razumijem</string>
+  <string name="dual_clock_open_message">Dvostruki sat će biti prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dump_log">Dobivanje zapisa vezane uz probleme</string>
@@ -3920,6 +3929,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="modify_instruction_password_settings">Postavi zaporku</string>
   <string name="modify_privacy_password">Promjeni zaporku</string>
   <string name="more_dangerous_option_hint">Značajke visokog rizika, uključujući \"%1$s\" su omogućene. Dodirni za promjenu postavki.</string>
+  <string name="more_installed_services_title">Više usluga preuzimanja</string>
   <string name="move_app">Premjesti</string>
   <string name="move_app_failed_dlg_text">"Ne mogu premjestiti aplikaciju %1$s."</string>
   <string name="move_app_failed_dlg_title"/>
@@ -4437,6 +4447,13 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="optimization_open">Uključi</string>
   <string name="ota_disable_automatic_update">Automatska ažuriranja sustava</string>
   <string name="ota_disable_automatic_update_summary">Primijeni ažuriranja kada se uređaj ponovno pokrene</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Isključen</string>
+  <string name="otg_opened">Uključen</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB On-The-Go omogućuje USB pogonima i prijenosnim tipkovnicama povezivanje s vašim mobilnim uređajem i razmjenu podataka.
+
+ OTG automatski se isključuje nakon 10 minuta neaktivnosti."</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_device_info">Ostalo</string>
   <string name="other_personal_settings">Osobne postavke</string>
@@ -5286,6 +5303,7 @@ UT sučelje: %5$s"</string>
   <string name="reset_shortcut_manager_throttling">Poništi ograničavanje brzine ShortcutManagera</string>
   <string name="reset_shortcut_manager_throttling_complete">Ograničavanje brzine ShortcutManagera poništeno je</string>
   <string name="resetting_second_space_passwd">Resetiranje zaporke Drugog prostora</string>
+  <string name="resident_timezone_summary">Drugi sat</string>
   <string name="resolver_settings_label">Sortiraj</string>
   <string name="resource_ringtone_volume_mute">Ton zvona je isključen</string>
   <string name="restore">Vrati</string>
@@ -6892,6 +6910,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="to_close">Isključi</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
   <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">"Ne mogu emitirati kada se uspostavi WLAN veza i uključi hotspot."</string>
   <string name="total">DND</string>
   <string name="total_info">Utišaj zvukove i isključi vibraciju osim za alarme</string>
   <string name="total_info_no_vibrator">Utišaj zvukove osim za alarme</string>
