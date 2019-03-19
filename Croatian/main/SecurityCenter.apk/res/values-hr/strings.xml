@@ -1309,7 +1309,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gs_performance_mode">Način za performanse</string>
   <string name="gs_performance_mode_detail">Optimizirajte performanse sustava za igranje</string>
   <string name="gs_sign_notification">Podsjeti se da prijavim svaki dan u 20 sati</string>
-  <string name="gs_slip_gamebox_detail">Upotrijebite klizač da se prikaže ploča prečaca. Dostupni su brzi odgovori i mogućnosti snimanja zaslona.</string>
+  <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>

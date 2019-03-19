@@ -96,7 +96,7 @@
 i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="ai_scene_top_moon_off">Način rada slabog osvjetljenja</string>
   <string name="ai_scene_top_tip">Mjesec</string>
-  <string name="autozoom_click_hint">Dodirnite objekt za početak praćenja. Ostanite udaljeni najmanje 3 metra za najbolji učinak.</string>
+  <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje 3 metra za najbolji učinak."</string>
   <string name="autozoom_disabled_hint">Praćenje objekta u pokretu zaustavljeno</string>
   <string name="autozoom_hint">Prati objekt u pokretu</string>
   <string name="autozoom_landscape_hint">Preporučuje se snimanje pod krajolikom</string>

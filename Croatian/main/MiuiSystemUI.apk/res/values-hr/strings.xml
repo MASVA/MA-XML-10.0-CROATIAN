@@ -745,6 +745,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>
   <string name="face_unlock_sc_status">Povucite dolje za otvaranje kamere</string>
   <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
+  <string name="face_unlock_success">Podaci lica uspješno potvrđeni</string>
   <string name="face_unlock_success_stay_screen_msg">Ostani na Zaklj. zaslonu nakon što se vaše lice potvrdi. Prijeđite prstom prema gore da biste otvorili Početni zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na Zaklj. zaslonu nakon otključavanja</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
@@ -1581,6 +1582,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_wifi_on_label">WLAN uključen</string>
   <string name="quick_settings_wifi_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_work_mode_label">Način rada</string>
+  <string name="rapid_charge_mode_tip">Brzo punjenje</string>
   <string name="quick_step_accessibility_toggle_overview">Uključivanje/isključivanje pregleda</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>
   <string name="recent_dock_tip">Dodirni za odabir aplikacija</string>

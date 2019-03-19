@@ -458,6 +458,7 @@
   <string name="folder_drafts_name_en0">Skice</string>
   <string name="folder_drafts_name_en1">Skica</string>
   <string name="folder_drafts_name_en2">[Gmail]/Skice</string>
+  <string name="folder_empty_to_fresh">"Pošta nije sinkronizirana. Povuci dolje za sinkr."</string>
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
@@ -468,6 +469,7 @@
   <string name="folder_junk_name_en4">Smeće</string>
   <string name="folder_list_display_all">Prikaži sve mape</string>
   <string name="folder_list_display_only_import">Prikaži samo važne mape</string>
+  <string name="folder_no_mails">Nema pošte u ovoj mapi</string>
   <string name="folder_picker_title">Odabir mapa</string>
   <string name="folder_removed">Uklonjeno iz mape %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -1101,6 +1103,7 @@ Dodirnite "&lt;b&gt;Sinkroniziraj sada&lt;/b&gt; da biste poštu sinkronizirali 
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
   <string name="wipe_account_fail_description">Dodirnite za dopuštenje</string>
+  <string name="wipe_account_fail_description_remind">Zbog dopuštenja za podatke, nakon brisanja računa u kalendaru i kontaktima možda postoje preostali podaci, izbrišite ih ručno.</string>
   <string name="wipe_account_fail_title">"Ne mogu izbrisati osobne podatke"</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
   <string name="yes">Da</string>
