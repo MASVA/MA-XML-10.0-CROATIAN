@@ -267,6 +267,9 @@
   <string name="cleaner_screen_shot_action">Očisti</string>
   <string name="cleaner_screen_shot_description">Izbrišite snimke zaslona koje više ne trebate.</string>
   <string name="cleaner_screen_shot_title">Izbriši snimke zaslona</string>
+  <string name="cleaner_similar_action">Izbriši sad</string>
+  <string name="cleaner_similar_description">Izbriši dvostruke fotografije</string>
+  <string name="cleaner_similar_title">Dvostruke fotografije</string>
   <string name="cleaner_slim_action">Pokreni optimizaciju</string>
   <string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Izvorne datoteke pohranjuju se u Mi Cloudu.</string>
   <string name="cleaner_slim_start">Optimiziraj</string>
@@ -274,6 +277,10 @@
   <string name="cleaner_space_description">može biti oslobođeno</string>
   <string name="cleaner_space_detail_description">Izbrišite fotografije u Galeriji kako biste oslobodili prostor za pohranu</string>
   <string name="cleaner_stop_scan">Zaustavi skeniranje</string>
+  <string name="cleaner_video_action">Izbriši sad</string>
+  <string name="cleaner_video_description">Izbrišite videozapise koji zauzimaju prostor za pohranu</string>
+  <string name="cleaner_video_pick_delete_selected">Izbriši odabrane videozapise</string>
+  <string name="cleaner_video_title">Izbriši videozapise</string>
   <string name="clear_local_photo_direction">Ako izbrišete fotografije ili videozapise s uređaja, oni će i dalje biti dostupni u Mi Cloudu</string>
   <string name="click_download_gif">Dodirnite za preuzimanje GIF-a</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
@@ -287,7 +294,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_settings">Sig. kopije Galerije</string>
-  <string name="cloud_storage_extend">Proširi cloud prostor</string>
+  <string name="cloud_storage_extend">Proširi Cloud prostor</string>
   <string name="cloud_storage_ok_append_desc">Dostupno %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud prostor %s</string>
   <string name="cloud_storage_ok_title">Dovoljno prostora za pohranu na Mi Cloudu</string>
@@ -1075,6 +1082,7 @@ za fotografije"</string>
   <string name="play_video_desc">Reproduciraj video</string>
   <string name="posterize">Posterizacija</string>
   <string name="preparing_data">Samo trenutak…</string>
+  <string name="print_log">Isprintaj zapis</string>
   <string name="privacy_permission_request_message">Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit će se u skladu s našim %1$s i %2$s. Dopustiti?</string>
   <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
@@ -1178,10 +1186,15 @@ za fotografije"</string>
   <string name="scan_barcode_guide">"Za dobivanje QR kod albuma, dodirnite ikonu Podijeli."</string>
   <string name="scan_barcode_to_join">Skeniraj QR kod za dodavanje albuma</string>
   <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
+  <string name="screen_doodle_talkback_size">Doodle širina crte</string>
+  <string name="screen_editor_finish">Gotovo</string>
+  <string name="screen_save_dialog_btn_cancel">Odustani</string>
+  <string name="screen_save_dialog_btn_delete">Izbriši snimnku zaslona</string>
+  <string name="screen_save_dialog_btn_save">premi u Galeriju</string>
   <string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
   <string name="search_backup_now">Uključi</string>
-  <string name="search_backup_sub_title">Uključite bi se pronašli više slika</string>
+  <string name="search_backup_sub_title">Uključite da bi se pronašli više slika</string>
   <string name="search_backup_title">Sinkr. sa Mi Cloudom</string>
   <string name="search_clear_histories">Očisti</string>
   <string name="search_connection_error">"Ne mogu se povezati na mrežu"</string>
@@ -1304,6 +1317,7 @@ za fotografije"</string>
   <string name="show_hidden_album_title">Pokaži skrivene albume</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno premješteno, idite na albume Ostalo za pregled</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Uspješno premješteno, idite na Albumi za pregled</string>
+  <string name="similar_keep_clear">Zadrži najbolje fotografije</string>
   <string name="slideshow_interval_dialog_title">Unesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti između 3 i 3600 sekundi</string>
   <string name="slideshow_interval_title">Prikaži svaki slajd na</string>

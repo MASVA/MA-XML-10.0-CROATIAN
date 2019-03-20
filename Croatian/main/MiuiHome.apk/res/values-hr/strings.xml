@@ -102,7 +102,7 @@
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_services">Usluge</string>
   <string name="default_folder_title_tools">Alati</string>
-  <string name="default_screen_preview_title">Dodirni za postavljanje zadanog zaslona</string>
+  <string name="default_screen_preview_title">Postavi zadani zaslon</string>
   <string name="delete">Izbriši</string>
   <string name="delete_screen">Izbriši tipku zaslona</string>
   <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
@@ -116,6 +116,7 @@
   <string name="edit_mode_group_error_full">Nema dovoljno prostora</string>
   <string name="edit_mode_group_error_in_folder">Zatvorite mapu prije grupiranja ikona</string>
   <string name="edit_mode_group_error_one_folder">"Nije moguće duplicirati mapu s odabranim ikonama"</string>
+  <string name="edit_mode_top_menu_finish">Gotovo</string>
   <string name="edit_mode_uninstall">Deinstaliraj</string>
   <string name="editing_add_widget_tips">Uredi widgete</string>
   <string name="editing_mode_enter_tip_text">Uštipnite da uredite Početni zaslon</string>
@@ -219,7 +220,8 @@
   <string name="menu_customize">Postavke</string>
   <string name="menu_default_screen_preview">Postavi zadani zaslon</string>
   <string name="menu_edit">Uredi Početni zaslon</string>
-  <string name="menu_exit_scene">Izlaz iz MiSpacea</string>
+  <string name="menu_exit_scene">Izlaz iz Mi Spacea</string>
+  <string name="menu_finish">Gotovo</string>
   <string name="menu_item_add_item">Dodaj na Početni zaslon</string>
   <string name="menu_launcher_setting">Postavke Pokretača</string>
   <string name="menu_lock">Zaključaj raspored Poč. zaslona</string>
@@ -367,4 +369,5 @@
   <string name="widget_gadget_player">Glazba</string>
   <string name="widget_global_search">Traženje</string>
   <string name="widget_quick_function">Brza radnja</string>
+  <string name="widgets_preview_title">Dodaj widget</string>
 </resources>

@@ -202,6 +202,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_SilenceRinger">utišati dolazne pozive</string>
   <string name="HIPS_Perm_SystemAlert">Prikaz skočnih obavijesti</string>
   <string name="HIPS_Perm_SystemAlert_Desc">prikazati skočne obavijesti</string>
+  <string name="HIPS_Perm_UDevice_ID">Podijelite dijelove informacija o uređaju s programerima igara kako biste im pomogli poboljšati iskustvo igranja. Slažete li se?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">podijeliti dijelove informacija o uređaju s programerima igara kako biste im pomogli poboljšati iskustvo igranja. Slažete li se?</string>
   <string name="HIPS_Perm_SystemAlert_Hint">Ovoliko (%1$s) aplikacija može prikazati skočne obavijesti</string>
   <string name="HIPS_Perm_VideoRecorder">Pristup kameri</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">pristupiti kameri ili snimanju videozapisa</string>
