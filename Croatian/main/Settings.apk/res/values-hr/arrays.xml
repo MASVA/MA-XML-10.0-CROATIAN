@@ -594,7 +594,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafika</item>
-        <item>Postotak</item>
+        <item>Postotak (u ikoni)</item>
+		<item>Postotak (pored ikone)</item>
         <item>Linija na vrhu</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
@@ -1319,7 +1320,11 @@
         <item>Umjereno zadovoljan</item>
         <item>Jako zadovoljan</item>
     </string-array>
-	<string-array name="status_bar_settings_notification_style_entries">
+	<string-array name="notification_shade_shortcut_entries">
+        <item>Traži</item>
+        <item>Postavke</item>
+    </string-array>	 
+	<string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
     </string-array>
@@ -1341,4 +1346,9 @@
 	   <item>Okomito</item>
 	   <item>Linija</item>
 	 </string-array>  
+	 <string-array name="time_format_entries">
+        <item>12-satni format 1:00 PM</item>
+        <item>24-satni format 13:00</item>
+        <item>Automatski (na temelju jezika sustava)</item>
+    </string-array>
 </resources>

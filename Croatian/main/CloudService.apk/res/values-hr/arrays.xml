@@ -20,6 +20,106 @@
          <item>Izradite Sig. kopije postavki sustava</item>
          <item>Pronađi uređaj</item>
      </string-array>
+	 <string-array name="settings_search_contacts">
+        <item>Sinkr. kontakte s Mi Cloudom</item>
+        <item>Uključi/postavi sinkr.</item>
+        <item>Kontakti;Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sinkr. poruke s Mi Cloudom</item>
+        <item>Uključi/postavi sinkr.</item>
+        <item>Poruke;SMS;MMS;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sinkr. Galeriju s Mi Cloudom</item>
+        <item>Uključi/postavi sinkr.</item>
+        <item>Galerija;Fotografije;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sinkr. povijest poziva s Mi Cloudom</item>
+        <item>Uključi/postavi sinkr.</item>
+        <item>Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sinkr. snimke sa Mi Cloudom</item>
+        <item>Uključi/postavi sinkr.</item>
+        <item>Snimač;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>Sinkr. glazbu s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Glazba;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sinkr. Bilješke s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sinkr. WLAN postavke s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>WLAN;wifi;WLAN;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sinkr. Kalendar s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Calendar;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sinkr. Preglednik s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Preglednik;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Sinkr. Sigurnost s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Sigurnost;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sinkr. Zaklj. aplikacija s Mi Cloudom</item>
+        <item>Uključi sinkr.</item>
+        <item>Zaklj. aplikacija;Kartice;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. Sve Mi usluge na jednom mjestu.</item>
+        <item>Pristupite vašim fotografijama, kontaktima, porukama i uređajima s bilo kojeg mjesta</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Mi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Pronađi uređaj</item>
+        <item>"Izbrišite podatke i zaključajte uređaj ako je izgubljen"</item>
+        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Pronađi uređaj</item>
+        <item>"Izbrišite podatke i zaključajte uređaj ako je izgubljen"</item>
+        <item>Pronađi uređaj;Izgubljen;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Izbrisane stavke na Mi Cloudu</item>
+        <item>Vraćanje kontakata, fotografija, poruka i još mnogo toga</item>
+        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Mi Cloud članstvo</item>
+        <item>Nadogradite svoje članstvo, ostvarite više prostora za pohranu i osigurajte svoje podatke</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkr.;Cloud usluge;Mi Cloud;Mega;Ultra;VIP;Back up;Backup;Vrati;Smeće;Izbrisane stavke;Kanta za smeće</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Izradite Sig. kopiju početnog zaslona na Mi Cloud</item>
+        <item>Izradite Sig. kopiju izgleda početnog zaslona, popis instaliranih aplikacija i postavki sustava</item>
+        <item>Cloud;Sig. kopija;Sig. kopija;Cloud usluge;Mi Cloud;Početni zaslon;Izgled;Aplikacije;Postavke;Učestalost Sig. kopije;Upravljanje Sig. kopijama;Vrati</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Sig. kopije</item>
+        <item>Stavke Sig. kopije</item>
+        <item>Cloud;Izradi Sig. kopiju;Sig. kopija;Cloud usluge;Mi Cloud;Početni zaslon;Izgled;Aplikacije;Upravljanje Sig. kopijama;Vrati</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Vratite stavke iz Mi Clouda</item>
+        <item>Na svoj uređaj preuzmite stavke Sig. kopije</item>
+        <item>Cloud;Sig. kopija;Sig. kopija;Vrati;Cloud usluge;Mi Cloud</item>
+    </string-array>
      <string-array name="micloud_entrance_subtitleArray">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Početnog zaslona i pozadine</item>

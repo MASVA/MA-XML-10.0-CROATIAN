@@ -13,6 +13,8 @@
   <string name="accessibility_beauty_switch_open">Uljepšaj je uključeno</string>
   <string name="accessibility_bokeh_adjust">Podešavanje zamućenja pozadine</string>
   <string name="accessibility_bokeh_level">F%1$s otvor</string>
+  <string name="accessibility_bokeh_normal">Zamućenje pozadine prednje kamere je isključeno</string>
+  <string name="accessibility_bokeh_on">Zamućenje pozadine prednje kamere je uključeno</string>
   <string name="accessibility_bokeh_normal">Zamagljenje pozadine prednje kamere je isključeno</string>
   <string name="accessibility_bokeh_on">Zamagljenje pozadine prednje kamere je uključeno</string>
   <string name="accessibility_camera_auto_flashmode">Autom. bljeskalica</string>
@@ -123,6 +125,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="beauty_reset_toast">Efekti figure resetirani</string>
   <string name="beauty_tab_name_live_beauty">Uljepšaj</string>
   <string name="beauty_tab_name_live_filter">Filteri</string>
+  <string name="bokeh_use_hint">Efekat dubine</string>
   <string name="bg_replacement_message">"Postavite uređaj na stabilnu površinu,
 i na trenutak izađite iz pregleda"</string>
   <string name="bokeh_use_hint">Efekat dubine</string>
