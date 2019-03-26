@@ -726,7 +726,6 @@
   <string name="select_audio">Odaberi zvuk</string>
   <string name="select_bottom_text">Tekst pri dnu</string>
   <string name="select_copy_text">Odaberite tekst za kopiranje</string>
-  <string name="select_copy_text">Odaberite i kopirajte tekst poruke</string>
   <string name="select_different_attachment">Odaberite drugi privitak.</string>
   <string name="select_different_audio">Odaberite drugi zvuk.</string>
   <string name="select_different_media">Odaberite drugi %1$s.</string>
