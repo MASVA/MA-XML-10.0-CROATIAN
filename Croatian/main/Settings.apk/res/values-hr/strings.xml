@@ -6422,9 +6422,9 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_enable_notification">Prikaži obavijesti</string>
   <string name="status_bar_settings_expand_top_notification">Proširi gornju obavijest</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu</string>
+  <string name="status_bar_settings_manage_notification">Obavijesti aplikacije</string>
   <string name="status_bar_settings_function_description">O ovoj značajci</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite za pokupiti prečac</string>
-  <string name="status_bar_settings_manage_notification">Obavijesti aplikacija</string>
   <string name="status_bar_settings_no_carrier">Ništa</string>
   <string name="status_bar_settings_notification_bar">Panel obavijesti</string>
   <string name="status_bar_settings_notification_led">Svjetlo obavijesti</string>
