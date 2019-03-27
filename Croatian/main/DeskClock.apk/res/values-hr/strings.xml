@@ -153,7 +153,6 @@
   <string name="module_download_data_msg_golbal">Sat mora preuzeti audio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_replace">Dostupan je ažurirani zvuk za MIUI pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_timer">Sat treba preuzeti audio datoteke za timer buke okoline. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
-  <string name="module_download_data_msg_golbal">"Sat mora preuzeti audio datoteke za MIUI 10 vremenske alarme i timere buke okoline. Za ovo preuzimanje bit će potrebno 20 MB mobilnih podataka. Slažete li se?"</string>
   <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
   <string name="module_download_msg">Sat treba preuzeti audio datoteke za MIUI pametne alarme. Pametni alarmi sadrže audio značajke koje omogućuju uključivanje informacija o trenutnom vremenu u alarme. Preuzeti sada?</string>
   <string name="module_download_msg_golbal">Sat treba preuzeti audio datoteke za MIUI pametne alarme. Preuzeti sada?</string>
