@@ -73,6 +73,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="enable_find_device_success">"Pronađi uređaj" je uključen.</string>
   <string name="enable_micloud">Prijavite se kako bi koristili Mi Cloud</string>
+  <string name="enable_sync_setting_title">Konfiguriranje cloud usluga…</string>
   <string name="enable_sync">Sinkr.</string>
   <string name="enable_sync_dspt">"Nemoj sinkr."</string>
   <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
@@ -515,6 +516,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="provision_sync_items_loading">Priprema za sinkronizaciju stavki</string>
   <string name="reading_status">Učitavanje statusa…</string>
   <string name="reading_status_failure">"Ne mogu učitati status."</string>
   <string name="remind_later">Ne sada</string>

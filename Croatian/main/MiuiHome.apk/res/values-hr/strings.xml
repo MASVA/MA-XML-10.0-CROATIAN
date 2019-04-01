@@ -200,6 +200,7 @@
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_not_exist">Došlo je do pogreške, vratite se na Početni zaslon i pokušajte ponovno.</string>
+  <string name="launcher_sliding_up_gesture">Prijeđite prstom prema gore na Poč. zaslonu da otvorite pretraživanje</string>
   <string name="launcher_title">Poč. zaslon &amp; Nedavno</string>
   <string name="like">Dodaj u favorite</string>
   <string name="liked">Dodano u favorite</string>

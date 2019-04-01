@@ -42,6 +42,8 @@
   <string name="cancle">Odustani</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
   <string name="clear_data">Očisti</string>
+  <string name="close">Zatvori</string>
+  <string name="close_ad">Zatvori OGLAS</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Play. Pokušajte ponovno.</string>
   <string name="complete_time">Završeno:</string>
   <string name="confirm">U redu</string>

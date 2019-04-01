@@ -303,6 +303,8 @@
   <string name="found_usb">USB pohrana povezana</string>
   <string name="ftp_account_req_notice">4~16 znakova, slova i znamenke , mala i velika slova</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
+  <string name="ftp_anonymous_warning_msg">Značajke anonimizacije mogu predstavljati sigurnosni rizik. Koristiti značajku svejedno?</string>
+  <string name="ftp_anonymous_warning_title">Pažnja</string>
   <string name="ftp_invalid_username_or_password">Netočno korisničko ime ili zaporka</string>
   <string name="ftp_open_port_error">"Ne mogu otvoriti port. Provjerite mrežno povezivanje ili resetirajte broj porta."</string>
   <string name="ftp_password_hint">Zaporka</string>
@@ -326,6 +328,7 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
+  <string name="home_action_up">Natrag</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_file_view_phone">Pohrana</string>

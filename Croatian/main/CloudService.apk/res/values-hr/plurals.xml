@@ -76,4 +76,8 @@
         <item quantity="other">prije %s hr</item>
         <item quantity="one">prije %s hr</item>
 	</plurals>
+	<plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s usluga će se sinkronizirati s Mi Cloudom</item>
+        <item quantity="one">%s usluga će se sinkronizirati s Mi Cloudom</item>
+    </plurals>
 </resources>

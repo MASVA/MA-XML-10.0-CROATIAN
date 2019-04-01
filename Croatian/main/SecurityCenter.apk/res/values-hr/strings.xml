@@ -239,6 +239,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_factory_reset">Deinstaliraj ažuriranja</string>
   <string name="app_manager_factory_reset_dlg_msg">Sva ažuriranja ove aplikacije sustava Android će se deinstalirati.</string>
   <string name="app_manager_factory_reset_dlg_title">Deinstalirati ažuriranja?</string>
+  <string name="app_manager_find_apps">Pronađi aplikacije</string>
   <string name="app_manager_force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
   <string name="app_manager_globel_other_perm_title">Ostala dopuštenja</string>
@@ -2558,6 +2559,11 @@ Ova značajka nije podržana za aplikacije sustava."</string>
   <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_scan_card_clean_now">Skeniraj</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
+  <string name="securityadd_install_fail">"Nije moguće ažurirati dodatak. Pokušajte ponovno."</string>
+  <string name="securityadd_update_tips_cancle">Ne sada</string>
+  <string name="securityadd_update_tips_message">Ažurirajte dodatak usluge Sigurnost za pristup najnovijim značajkama za igre. %1$dMB će biti preuzeto.</string>
+  <string name="securityadd_update_tips_now">Ažuriraj</string>
+  <string name="securityadd_update_tips_title">Ažuriraj</string>
   <string name="see_detail">Detalji</string>
   <string name="see_more_content">Ažurirajte igre da biste vidjeli više istaknutih stavki</string>
   <string name="see_more">Više</string>

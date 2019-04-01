@@ -2,6 +2,9 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Spremanje…</string>
+  <string name="motion_photo_re_pick_title">Odaberite najbolju fotografiju</string>
+  <string name="motion_photo_toast_default">Zadano</string>
+  <string name="motion_photo_toast_suggest">Preporučeno</string>
   <string name="refocus_discard_confirm_message">Spremiti promjene?</string>
   <string name="refocus_discard_negative_btn">Odbaci</string>
   <string name="refocus_discard_positive_btn">Spremi</string>

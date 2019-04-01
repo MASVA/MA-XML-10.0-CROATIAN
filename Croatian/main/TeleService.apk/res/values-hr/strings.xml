@@ -1068,6 +1068,7 @@ Audio"</string>
   <string name="fdn_service_unavailable">FDN usluga nije dostupna.</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
   <string name="fdn_with_label">Fiksno biranje (%s)</string>
+  <string name="fiveg_switch_title">5G mreža</string>
   <string name="feedback">Pov. informacija</string>
   <string name="flash_when_ring_summary">Koristi bljeskalicu za obavijesti o dolaznim pozivima</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>

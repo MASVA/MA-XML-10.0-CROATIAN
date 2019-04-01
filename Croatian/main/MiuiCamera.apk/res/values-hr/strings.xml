@@ -221,6 +221,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="custom_watermark_words">Vlastita oznaka</string>
   <string name="custom_watermark_words_input_hint">Unesite tekst</string>
   <string name="custom_watermark_words_save_success">Uspješno spremljeno</string>
+  <string name="dialog_google_lens_option_0">Google Leće (preporučeno)</string>
   <string name="delete">Izbriši</string>
   <string name="deleted">Izbrisano</string>
   <string name="description">Opis</string>
@@ -354,6 +355,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hine_hht">"Pri slabom osvjetljenju, kamera će snimiti više fotografija
   a zatim izraditi snimku s minimalnom količinom šuma."</string>
   <string name="hint_ae_af_lock">Autom. izoštravanje / Autom. ekspozicija je zaključana</string>
+  <string name="hint_ae_af_lock_extra">Autom. izoštravanje / Autom. ekspozicija su zaključani. Promjenite na Google Leće u postavkama Kamere</string>
   <string name="hint_ae_lock">Autom. ekspozicija je zaključana</string>
   <string name="hint_device_water_mark">Oznaka će biti dodana na fotografiju automatski.</string>
   <string name="hint_eye_light">Svjetlo oko očiju će biti bolje kada je uključena bljeskalica</string>
@@ -659,14 +661,16 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_live_sticker_internal_title">Interni čarobni alati</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pritisnite &amp; držite tipku okidača</string>
-  <string name="pref_camera_long_press_viewfinder_title">Pritisnite &amp; držite Tražilo</string>
+  <string name="pref_camera_long_press_viewfinder_google_lens">Google Leće</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Zaklj.</string>
+  <string name="pref_camera_long_press_viewfinder_title">Postavke tražila</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Brzo snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Uzastopno snimanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dugi pritisak tipke Okidač</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite tipku okidača za zaključavanje AE/AF/AWB</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google leće</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Leće</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Zaklj.</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ručno</string>
@@ -830,7 +834,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_front_mirror_entry_on">Uklj.</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
-  <string name="pref_google_lens">Google leće</string>
+  <string name="pref_google_lens">Google Leće</string>
+  <string name="pref_google_lens_summary">Usmjerite kameru na kontaktne informacije, URL-ove i QR kodove da biste vidjeli dostupne opcije</string>
+  <string name="pref_google_lens_title">Prijedlozi leća</string>
   <string name="pref_google_lens_summary">Autom. prepoznaj QR kodove, e-poruke, brojeve i tekst</string>
   <string name="pref_google_lens_title">Pametni prijedlozi</string>
   <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
@@ -1031,6 +1037,13 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene."</
   <string name="view_privacy_policy">Prikaži Pravila o Privatnosti</string>
   <string name="visit_cloud_album">Posjetite Cloud album</string>
   <string name="wait">Samo trenutak…</string>
+  <string name="wideselfie_press_shoot_key_to_start">Dodirni tipku okidača</string>
+  <string name="wideselfie_result_image_lossless">"Ne mogu spremiti panoramu"</string>
+  <string name="wideselfie_rotate_slowly">Polako zakrenite telefon u stranu</string>
+  <string name="wideselfie_rotate_to_back">Nagnite telefon unatrag</string>
+  <string name="wideselfie_rotate_to_front">Nagnite telefon naprijed</string>
+  <string name="wideselfie_rotate_to_left_slowly">Polako zakrenite telefon ulijevo</string>
+  <string name="wideselfie_rotate_to_right_slowly">Polako zakrenite telefon udesno</string>
   <string name="web_url_apk_warning">Ova aplikacija dolazi iz nepoznatih izvora i može predstavljati sigurnosni rizik. Instalirajte aplikacije samo iz izvora kojima vjerujete.</string>
   <string name="web_url_warning">Povezana web stranica potječe iz nepoznatih izvora i može predstavljati sigurnosni rizik.</string>
   <string name="website_details">Detalji web mjesta:</string>

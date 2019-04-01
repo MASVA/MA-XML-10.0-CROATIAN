@@ -808,6 +808,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="guest_wipe_session_message">Želite li nastaviti sesiju?</string>
   <string name="guest_wipe_session_title">Dobro došli natrag, gostu!</string>
   <string name="guest_wipe_session_wipe">Počni ispočetka</string>
+  <string name="gxzw_area">Skener otiska prsta</string>
   <string name="gxzw_long_press_tip">Pritisnite i držite da biste provjerili nove značajke</string>
   <string name="gxzw_press_harder">Pritisnite malo jače</string>
   <string name="gxzw_try_again">Pokušajte ponovo</string>
@@ -1111,6 +1112,10 @@ Pokušajte ponovo za %2$d s."</string>
   <string name="lock_screen_carrier_airplane_mode_on">Zrakoplovni način</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+   <string name="lock_screen_date_two_lines">"EEEE
+dd.MM.yyyy"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+dd.MM."</string>
   <string name="lock_screen_magazine_default_content">Dnevni dio svježih slika</string>
   <string name="lock_screen_magazine_default_entry_title">Detalji o slici pozadine</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
