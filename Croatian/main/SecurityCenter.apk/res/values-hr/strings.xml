@@ -1956,7 +1956,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="optimize_result_summary_system_default_settings">"Korištenje zadanih MIUI aplikacija povećava razinu stabilnosti i sigurnosti sustava."</string>
   <string name="optimize_result_title_sucurity_risk">Pronađen sigurnosni rizik</string>
   <string name="optimize_result_title_system_default_settings">Zadane postavke su promijenjene</string>
-  <string name="optimize_result_title_uninstall_apps">Aplikacije</string>
+  <string name="optimize_result_title_uninstall_apps">Deinstaliraj aplikacije</string>
   <string name="optimize_result_toast_system_default_settings">Vrati na zadane postavke</string>
   <string name="optimize_result_toast_system_no_item_selected">Nema odabranih stavki</string>
   <string name="optmizingbar_optimize_done">Optimizirano</string>

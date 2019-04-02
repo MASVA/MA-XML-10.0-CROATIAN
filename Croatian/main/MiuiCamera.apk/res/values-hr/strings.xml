@@ -724,6 +724,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title">Veličina slike</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretni način rada isključen</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način rada uključen</string>
@@ -836,8 +837,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_front_mirror_title">Zrcalna prednja kamera</string>
   <string name="pref_google_lens">Google Leće</string>
   <string name="pref_google_lens_summary">Usmjerite kameru na kontaktne informacije, URL-ove i QR kodove da biste vidjeli dostupne opcije</string>
-  <string name="pref_google_lens_title">Prijedlozi leća</string>
-  <string name="pref_google_lens_summary">Autom. prepoznaj QR kodove, e-poruke, brojeve i tekst</string>
   <string name="pref_google_lens_title">Pametni prijedlozi</string>
   <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
