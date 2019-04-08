@@ -24,10 +24,6 @@
         <item quantity="other">prije %d dana</item>
         <item quantity="one">prije %d dan</item>
     </plurals>
-   <plurals name="feedback_result_interval_time_too_short">
-         <item quantity="other">%1$s sek. nakon povratne informacije</item>
-         <item quantity="one">%1$s sek. nakon povratne informacije</item>
-     </plurals>
 	      <plurals name="no_vote_num">
         <item quantity="other">%1$s osoba| </item>
         <item quantity="one">%1$s osoba| </item>
@@ -40,4 +36,12 @@
         <item quantity="other"> | %1$s osoba</item>
         <item quantity="one"> | %1$s osoba</item>
      </plurals>
+	 <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Povratne informacije možete ponovo poslati za %1$s min.</item>
+        <item quantity="one">Povratne informacije možete ponovo poslati za %1$s min.</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Povratne informacije možete ponovo poslati za %1$s sek.</item>
+        <item quantity="one">Povratne informacije možete ponovo poslati za %1$s sek.</item>
+    </plurals>
 </resources>

@@ -100,8 +100,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="force_touch_menu_add">Dodaj bilješku</string>
   <string name="format_move_note_out_folder">Ta je bilješka premještena</string>
   <string name="format_move_note_to_folder">Premješteno u %1$s</string>
-  <string name="format_move_notes_out_folder">Premješteno %1$s izvan</string>
-  <string name="format_move_notes_to_folder">Premješteno %1$s u %2$s</string>
   <string name="hidden_notes_fragment_title">Skrivene bilješke</string>
   <string name="hide_arrow_description">Sakrij</string>
   <string name="hint_cannot_view_hidden_note_content">"Ne mogu pregledati sadržaj u skrivenim bilješkama"</string>
@@ -247,9 +245,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_notes_hidden_edit">Ova bilješka je uspješno skrivena. Povucite dolje da biste vidjeli skrivene bilješke.</string>
   <string name="toast_notes_hidden_home">Ova bilješka je uspješno skrivena. Povucite dolje da biste vidjeli skrivene bilješke.</string>
   <string name="toast_notes_hidden">Uspješno skriveno</string>
-  <string name="toast_notes_hidden_count">%1$s uspješno skriven</string>
   <string name="toast_notes_unhidden">Uspješno otkriveno</string>
-  <string name="toast_notes_unhidden_count">%1$s otriven uspješno</string>
   <string name="toast_privacy_mode">Ne mogu to učiniti za skrivene bilješke</string>
   <string name="toast_reach_text_limit_attachment">Nije moguće dodati novi privitak jer je bilješka predugačka</string>
   <string name="toast_reach_text_limit_checkbox">"Nije moguće dodati potvrdni okvir jer je bilješka predugačka"</string>
