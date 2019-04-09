@@ -159,8 +159,11 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
+  <string name="provision_background_restore_more_data">Vratite više stavki u pozadini</string>
   <string name="provision_error_connect_msg">Testirajte mrežu i pokušajte ponovno. Sig. kopije nisu dostupne kada je uređaj izvan mreže.</string>
   <string name="provision_error_connect_title">Ne mogu se povezati</string>
+  <string name="provision_restore_data">Vraćanje stavki</string>
+  <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
   <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
   <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
   <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>

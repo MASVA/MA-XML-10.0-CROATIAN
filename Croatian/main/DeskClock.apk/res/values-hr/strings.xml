@@ -59,7 +59,7 @@
   <string name="check_theme_app_install">Provjerite je li aplikacija Teme instalirana na vašem uređaju.</string>
   <string name="check_voice_assist_app_version">Ažurirajte Mi AI na najnoviju verziju.</string>
   <string name="clock_bg_button_setting_summary_common">Odaberite boju pozadine za aplikaciju Sat</string>
-  <string name="clock_bg_button_setting_summary_follow_sys">Crna će se koristiti kao boja pozadine svaki put kada se prebacite na Tamni način</string>
+  <string name="clock_bg_button_setting_summary_follow_sys">Crna će se koristiti kao boja pozadine svaki put kada odaberete Tamni način</string>
   <string name="clock_bg_button_setting_title">Boja pozadine</string>
   <string name="close_alarm">Isključi</string>
   <string name="common_settings">Postavke</string>
@@ -100,7 +100,7 @@
   <string name="go_back">Natrag</string>
   <string name="holiday_update">Dostupno je ažuriranje državnih praznika</string>
   <string name="holiday_update_fail">"Ne mogu ažurirati"</string>
-  <string name="holiday_update_loading">Updating…</string>
+  <string name="holiday_update_loading">Ažuriranje…</string>
   <string name="holiday_update_success">Sve stavke su ažurne</string>
   <string name="hour_unit">h</string>
   <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
