@@ -85,9 +85,10 @@
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP uklj.</string>
   <string name="accessibility_ultra_wide_off">Ultra široki kut je isklj.</string>
   <string name="accessibility_ultra_wide_on">Ultra široki kut je uklj.</string>
+  <string name="accessibility_video_btn_play">Reproduciraj videozapis</string>
   <string name="accessibility_video_capture_button">Tipka okidača za snimanje videozapisa</string>
   <string name="accessibility_video_module_picker">Odabir modula</string>
-  <string name="accessibility_video_pause_button">Pauziranj snimanje</string>
+  <string name="accessibility_video_pause_button">Pauziraj snimanje</string>
   <string name="accessibility_video_resume_button">Nastavi snimanje</string>
   <string name="accessibility_zoom_button">Zoom</string>
   <string name="accessibility_zoom_control">Kontrola Zoom-a</string>
@@ -96,6 +97,7 @@
 i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="ai_scene_top_moon_off">Način rada slabog osvjetljenja</string>
   <string name="ai_scene_top_tip">Mjesec</string>
+  <string name="audio_focus_exit_button_text">Isključi Audio fokus</string>
   <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje 3 metra za najbolji učinak."</string>
   <string name="autozoom_disabled_hint">Praćenje objekta u pokretu zaustavljeno</string>
   <string name="autozoom_hint">Prati objekt u pokretu</string>
@@ -103,9 +105,8 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="albums">Albumi</string>
   <string name="aperture">Otvor</string>
   <string name="app_details">Detalji:</string>
-  <string name="audio_focus_exit_button_text">Isključi</string>
   <string name="auto">Autom.</string>
-  <string name="back_bokeh_use_hint">"Držite predmet unutar 1,5 metra za najbolji efekat"</string>
+  <string name="back_bokeh_use_hint">"Držite predmet unutar 1.5 metra za najbolji efekat"</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Vitka</string>
   <string name="beauty_body_head">Glava</string>
@@ -113,6 +114,7 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="beauty_body_reset_tip">Efekti figure uklonjeni</string>
   <string name="beauty_body_shoulder">Ramena</string>
   <string name="beauty_body_slim_count_tip">Efekti figure funkcioniraju samo za snimke jedne osobe</string>
+  <string name="beauty_body_whole">Tijelo</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Uljepšanje</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
@@ -138,7 +140,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_liveshot_off_tip">Dinamičke snimke su isklj.</string>
   <string name="camera_liveshot_on_tip">Dinamičke snimke</string>
-  <string name="camera_mode_options">Opcije</string>
+  <string name="camera_mode_options">Načini</string>
   <string name="camera_setting">Kamera</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Quick snap način</string>
@@ -182,7 +184,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="config_name_magic">Magija</string>
   <string name="config_name_scene">Scena</string>
   <string name="config_name_setting">Postavke</string>
-  <string name="config_name_sound">Audio</string>
+  <string name="config_name_sound">Zvuk</string>
   <string name="config_name_straighten">Straighten</string>
   <string name="config_name_super_resolution">Super rezolucija</string>
   <string name="config_name_tilt">Tilt-shift</string>
@@ -364,7 +366,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   a zatim izraditi snimku na kojoj svi izgledaju najbolje."</string>
   <string name="hint_groupshot_beauty">Ne mogu koristiti uljepšanje kod grupne fotografije</string>
   <string name="hint_slow_motion">Videozapis koji snimate reproducirat će se sporije.</string>
-  <string name="hunt_dual_water_mark">Oznaka Dvostruke kamera biti će dodana automatski.</string>
+  <string name="hunt_dual_water_mark">Oznaka Dvostruke kamere biti će dodana automatski.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Uvoz dovršen</string>
   <string name="import_contact">Uvezi kontakt</string>

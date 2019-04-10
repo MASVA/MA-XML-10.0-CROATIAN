@@ -105,6 +105,7 @@
   <string name="can_not_modify_allday_event">"Ne mogu promijeniti cjelodnevni događaj"</string>
   <string name="can_not_modify_event">"Ne mogu promijeniti događaj"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne mogu promijeniti ponavljanje događaja i događaj prijelaznih dana"</string>
+  <string name="cancel_reminder_later">Otkaži podsjetnik</string>
   <string name="change_response_title">Promijeni odgovor</string>
   <string name="chips_action_cancel">Odustani</string>
   <string name="chips_action_copy">Kopiraj</string>
@@ -153,6 +154,7 @@
   <string name="day_picker_description">Mjesečna rešetka dana</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">+ Novi događaj</string>
+  <string name="default_reminder_later_time">Zadani interval za \"Podsjeti kasnije\"</string>
   <string name="default_reminder_mode">Podsjetnici</string>
   <string name="delete_calendar">Izbriši</string>
   <string name="delete_label">Izbriši</string>
@@ -332,6 +334,7 @@
   <string name="new_event_dialog_label">Novi događaj</string>
   <string name="new_event_dialog_option">Novi događaj</string>
   <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovno). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
+  <string name="next_alarm_time">Sljedeći podsjetnik u %1$s</string>
   <string name="no_contact_birthday_hint">Nema rođendana za uvoz</string>
   <string name="no_events_hint">Nema događaja</string>
   <string name="no_network">"Ne mogu se povezati na mrežu.
@@ -409,6 +412,8 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="recurrence_month_pattern_by_day">na isti dan svakog mjeseca</string>
   <string name="refresh">Osvježi</string>
   <string name="refreshing_hint">Samo trenutak…</string>
+  <string name="reminder_later">Podsjeti kasnije</string>
+  <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminders_label">Dodaj podsjetnik</string>
   <string name="repeat_activity_label">Ponovi</string>
   <string name="repeat_custom_activity_label">Prilagođeno</string>

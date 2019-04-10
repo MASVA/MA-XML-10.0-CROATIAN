@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Brzo uzastopno snimanje gotovo, snimljeno fotografija: %1$s</item>
+        <item quantity="one">Brzo uzastopno snimanje gotovo, snimljena %1$s fotografija</item>
+    </plurals>
     <plurals name="delete_selection">
         <item quantity="other">Izbrisati odabrane stavke?</item>
         <item quantity="one">Izbrisati odabranu stavku?</item>
