@@ -814,6 +814,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="gxzw_try_again">Pokušajte ponovo</string>
   <string name="gxzw_try_more_again">Pokušajte ponovo</string>
   <string name="gxzw_use_password">Upotrijebite svoju zaporku da otključate</string>
+  <string name="gxzw_use_password_to_unlock">Unesite zaporku</string>
   <string name="hdcp_checking_dialog_title">Postavke HDCP provjere</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
   <string name="headset">Slušalice</string>

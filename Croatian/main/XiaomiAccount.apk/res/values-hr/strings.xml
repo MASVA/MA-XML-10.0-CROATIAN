@@ -76,6 +76,7 @@
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="agreement_and_privacy">Korisnički ugovor i Pravila o privatnosti</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
@@ -317,6 +318,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_error_verify_code">Kôd koje ste unijeli nije valjan.</string>
   <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
   <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da resetirate svoju zaporku.</string>
+  <string name="passport_first_login_prompt">Mi Račun će se izraditi automatski kada se prvi put prijavite.</string>
   <string name="passport_forget_password">Zaboravljena zaporka</string>
   <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
   <string name="passport_get_back_pwd">Dobivanje zaporke računa</string>
@@ -508,6 +510,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>
+  <string name="scan_barcode">Skeniraj QR kod</string>
   <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
   <string name="search_account_protection">Zaštita računa</string>
   <string name="search_account_protection_desc">Zaštita računa</string>

@@ -16,7 +16,12 @@
   <string name="am">AM</string>
   <string name="app_name">Kalkulator</string>
   <string name="app_name_danfa">Mi Kalkulator</string>
+  <string name="app_notification_info">Kalkulator radi u pozadini</string>
   <string name="base_rate">Osnovna kamatna stopa</string>
+  <string name="btn_float_window_alpha">Podesite neprozirnost</string>
+  <string name="btn_float_window_back_to_app">Povećaj Kalkulator</string>
+  <string name="btn_float_window_close">Zatvori umanjeni Kalkulator</string>
+  <string name="btn_float_window_resize">Promjeni veličinu umanjenog Kalkulatora</string>
   <string name="birthday">Rođendan</string>
   <string name="cal_convert_to_word_figure">Pretvori u financijske znakove</string>
   <string name="cal_copy">Kopiraj</string>
@@ -78,6 +83,7 @@
   <string name="extra_deduction_instruction">Pojedinosti o odbitku</string>
   <string name="extra_deduction_tips">Dodirnite tipku u gornjem kutu zaslona da biste vidjeli detalje o odbitku.</string>
   <string name="extra_deduction_title">Dodatni odbici</string>
+  <string name="float_window_guide_text">Dodirnite ovdje da biste smanjili Kalkulator</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -135,6 +141,7 @@
   <string name="from_unit_en">kilometara na sat</string>
   <string name="further_education">Daljnje obrazovanje</string>
   <string name="global_network_confirm_content">"Pretvarač valuta kalkulatora treba koristiti mrežnu vezu vašeg uređaja da radi normalno."</string>
+  <string name="hint_floatwindow_alpha_guide_text">Dodirni za podešavanje neprozirnosti</string>
   <string name="help_content_desc">Pomoć</string>
   <string name="home_loan">Kamata kredita</string>
   <string name="home_title_calculator">Kalkulator</string>
@@ -571,6 +578,7 @@
   <string name="unit_year_format">Godina %s</string>
   <string name="updating">Ažuriranje Kalkulatora…</string>
   <string name="user_agreement">Korisnički sporazum</string>
+  <string name="view_float_window_move">Pomakni umanjeni Kalkulator</string>
   <string name="user_manual">Upute</string>
   <string name="voiceDesc">Glasovne kontrole</string>
   <string name="web_sso_login_fail">Morate se prijaviti ponovno</string>
