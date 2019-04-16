@@ -529,7 +529,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_apk">Dodirni za dobivanje aplikacija.</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Nema komentara</string>
-  <string name="no_content">Ponovno otvorite aplik. Datoteke da biste vidjeli popularne videozapise</string>
+  <string name="no_content">Ponovno otvorite aplik. Datoteke za pregled popularnih videozapisa</string>
   <string name="no_daren_tip">Nema još ničeg ovdje</string>
   <string name="no_display_file">"Ne mogu prikazati %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
@@ -582,7 +582,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="open_app">Otvori</string>
   <string name="open_chest">Otvorite da biste dobili dar</string>
   <string name="open_chest_failed">"Ne mogu otvoriti, provjerite mrežne postavke i pokušajte ponovo"</string>
-  <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete:
+  <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete slijedeće:
 1. Preuzeti datoteku ponovno da je ažurirate.
 2. Učitati je na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Promjena primijenjena</string>
@@ -593,7 +593,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_add_fav">Dodavanje u favorite…</string>
   <string name="operation_agree">Dopusti</string>
   <string name="operation_cancel">Odustani</string>
-  <string name="operation_compress">Sažeti</string>
+  <string name="operation_compress">Sažmi</string>
   <string name="operation_compressing">Sažimanje…</string>
   <string name="operation_copy">Kopiraj</string>
   <string name="operation_copying">Kopiranje…</string>
@@ -612,7 +612,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
   <string name="operation_info">Detalji</string>
   <string name="operation_like">Sviđa mi se</string>
-  <string name="operation_move">Obreži</string>
+  <string name="operation_move">Izreži</string>
   <string name="operation_moving">Premještanje…</string>
   <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
   <string name="operation_other_apps">Otvori u drugoj aplikaciji</string>
@@ -660,7 +660,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="path_recent_file">Upravljaj datotekama na uređaju</string>
   <string name="permission_denial">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama."</string>
   <string name="permission_required">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama.​"</string>
-  <string name="partial_repair_done">Neke datoteke uspješno obnovljene</string>
+  <string name="partial_repair_done">Neke su datoteke uspješno obnovljene</string>
   <string name="paused">Pauzirano</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Unutarnja pohrana</string>
