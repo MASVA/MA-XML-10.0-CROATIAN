@@ -7404,40 +7404,40 @@ i Mi Mover uključen"</string>
   <string name="usage_log">Statistika korištenja aplikacija</string>
   <string name="usage_state_app_timer">Vrijeme zaslona</string>
   <string name="usage_state_app_usage_detail_title">Pojedinosti o upotrebi aplikacije</string>
-  <string name="usage_state_app_usage_list_title">"Vrijeme zaslona aplikacije danas"</string>
-  <string name="usage_state_app_usage_list_week_title">"Vrijeme zaslona aplikacije (zadnjih 7 dana)"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Vrijeme zaslona između %d:00 i %d:00</string>
-  <string name="usage_state_app_use_time">Vrijeme zaslona aplikacije</string>
+  <string name="usage_state_app_usage_list_title">"Vrijeme uklj. zaslona aplik. danas"</string>
+  <string name="usage_state_app_usage_list_week_title">"Vrijeme uklj. zaslona aplik. (zadnjih 7 dana)"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Vrijeme uklj. zaslona između %d:00 i %d:00</string>
+  <string name="usage_state_app_use_time">Vrijeme uklj. zaslona aplik.</string>
   <string name="usage_state_channel_mouth">Zadnjih 30 dana</string>
   <string name="usage_state_channel_week">Zadnjih 7 dana</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Obavijesti između %d:00 i %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Otključan uređaj između %d:00 i %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Uređaj otključan između %d:00 i %d:00</string>
   <string name="usage_state_friday">Pet</string>
   <string name="usage_state_go_more">Više aplikacija</string>
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_less_one_minute">Manje od 1 minute</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Vrijeme zaslona uključeno' dd.MM"</string>
+  <string name="usage_state_mourth_day">"'Vrijeme uklj. zaslona uključeno' dd.MM"</string>
   <string name="usage_state_noti_mourth_day">"'Obavijesti uključene' dd.MM"</string>
   <string name="usage_state_notification">Upravljanje obavijestima</string>
   <string name="usage_state_notification_manager">Upravljanje obavijestima aplikacije</string>
-  <string name="usage_state_remind_summary">Uključite da biste primali upozorenja o vremenu zaslona. Možete postaviti različita vremenska ograničenja za dane u tjednu i vikende.</string>
-  <string name="usage_state_remind_title">Upozorenja vremena zaslona</string>
+  <string name="usage_state_remind_summary">Uključite da biste primali upozorenja o vremenu uklj. zaslona. Možete postaviti različita vremenska ograničenja za dane u tjednu i vikende.</string>
+  <string name="usage_state_remind_title">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_rest_day">Radni dani</string>
   <string name="usage_state_saturday">Sub</string>
   <string name="usage_state_set_invalid_time_toast">"Nije moguće postaviti vremensko ograničenje kraće od 1 minute"</string>
   <string name="usage_state_sunday">Ned</string>
   <string name="usage_state_thursday">Čet</string>
   <string name="usage_state_today">Danas</string>
-  <string name="usage_state_today_total_text">Vrijeme zaslona danas</string>
+  <string name="usage_state_today_total_text">Vrijeme uklj. zaslona danas</string>
   <string name="usage_state_tuesday">Uto</string>
   <string name="usage_state_unlock_mourth_day">"'Otključano' dd.MM"</string>
-  <string name="usage_state_usage_time">Vrijeme zaslona</string>
-  <string name="usage_state_usage_time_remind">Upozorenja vremena zaslona</string>
-  <string name="usage_state_use_time_remind_title">Upozorenja vremena zaslona</string>
-  <string name="usage_state_wednesday">Wed</string>
+  <string name="usage_state_usage_time">Vrijeme uklj. zaslona</string>
+  <string name="usage_state_usage_time_remind">Upozorenja uklj. vremena zaslona</string>
+  <string name="usage_state_use_time_remind_title">Upozorenja uklj. vremena zaslona</string>
+  <string name="usage_state_wednesday">Sri</string>
   <string name="usage_state_week_day_hour_minute" formatted="false">Vikendi: %dh %dm</string>
-  <string name="usage_state_week_total_text">Vrijeme zaslona (zadnjih 7 dana)</string>
+  <string name="usage_state_week_total_text">Vrijeme uklj. zaslona (zadnjih 7 dana)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Radni dani</string>
   <string name="usage_state_work_day_hour_minute" formatted="false">Radni dani: %dh %dm</string>

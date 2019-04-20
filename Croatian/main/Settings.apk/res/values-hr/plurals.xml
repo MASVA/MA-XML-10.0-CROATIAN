@@ -371,12 +371,12 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">%d put</item>
     </plurals>
     <plurals name="usage_state_week_day_hour">
-        <item quantity="other">Radni dani: %d sati</item>
-        <item quantity="one">Radni dani: %d sat</item>
+        <item quantity="other">Vikend: %d sati</item>
+        <item quantity="one">Vikend: %d sat</item>
     </plurals>
     <plurals name="usage_state_week_day_minute">
-        <item quantity="other">Radni dani: %d min.</item>
-        <item quantity="one">Radni dani: %d min.</item>
+        <item quantity="other">Vikend: %d min.</item>
+        <item quantity="one">Vikend: %d min.</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">Radni dani: %d sati</item>
