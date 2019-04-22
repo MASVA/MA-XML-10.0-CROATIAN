@@ -5348,7 +5348,7 @@ UT sučelje: %5$s"</string>
 "&lt;li&gt;Podatkovnu vezu mobilnog uređaja&lt;/li&gt;"
 "&lt;li&gt;Bluetooth.&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">Poništi postavke</string>
-  <string name="reset_network_final_desc">Želite li vratiti sve postavke mreže na zadano? Tu radnju nije moguće poništiti!</string>
+  <string name="reset_network_final_desc">"Resetirati sve mrežne postavke? To može potrajati nekoliko sekundi. Nećete moći poništiti tu radnju."</string>
   <string name="reset_network_title">Poništ. post. mreže</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">Resetiraj zaporku Drugog prostora</string>
@@ -8259,8 +8259,8 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_priority_type_title">Ručno postavi prednost pristupnih točaka</string>
   <string name="wifi_property">WLAN svojstva</string>
   <string name="wifi_protection_on">Uključi</string>
-  <string name="wifi_protection_settings_title">WLAN zaštita sonde</string>
-  <string name="wifi_protection_tip">MIUI automatski uključuje funkciju zaštite WLAN sondi. Kada mobilni telefon skenira WLAN, on će nasumično adresirati MAC adresu kako bi spriječio da WIFI sonda krade privatnost korisnika i štiti mobilni telefon.</string>
+  <string name="wifi_protection_settings_title">Zaštita od WLAN probe zahtjeva</string>
+  <string name="wifi_protection_tip">MIUI će zaštititi vaše osobne podatke od WLAN probe zahtjeva koji dolaze od nasumičnih MAC adresa i WLAN probe sniffers-a kada vaš uređaj traži WLAN mreže.</string>
   <string name="wifi_quick_toggle_summary">Uključi WLAN</string>
   <string name="wifi_quick_toggle_title">WLAN</string>
   <string name="wifi_remembered">Spremljeno</string>

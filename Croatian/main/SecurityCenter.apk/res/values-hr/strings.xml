@@ -2224,6 +2224,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_save_on_time_option_title">Tijekom tog perioda promjeni na</string>
   <string name="power_save_on_time_start_time_summary">Od</string>
   <string name="power_save_on_time_start_time_summary_na">Do</string>
+  <string name="power_save_ps_clean">Očisti predmemoriju svaki put kad je uređaj zaključan</string>
+  <string name="power_save_ps_close_setting">Isključi pozadinske usluge (sinkronizacija, GPS) kako biste uštedjeli bateriju</string>
+  <string name="power_save_ps_freeze">Zamrzni aplikacije u pozadini</string>
+  <string name="power_save_ps_limit">Ograniči aktivnost aplikacija sustava</string>
   <string name="power_save_started_summary_text">"Štednja baterije je uključena. Smanjuje pozadinsku aktivnost aplikacija, zaustavlja sinkronizaciju i minimizira animacije sustava."</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Raspored promjene profila</string>

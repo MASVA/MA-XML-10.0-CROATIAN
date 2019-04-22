@@ -347,21 +347,26 @@
   <string name="battery_info_status_full">Puna</string>
   <string name="battery_info_status_not_charging">"Priključeno, trenutno se ne može puniti"</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
+  <string name="battery_low_button_not_open_power_save">Ne sada</string>
+  <string name="battery_low_button_open_power_save">Uključi</string>
   <string name="battery_low_percent_format">preostalo %d%%</string>
+  <string name="battery_low_percent_format_save_mode_closed">Preostalo je manje od %d%% baterije. Priključite punjač.</string>
+  <string name="battery_low_percent_format_save_mode_open">Preostalo je manje od %d%% baterije. Uključite Štednju baterije da sačuvate energiju.</string>
   <string name="battery_low_percent_format_hybrid" formatted="false">Preostalo je %s, još otprilike %s na temelju vaše upotrebe</string>
   <string name="battery_low_percent_format_hybrid_short" formatted="false">Preostalo je %s, još otprilike %s</string>
-  <string name="battery_low_percent_format_saver_started">Preostalo %s. Uključena je štednja baterije.</string>
-  <string name="battery_low_title">"Priključite punjač"</string>
+  <string name="battery_low_percent_format_saver_started">Preostalo %s. Uključena je Štednja baterije.</string>
+  <string name="battery_low_title_power_save">Štednja baterije</string>
+  <string name="battery_low_title">"Baterija je prazna"</string>
   <string name="battery_low_why">Postavke</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Potrošnja baterije</string>
   <string name="battery_profiles">Koristi profile baterije</string>
   <string name="battery_saver_confirmation_ok">Uključi</string>
-  <string name="battery_saver_confirmation_title">Želite li uključiti uštedu baterije?</string>
-  <string name="battery_saver_notification_action_text">Isključi uštedu baterije</string>
+  <string name="battery_saver_confirmation_title">Želite li uključiti Štednju baterije?</string>
+  <string name="battery_saver_notification_action_text">Isključi Štednju baterije</string>
   <string name="battery_saver_notification_text">Smanjuje količinu rada i pozadinske podatke</string>
   <string name="battery_saver_notification_title">Štednja baterije je uključena</string>
-  <string name="battery_saver_start_action">Uključi uštedu baterije</string>
+  <string name="battery_saver_start_action">Uključi Štednju baterije</string>
   <string name="block">Blokiraj sve obavijesti</string>
   <string name="block_notification_content_text">"Obavijesti %1$s neće ponovno biti prikazane. To možete promijeniti u Postavkama."</string>
   <string name="block_notification_desc">"Obavijesti aplikacije neće ponovno biti prikazane. To možete promijeniti u Postavkama."</string>
@@ -709,6 +714,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_data_manage_delete_msg">Izbriši</string>
   <string name="face_data_manage_delete_sure">"Nakon što ga izbrišete, nećete moći otključati uređaj pomoću lica."</string>
   <string name="face_data_manage_delete_title">Lice</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Nakon što se zaslon osvijetli, povucite prema gore da biste otključali uređaj pomoću vašeg lica.</string>
   <string name="face_data_manage_unlock_msg">Otključajte svoj uređaj pomoću vašeg lica</string>
   <string name="face_data_manage_unlock_slide_msg">Zamijeni prečac klizača otključavanjem lica</string>
   <string name="face_data_manage_unlock_title">Otključajte koristeći lice</string>
@@ -724,7 +730,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_close_screen">Približite se zaslonu</string>
   <string name="face_unlock_down">Podignite glavu</string>
   <string name="face_unlock_fail">"Ne mogu potvrditi lice"</string>
-  <string name="face_unlock_fail_retry">"Ne mogu potvrditi vaše lice. Dodirnite ikonu da biste pokušali ponovno."</string>
+  <string name="face_unlock_fail_retry">"Ne mogu potvrditi vaše lice. Dodirnite iznad da biste pokušali ponovno."</string>
+  <string name="face_unlock_fail_retry_global">Dodirnite iznad da biste koristili Otključavanje licem</string>
   <string name="face_unlock_identify_error">Došlo je do pogreške pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_not_roi">Držite lice unutar okvira</string>
@@ -1452,6 +1459,10 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="power_remaining_more_than_subtext">Preostalo je više od %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Preostalo je više od %1$s</string>
   <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
+  <string name="power_save_ps_clean">Očisti predmemoriju svaki put kad je uređaj zaključan</string>
+  <string name="power_save_ps_close_setting">Isključi pozadinske usluge (sinkronizacija, GPS) kako biste uštedjeli bateriju</string>
+  <string name="power_save_ps_freeze">Zamrzni aplikacije u pozadini</string>
+  <string name="power_save_ps_limit">Ograniči aktivnost aplikacija sustava</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
   <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
