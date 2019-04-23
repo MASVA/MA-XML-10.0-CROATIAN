@@ -96,6 +96,8 @@ Isključiti svejedno?"</string>
   <string name="do_not_ask">"Ne pitaj ponovno"</string>
   <string name="dont_import">Ne sada</string>
   <string name="downloading_space">Preuzimanje…</string>
+  <string name="dual_animation">Pokreni animaciju</string>
+  <string name="dual_animation_description">Prikaži animaciju kada se pokrenu dvojne aplikacije</string>
   <string name="enable">Uključi</string>
   <string name="encrypt_space_delete_dialog_click_message">"*Ako ne morate premjestiti podatke, %s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">sada izbrišite i izradite Drugi prostor.</string>

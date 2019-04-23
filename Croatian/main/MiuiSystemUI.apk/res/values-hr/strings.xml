@@ -632,7 +632,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dlg_summary_close_wifi">Isključi WLAN, Bluetooth i prijenosni hotspot</string>
   <string name="dlg_summary_nfc">Isključi NFC</string>
   <string name="dlg_summary_title">Ekstremna štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
-  <string name="dnd_is_off">DND je isključen</string>
+  <string name="dnd_is_off">Ne uznemiravaj je isključen</string>
+  <string name="dnd_notification_warnings_title">Pozivi i obavijesti bit će utišani dok ne isključite Ne uznemiravaj</string>
   <string name="dnd_suppressing_shade_text">Značajka Ne uznemiravaj pauzirala je Obavijesti</string>
   <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">Ovim uređajem upravlja %s</string>
@@ -1301,6 +1302,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_channel_controls_closed_accessibility">Zatvorene su kontrole obavijesti za %1$s</string>
   <string name="notification_channel_controls_opened_accessibility">Otvorene su kontrole obavijesti za %1$s</string>
   <string name="notification_channel_disabled">Više nećete primati te obavijesti.</string>
+  <string name="notification_channel_dnd">Ne uznemiravaj</string>
   <string name="notification_channel_general">Općenite poruke</string>
   <string name="notification_channel_hints">Savjeti</string>
   <string name="notification_channel_location">Lokacija</string>
