@@ -175,6 +175,8 @@
   <string name="liked">Sviđa mi se već</string>
   <string name="lks_left_net_deny">Mrežna veza je ograničena</string>
   <string name="lks_left_net_error">"Ne mogu se povezati na mrežu."</string>
+  <string name="lks_left_top_notice">Dodirnite ovdje za povratak na vrh</string>
+  <string name="lks_left_top_notice_refresh">Dodirnite za prikaz novih stavki</string>
   <string name="lks_logo_desc2">Svaki dan nove slike pozadine</string>
   <string name="lks_subscription_toast">Slika pozadine promjenjena</string>
   <string name="llks_pop_btm_des">Započnite dan sa smiješkom</string>
@@ -186,6 +188,16 @@
   <string name="llks_pop_top_des_backup">Isporučuju se dnevno na vaš zaslon</string>
   <string name="llks_pop_top_title">Nove slike pozadine</string>
   <string name="llks_pop_top_title_backup">Svježe slike pozadine</string>
+  <string name="llks_setting_view_title">Dodatni zaslon</string>
+  <string name="llks_simple_mode">Lite način</string>
+  <string name="llks_simple_mode_desc">Pojednostavljeni izgled i dodatni prečaci</string>
+  <string name="llks_standard_mode">Zadano</string>
+  <string name="llks_standard_mode_desc">Pozadine, priče i dnevne preporuke</string>
+  <string name="llks_tools_gallery_name">Wallpaper Carousel</string>
+  <string name="llks_tools_nfc_data">%s CNY</string>
+  <string name="llks_tools_nfc_name">NFC</string>
+  <string name="llks_tools_remote_control_name">Mi Remote</string>
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">Originalna slika uspješno učitana</string>
   <string name="loading">Samo trenutak…</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
@@ -493,6 +505,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Isključite ovu značajku da uštedite na mobilnim podacima</string>
   <string name="sst_wifi_only_title">Ažuriraj slike pozadine koristeći mobilne podatke</string>
+  <string name="subscribe_apply_wp">Pozadina Zaklj. zaslona postavljena</string>
+  <string name="subscribe_dlg_content">Pretplatite se kako biste svakodnevno dobivali svježe pozadine na vaš Zaklj. zaslon i primali pozdrave ujutro.</string>
   <string name="summary">"Složite se s našim &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt; za pregled online sadržaja. Ako se ne slažete, lokalne pozadinske slike i dalje će biti dostupne."</string>
   <string name="summary2">"Korištenjem ove značajke, pristajete na naše &lt;a href ='%1$s'&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="summary_international">"Korištenjem ove značajke, pristajete na naše &lt;a href ='%1$s'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Privavila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
@@ -509,6 +523,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="toast_ad_down_tip2">Preuzimanje %s</string>
   <string name="toast_load_hd_fail">Učitavanje originalnog dokumenta nije uspjelo</string>
   <string name="toast_neterror_tip">Došlo je do pogreške mreže</string>
+  <string name="toast_update_no_more_newest_feeds">Za sada nema novih stavki</string>
   <string name="top_search_tip">Potražite kategorije koje vam se sviđaju</string>
   <string name="uninstall_introducation_text_desc">Wallpaper Carousel isporučuje nove kvalitete slike izravno na Zaklj. zaslon. Provjerite da možete učiniti bez njenih mogućnosti prije nego što deinstalirati aplikaciju.</string>
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>

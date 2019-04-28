@@ -8,4 +8,12 @@
          <item quantity="other">Slika pozadine: %1$s</item>
          <item quantity="one">%1$s slika pozadine</item>
      </plurals>
+	 <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">Stavke: %d</item>
+        <item quantity="one">%d stavka</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d uređaja</item>
+        <item quantity="one">%d uređaj</item>
+    </plurals>
 </resources>
