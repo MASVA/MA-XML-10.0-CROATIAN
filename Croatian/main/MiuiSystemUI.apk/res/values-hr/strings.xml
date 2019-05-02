@@ -485,7 +485,7 @@ brzina uzorkovanja"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Poziv</string>
-  <string name="camera_key_action_shortcut_home">Povratak na Početni zaslon</string>
+  <string name="camera_key_action_shortcut_home">Povratak na Poč. zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">"Snimak zaslona"</string>
   <string name="camera_key_action_shortcut_search">"Pretraži"</string>
   <string name="camera_key_action_shortcut_title">Prečac</string>
@@ -506,6 +506,9 @@ brzina uzorkovanja"</string>
   <string name="change_theme_reboot">Promjena teme zahtijeva ponovno pokretanje.</string>
   <string name="charge_length_format">prije %1$s</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
+  <string name="choose_clock_title_left_top">Lijevo</string>
+  <string name="choose_clock_title_middle">Centar</string>
+  <string name="choose_clock_title_vertical">Okomito</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="clear_all_notifications_text">Izbriši sve</string>
@@ -633,7 +636,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dlg_summary_nfc">Isključi NFC</string>
   <string name="dlg_summary_title">Ekstremna štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
   <string name="dnd_is_off">Ne uznemiravaj je isključen</string>
-  <string name="dnd_notification_warnings_title">Pozivi i obavijesti bit će utišani dok ne isključite Ne uznemiravaj</string>
+  <string name="dnd_notification_warnings_title">Ne uznemiravaj je uključeno. Pozivi i obavijesti bit će utišani.</string>
   <string name="dnd_suppressing_shade_text">Značajka Ne uznemiravaj pauzirala je Obavijesti</string>
   <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">Ovim uređajem upravlja %s</string>
@@ -754,7 +757,14 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_sc_status">Povucite dolje za otvaranje kamere</string>
   <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
   <string name="face_unlock_success">Podaci lica uspješno potvrđeni</string>
-  <string name="face_unlock_success_stay_screen_msg">Ostani na Zaklj. zaslonu nakon što se vaše lice potvrdi. Prijeđite prstom prema gore da biste otvorili Početni zaslon.</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Omogućite obavijesti Zaklj. zaslona da bi ih mogli vidjeti na Zaklj. zaslonu.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Ne hvala</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Omogući</string>
+  <string name="face_unlock_success_show_message_dialog_title">Obavijesti Zaklj. zaslona</string>
+  <string name="face_unlock_success_show_message_msg">Prikaži samo izvor obavijesti kada je uređaj zaključan i prikaži pojedinosti obavijesti nakon što je lice prepoznato</string>
+  <string name="face_unlock_success_show_message_title">Prikaži pojedinosti obavijesti nakon što je lice prepoznato</string>
+  <string name="face_unlock_success_show_message_toast">Obavijesti će biti prikazane na Zaklj. zaslonu</string>
+  <string name="face_unlock_success_stay_screen_msg">Ostani na Zaklj. zaslonu nakon što se vaše lice prepozna. Prijeđite prstom prema gore da biste otvorili Poč. zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na Zaklj. zaslonu nakon otključavanja</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>

@@ -186,6 +186,8 @@
   <string name="edit_event_confirm_message">Odbaciti promjene?</string>
   <string name="edit_event_countdown_name_empty_hint">Unesite naziv događaja</string>
   <string name="edit_event_countdown_name_hint">Događaj</string>
+  <string name="edit_event_custom_reminder_time_dup">Vlastiti podsjetnik: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Postavi vlastiti podsjetnik</string>
   <string name="edit_event_dislike_title">Zašto ste otkazali?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Unesi godinu</string>
@@ -234,7 +236,8 @@
   <string name="event_info_where">Gdje</string>
   <string name="event_not_found">Događaj nije pronađen.</string>
   <string name="event_reminder_allday_day_zero">Na taj dan u %2$s</string>
-  <string name="event_reminder_value_zero">Prije događaja</string>
+  <string name="event_reminder_custom">Vlastito</string>
+  <string name="event_reminder_value_zero">Kada započne događaj</string>
   <string name="event_title">Naslov</string>
   <string name="event_view">Prikaži događaj</string>
   <string name="every_weekday">Radnim danima (Pon – Pet)</string>

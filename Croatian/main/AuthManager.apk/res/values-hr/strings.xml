@@ -223,7 +223,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_add_voicemail">Glasovne poruke</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Dodaj glasovne poruke sustava</string>
   <string name="HIPS_Perm_background_start_activity">Pokreni u pozadini</string>
-  <string name="HIPS_Perm_background_start_activity_Desc">pokreni u pozadini</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">pokrenuti u pozadini</string>
+  <string name="HIPS_Perm_deamon_notification">Trajna obavijest</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">prikazati trajne obavijesti</string>
   <string name="HIPS_Perm_get_accounts">Pristup računima na uređaju</string>
   <string name="HIPS_Perm_get_accounts_Desc">Pristup svim računima pohranjenim na uređaju</string>
   <string name="HIPS_Perm_get_installed_apps">Dobiti informacije o instaliranim aplikacijama</string>
@@ -240,8 +242,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Čitanje SMS usluge</string>
   <string name="HIPS_Perm_service_foreground">Usluga u prednjem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Usluga u prednjem planu</string>
-  <string name="HIPS_Perm_show_when_locked">Prikaži na Zaključanom zaslonu</string>
-  <string name="HIPS_Perm_show_when_locked_Desc">biti prikazan na Zaključanom zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked">Prikaži na Zaklj. zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked_Desc">biti prikazan na Zaklj. zaslonu</string>
   <string name="HIPS_Perm_use_sip">Video usluge</string>
   <string name="HIPS_Perm_use_sip_Desc">Koristi Session Initiation Protocol za streaming videozapisa</string>
   <string name="HIPS_SecurityPrompt_Accept">Dopusti (%d)</string>
@@ -252,7 +254,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">ROOT pristup</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Odobriti %1$s ROOT pristup?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">Odobravanje ROOT pristupa aplikacijama može uzrokovati nestabilnost sustava.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaši podaci su više ranjiviji na napade od aplikacija s ROOT pristupom.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaši su podaci više ranjiviji na napade od aplikacija s ROOT pristupom.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">"Aplikacije s ROOT pristupom mogu također oštetiti hardver vašeg uređaja."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Odobravate ROOT pristup aplikacijama na vlastitu odgovornost.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Odobriti %1$s ROOT pristup?</string>

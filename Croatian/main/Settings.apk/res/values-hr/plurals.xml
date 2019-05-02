@@ -315,8 +315,8 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">%d stavka</item>
      </plurals>
 	      <plurals name="auto_startup_count">
-        <item quantity="other">Dopušteno automatsko pokretanje aplik.: %d</item>
-        <item quantity="one">Dopušteno automatsko pokretanje aplik.: %d</item>
+        <item quantity="other">Dopušteno autom. pokretanje aplik.: %d</item>
+        <item quantity="one">Dopušteno autom. pokretanje aplik.: %d</item>
      </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">Povezano %1$d osoba</item>
@@ -327,20 +327,20 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">PIN mora sadržavati %d znamenku</item>
      </plurals>
 	 <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Otključano danas: %d X</item>
-        <item quantity="one">Otključano danas: %d X</item>
+        <item quantity="other">Otključano: %d X</item>
+        <item quantity="one">Otključano: %d X</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Otključano u zadnjih 7 dana: %d X</item>
-        <item quantity="one">Otključano u zadnjih 7 dana: %d X</item>
+        <item quantity="other">Otključano: %d X</item>
+        <item quantity="one">Otključano: %d X</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Primljeno %d obavijesti danas</item>
-        <item quantity="one">Primljena %d obavijest danas</item>
+        <item quantity="other">Primljeno %d obavijesti</item>
+        <item quantity="one">Primljena %d obavijest</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Primljeno %d obavijesti u zadnjih 7 dana</item>
-        <item quantity="one">Primljena %d obavijest u zadnjih 7 dana</item>
+        <item quantity="other">Primljeno %d obavijesti</item>
+        <item quantity="one">Primljena %d obavijest</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d sati</item>

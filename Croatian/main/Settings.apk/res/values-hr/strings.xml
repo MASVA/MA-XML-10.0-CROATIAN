@@ -1379,7 +1379,7 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Poziv</string>
-  <string name="camera_key_action_shortcut_home">Početni zaslon</string>
+  <string name="camera_key_action_shortcut_home">Poč. zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">Snimka zaslona</string>
   <string name="camera_key_action_shortcut_search">Pretraživanje</string>
   <string name="camera_key_action_shortcut_title">Prečac</string>
@@ -1473,15 +1473,19 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="childmod_privacy_password_role_instruction">Uključite Dječji način da spriječite neželjene radnje dok uređaj koristi dijete</string>
   <string name="children_mode_enable_title">Dječji način</string>
   <string name="children_mode_set_apps_title">Dostupne aplikacije</string>
-  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina dodirnite tipku Početna za povratak na Početni zaslon.</string>
-  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina dodirnite tipku Početna za povratak na Početni zaslon.</string>
+  <string name="children_mode_tips_off">Nakon uključivanja Dječjeg načina dodirnite tipku Početna za povratak na Poč. zaslon.</string>
+  <string name="children_mode_tips_on">Nakon isključivanja Dječjeg načina dodirnite tipku Početna za povratak na Poč. zaslon.</string>
   <string name="children_mode_title">Dječji način</string>
   <string name="choose_a_card_to_reset">Odaberite SIM karticu za resetiranje</string>
+  <string name="choose_keyguard_clock_style">Format sata na Zaklj. zaslonu</string>
+  <string name="choose_keyguard_clock_summary">"Ova postavka ne funkcionira s temama trećih strana"</string>
   <string name="choose_assist_title">Odaberite aplikaciju Pomoćnik</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="choose_smartcover_type">Odaberite vrstu futrole</string>
   <string name="choose_spell_checker">Odabir provjere pravopisa</string>
   <string name="choose_timezone">Odabir vremenske zone</string>
+  <string name="choose_unlock_face_msg">Postavite Zaklj. zaslona prije snimanja podataka lica.</string>
+  <string name="choose_unlock_fingerprint_msg">Postavite Zaklj. zaslona prije dodavanje otiska prsta.</string>
   <string name="choose_voice_input_title">Odabir glasovnog unosa</string>
   <string name="cleaner">Čistač</string>
   <string name="clear_activities">Izbriši zadane postavke</string>
@@ -2320,8 +2324,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="drive_mode_voice_report">Izlaz pretvaranja teksta u govor</string>
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
   <string name="dual_clock">Dvostruki sat</string>
-  <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Početni zaslon, provjerite koristite li standardni widget sata sustava."</string>
-  <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Početni zaslon, provjerite koristite li zadani widget sata sustava."</string>
+  <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Poč. zaslon, provjerite koristite li standardni widget sata sustava."</string>
+  <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
   <string name="dual_clock_ok">Razumijem</string>
   <string name="dual_clock_open_message">Dvostruki sat će biti prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -2743,7 +2747,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="font_size_preview_text_title">Čarobnjak iz Oza</string>
   <string name="font_size_save">"U redu"</string>
   <string name="font_size_small">Mali</string>
-  <string name="font_size_summary">"Promjenite veličinu fonta teksta početnog zaslona, panela obavijesti, tipkovnice i izbornika sustava.    
+  <string name="font_size_summary">"Promjenite veličinu fonta teksta Poč. zaslona, panela obavijesti, tipkovnice i izbornika sustava.    
 
 "</string>
   <string name="font_size_summary1">"Ako je tekst vašeg sustava je još uvijek premalen, pokušajte "</string>
@@ -2957,7 +2961,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="high_power_prompt_title">Želite li zanemariti optimizacije baterije?</string>
   <string name="high_power_system">Optimizacija baterije nije dostupna</string>
   <string name="history_details_title">Detalji povijesti</string>
-  <string name="home">Postavke početnog zaslona</string>
+  <string name="home">Postavke Poč. zaslona</string>
   <string name="home_app">Pokretač</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
   <string name="home_key">Početna</string>
@@ -3444,16 +3448,16 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_signature_summary">Ova će poruka biti prikazana na Zaklj. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="lock_screen_unlock_show">Preskoči Zaklj. zaslon</string>
-  <string name="lock_screen_unlock_show_summary">Otvori Početni zaslon ili izravno unesite zaporku</string>
+  <string name="lock_screen_unlock_show_summary">Otvori Poč. zaslon ili izravno unesite zaporku</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Dodirni za promjenu</string>
   <string name="lock_settings">Zaklj. zaslon &amp; zaporka</string>
   <string name="lock_settings_common_title">Postavke zaključavanja</string>
-  <string name="lock_settings_picker_fingerprint_added_security_message">Za dodatnu sigurnost postavite pričuvno zaključavanje zaslona</string>
-  <string name="lock_settings_picker_fingerprint_message">Odaberite dodatno zaključavanje zaslona koje ćete koristiti uz Pixel Imprint</string>
-  <string name="lock_settings_picker_settings">Postavite zaključavanje zaslona</string>
-  <string name="lock_settings_picker_title">Odaberite zaključavanje zaslona</string>
+  <string name="lock_settings_picker_fingerprint_added_security_message">Za dodatnu sigurnost postavite pričuvno Zaklj. zaslona</string>
+  <string name="lock_settings_picker_fingerprint_message">Odaberite dodatno Zaklj. zaslona koje ćete koristiti uz Pixel Imprint</string>
+  <string name="lock_settings_picker_settings">Postavite Zaklj. zaslona</string>
+  <string name="lock_settings_picker_title">Odaberite Zaklj. zaslona</string>
   <string name="lock_settings_picker_title_profile">Zaklj. radnim profilom</string>
-  <string name="lock_settings_profile_screen_lock_title">Zaključavanje zaslona na radnom profilu</string>
+  <string name="lock_settings_profile_screen_lock_title">Zaklj. zaslona na radnom profilu</string>
   <string name="lock_settings_profile_title">Sigurnost radnog profila</string>
   <string name="lock_settings_profile_unification_dialog_body">Zaslon na uređaju možete zaključavati i pomoću zaključavanja radnog profila. U tom će se slučaju na zaključavanje zaslona na uređaju primjenjivati pravila zaključavanja radnog profila.</string>
   <string name="lock_settings_profile_unification_dialog_confirm">Promijeni zaključavanje uređaja</string>
@@ -3864,6 +3868,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_features">MIUI laboratorijske značajke</string>
   <string name="miui_lab_gallery_search_desc">Poboljšano pretraživanje slika</string>
   <string name="miui_lab_gallery_search_title">Pronađi fotografije u Galeriji</string>
+  <string name="miui_lab_gesture_desc">Onemogućite fizičke tipke i uživajte u gestama cijelog zaslona</string>
+  <string name="miui_lab_gesture_title">Geste cijelog zaslona</string>
   <string name="miui_lab_install_drive_mode_error">"Ne mogu instalirati, pokušajte ponovo."</string>
   <string name="miui_lab_install_drive_mode_summary">"Način rada za automobil je aplikacija sustava. Instalacija ne zahtijeva internetsku vezu."</string>
   <string name="miui_lab_install_drive_mode_title">Instaliraj način rada za automobil</string>
@@ -4109,7 +4115,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="navigation_guide_dialog_summary">Saznajte koje vam geste mogu koristiti za navigaciju sustavom.</string>
   <string name="navigation_guide_dialog_title">Naučite geste</string>
   <string name="navigation_guide_home_summary">Prijeđite prstom prema gore od dna zaslona</string>
-  <string name="navigation_guide_home_title">Idi na početni zaslon</string>
+  <string name="navigation_guide_home_title">Idi na Poč. zaslon</string>
   <string name="navigation_guide_recent_summary">Prijeđite prstom od dna zaslona i pauziraj</string>
   <string name="navigation_guide_recent_title">Otvori Nedavno</string>
   <string name="navigation_guide_settings">Demonstracije gesti</string>
@@ -4437,7 +4443,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="oem_lock_info_message">Ponovo pokrenite uređaj da biste omogućili značajku zaštite uređaja.</string>
   <string name="oem_radio_info_label">Informacije/postavke koje se posebno odnose na OEM</string>
   <string name="oem_unlock_enable">OEM otključavanje</string>
-  <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Početni program za pokretanje već je otključan</string>
+  <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Poč. program za pokretanje već je otključan</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity">Najprije se povežite s internetom</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se s internetom ili se obratite mobilnom operateru</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nije dostupno na uređajima koje je zaključao mob. operater</string>
@@ -4448,10 +4454,10 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="okay">U redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>
   <string name="oldman_app_label">Lite način</string>
-  <string name="oldman_installed_current_btn">Vrati izvorni Početni zaslon</string>
-  <string name="oldman_installed_current_des">"Postavili ste Lite način kao zadani Početni zaslon. Dodirnite tipku u nastavku da biste se vratili na izvorni Početni zaslon."</string>
-  <string name="oldman_installed_not_current_btn">Postavi kao zadani Početni zaslon</string>
-  <string name="oldman_installed_not_current_des">Lite način je instaliran na vašem uređaju. Možete ga koristiti kao zadani Početni zaslon.</string>
+  <string name="oldman_installed_current_btn">Vrati izvorni Poč.  zaslon</string>
+  <string name="oldman_installed_current_des">"Postavili ste Lite način kao zadani Poč. zaslon. Dodirnite tipku u nastavku da biste se vratili na izvorni Poč.  zaslon."</string>
+  <string name="oldman_installed_not_current_btn">Postavi kao zadani Poč. zaslon</string>
+  <string name="oldman_installed_not_current_des">Lite način je instaliran na vašem uređaju. Možete ga koristiti kao zadani Poč. zaslon.</string>
   <string name="oldman_mode_confirm_title">Sada ponovno pokrenuti?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Vaš uređaj će se ponovno pokrenuti za izlaz iz Lite načina</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">Vaš uređaj će se ponovno pokrenuti i ući u Lite način.</string>
@@ -4459,10 +4465,10 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="oldman_mode_entry_name">Lite način</string>
   <string name="oldman_mode_entry_title">Lite način</string>
   <string name="oldman_mode_settings_caption">Postavke Lite načina</string>
-  <string name="oldman_mode_summary">Koristi pojednostavljeni Početni zaslon i izbornike</string>
+  <string name="oldman_mode_summary">Koristi pojednostavljeni Poč. zaslon i izbornike</string>
   <string name="oldman_mode_summary_cta">Lite način treba povezivanje s internetom i da može pročitati vaše kontakte, poruke, i detalje o lokaciji za normalan rad.</string>
   <string name="oldman_uninstalled_btn">Instaliraj</string>
-  <string name="oldman_uninstalled_des">Lite način vas oslobađa od vizualnog nereda i zadržava vaš Početni zaslon jednostavim i minimalističkim.</string>
+  <string name="oldman_uninstalled_des">Lite način vas oslobađa od vizualnog nereda i zadržava vaš Poč. zaslon jednostavim i minimalističkim.</string>
   <string name="on">Uključi</string>
   <string name="one_cacrt">jedan CA certifikat</string>
   <string name="one_usercrt">jedan korisnički certifikat</string>
@@ -4470,7 +4476,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="onehour">30 minuta</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online izvori</string>
-  <string name="only_one_home_message">Postavke početnog zaslona bit će skrivene dok ne instalirate još jednu aplikaciju početnog zaslona.</string>
+  <string name="only_one_home_message">Postavke Poč. zaslona bit će skrivene dok ne instalirate još jednu aplikaciju Poč. zaslona.</string>
   <string name="only_when_charging">Samo kada je priključeno</string>
   <string name="onscreen_keyboard_settings_summary">Postavke zaslonske tipkovnice</string>
   <string name="open_dark_mode_dialog_summary">"Određene postavke zaslona nisu kompatibilne s Tamnim načinom rada. Međutim, one će se vratiti kada isključite Tamni način. Uključiti Tamni način?"</string>
@@ -4598,7 +4604,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="passpoint_label">Spremljeno putem</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
-  <string name="password_entrance_title">Zaklj. zaslona</string>
+  <string name="password_entrance_title">Postavi Zaklj. zaslona</string>
   <string name="password_guard">Zaporka</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
   <string name="password_turned_off_text">Zaporka je isključena</string>
@@ -5667,6 +5673,7 @@ Za prikvačivanje zaslona:
   <string name="search_airplane">Zrakoplovni način;Zrakoplovni način;Zrakoplovni način;Zrakoplov;Zrakoplov;Let</string>
   <string name="search_airplane_mode">Airplane mode;Aeroplane mode;Flight mode;Airplane;Aeroplane;Flight</string>
   <string name="search_alarm_sound_title">Zvuk Alarma;Zvuk Alarma;Alarm</string>
+  <string name="search_ambient_display_screen_title">Ambijentalni zaslon</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
   <string name="search_apn_settings">APN;Nazivi pristupnih točaka</string>
   <string name="search_app_invisible">Aplik. skrivena;Skrivene aplikacije</string>
@@ -5716,6 +5723,7 @@ Za prikvačivanje zaslona:
   <string name="search_dndm_wristband">Aktiviraj s Mi Band;Mi Band</string>
   <string name="search_do_not_disturb">Ne ometaj;Ne ometaj;VIP;Postavi vrijeme;Iznimke;Ponovljeni pozivi</string>
   <string name="search_do_not_disturb_mode">Ne ometaj</string>
+  <string name="search_doze_always_on_title">Uvijek uključen</string>
   <string name="search_dtmf_tone_enable_title">Uključi Tonove biranja;Tonovi biranja;tonovi dodira;tonovi dodira;Tonovi biranja;Tonovi biranja</string>
   <string name="search_edge_handgrip">Kontrole ruba</string>
   <string name="search_empty">Nema pronađenih rezultata</string>
@@ -5862,8 +5870,8 @@ Za prikvačivanje zaslona:
   <string name="search_vpn_settings_password">VPN zaporka;Zaštiti VPN</string>
   <string name="search_vpn_settings_title">VPN;Add VPN;Turn on VPN</string>
   <string name="search_wakeup_for_keyguard_notification_title">Uključi zaslon kod obavijesti;probudi zaslon;probudi uređaj</string>
-  <string name="search_wallpaper">Slika pozadine;Početni zaslon;Zaklj. zaslon</string>
-  <string name="search_wallpaper_settings_title">Slika pozadine;Početni zaslon;Zaklj. zaslon</string>
+  <string name="search_wallpaper">Slika pozadine;Poč. zaslon;Zaklj. zaslon</string>
+  <string name="search_wallpaper_settings_title">Slika pozadine;Poč. zaslon;Zaklj. zaslon</string>
   <string name="search_wfd_settings_title">Bežični zaslon; Uključi bežični zaslon</string>
   <string name="search_wifi">WLAN;WLAN;Napredne postavke;WLAN;Bežične mreže;Bežično</string>
   <string name="search_wifi_advanced_ip_address_title">IP adresa;IP</string>
@@ -6794,9 +6802,9 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suw_next_button_label">Dalje</string>
   <string name="switch_access_service_on">Promjena pristupa</string>
   <string name="swipe_up_to_switch_apps_suggestion_summary">Uključite novi pokret da biste promijenili aplikaciju</string>
-  <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi gumb početnog zaslona</string>
-  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po gumbu početnog zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati gumb Pregled u donjem desnom kutu zaslona.</string>
-  <string name="swipe_up_to_switch_apps_title">Prijeđite prstom prema gore po gumbu početnog zaslona</string>
+  <string name="swipe_up_to_switch_apps_suggestion_title">Isprobajte novi gumb Poč. zaslona</string>
+  <string name="swipe_up_to_switch_apps_summary">Da biste promijenili aplikaciju, prijeđite prstom prema gore po gumbu Poč. zaslona. Ponovo prijeđite prstom prema gore da biste vidjeli sve aplikacije. Funkcionira na svim zaslonima. Više nećete imati gumb Pregled u donjem desnom kutu zaslona.</string>
+  <string name="swipe_up_to_switch_apps_title">Prijeđite prstom prema gore po gumbu Poč. zaslona</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
   <string name="switch_screen_button_order">Zamijeni tipke</string>
@@ -6835,7 +6843,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="system_app_settings">Postavke aplikacija sustava</string>
   <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
   <string name="system_backup">Sig. kopija</string>
-  <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
+  <string name="system_backup_info">Postavke sistema, Poč. zaslona itd.</string>
   <string name="system_backup_section_title">Sig. kopija</string>
   <string name="system_dashboard_summary">Jezici, vrijeme, Sig. kopija, ažuriranja</string>
   <string name="system_default_app">(Zadano sustavom)</string>
@@ -6963,7 +6971,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_font_current2">Font sustava</string>
   <string name="title_font_size">Veličina fonta</string>
   <string name="title_hdmi_color_calibration">Postavke korekcije boje</string>
-  <string name="title_jeejen">Jeejen Početni zaslon</string>
+  <string name="title_jeejen">Jeejen Poč.  zaslon</string>
   <string name="title_layout_v2">Veličina teksta &amp; skaliranje</string>
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
@@ -7066,7 +7074,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_desc_6">Postoji nekoliko razloga zašto se to može dogoditi: problemi s kompatibilnošću sustava i aplikacijom, problemi s mrežom, problemi s kompatibilnošću specifični za određeni uređaj itd.</string>
   <string name="trans_intro_desc_7">Zbog sigurnosnih razloga neki profili aplikacija (e-bankarstvo, financije itd.) povezani su s određenim uređajem. Pokušajte izbrisati podatke aplikacije ili ponovno instalirati aplikaciju na novi uređaj.</string>
   <string name="trans_intro_desc_8">"WeChat podaci o aplikaciji i povijest chata možda se ne mogu potpuno prenijeti pomoću programa Mi Mover. Idite na postavke usluge WeChat i odjavite se s računa kako biste dobili više šanse za uspješan prijenos."</string>
-  <string name="trans_intro_desc_9_method_1_dec">Idite na Početni zaslon &gt; Alati &gt; Povratna inf.</string>
+  <string name="trans_intro_desc_9_method_1_dec">Idite na Poč.  zaslon &gt; Alati &gt; Povratna inf.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Podijelite nam povratne informacije pomoću apliakcije \"Povratna inf.\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Pošaljite povratne informacije na miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Pošaljite nam e-mail</string>
@@ -7096,7 +7104,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_title_new">Na novom telefonu:</string>
   <string name="trans_intro_title_old">Na starom telefonu:</string>
   <string name="trans_intro_title_private">Skriveni album:</string>
-  <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored početnog zaslona, aplikacije, postavke, itd. na novi uređaj</string>
+  <string name="trans_main_tutor">Premjestite kontakte, povijest poziva, poruke, raspored Poč. zaslona, aplikacije, postavke, itd. na novi uređaj</string>
   <string name="trans_my_device">Moj uređaj</string>
   <string name="trans_native_no_space">"Na starom uređaju nema dovoljno prostora za pohranu (%s dostupno).
  Oslobodite prostor za pohranu ili prenesite samo važne stavke."</string>
@@ -7350,7 +7358,7 @@ i Mi Mover uključen"</string>
   <string name="unlock_disable_lock_title">Isključi Zaklj. zaslona</string>
   <string name="unlock_set_do_later_title">Ne sada</string>
   <string name="unlock_set_enter_system">Preskoči Zaklj. zaslona</string>
-  <string name="unlock_set_enter_system_summary">Nakon buđenja idi izravno na Početni zaslon</string>
+  <string name="unlock_set_enter_system_summary">Nakon buđenja idi izravno na Poč. zaslon</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Eksperimentalna značajka s niskom razinom sigurnosti</string>
   <string name="unlock_set_unlock_biometric_weak_title">Otključavanje licem</string>
   <string name="unlock_set_unlock_disabled_summary">Onemogućili administrator, pravila enkripcije ili pohrana vjerodajnica</string>
@@ -7404,12 +7412,13 @@ i Mi Mover uključen"</string>
   <string name="usage_log">Statistika korištenja aplikacija</string>
   <string name="usage_state_app_timer">Vrijeme zaslona</string>
   <string name="usage_state_app_usage_detail_title">Pojedinosti o upotrebi aplikacije</string>
-  <string name="usage_state_app_usage_list_title">"Vrijeme uklj. zaslona aplik. danas"</string>
-  <string name="usage_state_app_usage_list_week_title">"Vrijeme uklj. zaslona aplik. (zadnjih 7 dana)"</string>
+  <string name="usage_state_app_usage_list_title">"Vrijeme zaslona aplikacije"</string>
+  <string name="usage_state_app_usage_list_week_title">"Vrijeme zaslona aplikacije"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Vrijeme uklj. zaslona između %d:00 i %d:00</string>
   <string name="usage_state_app_use_time">Vrijeme uklj. zaslona aplik.</string>
   <string name="usage_state_channel_mouth">Zadnjih 30 dana</string>
   <string name="usage_state_channel_week">Zadnjih 7 dana</string>
+  <string name="usage_state_date">dd.MM</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Obavijesti između %d:00 i %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Uređaj otključan između %d:00 i %d:00</string>
   <string name="usage_state_friday">Pet</string>
@@ -7417,8 +7426,8 @@ i Mi Mover uključen"</string>
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_less_one_minute">Manje od 1 minute</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Vrijeme uklj. zaslona uključeno' dd.MM"</string>
-  <string name="usage_state_noti_mourth_day">"'Obavijesti uključene' dd.MM"</string>
+  <string name="usage_state_mourth_day">"Vrijeme uklj. zaslona  %s"</string>
+  <string name="usage_state_noti_mourth_day">"Obavijesti uključene %s"</string>
   <string name="usage_state_notification">Upravljanje obavijestima</string>
   <string name="usage_state_notification_manager">Upravljanje obavijestima aplikacije</string>
   <string name="usage_state_remind_summary">Uključite da biste primali upozorenja o vremenu uklj. zaslona. Možete postaviti različita vremenska ograničenja za dane u tjednu i vikende.</string>
@@ -7431,7 +7440,7 @@ i Mi Mover uključen"</string>
   <string name="usage_state_today">Danas</string>
   <string name="usage_state_today_total_text">Vrijeme uklj. zaslona danas</string>
   <string name="usage_state_tuesday">Uto</string>
-  <string name="usage_state_unlock_mourth_day">"'Otključano' dd.MM"</string>
+  <string name="usage_state_unlock_mourth_day">"Otključano %s"</string>
   <string name="usage_state_usage_time">Vrijeme uklj. zaslona</string>
   <string name="usage_state_usage_time_remind">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_use_time_remind_title">Upozorenja uklj. vremena zaslona</string>
@@ -7479,7 +7488,7 @@ i Mi Mover uključen"</string>
   <string name="usagestats_app_category_miui_video_etc">Glazba i videozapisi</string>
   <string name="usagestats_device_notification_des">Ograničenje vremena zaslona za danas: %s</string>
   <string name="usagestats_device_notification_des_over">"Već ste dosegli ograničenje zaslona danas."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Ograničenje vremena zaslona za danas: %s | %s preostalo</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">"Današnje ograničenje: %s | %s preostalo"</string>
   <string name="usagestats_device_notification_title">Upozorenja vremena zaslona</string>
   <string name="usagestats_device_timeout_des" formatted="false">"Koristili ste svoj uređaj %dh %dm danas. Odmorite se malo!"</string>
   <string name="usagestats_device_timeout_negative">Podsjeti za 1 sat</string>
@@ -7883,7 +7892,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="wallpaper_attributions">Slike pozadine</string>
   <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
-  <string name="wallpaper_desktop">Početni zaslon</string>
+  <string name="wallpaper_desktop">Poč. zaslon</string>
   <string name="wallpaper_live">Animirana pozadina</string>
   <string name="wallpaper_lockscreen">Pozadina Zaklj. zaslona</string>
   <string name="wallpaper_settings_fragment_title">"Odabir slike pozadine iz"</string>
@@ -7895,7 +7904,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="wapi_all_sel_mode">Odaberi način</string>
   <string name="wapi_auto_sel_cert">Odaberi automatski</string>
   <string name="wapi_auto_sel_cert_fail">Nije moguće automatski odabrati certifikat. Odaberite certifikat s popisa i pokušajte se povezati.</string>
-  <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
+  <string name="wapi_cert_is_not_exist">Nema dostupnog certifikata, prvo instalirajte certifikat</string>
   <string name="wapi_cert_is_not_selected">Najprije odaberite certifikat</string>
   <string name="wapi_cert_manage_error">Ne mogu postaviti WAPI certifikat.</string>
   <string name="wapi_cert_manage_summary">Dodajte ili izbrišite WAPI certifikat</string>

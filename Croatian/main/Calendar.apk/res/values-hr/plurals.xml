@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d dana ranije</item>
-        <item quantity="one">%d dan ranije</item>
+        <item quantity="other">%d dana prije događaja</item>
+        <item quantity="one">%d dan prije događaja</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Za %1$d dana u %2$s</item>
         <item quantity="one">Za %1$d dan u %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d dana prije u %2$s</item>
-        <item quantity="one">%1$d dan prije u %2$s</item>
+        <item quantity="other">%1$d dana prije događaja u %2$s</item>
+        <item quantity="one">%1$d dan prije događaja u %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d sati ranije</item>
-        <item quantity="one">%d sat ranije</item>
+        <item quantity="other">%d sati prije događaja</item>
+        <item quantity="one">%d sat prije događaja</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d min. ranije</item>
-        <item quantity="one">%d min. ranije</item>
+        <item quantity="other">%d min. prije događaja</item>
+        <item quantity="one">%d min. prije događaja</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d tjedana ranije</item>
-        <item quantity="one">%d tjedan ranije</item>
+        <item quantity="other">%d tjedana prije događaja</item>
+        <item quantity="one">%d tjedan prije događaja</item>
     </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s dana</item>
@@ -159,6 +159,18 @@
         <item quantity="other">Svakih %1$d tjedana na %2$s</item>
         <item quantity="one">Tjedno na %2$s</item>
      </plurals>
+	 <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dana"</item>
+        <item quantity="one">" dan"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" sati"</item>
+        <item quantity="one">" sat"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
 	 <plurals name="reminder_later_toast">
         <item quantity="other">Sljedeći podsjetnik za %1$d min.</item>
         <item quantity="one">Sljedeći podsjetnik za %1$d minutu</item>

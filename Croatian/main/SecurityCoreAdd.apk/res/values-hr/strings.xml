@@ -38,6 +38,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
   <string name="closeSecondSpaceSummary">Izbriši Drugi prostor zajedno s njegovim podacima</string>
   <string name="closeSuccess">Isključeno</string>
+  <string name="close_kid_space_success">Dječji prostor je izbrisan</string>
   <string name="close_second_space">Drugi prostor je izbrisan</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Isključeno</string>
@@ -203,6 +204,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="install">Instaliraj</string>
   <string name="install_error">"Ne mogu instalirati. Pokušajte ponovo."</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
+  <string name="kid_mode_label">Dječji prostor</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_empty_text_xspace">Instaliraj WeChat/QQ/Weibo, izradi dvojne aplikacije i pokušaj ponovno.</string>
   <string name="loading">Samo trenutak…</string>

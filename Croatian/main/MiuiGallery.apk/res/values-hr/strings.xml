@@ -56,6 +56,7 @@
   <string name="agreement_summary">Legalni dokumenti</string>
   <string name="ai_album_open_switch_button_title">Započni analizu fotografija</string>
   <string name="ai_album_requesting_title">AI algoritam još uvijek obrađuje vaše fotografije. Vrati se za malo kasnije.</string>
+  <string name="ai_album_setting_key_word">Traži fotografije</string>
   <string name="ai_album_setting_sub_title">Dopusti AI algoritmu da prepozna osobe, mjesta i objekte na vašim fotografijama kako biste ih brže pronašli.</string>
   <string name="ai_album_setting_title">Prepoznaj objekte na fotografijama</string>
   <string name="album_already_exists_check">Prikaži</string>
@@ -219,6 +220,8 @@
   <string name="backuped_title">Sig. kopija uspješno izrađena</string>
   <string name="backuping_title_gprs">Izrada Sig. kopije pomoću mob. podataka…</string>
   <string name="backuping_title_normal">Izrada Sig. kopije…</string>
+  <string name="base_btn_cancel">Odustani</string>
+  <string name="base_btn_download">Preuzmi</string>
   <string name="begin_share">Dječji album \"%s\" izrađen, sada ga možete podijeliti</string>
   <string name="begin_share_toast">Izraditi zaseban album za ovo dijete prije dijeljenja?</string>
   <string name="black_white">Flat C&amp; B</string>
@@ -608,6 +611,7 @@ za fotografije"</string>
   <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Portret</string>
   <string name="filter_category_scene">Pejzaž</string>
+  <string name="filter_category_sky">Nebo</string>
   <string name="filter_film_blackwhite">B&amp;W</string>
   <string name="filter_film_dew">Dew</string>
   <string name="filter_film_fade">Fade</string>
@@ -652,6 +656,17 @@ za fotografije"</string>
   <string name="filter_scene_series">Odrazi</string>
   <string name="filter_scene_vivid">Vivid</string>
   <string name="filter_scene_warm">Sunce</string>
+  <string name="filter_sky_cloudy">Oblačno</string>
+  <string name="filter_sky_detect_forbidden_tips">"Ne mogu otkriti nebo"</string>
+  <string name="filter_sky_download_failed">"Ne mogu preuzeti dodatak. Provjerite postavke mreže i pokušajte ponovno."</string>
+  <string name="filter_sky_download_finish">Dodatak je uspješno preuzet</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Ako niste povezani na WLAN mrežu, pomoću mobilnih podataka možete preuzeti dodatak (%1$dMB) koji vam omogućuje zamjenu neba na fotografijama."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Preuzmi dodatak</string>
+  <string name="filter_sky_dusk">Zora</string>
+  <string name="filter_sky_glow">Sjaj</string>
+  <string name="filter_sky_rainbow">Duga</string>
+  <string name="filter_sky_sunny">Sunčano</string>
+  <string name="filter_sky_sunset">Zalazak sunca</string>
   <string name="finish_create_baby_album_toast">Izrađen je album \"%s\" u Mi Cloudu</string>
   <string name="finish_fill_baby">Izradi</string>
   <string name="fisheye">Riblje oko</string>
@@ -1436,6 +1451,7 @@ za fotografije"</string>
   <string name="today">Danas</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
   <string name="trash_bin">Kanta za smeće</string>
+  <string name="trash_bin_key_word">Izbrisane fotografije</string>
   <string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
   <string name="try_again_later">Pokušajte ponovno kasnije.</string>
   <string name="try_to_send">Poslano</string>

@@ -287,6 +287,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="perm_read_phone_state">"Čitanje statusa telefona"</string>
   <string name="perm_read_sms">Čitanje SMS-a</string>
   <string name="perm_storage">Čitanje i pisanje na vanjsku pohranu</string>
+  <string name="phone_title">Postavke telefona</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale marke</string>
   <string name="platform_chooser_item_ios">Uvezi s iOS uređaja</string>
