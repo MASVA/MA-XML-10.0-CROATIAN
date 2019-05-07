@@ -1202,6 +1202,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Postavke plana podataka</string>
   <string name="ivr_type_settings_hint">Unesite kod plana podataka</string>
+  <string name="jump_to_mobile_network_setting">Postavke mobilne mreže</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keep_wait_call_back">Nastavi s čekanjem</string>
@@ -1985,6 +1986,7 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="selectContact">odabir kontakta</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_automatically">Automatski odaberi mrežu</string>
+  <string name="select_dds_dialog_title">Odaberite zadanu mobilnu podatkovnu SIM karticu</string>
   <string name="select_cancel">Odustani</string>
   <string name="select_continue">Nastavi</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>

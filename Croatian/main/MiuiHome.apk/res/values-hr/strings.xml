@@ -109,12 +109,15 @@
   <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
-  <string name="double_tap_to_lock_title">Dvaput dodirnite da zaklj. zaslon</string>
+  <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
   <string name="edit_folder_title">Uredi naziv mape</string>
+  <string name="edit_mode_dual_app">Izradi dvojnu aplikaciju</string>
   <string name="edit_mode_group">Grupiraj</string>
+  <string name="edit_mode_group_error_cant_delete_system_apps">"Ne mogu deinstalirati aplikacije sustava"</string>
   <string name="edit_mode_group_error_full">Nema dovoljno prostora</string>
   <string name="edit_mode_group_error_in_folder">Zatvorite mapu prije grupiranja ikona</string>
+  <string name="edit_mode_group_error_nothing_be_selected">Najprije odaberite aplikaciju</string>
   <string name="edit_mode_group_error_one_folder">"Nije moguće duplicirati mapu s odabranim ikonama"</string>
   <string name="edit_mode_top_menu_finish">Gotovo</string>
   <string name="edit_mode_uninstall">Deinstaliraj</string>
@@ -223,7 +226,7 @@
   <string name="memory_clear_nothing_result">Nema ništa za brisanje u predmemoriji</string>
   <string name="memory_clear_result">Očišćeno %1$sB</string>
   <string name="menu_add">Dodaj</string>
-  <string name="menu_auto_fill">Ispuni prazna mjesta</string>
+  <string name="menu_auto_fill_of_uninstall">Ispuni mjesta deinstaliranih aplikacija</string>
   <string name="menu_back_desktop">Natrag na Poč. zaslon</string>
   <string name="menu_cell_setting">Raspored Poč. zaslona</string>
   <string name="menu_customize">Postavke</string>
@@ -244,6 +247,7 @@
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregledi Poč. zaslona</string>
   <string name="mi_wallpaper">MIUI Teme</string>
+  <string name="minus_one_screen">Zaklj. aplikacija</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje.</string>
