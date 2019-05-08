@@ -1355,4 +1355,9 @@
         <item>24-satni format 13:00</item>
         <item>Automatski (na temelju jezika sustava)</item>
     </string-array>
+	<string-array name="drip_battery_indicator_style_entries">
+        <item>Grafika</item>
+        <item>Postotak (u ikoni)</item>
+        <item>Postotak (pored ikone)</item>
+    </string-array>
 </resources>

@@ -62,6 +62,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
+  <string name="audition_ringtone">Reproduciraj</string>
   <string name="automatically_update_using_theme_tips">Ažuriraj automatski sljedeći put</string>
   <string name="backup_theme_dialog_message">"Pohraniti vašu trenutnu temu?"</string>
   <string name="backup_theme_dialog_ok">Pohrani</string>
@@ -117,6 +118,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="component_title_settings_video_wallpaper">Slike pozadina sa specijalnim efektima</string>
   <string name="component_title_video_wallpaper">Filmovi</string>
   <string name="component_title_wallpaper">Slika pozadine</string>
+  <string name="count_down_tip">%ds preostalo</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zaklj. zaslon</string>
   <string name="current_version_incompatible">Ova je tema nekompatibilna</string>
@@ -251,6 +253,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="item_resource_audio_optional_notification_ring">Obavijesti</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvona</string>
   <string name="lab">Beta značajke</string>
+  <string name="like_list">Stavke koje su mi sviđaju</string>
   <string name="live_wallpaper">Animirana pozadina</string>
   <string name="loading">Učitavam…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
@@ -325,6 +328,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="online_precust_tiny">Tiny</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
   <string name="password_toggle_content_description">Vidljivost zaporke prečaca</string>
+  <string name="playing_ringtone">Reproducira se</string>
   <string name="pref_privacy_policy">Pravila o Privatnosti</string>
   <string name="present_local_fonts">Moji fontovi</string>
   <string name="present_local_themes">Moje teme</string>
@@ -707,6 +711,13 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="transparent_wallpaper_white_wallpaper_failed">"Ne mogu napraviti pozadinu bijelom"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Boja pozadine je sada bijela</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Transparentna pozadina izgleda najbolje na bijeloj pozadini</string>
+  <string name="trial_count_empty">Nema više besplatnih stavki za danas. Vratite se sutra!</string>
+  <string name="trial_count_tip">Probno razdoblje završava za %1$s:%2$s:%3$s</string>
+  <string name="trial_for_free">Besplatna probna</string>
+  <string name="trial_get_failed_tip">Završite gledanje videozapisa kako biste dobili temu.</string>
+  <string name="trial_get_success_tip">"Čestitamo! Imate 3-dnevnu besplatnu probnu verziju."</string>
+  <string name="trial_now">Isporobajte sada</string>
+  <string name="try_5_min">Pokušajte za 5 minuta</string>
   <string name="uid_change_dialog_message">"Izbrisali ste ažuriranja. Ponovno pokrenite uređaj da bi mogli koristiti teme."</string>
   <string name="uid_change_dialog_ok">Razumijem</string>
   <string name="uid_change_dialog_title">Ponovni pokreni</string>
@@ -724,6 +735,11 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="using_theme_next_automatic_update">Automatsko ažuriranje</string>
   <string name="using_theme_next_automatic_update_summary">Ažuriraj preuzete teme putem WLAN-a automatski kada je zaslon zaključan</string>
   <string name="using_theme_show_ad">Preporuke</string>
+  <string name="video_ad_click">Isporobajte sada</string>
+  <string name="video_ad_try_for_free">Besplatna probna</string>
+  <string name="video_ad_uncomplete_tip">Završite gledanje videozapisa kako biste dobili temu.</string>
+  <string name="video_ad_uncomplete_tip_cancel">Odustani</string>
+  <string name="video_ad_uncomplete_tip_continue">Nastavi gledati</string>
   <string name="using_wallpaper_personal">Izbor prilagođenih pozadina</string>
   <string name="video_apply_home">Poč. zaslon</string>
   <string name="video_apply_home_lock">Poč. zaslon i Zaklj. zaslon</string>

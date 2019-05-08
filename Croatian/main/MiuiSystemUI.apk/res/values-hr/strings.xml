@@ -1338,7 +1338,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_low_battery_action_btn">Uključi</string>
   <string name="notification_low_battery_need_charge">Baterija je prazna. Napunite svoj uređaj.</string>
   <string name="notification_low_battery_open_save_mode">Uključi Štednju baterije</string>
-  <string name="notification_low_battery_title">Slaba baterija: %d%%</string>
+  <string name="notification_low_battery_title">Preostalo je manje od %d%% baterije</string>
   <string name="notification_manager">Upravljaj obavijestima</string>
   <string name="notification_manager_des">Filtriraj i upravljaj obavijestima</string>
   <string name="notification_menu_accessibility">%1$s %2$s</string>
