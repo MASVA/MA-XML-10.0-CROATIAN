@@ -512,13 +512,17 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="summary_international">"Korištenjem ove značajke, pristajete na naše &lt;a href ='%1$s'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Privavila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="tab_user_title_bar_text">Postavke</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovo kasnije"</string>
+  <string name="theme_apply_lockscreen_success">Uspješno postavljeno</string>
   <string name="theme_apply_success">Uspješno postavljeno</string>
   <string name="theme_applying">Postavljanje…</string>
-  <string name="theme_des">Postavite zadanu temi i ponovno uključite Wallpaper Carousel.</string>
+  <string name="theme_close_maml">Wallpaper Carousel pozadine će zamjeniti pozadine Zaklj. zaslona.</string>
+  <string name="theme_des">Postavite zadanu temu i ponovno uključite Wallpaper Carousel.</string>
   <string name="theme_des_lock_style">Postavite zadani Zaklj. zaslon i ponovno uključite Wallpaper Carousel.</string>
+  <string name="theme_des_maml">"To neće utjecati na ostale komponente trenutne teme. Tema će se osvježiti kako bi se primijenile promjene."</string>
   <string name="theme_ok">Postavke</string>
   <string name="theme_title">Postavljanje zadane teme</string>
   <string name="theme_title_lock_style">Postavljanje zadanog Zaklj. zaslona</string>
+  <string name="theme_title_subscribe">Pretplatite se na Wallpaper Carousel</string>
   <string name="toast_ad_down_tip">Preuzimanje aplikacije…</string>
   <string name="toast_ad_down_tip2">Preuzimanje %s</string>
   <string name="toast_load_hd_fail">Učitavanje originalnog dokumenta nije uspjelo</string>
