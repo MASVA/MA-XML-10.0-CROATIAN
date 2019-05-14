@@ -973,6 +973,9 @@ Upotrijebite samo priloženi punjač."</string>
   <string name="keyguard_charging_info_tip_text4">"Nemojte aktivno koristiti uređaj tijekom punjenja kako biste izbjegli pregrijavanje."</string>
   <string name="keyguard_charging_info_tip_text5">Potrebno je duže da se baterija napuni kada postane toplija nego obično.</string>
   <string name="keyguard_charging_info_tip_text6">Isključite zaslon i ostavite uređaj da se ohladi.</string>
+  <string name="keyguard_charging_normal_and_level_tip">Punjenje %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Brzo punjenje %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">Brzo punjenje %d%%</string>
   <string name="keyguard_enter_your_password">Unesite zaporku</string>
   <string name="keyguard_enter_your_pattern">Unesite uzorak</string>
   <string name="keyguard_enter_your_pin">Unesite PIN</string>
@@ -1139,10 +1142,11 @@ dd.MM."</string>
   <string name="lock_screen_magazine_default_entry_title">Detalji o slici pozadine</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">Više</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Više</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Uđi</string>
   <string name="lock_screen_no_sim_card">Nema SIM kartice</string>
   <string name="lock_screen_no_sim_card_emergency_only">Samo hitni pozivi</string>
   <string name="lock_screen_no_sim_card_no_service">Nema usluge</string>
-  <string name="lock_wallpaper_enter">Uđi</string>
   <string name="lockscreen_access_pattern_area">Područje uzorka.</string>
   <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">Ćelija %1$s dodana</string>

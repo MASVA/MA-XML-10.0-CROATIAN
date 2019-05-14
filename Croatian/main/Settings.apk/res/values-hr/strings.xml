@@ -619,6 +619,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske tipke prilikom korištenja odabrane aplikacije. Dvaput dodirnite bilo koju navigacijsku tipku da ih ponovno omogućite.</string>
   <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
   <string name="auto_dual_clock_summary">Pokaži Dvostruki sat kada se trenutno vrijeme razlikuje od vremena na drugom satu</string>
+  <string name="auto_dual_clock_aod_summary">Pokaži Dvostruki sat kada se trenutno vrijeme razlikuje od trenutnog vremena</string>
   <string name="auto_dual_clock_title">Dvostruki sat</string>
   <string name="auto_launch_disable_text">Nema zadanih postavki.</string>
   <string name="auto_launch_enable_text">"Odlučili ste da se ta aplikacija pokreće prema zadanim postavkama za neke radnje."</string>
@@ -1171,6 +1172,9 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
 Da bi se poboljšala učinkovitost uređaja, aplikacije i usluge mogu tražiti uređaje u blizini u bilo kojem trenutku, čak i kada je Bluetooth isključen. Na taj se način mogu, na primjer, poboljšati značajke i usluge koje se temelje na lokaciji. To možete promijeniti u "&lt;annotation id="link"&gt;postavkama pretra&amp;#382;ivanja&lt;/annotation&gt;.</string>
   <string name="bluetooth_search_for_devices">Traženje uređaja</string>
   <string name="bluetooth_searching_for_devices">Traženje…</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptivni način rada</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Pokreni odabir kodeka za Bluetooth
+aptX adaptivni način: način kodeka"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitovi po uzorku za Bluetooth Audio</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Pokreni odabir kodeka za Bluetooth
 Audio: bitovi po uzorku"</string>
@@ -1941,6 +1945,10 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="date_time_set_timezone_title">Vremenska zona</string>
   <string name="date_time_settings">Datum &amp; vrijeme</string>
   <string name="day_of_week">Dan u tjednu</string>
+  <string name="dc_light_dialog_summary">Kad je uključen način rada protiv treperenja, to može utjecati na kvalitetu slike. Svejedno uključiti?</string>
+  <string name="dc_light_summary">Primijenite DC prigušivanje kako biste smanjili naprezanje očiju</string>
+  <string name="dc_light_summary_new">DC prigušivanje smanjuje naprezanje očiju u uvjetima slabog osvjetljenja. Međutim, kad je uključen način rada protiv treperenja, to može utjecati na kvalitetu slike.</string>
+  <string name="dc_light_title">Način rada protiv treperenja</string>
   <string name="debug_app">Aplikacija za uklanjanje pogrešaka</string>
   <string name="debug_app_not_set">Nema aplikacije za uklanjanje pogrešaka</string>
   <string name="debug_app_set">Aplikacija za uklanjanje pogrešaka: %1$s</string>
@@ -2338,7 +2346,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
   <string name="dual_clock">Dvostruki sat</string>
   <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Poč. zaslon, provjerite koristite li standardni widget sata sustava."</string>
-  <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
+  <string name="dual_clock_aod_open_message">Dvostruki sat bit će prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string><string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
   <string name="dual_clock_ok">Razumijem</string>
   <string name="dual_clock_open_message">Dvostruki sat će biti prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -2695,6 +2703,8 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="fingerprint_unlock_skip_fingerprint">Nastavi bez Pixel Imprinta</string>
   <string name="fingerprint_unlock_title">Pixel Imprint omogućuje vam da otključate telefon otiskom prsta. Iz sigurnosnih razloga ta opcija zahtijeva dodatno zaključavanje zaslona.</string>
   <string name="fingerprint_usage_category_title">Koristi otisak prsta za</string>
+  <string name="fingerprint_wakeup_summary">Probudi zaslon kada nisu očitani otisci prstiju.</string>
+  <string name="fingerprint_wakeup_title">Dodirnite senzor otiska prsta za buđenje</string>
   <string name="finish_application">Prisilno zaustavi</string>
   <string name="finish_button">Dovršeno</string>
   <string name="finish_button_label">Dovršeno</string>
@@ -3284,6 +3294,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="launching_cit">Pokrećem CIT, pričekajte.</string>
   <string name="launching_pho">Pokrećem podatke o uređaju…</string>
   <string name="launching_rep">Slanje zapisa o pogrešci…</string>
+  <string name="layout_exhuge_font_take_effect_tips">XXL Veličina teksta radi samo u Telefonu, Porukama i Kontaktima</string>
+  <string name="layout_exhuge_font_tips">Više opcija je dostupno u %1$s</string>
+  <string name="layout_exhuge_font_tips_reg">Pristupačnost &gt; Veličina prikaza</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
   <string name="layout_size_huge">XL</string>
@@ -3881,8 +3894,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_features">MIUI laboratorijske značajke</string>
   <string name="miui_lab_gallery_search_desc">Poboljšano pretraživanje slika</string>
   <string name="miui_lab_gallery_search_title">Pronađi fotografije u Galeriji</string>
-  <string name="miui_lab_gesture_desc">Onemogućite fizičke tipke i uživajte u gestama cijelog zaslona</string>
-  <string name="miui_lab_gesture_title">Geste cijelog zaslona</string>
+  <string name="miui_lab_gesture_desc">Za navigaciju koristite geste umjesto tipki</string>
+  <string name="miui_lab_gesture_title">Geste na cijelom zaslonu</string>
   <string name="miui_lab_install_drive_mode_error">"Ne mogu instalirati, pokušajte ponovo."</string>
   <string name="miui_lab_install_drive_mode_summary">"Način rada za automobil je aplikacija sustava. Instalacija ne zahtijeva internetsku vezu."</string>
   <string name="miui_lab_install_drive_mode_title">Instaliraj način rada za automobil</string>
@@ -4423,6 +4436,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="notification_summary_level">Razina %d</string>
   <string name="notification_summary_none">Sve aplikacije mogu slati</string>
   <string name="notification_switch_label">Prikaži obavijesti</string>
+  <string name="notification_style_title">Stil obavijesti</string>
   <string name="notification_toggle_off">Isključene</string>
   <string name="notification_toggle_on">Uključene</string>
   <string name="notification_unknown_sound_title">Zvuk koji pruža aplikacija</string>

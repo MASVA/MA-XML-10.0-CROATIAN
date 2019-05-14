@@ -115,6 +115,8 @@ i optimizira vaše fotografije na temelju ove informacije"</string>
   <string name="beauty_body_shoulder">Ramena</string>
   <string name="beauty_body_slim_count_tip">Efekti figure funkcioniraju samo za snimke jedne osobe</string>
   <string name="beauty_body_whole">Tijelo</string>
+  <string name="beauty_clear">Izbriši</string>
+  <string name="beauty_clear_toast">Efekti Uljepšanja izbrisani</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Uljepšanje</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
@@ -232,6 +234,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_ok_time">U redu (%ds)</string>
   <string name="disable_video_snapshot_hint">Snimanje videozapisa onemogućeno je kada su uključeni specijalni efekti.</string>
+  <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
+  <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovo"</string>
   <string name="download_by_browser">Preuzmi sa Preglednikom</string>
   <string name="download_qq">Preuzmi QQ</string>
@@ -429,6 +433,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
   <string name="locations">Lokacije</string>
+  <string name="macro_mode_tip">"Udaljenost između objektiva i predmeta ne smije prelaziti 10 cm"</string>
   <string name="maker">Autor</string>
   <string name="makeup_reset_toast">Efekti šminke izbrisani</string>
   <string name="manual">Ručno</string>
@@ -1015,6 +1020,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="ultra_wide_mode">Ultra široki kut</string>
   <string name="ultra_wide_mode_use_hint_text">"Koristite ovaj način za uključivanje više scena na fotografiju.
 Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene."</string>
+       <string name="ultra_wide_mode_use_hint_text_sat">"Isprobajte 0.6X Ultra široki kut kako biste uključili više scena na fotografiji.
+Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</string>
+  <string name="ultra_wide_open_tip_sat">0.6X Ultra široki kut</string>
   <string name="ultra_wide_open_tip">Ultra široki kut</string>
   <string name="ultra_wide_recommend_tip_hint">Isprobajte Ultra široki kut</string>
   <string name="undo">Poništi</string>
@@ -1047,7 +1055,7 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene."</
   <string name="wideselfie_rotate_to_left_slowly">Zakrenite telefon ulijevo</string>
   <string name="wideselfie_rotate_to_right_slowly">Zakrenite telefon udesno</string>
   <string name="web_url_apk_warning">Ova aplikacija dolazi iz nepoznatih izvora i može predstavljati sigurnosni rizik. Instalirajte aplikacije samo iz izvora kojima vjerujete.</string>
-  <string name="web_url_warning">Povezana web stranica potječe iz nepoznatih izvora i može predstavljati sigurnosni rizik.</string>
+  <string name="web_url_warning">Povezana web stranica dolazi iz nepoznatih izvora i može predstavljati sigurnosni rizik.</string>
   <string name="website_details">Detalji web mjesta:</string>
   <string name="wechat_details">Detalji WeChat-a:</string>
   <string name="white_balance">Balans bijele</string>

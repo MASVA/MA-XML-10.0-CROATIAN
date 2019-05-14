@@ -16,4 +16,20 @@
         <item quantity="other">%d uređaja</item>
         <item quantity="one">%d uređaj</item>
     </plurals>
+	<plurals name="feed_article_entrance_title">
+        <item quantity="other">%d članaka na ovoj temi</item>
+        <item quantity="one">%d članak na ovoj temi</item>
+     </plurals>
+     <plurals name="time_day_ago">
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
+     </plurals>
+     <plurals name="time_hour_ago">
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
+     </plurals>
+     <plurals name="time_minute_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije %d min</item>
+     </plurals>
 </resources>

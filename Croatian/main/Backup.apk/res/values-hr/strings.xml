@@ -122,6 +122,9 @@
   <string name="delete_backup_title">Izbriši Sig. kopiju</string>
   <string name="delete_failed_backup_confirm">Ova Sig. kopija sadrži pogreške.</string>
   <string name="deselect_all">Poništi odabir</string>
+  <string name="dialog_app_upgrade_download">Ažuriraj</string>
+  <string name="dialog_app_upgrade_exit">Izlaz</string>
+  <string name="dialog_app_upgrade_message">Dostupna je nova verzija Mi Movera. Ažurirati sada?</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Nije šifrirano</string>
   <string name="disable_encrypt_title">Isključi šifriranje</string>
@@ -141,7 +144,7 @@
   <string name="err_binder_died">Aplikacija se neočekivano zaustavila.</string>
   <string name="err_filesystem_mount">"Ne mogu pristupiti prostoru za pohranu routera"</string>
   <string name="err_low_storage">Nedovoljno prostora</string>
-  <string name="err_no_gms">Nekompatibilna verzija aplikacije. Instalirajte ovu aplikaciju zasebno</string>
+  <string name="err_no_gms">Nekompatibilna verzija aplikacije. Instalirajte ovu aplikaciju zasebno.</string>
   <string name="err_not_allow">Nije podržano</string>
   <string name="err_pkg_not_exist">"Ne mogu pronaći aplikaciju."</string>
   <string name="err_router_disconnected">"Provjerite priključak vašeg routera i pokušajte ponovo."</string>

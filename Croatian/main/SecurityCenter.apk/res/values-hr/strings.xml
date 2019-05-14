@@ -242,6 +242,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_find_apps">Pronađi aplikacije</string>
   <string name="app_manager_force_stop_dlg_text">Ako prisilno zaustavite aplikaciju, možda će se ponašati nepredviđeno.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustaviti?</string>
+  <string name="app_manager_full_screen_summary">Dopusti odabranim aplikacijama da rade u cijelom zaslonu</string>
+  <string name="app_manager_full_screen_title">Cijeli zaslon</string>
   <string name="app_manager_globel_other_perm_title">Ostala dopuštenja</string>
   <string name="app_manager_globel_perm_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>
   <string name="app_manager_globel_perm_title">Dopuštenja aplikacija</string>
@@ -707,6 +709,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="check_network_state">Provjeri status mreže</string>
   <string name="checkout_traffic_saving_history">Prikaži povijest</string>
   <string name="choose">Odaberite</string>
+  <string name="choose_gs_show_way">Odaberite orijentaciju početne stranice</string>
   <string name="clean_immediately">Očisti</string>
   <string name="cleaned">Očišćeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
@@ -1170,8 +1173,12 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
   <string name="function_close">Isključi</string>
-  <string name="function_shield_summary">Ograničite automatsku svjetlinu, pokrete zaslona i način čitanja</string>
-  <string name="function_shield_summary_m">Ograničite automatsku svjetlinu i geste zaslona</string>
+  <string name="function_shield_auto_bright">Isključi autom. svjetlinu</string>
+  <string name="function_shield_eye_shield">Isključi način čitanja</string>
+  <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
+  <string name="function_shield_settings_title">Prilikom igranja igara ograničite sljedeće značajke</string>
+  <string name="function_shield_summary">Prilikom igranja igara ograničite odabrane značajke</string>
+  <string name="function_shield_three_finger">Ograničite geste snimaka zaslona</string>
   <string name="function_shield_title">Poboljšano iskustvo</string>
   <string name="fw_blocked">Lista blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
@@ -1179,7 +1186,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="fw_oversea">Blokiraj pozive iz inozemstva</string>
   <string name="fw_oversea_content">Blokiraj dolazne pozive s inozemnih telefonskih brojeva</string>
   <string name="game_ad_recommendation">Svi igraju</string>
-  <string name="game_anti_disturb_msg">Game DND</string>
+  <string name="game_anti_disturb_msg">Igra DND</string>
   <string name="game_booster">Ubrzanje brzine igranja</string>
   <string name="game_booster_close">Ubrzanje brzine igranja je isključeno</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
@@ -1309,9 +1316,13 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gs_gamebox_detail">Prijeđite prstom od gornjeg ruba zaslona za prikaz</string>
   <string name="gs_gamebox_slip">Povucite zaslon prema dolje da biste otvorili</string>
   <string name="gs_only_self_start_for_list">Ograničite pozadinske procese da uštedite bateriju za igranje</string>
-  <string name="gs_open_game_booster">Ubrzavanje brzine</string>
+  <string name="gs_open_game_booster">Povećajte brzinu</string>
+  <string name="gs_open_game_booster_summary">Povećajte brzinu mreže za igre</string>
   <string name="gs_performance_mode">Način za performanse</string>
   <string name="gs_performance_mode_detail">Optimizirajte performanse sustava za igranje</string>
+  <string name="gs_show_way">Orijentacija početne stranice</string>
+  <string name="gs_show_way_horizontal">Vodoravno</string>
+  <string name="gs_show_way_vertical">Okomito</string>
   <string name="gs_sign_notification">Podsjeti se da prijavim svaki dan u 20 sati</string>
   <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -1893,6 +1904,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_memory_clean_cleaning_text">Povećanje brzine…</string>
   <string name="om_not_finish_speedboost">POtrebno je povećanja brzine</string>
   <string name="om_promotion">Oglas</string>
+  <string name="om_running_locked_apps">Zaključane pokrenute aplikacije</string>
   <string name="om_running_system_apps">Pokretanje aplikacije sustava</string>
   <string name="om_running_third_apps">Pokretanje aplikacija treće strane</string>
   <string name="om_notify_cpu_load_too_high_summary">Ograniči aktivnosti u pozadini za povećanje brzine</string>

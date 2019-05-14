@@ -14,6 +14,7 @@
   <string name="ble_device_profile_header_title">Postavke</string>
   <string name="ble_device_profile_title">Upareni Bluetooth Smart uređaj</string>
   <string name="ble_device_rename">Preimenuj</string>
+  <string name="bluetooth_advanced_feat_description">Značajka Bluetooth naprednog pregledavanja</string>
   <string name="bluetooth_connected">Upareno</string>
   <string name="bluetooth_connecting">Uparivanje…</string>
   <string name="bluetooth_device_context_unpair">Raspari</string>
@@ -31,6 +32,8 @@
   <string name="bluetooth_preference_connected_devices">Upareni uređaji</string>
   <string name="bluetooth_preference_found_devices">Dostupni uređaji</string>
   <string name="bluetooth_preference_scan_title">Pretraži za uređaje</string>
+  <string name="bluetooth_rc_feat_content">Peer podržava naprednu značajku</string>
+  <string name="bluetooth_rc_feat_subtext">Ponovno uparite iz peer-a da biste ga omogućili</string>
   <string name="bluetooth_sap_notif_disconnect_button">Prekini vezu</string>
   <string name="bluetooth_sap_notif_disconnecting">Čekanje da klijent prekine vezu.</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Prisilno prekini vezu</string>

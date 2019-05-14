@@ -223,6 +223,9 @@
   <string name="event_create">Novi događaj</string>
   <string name="event_delete">Izbriši događaj</string>
   <string name="event_edit">Uredi događaj</string>
+  <string name="event_info_title_anniversary">Godišnjica</string>
+  <string name="event_info_title_birthday">Rođendan</string>
+  <string name="event_info_title_countdown">Odbrojavanje</string>
   <string name="event_info_descrip">Opis</string>
   <string name="event_info_end">Kraj</string>
   <string name="event_info_jump_to_email">Idi u E-poštu</string>

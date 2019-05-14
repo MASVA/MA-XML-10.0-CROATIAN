@@ -153,10 +153,12 @@
   <string name="module_download_data_msg_golbal">Sat mora preuzeti audio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_replace">Dostupan je ažurirani zvuk za MIUI pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_timer">Sat treba preuzeti audio datoteke za timer buke okoline. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
+  <string name="module_download_msg_timer">Sat treba preuzeti audio datoteke za mjerenje buke okoline. Preuzeti sada?</string>
   <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
   <string name="module_download_msg">Sat treba preuzeti audio datoteke za MIUI pametne alarme. Pametni alarmi sadrže audio značajke koje omogućuju uključivanje informacija o trenutnom vremenu u alarme. Preuzeti sada?</string>
   <string name="module_download_msg_golbal">Sat treba preuzeti audio datoteke za MIUI pametne alarme. Preuzeti sada?</string>
   <string name="module_download_msg_replace">Dostupan je ažurirani zvuk za MIUI pametne alarme. Preuzeti sada?</string>
+  <string name="module_download_no_network">"Ne mogu se povezati na mrežu. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="module_download_ok">Dopusti</string>
   <string name="module_download_success">Uspješno preuzeto</string>
   <string name="module_download_title">Potreban je dodatni zvuk</string>

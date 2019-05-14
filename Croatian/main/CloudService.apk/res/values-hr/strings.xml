@@ -316,8 +316,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_network_error">Ne mogu se povezati na mrežu</string>
   <string name="micloud_main_simple_last_sync_time">Zadnja sinkr: %s</string>
   <string name="micloud_main_simple_off">Sinkr. je isključena</string>
-  <string name="micloud_main_sync_mode_summary">Sinkroniziraj većinu stavki kada je punjač priključen i zaslon je isključen</string>
-  <string name="micloud_main_sync_mode_title">Štednja baterije</string>
+  <string name="micloud_main_sync_mode_summary">"Gornje stavke bit će sinkronizirane u stvarnom vremenu kada je ova značajka uključena. To može povećati potrošnju energije vašeg uređaja."</string>
+  <string name="micloud_main_sync_mode_title">Sinkr. u stvarnom vremenu</string>
   <string name="micloud_main_wait_charge">Potpuno napunite uređaj da nastavite sinkronizaciju.</string>
   <string name="micloud_main_wait_charge_sleep">Isključite zaslon i potpuno napunite uređaj da nastavite sinkronizaciju.</string>
   <string name="micloud_main_wait_wlan">Čeka se WLAN</string>

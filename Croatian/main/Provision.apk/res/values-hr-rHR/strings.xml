@@ -47,6 +47,7 @@
   <string name="language_picker_popular_languages_title">Odaberi jezik</string>
   <string name="language_settings">Postavke jezika</string>
   <string name="locale_picker_title">Odaberite vašu regiju</string>
+  <string name="locale_picker_other_locale_title">Više regija</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
