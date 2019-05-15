@@ -151,6 +151,8 @@
   <string name="silence_mode">Bešumni način</string>
   <string name="sim_added_reboot_confirm">Ponovno pokreni</string>
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
+  <string name="sim_lock_non_ais_msg">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodavala proizvode."</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
   <string name="standard">Bešumno</string>

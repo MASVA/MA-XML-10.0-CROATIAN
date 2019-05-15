@@ -2408,8 +2408,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
   <string name="privacy_apps_tutorial">Tutorijal</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Kada sakrijete aplikaciju, premjestiti će se u skrivenu mapu. Prečac Poč. zaslona će biti sakriven također.
-Ova značajka nije podržana za aplikacije sustava."</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Ova značajka omogućuje vam skrivanje ikona aplikacija kako se više ne bi pojavljivale na Početnom zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Nakon unosa zaporke pojavit će se mapa s skrivenim aplikacijama.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Raširite dva prsta na zaslonu. Vidjet ćete poruku koja traži da unesete zaporku za Zaklj. aplikacije."</string>
   <string name="privacy_declare_dialog_message">"Korištenjem ove usluge, slažete se s Opera &lt;a href=%s&gt; Uvjeti Pružanja Usluge&lt;/a&gt;."</string>

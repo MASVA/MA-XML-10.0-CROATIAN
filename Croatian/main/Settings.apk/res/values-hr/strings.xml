@@ -2346,7 +2346,8 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dtmf_tone_enable_title">Tonovi biranja</string>
   <string name="dual_clock">Dvostruki sat</string>
   <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Poč. zaslon, provjerite koristite li standardni widget sata sustava."</string>
-  <string name="dual_clock_aod_open_message">Dvostruki sat bit će prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string><string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
+  <string name="dual_clock_aod_open_message">Dvostruki sat bit će prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
+  <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
   <string name="dual_clock_ok">Razumijem</string>
   <string name="dual_clock_open_message">Dvostruki sat će biti prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
