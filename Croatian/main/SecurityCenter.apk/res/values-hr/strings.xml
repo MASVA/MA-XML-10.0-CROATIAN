@@ -47,6 +47,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Unesite Zaporku zaštite privatnosti</string>
   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacije</string>
   <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun da poništite Zaklj. aplikacija</string>
+  <string name="accessibility_gameboosterservice_description">"Uključite da biste utišali dolazne WeChat pozive dok igrate igre"</string>
   <string name="action_button_text_100">Optimiziraj</string>
   <string name="action_button_text_60">Popravi</string>
   <string name="action_button_text_60_80">Popravi</string>
@@ -1178,6 +1179,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="function_shield_pull_notification_bar">"Ne otvaraj Panel obavijesti"</string>
   <string name="function_shield_settings_title">Prilikom igranja igara ograničite sljedeće značajke</string>
   <string name="function_shield_summary">Prilikom igranja igara ograničite odabrane značajke</string>
+  <string name="function_shield_summary_m">Ograničite automatsku svjetlinu i pokrete zaslona</string>
   <string name="function_shield_three_finger">Ograničite geste snimaka zaslona</string>
   <string name="function_shield_title">Poboljšano iskustvo</string>
   <string name="fw_blocked">Lista blokiranih</string>
@@ -1239,6 +1241,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gateway_exception_summary">Provjerite svoj router i pokušajte ponovno.</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_ad_game_size">MB</string>
   <string name="gb_advance_settings_edge_gear1">Ništa</string>
   <string name="gb_advance_settings_edge_gear2">Mali</string>
   <string name="gb_advance_settings_edge_gear3">Srednji</string>
@@ -1281,6 +1284,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_msg_quickly_answer_summary">Brzi odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obavijesti s transparentnom pozadinom</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentna</string>
+  <string name="gb_network_status_bad">Došlo je do pogreške u vezi.</string>
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
   <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke."</string>
