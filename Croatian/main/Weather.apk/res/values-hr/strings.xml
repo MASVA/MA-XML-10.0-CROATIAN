@@ -153,10 +153,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="it_is_going_to_rain">Padati će kiša</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
-  <string name="location_provider_btn_text">Uključite usluge lociranja</string>
   <string name="location_management">Lokacije</string>
-  <string name="location_tag">Lociraj</string>
-  <string name="menu_add_city">Uredi lokacije</string>
   <string name="location_provider_btn_text">Omogućite usluge otkrivanja lokacije</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Dodaj grad</string>
@@ -258,7 +255,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
-  <string name="weather_alert_channel_name">Upozorenja</string>
   <string name="weather_alert_channel_name">Upozorenja</string>
   <string name="weather_introduce">Uvijek s vama.</string>
   <string name="weather_permission_agree">Prihvaćam</string>
