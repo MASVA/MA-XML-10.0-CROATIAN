@@ -44,4 +44,20 @@
         <item quantity="other">Povratne informacije možete ponovo poslati za %1$s sek.</item>
         <item quantity="one">Povratne informacije možete ponovo poslati za %1$s sek.</item>
     </plurals>
+	<plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Najviša temperatura: %1$s °C</item>
+        <item quantity="one">Najviša temperatura: %1$s °C</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Najviša temperatura: %1$s °F</item>
+        <item quantity="one">Najviša temperatura: %1$s °F</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Najniža temperatura: %1$s °C</item>
+        <item quantity="one">Najniža temperatura: %1$s °C</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Najniža temperatura: %1$s °F</item>
+        <item quantity="one">Najniža temperatura: %1$s °F</item>
+    </plurals>
 </resources>

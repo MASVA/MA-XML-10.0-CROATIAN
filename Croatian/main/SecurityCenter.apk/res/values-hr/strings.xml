@@ -1825,6 +1825,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="note_sms_none">Nema poruka</string>
   <string name="noti_back_diving_mode_title">Interaktivan način je uključen. Dodirni za isključivanje.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Dodirnite da biste riješili problem</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s crpi bateriju</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
   <string name="notification_battery_over_heat_summary">Pronađite ono što uzrokuje zagrijavanje i ohladite uređaj.</string>
@@ -2005,6 +2007,13 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="password_type">Promjeni zaporku</string>
   <string name="password_type_underline">&lt;u&gt;Promjeni zaporku&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Da biste promijenili zaporku Drugog prostora, trebali biste izbrisati trenutni Drugi prostor i izraditi novi.</string>
+  <string name="pc_abnormal_scan_button_text">Zatvori aplikacije</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Sprječava ulazak sustava u stanje pripravnosti</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Prečesto se pokušava povezivati s mrežom</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">Pokreće se nenormalno</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Prečesto pretražuje WLAN mreže</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Prečesto koristi usluge lokacije</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Previše često budi sustav</string>
   <string name="path_antispam">Aplikacije sustava/Sigurnost/Lista blokiranih</string>
   <string name="path_antivirus">Aplikacije sustava/Sigurnost/Skeniranje virusa</string>
   <string name="path_app_permissions">Aplikacije sustava/Sigurnost/Dopštenja/Dopuštenja aplikacija</string>

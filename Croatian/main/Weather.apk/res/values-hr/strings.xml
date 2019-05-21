@@ -158,7 +158,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Dodaj grad</string>
   <string name="menu_location">Mjesta</string>
-  <string name="menu_minute_rain">Prognoza za sljedeća 2 sata</string>
+  <string name="menu_minute_rain">2-satna prognoza</string>
   <string name="minute_rain_after_an_hour">Sat vremena kasnije</string>
   <string name="minute_rain_after_two_hour">Dva sata kasnije</string>
   <string name="minute_rain_feedback_subtitle">Samo mi reci kakvo je vrijeme</string>
@@ -223,7 +223,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vjetar</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
-  <string name="reminder_from_xiaomi_weather_app">Upozorenja Mi Weather aplikacije</string>
+  <string name="reminder_from_xiaomi_weather_app">Upozorenja aplikacije Vrijeme</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="set">Postavke</string>
   <string name="settings">Postavke</string>
@@ -242,6 +242,9 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="sunset">Zalazak sunca</string>
   <string name="title_share_link">Podijeli URL</string>
   <string name="translate_notification_info">Prevođenje u pozadini…</string>
+  <string name="tts_best_aqi">Najbolja kvaliteta zraka</string>
+  <string name="tts_hour_weather_date_time">Od %2$s na %1$s do %4$s na %3$s</string>
+  <string name="tts_max_wind_power">Najveća brzina vjetra</string>
   <string name="unit">Jedinica</string>
   <string name="unit_temperature">Jedinica temperature</string>
   <string name="unit_wind">Jedinica brzine vjetra</string>

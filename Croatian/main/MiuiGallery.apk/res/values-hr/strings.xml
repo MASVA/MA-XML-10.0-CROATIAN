@@ -305,6 +305,9 @@
   <string name="cleaner_video_description">Izbrišite videozapise koji zauzimaju prostor za pohranu</string>
   <string name="cleaner_video_pick_delete_selected">Izbriši odabrane videozapise</string>
   <string name="cleaner_video_title">Izbriši videozapise</string>
+  <string name="clear_dup_medias">Izbriši duple fotografije</string>
+  <string name="clear_dup_success">Uspješno izbrisano</string>
+  <string name="clear_dup_tip">Brisanje duplih fotografija</string>
   <string name="clear_local_photo_direction">Ako izbrišete fotografije ili videozapise s uređaja, oni će i dalje biti dostupni u Mi Cloudu</string>
   <string name="click_download_gif">Dodirnite za preuzimanje GIF-a</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
