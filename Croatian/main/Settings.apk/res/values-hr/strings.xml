@@ -3980,6 +3980,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_sos_statusbar_summary">Dodirni za isključiti</string>
   <string name="miui_sos_statusbar_title">Uključen je hitni SOS</string>
   <string name="miui_special_feature">Posebne značajke</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Dijaloški okvir dopuštenja pokriven je Izbornikom Prečaca. Pomaknite Izbornik Prečaca ili isključite ovu značajku.</string>
   <string name="miui_touch_filtered_warning">Ako aplikacija blokira dijaloški okvir za dopuštenje, povucite stavku koja se preklapa ili zatvorite aplikaciju.</string>
   <string name="miui_updater">Ažuriranje</string>
   <string name="miui_userguide">Korisnički vodič</string>

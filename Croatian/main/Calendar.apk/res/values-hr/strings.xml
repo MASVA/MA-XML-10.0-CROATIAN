@@ -390,6 +390,9 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="preferences_home_tz_default">Europe/Zagreb</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_notification_ringtone_title">Zvuk</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI će automatski odrediti koji su događaji najvažniji</string>
+  <string name="preferences_popup_alert_smart_tips">"Zamijenite tradicionalne obavijesti skočnim upozorenjima kako biste izbjegli propuštanje važnih događaja. Skočna upozorenja neće se pojaviti kada igrate igre, gledate videozapise preko cijelog zaslona ili koristite način rada za automobil."</string>
+  <string name="preferences_popup_alert_title">Skočna upozorenja</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
   <string name="preferences_reminders_category">Podsjetnici</string>
   <string name="preferences_reminders_quiet_hours_description">Utišaj podsjetnike događaja tijekom određenog vremena.</string>

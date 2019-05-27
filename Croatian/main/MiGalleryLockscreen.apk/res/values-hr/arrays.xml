@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <string-array name="feature_desc">
-        <item>Jutarnj pozdravi: Pretplatite se da primate vaše pozdrave svako jutro.</item>
-        <item>Kombinirajte zadani zaslon za zaključavanje s prilagođenim temama kako biste mogli koristiti Wallpaper Carousel.</item>
+    <string-array name="feature_desc">
+        <item>Popravljeno je nekoliko poznatih problema.</item>
     </string-array>
 </resources>
 

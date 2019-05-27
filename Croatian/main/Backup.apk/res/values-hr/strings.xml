@@ -180,6 +180,7 @@ Provjerite da USB uređaj ima dovoljno prostora za pohranu prije nego što počn
   <string name="flash_drive_restore_btn">Vrati Sig. kopiju sa USB uređaja</string>
   <string name="flash_drive_search_backup_files">"Traženje Sig. kopije na USB uređaju…
 Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
+  <string name="gallery_summary">Postavke Galerije (ne uključujući fotografije)</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
@@ -625,6 +626,7 @@ Oslobodite prostor ili napravite više manjih prijenosa."</string>
   <string name="usb_trans_old_phone_low_space_title">Nema dovoljno prostora za pohranu</string>
   <string name="usb_trans_select_data_no_space">"Samo je %s dostupno na vašem USB uređaju.
 Oslobodite prostor ili prenesite samo važne stavke."</string>
+  <string name="user_feedback">Povratne inf.</string>
   <string name="user_name">Apple ID ili E-pošta</string>
   <string name="user_name_null">Korisničko ime ne može biti prazno</string>
   <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
