@@ -1223,7 +1223,8 @@ Audio"</string>
   <string name="bluetooth_unlock_change_matched_device">Odaberite drugi uređaj</string>
   <string name="bluetooth_unlock_confirm_device_text">Dodirnite Bluetooth uređaj za potvrdu.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Dodirnite tipku na uređaju za otključavanje.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Dodirnite tipku na satu za otključavanje.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potvrdi na Mi bandu.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Potvrdi na satu.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dodirnite tipku na uređaju za otključavanje.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši ovaj uređaj</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrisati ovaj uređaj?</string>
@@ -4005,9 +4006,9 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="model_summary">Model: %1$s</string>
   <string name="modem_tool_log">Zabilježi zapise modema</string>
   <string name="modem_tool_log_start">Započni</string>
-  <string name="modem_tool_log_start_toast">"Započni zapisn modema na %s"</string>
+  <string name="modem_tool_log_start_toast">"Započni zapis modema na %s"</string>
   <string name="modem_tool_log_stop">Zaustavi</string>
-  <string name="modem_tool_log_stop_toast">"Zaustavi zapisn modema iz %s"</string>
+  <string name="modem_tool_log_stop_toast">"Zaustavi zapis modema iz %s"</string>
   <string name="modify_instruction_password_settings">Postavi zaporku</string>
   <string name="modify_privacy_password">Promjeni zaporku</string>
   <string name="more_dangerous_option_hint">Značajke visokog rizika, uključujući \"%1$s\" su omogućene. Dodirni za promjenu postavki.</string>
@@ -5578,6 +5579,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_global_summary">Koristi Način čitanja za sve aplikacije</string>
   <string name="screen_paper_mode_global_title">Sve aplikacije</string>
   <string name="screen_paper_mode_hdr_toast">"Način čitanja bit će isključen dok reproducirate HDR videozapise. Automatski će se uključiti nakon završetka reprodukcije."</string>
+  <string name="screen_paper_mode_hdr_toast_new">Način čitanja automatski će se isključiti tijekom reprodukcije HDR videozapisa i provjere otiska prsta. Vaš uređaj će se vratiti na način čitanja kada se te radnje dovrše.</string>
   <string name="screen_paper_mode_local_summary">Koristi Način čitanja za odabrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Odabrane aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Nemoj koristiti Način čitanja"</string>
