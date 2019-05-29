@@ -334,7 +334,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Želite izraditi widget i dozvoliti pristup?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Uvijek dopusti aplikaciji %1$s izradu widgeta i pristupanje njihovim podacima</string>
   <string name="allow_data_usage_title">Podatkovni promet u roamingu</string>
-  <string name="allow_device_id_access">Aplikacije s pristupom ID-u uređaja</string>
+  <string name="allow_device_id_access">Odaberite aplikacije koje mogu koristiti ID uređaja</string>
   <string name="allow_float_summary">Dopusti plutajuće obavijesti</string>
   <string name="allow_float_title">Plutajuće obavijesti</string>
   <string name="allow_interruption">Dopusti ometanja</string>
@@ -344,6 +344,7 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="allow_lights_title">Dopusti korištenje LED svjetla</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
   <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
+  <string name="allow_oaid_used">Dopusti korištenje ID-a uređaja</string>
   <string name="allow_overlay_description">To dopuštenje omogućuje aplikaciji da se prikazuje iznad drugih aplikacija koje upotrebljavate i može ometati upotrebu sučelja drugih aplikacija ili naizgled promijeniti sadržaj drugih aplikacija.</string>
   <string name="allow_sound">Dopusti zvuk</string>
   <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
@@ -740,7 +741,7 @@ Za ograničenje uključite optimizaciju."</string>
   <string name="backup_set_new_pw_title">Unesi novu zaporku</string>
   <string name="backup_set_null_pw">Unesi prvo zaporku</string>
   <string name="backup_set_pw_confirm_title">Potvrdi novu zaporku</string>
-  <string name="badge_title">Prikaži značku ikone Poč. zaslona</string>
+  <string name="badge_title">Prikaži značku ikone aplikacije</string>
   <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>
   <string name="backup_security_tips_title">Sig. kopije možda neće raditi</string>
   <string name="backup_update">Ažuriraj</string>
@@ -2079,7 +2080,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_display_layout_title">Značajke</string>
   <string name="device_edit_title">Preimenuj uređaj</string>
   <string name="device_feedback">Pošalji povr. informacije o uređaju</string>
-  <string name="device_id">ID uređaja</string>
+  <string name="device_id">ID uređaja za prilagođene preporuke</string>
   <string name="device_info_default">Nepoznato</string>
   <string name="device_info_label">Informacije o uređaju</string>
   <string name="device_info_not_available">Nije dostupno</string>
@@ -2095,6 +2096,7 @@ Budući da potrošnju podataka mjeri telefon i da se obračun mobilnog operatera
   <string name="device_name_input_hint">Unesi naziv</string>
   <string name="device_name_input_overlength">Premašeno ograničenje riječi</string>
   <string name="device_name_usage_point">Ostali uređaji u blizini mogu vidjeti ovaj naziv.</string>
+  <string name="device_oaid">ID uređaja</string>
   <string name="device_picker">Odaberite Bluetooth uređaj</string>
   <string name="device_rear_camera">Stražnja kamera</string>
   <string name="device_reset_title">Vrati uređaj na zadano</string>
@@ -5424,11 +5426,14 @@ UT sučelje: %5$s"</string>
   <string name="restore_data">Odaberite stavke za vraćanje</string>
   <string name="restore_default_apn">Vraćanje zadanih APN postavki</string>
   <string name="restore_default_apn_completed">Poništavanje zadanih postavki APN-a dovršeno.</string>
-  <string name="restore_device_id_content">Resetiraj personalizirane preporuke</string>
+  <string name="restore_device_id_content">Personalizirane preporuke bit će resetirane</string>
   <string name="restore_device_id_title">Resetiraj ID uređaja</string>
-  <string name="restore_dialog_content">Resetiranje ID uređaja resetirati će vašu prilagođenu preporuku.</string>
-  <string name="restore_dialog_positive">Vrati</string>
+  <string name="restore_dialog_content">Resetiranje trenutnog ID-a uređaja također će poništiti prilagođene preporuke. Resetirati sada?</string>
+  <string name="restore_dialog_positive">Resetiraj</string>
   <string name="restore_dialog_title">Pažnja</string>
+  <string name="restore_oaid_content">Resetiranje trenutnog ID-a uređaja stvorit će novi. Resetirati sada?</string>
+  <string name="restore_oaid_positive">Resetiraj</string>
+  <string name="restore_oaid_title">Resetiranje ID uređaja</string>
   <string name="restore_failed">"Ne mogu vratiti"</string>
   <string name="restore_finished">Uspješno vraćeno</string>
   <string name="restore_is_running">Vraćanje uređaja</string>

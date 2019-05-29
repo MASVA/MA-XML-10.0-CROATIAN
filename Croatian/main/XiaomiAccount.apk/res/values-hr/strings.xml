@@ -413,7 +413,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_instead_reg_with_email">Koristi ovu e-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_other_account">Drugi račun</string>
-  <string name="passport_login_prompt">Jedan Mi Račun. Sve Mi usluge.</string>
+  <string name="passport_login_prompt">Sve Mi usluge. Jedan Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
   <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
