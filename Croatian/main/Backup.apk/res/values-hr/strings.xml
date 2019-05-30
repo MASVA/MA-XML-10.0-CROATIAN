@@ -282,7 +282,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="notif_trans_sending_failed">"Ne mogu poslati podatke"</string>
   <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
   <string name="old_soft_name">Povežite se pomoću QR koda</string>
-  <string name="old_way">Možete se povezati i pomoću QR koda. Dodirnite za generiranje koda.</string>
+  <string name="old_way">Također možete generirati QR kod na novom uređaju i skenirati ga pomoću starog.</string>
   <string name="page_loading">Samo trenutak…</string>
   <string name="password">Zaporka</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
@@ -633,8 +633,10 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="user_notice_message">Neke značajke zahtijevaju povezivanje s internetom da rade normalno.</string>
   <string name="user_notice_title">Pažnja</string>
   <string name="view_password_description">Prikaži zaporku</string>
-  <string name="wait_link">"Povežite svoj stari uređaj na ovaj hotspot.
-Nemojte napustiti ovu stranicu dok se veza ne uspostavi."</string>
+  <string name="wait_link">"Otvorite Mi Mover na starom uređaju,
+Nemojte napustiti ovu stranicu dok se veza ne uspostavi. "
+Dodirnite \"Ja sam pošiljatelj\" i odaberite Hotspot za povezivanje.
+Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="waiting">Samo trenutak…</string>
   <string name="wifi_title">Postavke WLAN-a</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
