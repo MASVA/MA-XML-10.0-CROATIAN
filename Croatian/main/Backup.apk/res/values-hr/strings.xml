@@ -167,6 +167,7 @@
   <string name="feature_title_call_log">Povijest poziva</string>
   <string name="feature_title_contacts">Kontakti</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms_setting">MMS postavke</string>
   <string name="feature_title_sms">Poruke</string>
   <string name="file_uploading">Učitavanje…</string>
   <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>

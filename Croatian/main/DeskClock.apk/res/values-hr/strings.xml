@@ -187,6 +187,9 @@
   <string name="setting_alarm_arriving_summary">Pošalji obavijest prije zvonjave</string>
   <string name="setting_alarm_arriving_title">Obavijesti prije zvonjave</string>
   <string name="settings">Postavke</string>
+  <string name="shortcut_new_alarm">Postavi alarm</string>
+  <string name="shortcut_start_timer">Pokreni timer</string>
+  <string name="shortcut_stop_watch">Pokreni štopericu</string>
   <string name="shutdown_alarm_disable_summary">"Alarm se neće isključiti nakon što se uređaj isključi"</string>
   <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 5 minuta nakon što isključite uređaj"</string>
   <string name="shutdown_alarm_title">Isključi alarm</string>

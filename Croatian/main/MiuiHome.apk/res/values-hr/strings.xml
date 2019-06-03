@@ -30,9 +30,11 @@
   <string name="announce_for_open_default_preview">Otvorili ste zadane postavke Poč. zaslona</string>
   <string name="announce_for_open_folder">Otvorena mapa %1$s</string>
   <string name="announce_for_open_launcher_menu">Otvoreni izbornik</string>
+  <string name="announce_for_search_bar">Traka za pretraživanje</string>
   <string name="announce_for_show_uninstall_dialog">Pojavio se dijalog za deinstalaciju. Otkažite ili potvrdite.</string>
   <string name="announce_for_unchecked">%1$s, neprovjereno</string>
   <string name="announce_for_widget_span">Širina %1$d, visina %2$d</string>
+  <string name="announce_for_xiaoai">Mi AI</string>
   <string name="app_already_exist">Aplikacija već postoji</string>
   <string name="app_being_backup_message">Izvodi se Sig. kopija aplikacije</string>
   <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
@@ -297,6 +299,8 @@
   <string name="preferences_general_title">Dodatne postavke</string>
   <string name="preferences_title">Postavke Pokretača</string>
   <string name="preferred_app_settings_not_selected">Nije odabrano</string>
+  <string name="privacy_thumbnail_blur_summary">Zamućivanje pregleda aplikacija u Nedavno</string>
+  <string name="privacy_thumbnail_blur_title">Zamućivanje pregleda aplikacija</string>
   <string name="process"/>
   <string name="quick_app">Brze aplik.</string>
   <string name="recents_config_title">Nedavno</string>

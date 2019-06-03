@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
   <string name="call_record">Snimljeni pozivi</string>
+  <string name="call_record_list_group_all">Svi</string>
+  <string name="call_record_list_group_connected">Povezano</string>
+  <string name="call_record_list_group_unconnected">Nije povezano</string>
   <string name="clear_records">Izbriši sinkronizirane zapise</string>
   <string name="cloud_record">Sinkronizirano %d</string>
   <string name="cloud_record_open">Sinkr. snimaka</string>
@@ -76,10 +79,11 @@
   <string name="preference_enable_earpiece_summary">Koristite zvučnik za vanjsku reprodukciju</string>
   <string name="preference_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>
   <string name="preference_led_indicator">Obavijesti zaključanog zaslona</string>
-  <string name="preference_led_indicator_prompt">Tijekom snimanja, prikaži prečac u traci statusa i pulsno svjetlo obavijesti kod Zaklj. zaslona</string>
+  <string name="preference_led_indicator_prompt">Tijekom snimanja, prikaži prečac u traci statusa i pulsno svjetlo obavijesti</string>
   <string name="preference_record_scenes_dialog_title">Odaberite vrstu snimanja</string>
   <string name="preference_scenes">Vrsta snimanja</string>
   <string name="preference_silent_mode">Isključi zvuk zvona prilikom snimanja</string>
+  <string name="preference_status_bar_indicator_prompt">Prikaži prečac statusne trake tijekom snimanja</string>
   <string name="preference_tip_rename">Ručno imenuj snimku</string>
   <string name="privacy_policy_title">Pravila o Privatnosti</string>
   <string name="recognition_error_cancel">Otkazano</string>
@@ -140,6 +144,9 @@
   <string name="search_tip_rename">Ručno imenuj snimku</string>
   <string name="share">Podijeli</string>
   <string name="share_dialog_title">Podijeli koristeći</string>
+  <string name="shortcut_records">Snimke</string>
+  <string name="shortcut_start_record">Započni snimanje</string>
+  <string name="shortcut_stop_record">Zaustavi snimanje</string>
   <string name="sound_recorder_settings">Postavke</string>
   <string name="speech_recognition_complete">Dovršeno</string>
   <string name="speech_recognition_running_tip">Pokrenuto</string>

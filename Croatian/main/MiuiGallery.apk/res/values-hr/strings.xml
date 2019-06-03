@@ -29,7 +29,7 @@
   <string name="add_to_album_success">Dodano u album</string>
   <string name="add_to_album_tip">Cloud fotografije</string>
   <string name="add_to_favorites_failed">"Ne mogu dodati u favorite"</string>
-  <string name="add_to_secret_exist">Fotografija već postoji u skrivenom albumu</string>
+  <string name="add_to_secret_exist">Ova stavka već postoji u skrivenom albumu</string>
   <string name="add_to_secret_fail">"Ne mogu dodati u skriveni album"</string>
   <string name="add_to_secret_failed_with_reason">"Ne mogu dodati u skriveni album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano u skriveni album</string>
@@ -228,6 +228,13 @@
   <string name="blank_app_name"/>
   <string name="brannan">Brannan</string>
   <string name="browse_category_title">Pretraži</string>
+  <string name="burst_image_download_item_title" formatted="false">Preuzmi original (%s|%s)</string>
+  <string name="burst_preview_title">Uzastopno slikanje</string>
+  <string name="burst_save_all">Spremi sve</string>
+  <string name="burst_save_choice_title" formatted="false">Odabrano %d od %d</string>
+  <string name="burst_save_confirm_dialog_title">Spremanje fotografija</string>
+  <string name="burst_save_error_msg">"Ne mogu spremiti"</string>
+  <string name="burst_save_processing">Obrada…</string>
   <string name="buy_member_tip">Postanite član</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
@@ -410,6 +417,8 @@
   <string name="custom_select_title_select_item">Odaberiie stavke</string>
   <string name="debugging_info">Podaci o uklanjanju pogrešaka uspješno su generirani. Dodirnite U redu za otvaranje mape.</string>
   <string name="debugging_tip">Generiranje podataka o uklanjanju pogrešaka </string>
+  <string name="decrypt_video_failed">"Ne mogu pripremiti videozapis"</string>
+  <string name="decrypting_video">Priprema videozapisa…</string>
   <string name="defalt_local_mobile">Mobilno</string>
   <string name="default_album_name">Novi album</string>
   <string name="default_relation_name">Nova grupa</string>
@@ -484,6 +493,10 @@
   <string name="duotone">Dvobojno</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit_baby_info">Pregled informacija o djetetu</string>
+  <string name="editor_cancel">Odustani</string>
+  <string name="editor_export">Spremi</string>
+  <string name="editor_talkback_redo">Vrati</string>
+  <string name="editor_talkback_undo">Poništi</string>
   <string name="edited_photo_bucket_name">Uređeno</string>
   <string name="effect">Filteri</string>
   <string name="email_picker_title">Dodaj podijeljenu e-poštu</string>
@@ -696,6 +709,7 @@ za fotografije"</string>
   <string name="filter_sky_sunset">Zalazak sunca</string>
   <string name="finish_create_baby_album_toast">Izrađen je album \"%s\" u Mi Cloudu</string>
   <string name="finish_fill_baby">Izradi</string>
+  <string name="first_time_add_video_to_secret_tips">Ažurirajte Galeriju da biste mogli sakriti videozapise</string>
   <string name="fisheye">Riblje oko</string>
   <string name="flash_off">Bez bljesk.</string>
   <string name="flash_on">Bljes. okinuta</string>
@@ -1027,7 +1041,7 @@ za fotografije"</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
   <string name="photo_editor_filter">Filter</string>
-  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
+  <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
   <string name="photo_editor_frame">Okvir</string>
   <string name="photo_editor_label">Uredi</string>
   <string name="photo_editor_long_crop">Obreži</string>
@@ -1058,6 +1072,7 @@ za fotografije"</string>
   <string name="photo_editor_navigator_module_downloading">Preuzimanje %s…</string>
   <string name="photo_editor_navigator_need_download">Povežite se s internetom za preuzimanje %s.</string>
   <string name="photo_editor_remove_watermark">Ukloni vodeni žig</string>
+  <string name="photo_editor_remove_watermark_on">Dodaj vodeni žig</string>
   <string name="photo_editor_remover">Izbriši</string>
   <string name="photo_editor_rotate">Rotiraj</string>
   <string name="photo_editor_saving">Spremanje…</string>
@@ -1066,7 +1081,8 @@ za fotografije"</string>
   <string name="photo_editor_talkback_confirm">Potvrdi</string>
   <string name="photo_editor_talkback_crop_16_9">Šesnaest do devet</string>
   <string name="photo_editor_talkback_crop_1_1">Jedan do jedan</string>
-  <string name="photo_editor_talkback_crop_3_4">tro do četiri</string>
+  <string name="photo_editor_talkback_crop_2_3">Dva do tri</string>
+  <string name="photo_editor_talkback_crop_3_4">Tri do četiri</string>
   <string name="photo_editor_talkback_crop_4_3">Četiri do tri</string>
   <string name="photo_editor_talkback_crop_9_16">Devet do šesnaest</string>
   <string name="photo_editor_talkback_crop_free">Slobodno</string>
@@ -1390,6 +1406,12 @@ za fotografije"</string>
   <string name="slim_running">Optimiziranje…</string>
   <string name="slim_space">oslobodi</string>
   <string name="slim_stop">Zaustavi optimiziranje</string>
+  <string name="special_type_eye_repair">Popravljene zatvorene oči pomoću AI</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">AI Uljepšanje slabog osvjetljenja</string>
+  <string name="special_type_night_mode">AI noćni način</string>
+  <string name="special_type_portrait">AI bojanje portreta</string>
+  <string name="special_type_wide_angle">AI ultra široki kut</string>
   <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi izvornu datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
@@ -1521,14 +1543,14 @@ za fotografije"</string>
   <string name="video_editor_adjust">Prilagodi</string>
   <string name="video_editor_analyzing">Analiza videozapisa…</string>
   <string name="video_editor_audio">Audio</string>
+  <string name="video_editor_audio_antiquity">Retro</string>
   <string name="video_editor_audio_custom">Odaberi</string>
-  <string name="video_editor_audio_dynamic">Techno</string>
-  <string name="video_editor_audio_love">Romantičan</string>
-  <string name="video_editor_audio_memory">Memory</string>
+  <string name="video_editor_audio_dream">San</string>
+  <string name="video_editor_audio_electronics">Electro</string>
+  <string name="video_editor_audio_quiet">Zen</string>
   <string name="video_editor_audio_none">Ništa</string>
-  <string name="video_editor_audio_rock">Rock</string>
-  <string name="video_editor_audio_sad">Balada</string>
-  <string name="video_editor_audio_young">Ukulele</string>
+  <string name="video_editor_audio_summertime">Ljeto</string>
+  <string name="video_editor_audio_vitality">Vigor</string>
   <string name="video_editor_auto_trim">Autom. podreži</string>
   <string name="video_editor_auto_trim_tip">Autom. podrezivanje…</string>
   <string name="video_editor_cancel">Odustani</string>
