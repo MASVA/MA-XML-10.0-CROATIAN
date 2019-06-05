@@ -2443,6 +2443,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
   <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja..</string>
+  <string name="qucick_replay_instrument">Koristite brze odgovore u obavijestima odabranih aplikacija (npr. WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Skeniranje</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne mogu produljiti vijek trajanja baterije"</string>
   <string name="quick_optimize_no_fix_issue_title">"Ne mogu popraviti probleme baterije"</string>
@@ -2452,6 +2453,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="quick_optimize_sub_summary_text">Dodano %s vijeku trajanja baterije</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prebrzo prazni bateriju, popravite to</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregrijava, popravite to</string>
+  <string name="quick_replay_list_title">Dostupne aplikacije</string>
+  <string name="quick_reply_title">Brzi odgovori</string>
   <string name="quite_all_string">Odustani</string>
   <string name="reach_daily_limit_value_body">Smanjite svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Dodirnite za uključivanje Uštede podataka.</string>

@@ -125,9 +125,12 @@
   <string name="dialog_app_upgrade_download">Ažuriraj</string>
   <string name="dialog_app_upgrade_exit">Izlaz</string>
   <string name="dialog_app_upgrade_message">Dostupna je nova verzija Mi Movera. Ažurirati sada?</string>
-  <string name="dialog_backup_password_backup_tips">"Ne mogu se izraditi Sig. kopiju stavki kad je uključena zaporka za Sig. kopije. Isključite sigurnosnu zaporku."</string>
+  <string name="dialog_backup_password_auto_backup_tips">"Ne mogu automatski izraditi Sig. kopiju stavki kada je zaporka za Sig. kopije uključena. Prvo isključite zaporku."</string>
+  <string name="dialog_backup_password_backup_tips">"Ne mogu se izraditi Sig. kopiju stavki kad je uključena zaporka za Sig. kopije. Isključite zaporku."</string>
   <string name="dialog_backup_password_cancel">Odustani</string>
-  <string name="dialog_backup_password_change_machine_tips">"Nećete moći prenositi Sig. kopije zaštićene zaporkom. Isključite sigurnosnu zaporku prije korištenja Mi Movera."</string>
+  <string name="dialog_backup_password_change_device_restore_tips">"Ne mogu koristiti Mi Mover kad je uključena zaporka za Sig. kopije. Prvo isključite zaporku."</string>
+  <string name="dialog_backup_password_change_machine_tips">"Nećete moći prenositi Sig. kopije zaštićene zaporkom. Isključite zaporku prije korištenja Mi Movera."</string>
+  <string name="dialog_backup_password_restore_tips">"Ne mogu vratiti stavke kad je uključena zaporka za Sig. kopije. Prvo isključite zaporku."</string>
   <string name="dialog_backup_password_to_settings">Postavke</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Nije šifrirano</string>
@@ -202,6 +205,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="hsa_verify_failed_message">Autorizacija s dva faktora nije uspjela. Možete ponovno pokušati ili isključiti autentifikaciju s dva faktora.</string>
   <string name="hsa_verify_retry">Pokušaj ponovno</string>
   <string name="hsa_verify_shutdown">Isključi</string>
+  <string name="iCloud_ID_verification_tip">"Unesite kontrolni kôd SMS-a koji je poslan na broj telefona povezan s vašim Apple ID-om. Zanemarite skočni kod prikazan na zaslonu vašeg iPhone uređaja."</string>
   <string name="icloud_backup_tip">Prijavite se na iCloud račun sa starog iOS uređaja</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Uključite promjenu za kontakte i druge stavke.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
   <string name="icloud_how_to_backup_tip_summary">Da biste uvezli podatke iz iOS-a, morate izraditi iCloud Sig. kopiju.</string>
@@ -427,6 +431,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="trans_cancel_selection_message">Ako napustite Mi Mover, prijenos u tijeku će biti prekinut. Pričekajte dok se prijenos ne dovrši.</string>
   <string name="trans_cancel_selection_title">Ostani u Mi Moveru</string>
   <string name="trans_cancelling">Otkazivanje…</string>
+  <string name="trans_complete_restoring">Uspješno preneseno. Vraćanje podataka aplikacije…</string>
   <string name="trans_connect_failed_device_incompatible">Uređaj nije kompatibilan. Otkažite prijenos i pokušajte ponovo.</string>
   <string name="trans_connect_failed_message">"Ne mogu se povezati. Pokušajte ponovno ili ponovno pokrenite uređaj. Na drugom uređaju idite u Postavke &gt; Dodatne Postavke &gt; Mi Mover i dodirnite [Ja sam pošiljatelj], ili opet pokrenite Mi Mover nakon ponovnog pokretanja uređaja"</string>
   <string name="trans_connect_failed_title">"Ne mogu se povezati"</string>

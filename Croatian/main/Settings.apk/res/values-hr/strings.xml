@@ -5237,6 +5237,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Pretraži postavke</string>
+  <string name="quick_reply_title">Brzi odgovori</string>
   <string name="quick_launch_assign_application">Dodjela aplikacije</string>
   <string name="quick_launch_clear_cancel_button">Odustani</string>
   <string name="quick_launch_clear_dialog_message">Vaš prečac za stavku %1$s (%2$s) bit će izbrisan.</string>

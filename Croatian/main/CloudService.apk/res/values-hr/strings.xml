@@ -247,7 +247,7 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_dspt_provision_xms">Koristite Mi Cloud za sinkronizaciju podataka.</string>
-  <string name="micloud_find_device_close_alert_content">"Ako isključite tu značajku, nećete moći pronaći uređaj ako je izgubljen."</string>
+  <string name="micloud_find_device_close_alert_content">"Ako isključite Pronađi uređaj, nećete moći pronaći telefon koristeći ovu značajku. Ako vaš telefon podržava NFC funkcionalnost, sve vaše bankovne kartice i kartice bit će izbrisane iz usluge Mi Pay."</string>
   <string name="micloud_find_device_close_alert_negtive">Isključi svejedno</string>
   <string name="micloud_find_device_close_alert_positive">Ostavi uključeno</string>
   <string name="micloud_find_device_close_alert_title">Isključiti Pronađi uređaj?</string>
