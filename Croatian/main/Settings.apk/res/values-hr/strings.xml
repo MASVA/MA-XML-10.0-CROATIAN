@@ -2,6 +2,7 @@
 <resources>
   <string name="SMS_and_MMS">SMS i MMS</string>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="a11y_settings_label">Postavke pristupačnosti</string>
   <string name="aaid_info">"
  Identifikator oglašavanja je stalni ID jedinstven za vaš uređaj. Dobavljači ga koriste za odabir reklamnog sadržaja koji će vam biti koristan.
  
@@ -113,7 +114,12 @@ Ako uređaj ima više korisnika, ovaj prečac na Zaklj. zaslonu omogućuje prist
   <string name="accessibility_long_press_timeout_preference_title">Trajanje dugog pritiska</string>
   <string name="accessibility_manual_zen_less_time">Manje vremena.</string>
   <string name="accessibility_manual_zen_more_time">Više vremena.</string>
+  <string name="accessibility_menu_description">"Izbornik pristupačnosti nudi prikladne prečace koji vam omogućuju upravljanje uređajem.
+
+Uključite ovu značajku i dodirnite gumb Pristupačnost na dnu zaslona da biste otvorili izbornik."</string>
   <string name="accessibility_menu_item_settings">Postavke</string>
+  <string name="accessibility_menu_service_name">Izbornik pristupačnosti</string>
+  <string name="accessibility_menu_summary">Upravljajte svojim uređajem pomoću prikladnih prečaca</string>
   <string name="accessibility_more_settings">Dodatne postavke</string>
   <string name="accessibility_no_service_selected">Nije odabrana nijedna usluga</string>
   <string name="accessibility_no_services_installed">Nema instaliranih usluga</string>
@@ -3652,6 +3658,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="lockscreen_label">Zaklj. zaslon</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_magazine_summary">Wallpaper carousel visoka kvaliteta</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
@@ -4956,6 +4963,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_key_how_start_detail">Pritisnite i držite tipku za uključivanje/isključivanje 0.5 sek. Otpustite da pričate.</string>
   <string name="power_key_start_enjoy">Saznajte više o Google pomoćniku</string>
   <string name="power_key_start_guide">Uključite Google pomoćnika pomoću tipku za uključivanje/isključivanje na uređajima na cijelom zaslonu</string>
+  <string name="power_label">Energija</string>
   <string name="power_menu_under_keyguard_summary">Omogućite pristup izborniku za napajanje dok je uređaj zaključan</string>
   <string name="power_menu_under_keyguard_title">Pristup izborniku za napajanje</string>
   <string name="power_last_full_charge_summary">prije ^1</string>
@@ -5250,6 +5258,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="quick_launch_summary">Postavljanje tipkovničkih prečaca za pokretanje aplikacija</string>
   <string name="quick_launch_title">Brzo pokretanje</string>
   <string name="quick_settings_developer_tiles">Pločice brzih postavki za razvojne programere</string>
+  <string name="quick_settings_label">Prečaci</string>
   <string name="quiet">Ne ometaj</string>
   <string name="quiet_group">Ne ometaj</string>
   <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
@@ -5344,6 +5353,7 @@ UT sučelje: %5$s"</string>
   <string name="rebootiing_for_updates">Ponovno pokretanje…</string>
   <string name="receiver_clean">Oslobodite prostor</string>
   <string name="recent_app_category_title">Nedavno otvorene aplikacije</string>
+  <string name="recent_apps_label">Nedavno</string>
   <string name="recent_location_requests_summary">Prikaži aplikacije koje traže prikaz o detaljima vaše lokacije</string>
   <string name="recent_location_requests_title">Pristup lokaciji</string>
   <string name="recent_notifications">Nedavno poslano</string>
@@ -5676,6 +5686,7 @@ Za prikvačivanje zaslona:
   <string name="screensaver_settings_title">Čuvar zaslona</string>
   <string name="screensaver_settings_when_to_dream">Kada pokrenuti</string>
   <string name="screenshot">Snimka zaslona</string>
+  <string name="screenshot_label">Snimka zaslona</string>
   <string name="screenshot_three_gesture">Povucite s 3 prsta za izradu snimke zaslona</string>
   <string name="screenshot_three_gesture_summary">Ostale geste s 3 prsta će biti isključene</string>
   <string name="sd_card_settings_label">Memorija USB</string>
@@ -7854,6 +7865,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Glasnoća</string>
   <string name="volume_hifi_description">Hi-Fi postavke</string>
+  <string name="volume_label">Glasnoća</string>
   <string name="volume_media_description">Glazba, videozapisi, igre i drugi mediji</string>
   <string name="volume_media_mute">Isključivanje glazbe &amp; drugih medija</string>
   <string name="volume_notification_description">Obavijesti</string>

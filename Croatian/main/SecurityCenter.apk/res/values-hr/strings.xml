@@ -1210,6 +1210,11 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
   <string name="gamebox_browser_not_find">Instalirajte najprije Mi Browser</string>
+  <string name="gamebox_display_1">Ništa</string>
+  <string name="gamebox_display_2">Zasićeno</string>
+  <string name="gamebox_display_3">Jarko</string>
+  <string name="gamebox_display_4">Jarko &amp; Zasićeno</string>
+  <string name="gamebox_display_set">"Vizualno poboljšanje: "</string>
   <string name="gamebox_dnd">DND</string>
   <string name="gamebox_func_antimsg_close">Plutajuće obavijesti sada su dopuštene</string>
   <string name="gamebox_func_antimsg_open">Plutajuće obavijesti sada su ograničene</string>
