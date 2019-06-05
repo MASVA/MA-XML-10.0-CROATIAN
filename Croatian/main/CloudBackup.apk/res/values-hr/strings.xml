@@ -212,7 +212,6 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_task_cancelling">Otkazivanje…</string>
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">"Ne mogu vratiti"</string>
-  <string name="restore_task_unfinished">Vraćanje aplikacija, pokušajte ponovno kasnije</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
   <string name="restoring_file_title_no_progress">Vraćanje datoteka…</string>
   <string name="restoring_settings">Vraćanje postavki…</string>
