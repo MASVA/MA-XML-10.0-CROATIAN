@@ -390,6 +390,12 @@
   <string name="news_change">Promjeni</string>
   <string name="no_network">"Ne mogu se povezati na mrežu, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušajte ponovno</string>
+  <string name="notification_garbage_cleanup_summary">Dostignuta je veličina smeća %s</string>
+  <string name="notification_garbage_cleanup_title">Očisti datoteke smeća</string>
+  <string name="notification_low_memory_cache_summary">Dostupno manje od 1,5 GB prostora za pohranu</string>
+  <string name="notification_low_memory_cache_title">Očisti predmemoriju</string>
+  <string name="notification_low_memory_deepclean_summary">Dubinsko čišćenje može osloboditi prostor za pohranu na vašem uređaju</string>
+  <string name="notification_low_memory_deepclean_title">Nedovoljno prostora za pohranu</string>
   <string name="notification_summary_after_auto_cleanup">Očišćeno %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Dodirnite da oslobodite prostor.</string>
   <string name="notification_title_of_garbage_cleanup">%s datoteka smeća</string>

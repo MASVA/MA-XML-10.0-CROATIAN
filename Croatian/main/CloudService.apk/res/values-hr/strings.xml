@@ -409,6 +409,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_request_permission_confirm">Razumijem</string>
   <string name="micloud_request_permission_content">Mi Cloud treba dopuštenja za sinkronizaciju podataka. Dopustite Mi Cloudu pristup Kalendaru, Kontaktima, Mi Računu, statusu SIM kartice, povijesti poziva i porukama.</string>
   <string name="micloud_request_permission_title">Mi Cloud treba dopuštenja</string>
+  <string name="micloud_request_sync_too_frequent">Previše zahtjeva. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="micloud_sec_dspt">i podijelite stvari sa svojim prijateljima.</string>
   <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
@@ -589,6 +590,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_sub_1_sms_1_intl_sms">1 međunarodna i 1 domaća SMS poruka mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
   <string name="sync_sub_2_intl_sms">2 međunarodne odlazne SMS poruke mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
   <string name="sync_sub_2_sms">2 odlazne SMS poruke mogu biti potrebne za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti te poruke.</string>
+  <string name="system_busy_or_network_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="sync_sub_dspt">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="sync_sub_dspt_provision">Sinkronizacija fotografija, kontakata, glazbe, aplikacija, i više toga između vaših uređaja</string>
   <string name="sync_sub_int_dspt">Međunarodna odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
@@ -617,6 +619,7 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="user_detail_agreement">Uvjeti pružanja usluge</string>
   <string name="user_detail_privacy_policy">Pravila o Privatnosti</string>
   <string name="user_storage_info_available_text_prefix">%s dostupno</string>
+  <string name="waiting_for_sync">Čekanje…</string>
   <string name="warning_bar_action_add_short_cut">Dodaj</string>
   <string name="warning_bar_action_close">Zatvori</string>
   <string name="warning_bar_action_turn_on_master_sync">Uključi</string>

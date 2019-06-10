@@ -151,6 +151,8 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="international_details_wind_title">VJETAR</string>
   <string name="international_version_first_start_network_msg">Upotrebom ove aplikacije pristajete na Xiaomi %1$s i %2$s. Ova aplikacija koristi internetsku vezu.</string>
   <string name="it_is_going_to_rain">Padati će kiša</string>
+  <string name="item_city_list_region_no_data">-- / --</string>
+  <string name="item_city_list_temperature_no_data">--</string>
   <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="location_management">Lokacije</string>
