@@ -2089,8 +2089,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Planirano uklj./isklj.</string>
   <string name="power_center_back">Natrag</string>
+  <string name="power_center_battery_last">%s preostalo</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_charge_time">%1$s do dovršetka punjenja</string>
+  <string name="power_center_dialog_msg_bottom">Trajanje baterije možete povećati do %1$dh %2$dm. Uključiti Štednju baterije?</string>
+  <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, MIUI će izvršiti sljedeće optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
@@ -2101,8 +2104,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_consume_time">%1$s preostalo</string>
   <string name="power_center_custom_title">Profili baterije</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Vrijeme uključivanja</string>
   <string name="power_center_ontime_shutdown">Vrijeme isključivanja</string>
+  <string name="power_center_power_save_summary_text">Povećaj preostalo vrijeme do %1$dh %2$dm</string>
+  <string name="power_center_power_save_title_text">Štednja baterije</string>
   <string name="power_center_repeat">Ponovi</string>
   <string name="power_center_scan_item_title_GPS">Podesite preciznost GPS-a</string>
   <string name="power_center_scan_item_title_abnormal">Problemi s baterijom</string>
@@ -2119,6 +2125,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_state_off">Isključeno</string>
   <string name="power_center_state_on">Uključeno</string>
   <string name="power_center_stop_scan_title">Zaustavi skeniranje</string>
+  <string name="power_center_super_save_summary_text">Povećaj preostalo vrijeme do %1$dh %2$dm</string>
+  <string name="power_center_super_save_title_text">Ultra Štednja baterije</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Optimizacija baterije</string>
@@ -2165,6 +2173,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_dialog_delete_dialog_delete">Izbrisati ovaj profil baterije?</string>
   <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
   <string name="power_dialog_ok">U redu</string>
+  <string name="power_dialog_super_save_msg">"Ultra Štednja baterije ograničava značajke koje najviše troše energiju i smanjuje performanse uređaja kako bi osnovne funkcije (npr. pozivi, SMS poruke i povezivanje s mrežom) bile dostupne što je duže moguće. Uključiti Ultra Štednju bateriju?"</string>
+  <string name="power_dialog_super_save_title">Ultra Štednja baterije</string>
   <string name="power_dialog_screen_brightness_automatic">Podesi svjetlinu automatski</string>
   <string name="power_dialog_screen_brightness_automatic_off">Osvijetljenost zaslona će biti konstantna u svim okruženjima</string>
   <string name="power_dialog_screen_brightness_automatic_on">Osvijetljenost zaslona će varirati u odnosu na svjetlo u vašem okruženju</string>
@@ -2268,7 +2278,13 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_save_summary_text">"Uključite štednju baterije za smanjenje pozadinskih aktivnosti aplikacija, zaustavljanje sinkronizacije i minimaliziranje animacija sustava."</string>
   <string name="power_save_title_text">Štednja baterije</string>
   <string name="power_screen">Zaslon</string>
+  <string name="power_setting_background_app_save_summary">Ograniči aktivnost aplikacija u pozadini bez utjecaja na funkcionalnost</string>
+  <string name="power_setting_background_app_save_title">Štednja baterije u pozadini</string>
+  <string name="power_setting_category_other">Dodatne postavke</string>
+  <string name="power_setting_power_save_summary_text">Optimiziraj postavke sustava kako biste uštedjeli bateriju</string>
+  <string name="power_setting_super_save_summary_text">Ograniči većinu značajki sustava kako biste uštedjeli bateriju</string>
   <string name="power_settings_category_title">Izgled baterije</string>
+  <string name="power_settings_lock_screen_saver_title">Postavke Zaklj. zaslona</string>
   <string name="power_settings_number">Postotak</string>
   <string name="power_settings_saver_title">Štednja energije</string>
   <string name="power_settings_shape">Grafika</string>
@@ -2457,7 +2473,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="quick_optimize_no_issue">Nema probleme baterije</string>
   <string name="quick_optimize_no_issue_subtitle">Sve izgleda dobro</string>
   <string name="quick_optimize_no_issue_title">"Ne mogu pronaći probleme baterije"</string>
+  <string name="quick_optimize_sub_battery_text">Preostalo otprilike još %s</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s vijeku trajanja baterije</string>
+  <string name="quick_optimize_sub_summary_with_battery_text">Dodano %1$s trajanju baterije, prostalo još %2$s</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prebrzo prazni bateriju, popravite to</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregrijava, popravite to</string>
   <string name="quick_replay_list_title">Dostupne aplikacije</string>
@@ -3349,6 +3367,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
       Provjerite internetsku vezu vašeg računala."</string>
   <string name="use_immediately">Upotrijebi</string>
   <string name="user_define_title">Dodaj pravila</string>
+  <string name="user_guide">Prijeđite prstom prema gore da biste otkrili nove igre</string>
+  <string name="user_guide_title">Joystick Picks</string>
   <string name="video_repeat">Reproduciraj ponovno</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije su ažurne</string>

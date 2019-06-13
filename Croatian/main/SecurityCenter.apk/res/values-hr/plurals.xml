@@ -40,8 +40,20 @@
         <item quantity="other">Ovoliko aplikacija (%d) može biti optimizirano</item>
         <item quantity="one">%d aplikacija može biti optimizirana</item>
     </plurals>
+	<plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s dana</item>
+        <item quantity="one">%s dan</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s sati</item>
+        <item quantity="one">%s sat</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
 	<plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, uključujući %1$s, crpe bateriju</item>
+        <item quantity="other">%2$d aplikacija, uključujući %1$s, crpe bateriju</item>
         <item quantity="one">%2$d aplikacija, uključujući %1$s, crpi bateriju</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
