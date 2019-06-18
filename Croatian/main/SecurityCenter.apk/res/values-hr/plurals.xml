@@ -63,6 +63,42 @@
 	<plurals name="people">
          <item quantity="other">Preuzelo %1$d osoba</item>
      </plurals>
+	 <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s dana preostalo</item>
+        <item quantity="one">%s dan preostao</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s sati preostalo</item>
+        <item quantity="one">%s sat preostao</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s min. preostalo</item>
+        <item quantity="one">%s min. preostala</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s dana preostalo</item>
+        <item quantity="one">%s dan preostao</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s sati preostalo</item>
+        <item quantity="one">%s sat preostao</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s min. preostalo</item>
+        <item quantity="one">%s min. preostala</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s dana do potpunog punjenja</item>
+        <item quantity="one">%s dan do potpunog punjenja</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s sati do potpunog punjenja</item>
+        <item quantity="one">%s sat do potpunog punjenja</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s min. do potpunog punjenja</item>
+        <item quantity="one">%s min. do potpunog punjenja</item>
+    </plurals>
 	 <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Potrošeno %2$d%% baterije tijekom posljednjih %1$d min.</item>
         <item quantity="one">Potrošeno %2$d%% baterije tijekom posljednjih %1$d min.</item>

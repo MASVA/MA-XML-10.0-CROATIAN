@@ -437,7 +437,7 @@
         <item>Brzina animacije 10x</item>
     </string-array>
 	<string-array name="traffic_type">
-        <item>"Uporaba podataka "</item>
+        <item>"Uporaba mob. podataka "</item>
         <item>"WLAN uporaba "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
@@ -489,12 +489,12 @@
         <item>U naredbi adb shell dumpsys gfxinfo</item>
     </string-array>
 	<string-array name="date_of_app_all">
-        <item>Danas (podaci)</item>
-        <item>Ovaj mjesec (podaci)</item>
-        <item>Prošli mjesec (podaci)</item>
-        <item>Danas WLAN</item>
-        <item>Ovaj mjesec WLAN</item>
-        <item>Prošli mjesec WLAN</item>
+        <item>"Danas (mob.podaci) "</item>
+        <item>"Ovaj mjesec (mob. podaci) "</item>
+        <item>"Prošli mjesec (mob. podaci) "</item>
+        <item>"Danas (WLAN) "</item>
+        <item>"Ovaj mjesec (WLAN) "</item>
+        <item>"Prošli mjesec (WLAN) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Danas "</item>
@@ -665,7 +665,7 @@
     <string-array name="wfd_status">
         <item>Uređaj povezan, kreiram sesiju…</item>
         <item>Sesija kreirana.</item>
-        <item>sključivanje usluge…</item>
+        <item>Isključivanje usluge…</item>
         <item>Sesija neuspješna.</item>
         <item>Isteklo vrijeme, pokušavam ponovo…</item>
         <item>Uređaj povezan</item>

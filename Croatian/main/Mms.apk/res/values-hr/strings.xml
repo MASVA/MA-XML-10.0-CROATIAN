@@ -181,6 +181,7 @@
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="dialog_complain_tips">Dopustite aplikaciji Poruke da se poveže s mrežom da bi mogao prijavljivati stavke.</string>
   <string name="dialog_message_fake_cell_detect_error">Ispraviti informacije o ovoj poruci? Da biste to učinili, MIUI treba učitati broj telefona (%1$s), sadržaj poruke i informacije o najbližoj lokaciji na svoje poslužitelje.</string>
   <string name="dialog_message_mx">Mi Poruka vam omogućuje slanje poruka drugim MIUI korisnicima bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka.</string>
   <string name="dialog_message_mx_rcs">Mi Poruka vam omogućuje slanje poruka drugim MIUI uređajima i korisnicima China Mobile bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka. Slažete se?</string>
@@ -730,7 +731,7 @@
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Odaberi zvuk</string>
   <string name="select_bottom_text">Tekst pri dnu</string>
-  <string name="select_copy_text">Odaberite tekst za kopiranje</string>
+  <string name="select_copy_text">Odaberi i kopiraj tekst</string>
   <string name="select_different_attachment">Odaberite drugi privitak.</string>
   <string name="select_different_audio">Odaberite drugi zvuk.</string>
   <string name="select_different_media">Odaberite drugi %1$s.</string>
@@ -885,7 +886,7 @@ Provedeni pokušaj: %s."</string>
   <string name="undelivered_msg_dialog_title">Neisporučena poruka</string>
   <string name="undelivered_sms_dialog_body">Ovu poruku nije moguće poslati.</string>
   <string name="unknown_num">Nepoznati broj</string>
-  <string name="unknown_sender">Nepoznati pošiljatelj</string>
+  <string name="unknown_sender">Imate novu poruku</string>
   <string name="unstick">Odznači</string>
   <string name="unstick_conversation">Odznači trenutan razgovor</string>
   <string name="unsticked_conversation">Trenutan razgovor već odznačen</string>

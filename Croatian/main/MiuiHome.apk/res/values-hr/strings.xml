@@ -2,6 +2,7 @@
 <resources>
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
+  <string name="activity_not_unlocked">Pričekajte da se uređaj potpuno ponovno pokrene prije otvaranja aplikacija</string>
   <string name="add_screen">Dodaj tipku zaslona</string>
   <string name="announce_for_app_move_in_folder">Premješteno na mjesto %1$d u mapi</string>
   <string name="announce_for_checked">%1$s, provjereno</string>
@@ -100,6 +101,7 @@
   <string name="custom_wallpaper_picker">Prilagođeno</string>
   <string name="defalut_launcher_title">Zadani pokretač</string>
   <string name="default_folder_title_game">Igre</string>
+  <string name="default_folder_title_meitu">Meitu aplikacije</string>
   <string name="default_folder_title_recommend">Više aplikacija</string>
   <string name="default_folder_title_security">Sustav</string>
   <string name="default_folder_title_services">Usluge</string>
@@ -330,6 +332,9 @@
   <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
   <string name="settings">Postavke</string>
   <string name="settings_shortcut">Postavke</string>
+  <string name="shake_to_align_icons">Protresite uređaj da ispunite prazne ćelije ikonama</string>
+  <string name="shake_to_align_icons_summary">Protresite uređaj dok ste u načinu uređivanja kako biste automatski popunili prazne ćelije ikonama</string>
+  <string name="shake_to_align_icons_title">Protresite da ispunite prazne ćelije</string>
   <string name="share">Podijeli</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži sve</string>
@@ -345,6 +350,7 @@
   <string name="status_installing">Instaliranje</string>
   <string name="status_paused">Pauzirano</string>
   <string name="status_pending">Na čekanju</string>
+  <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
   <string name="title_jeejen">Jeejen Poč. zaslon</string>
   <string name="title_select_live_folder">Odaberite mapu</string>
   <string name="title_select_shortcut">Odaberite prečac</string>

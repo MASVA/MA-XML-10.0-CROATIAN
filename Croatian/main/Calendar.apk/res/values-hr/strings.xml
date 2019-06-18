@@ -351,6 +351,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="no_syncable_calendars">Nema kalendara</string>
   <string name="no_title_label">(bez naslova)</string>
   <string name="no_visiable_calendar_message">Morate dodati račun kalendara. Dodirnite Dodaj račun za nastavak.</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Morate dodati račun kalendara. Dodirnite \"Dodaj račun\" za nastavak.</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun kalendara</string>
   <string name="not_synced">Nije sinkronizirano</string>
@@ -465,6 +466,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="search">Traži</string>
   <string name="search_history_cleared">Povijest pretraživanja je izbrisana</string>
   <string name="search_title">Pretraži moje kalendare</string>
+  <string name="search_menu_title">Pretraži</string>
   <string name="searchview_description_clear">Očisti upit</string>
   <string name="select_date">Odaberi datum</string>
   <string name="select_day">Odaberite mjesec i dan</string>

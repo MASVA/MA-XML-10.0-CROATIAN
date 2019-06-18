@@ -1251,7 +1251,7 @@ za fotografije"</string>
   <string name="screen_editor_finish">Gotovo</string>
   <string name="screen_save_dialog_btn_cancel">Odustani</string>
   <string name="screen_save_dialog_btn_delete">Izbriši snimnku zaslona</string>
-  <string name="screen_save_dialog_btn_save">premi u Galeriju</string>
+  <string name="screen_save_dialog_btn_save">Spremi u Galeriju</string>
   <string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
   <string name="search_backup_now">Uključi</string>

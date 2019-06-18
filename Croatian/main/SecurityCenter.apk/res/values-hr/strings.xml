@@ -598,6 +598,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
+  <string name="button_dark_mode">Popravi</string>
   <string name="button_do_not_disturb">Isključi</string>
   <string name="button_eye_shield">Isključi</string>
   <string name="button_first_aid_kit">Popravi</string>
@@ -2043,6 +2044,15 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
+  <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
+  <string name="pc_main_battery_text_day_hour">Dodano %1$sm, preostalo oko %2$sd %3$sh</string>
+  <string name="pc_main_battery_text_hour">Dodano %1$sm, preostalo oko %2$sh</string>
+  <string name="pc_main_battery_text_hour_minute">Dodano %1$sm, preostalo oko %2$sh %3$sm</string>
+  <string name="pc_main_battery_text_minute">Dodano %1$sm, preostalo oko %2$sm</string>
+  <string name="pc_main_power_manager_day_hour">%1$sd %2$sh do potpunog punjenja</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do potpunog punjenja</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh preostalo</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm preostalo</string>
   <string name="pc_settings_title">Postavke Optimizacije baterije</string>
   <string name="pc_to_phone_install">Blokirana instalacija (%s) putem USB-a</string>
   <string name="per_month_pkg_traffic_settings">Postavi ograničenje podataka</string>
@@ -2184,6 +2194,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_dialog_wifi_title">WLAN</string>
   <string name="power_exitlowbattery_whencharge">Onemogući kada je priključeno</string>
   <string name="power_idle">Uređaj u mirovanju</string>
+  <string name="power_main_battery_last_day_hour">%1$sd %2$sh preostalo</string>
+  <string name="power_main_battery_last_hour_minute">%1$sh %2$sm preostalo</string>
   <string name="power_mode_airplane_mode">Zrakoplovni način</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Nakon %1$d min.</string>
   <string name="power_mode_auto_clean_memory">Očisti memoriju</string>
@@ -2892,6 +2904,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="summary_cloud_space_full">Dobijte više prostora za pohranu i pristup do više značajki</string>
   <string name="summary_cmcc_app_check">"Neke aplikacije ne mogu biti provjerene"</string>
   <string name="summary_consume_power">Pronađeni problemi sa pregrijavanjem, oni mogu utjecati na životni vijek baterije</string>
+  <string name="summary_dark_mode">Neke su stranice crne zbog usluga trećih strana</string>
   <string name="summary_data_flow">"Kontrolirajte uporabu mobilnih podataka kako bi izbjegli dodatne naknade"</string>
   <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_dev">Izbjegnite zlonamjeran softver i zaštitite osobne podatke</string>
@@ -3090,6 +3103,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_cmcc_app_check">"Provjera nije potpuna"</string>
   <string name="title_consume_power">Pronađeni problemi baterije</string>
   <string name="title_consume_power_rank">Korištenje baterije aplikacija</string>
+  <string name="title_dark_mode">"Neke se stavke ne prikazuju ispravno"</string>
   <string name="title_data_flow">Nadziri uporabu podataka</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podataka je uključen</string>
   <string name="title_default_app">"MIUI %s nije postavljena kao zadana aplikacija"</string>
@@ -3150,6 +3164,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="toast_add_virus_white_list_success">Dodano u Iznimke. Pregledajte stavke u postavkama aplik. Sigurnost.</string>
   <string name="toast_auto_traffic_correct">Uporaba podataka podešena je automatski</string>
   <string name="toast_cleaner_cloudscan">Čistač će koristiti online definicije</string>
+  <string name="toast_dark_mode_fixed">Ispravljeno. Napustite ovu stranicu da primijenite promjene.</string>
   <string name="toast_default_app">"%1$s postaviti kao zadanu sustava %2$s"</string>
   <string name="toast_flow_notification">Obavijesti uporabe podataka su uključene</string>
   <string name="toast_garbage_lib">Automatska ažuriranja Čistača su uključena</string>
