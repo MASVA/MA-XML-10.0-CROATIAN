@@ -4963,6 +4963,8 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="pointer_settings_category">Miš/dodirna površina</string>
   <string name="pointer_speed">Brzina pokazivača</string>
+  <string name="popup_gesture_summary">Podignite telefon i pogledajte zaslon kako biste automatski otvorili prednju kameru</string>
+  <string name="popup_gesture_title">Podignite telefon za otvaranje prednje kamere</string>
   <string name="popup_window">Ograniči plutajuće obavijesti</string>
   <string name="power_apps">Aplikacije</string>
   <string name="power_autorun_apps_empty">Prazno</string>

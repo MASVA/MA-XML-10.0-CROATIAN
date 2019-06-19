@@ -51,6 +51,7 @@
   <string name="blacklist">Blokiraj</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
   <string name="blurbJoinContactDataWith">Odaberite kontakt koji želite pridružiti imenu %s:</string>
+  <string name="btn_call_fuhao_txt">Sub</string>
   <string name="btn_rotation">Rotacija</string>
   <string name="btn_split_contact">Odvoji</string>
   <string name="button_cancel_scan">"Zaustavi"</string>
@@ -263,6 +264,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Odaberite način uvoza</string>
+  <string name="contact_is_deleted">Kontakt je izbrisan</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
   <string name="contact_list_loading">"Učitavanje…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
@@ -343,6 +345,7 @@ Kartice kontakata su isključene"</string>
   <string name="description_image_button_eight">osam</string>
   <string name="description_image_button_five">pet</string>
   <string name="description_image_button_four">četiri</string>
+  <string name="description_image_button_fuhao_named_dial">Sub poziv</string>
   <string name="description_image_button_nine">devet</string>
   <string name="description_image_button_one">jedan</string>
   <string name="description_image_button_plus">Plus</string>
@@ -538,6 +541,11 @@ Razlog: \"%s\""</string>
   <string name="group_sms_progress_msg">Grupiranje…</string>
   <string name="groupsLabel">"Grupe"</string>
   <string name="groups_list_empty">Nema grupa</string>
+  <string name="heduohao_fuhao_call_menu_title">Biraj sub%d</string>
+  <string name="heduohao_fuhao_order">Sub%d</string>
+  <string name="heduohao_label">HeDuoHao</string>
+  <string name="heduohao_main_call_menu_title">Biraj na početnoj</string>
+  <string name="heduohao_popup_txt">Sub%d</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>

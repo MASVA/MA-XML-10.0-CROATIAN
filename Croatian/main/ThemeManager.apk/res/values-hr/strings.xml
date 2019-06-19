@@ -19,6 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="about_app_name">O Temama</string>
+  <string name="about_version_update">"Što ima novog"</string>
   <string name="accessibility_setting_hint">"Dodirnite gumb u gornjem desnom kutu da biste uključili tu uslugu.
 Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine u aplikacijama po vašem izboru.​"</string>
   <string name="accessibiliy_description_content_account">Profil</string>
@@ -51,6 +53,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ad_tag_text_2">Moda</string>
   <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
   <string name="all_resources">Sve</string>
+  <string name="already_latest_version">Najnovija verzija</string>
   <string name="app_ad_title">Dnevne preporuke</string>
   <string name="app_disable_transparent_wallpaper">Bez transparentne pozadine</string>
   <string name="app_enable_transparent_wallpaper">Sa transparentnom pozadinom</string>
@@ -80,9 +83,15 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="card_retry">Pokušaj ponovno</string>
   <string name="change_host_hint">Promijeni domaćina</string>
   <string name="change_wallpaper">Slika pozadine</string>
+  <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+  <string name="check_has_new_version">Update is available</string>
   <string name="classification_more_understand_you">Odaberite svoju omiljenu kategoriju</string>
   <string name="choose_new_themes">Teme</string>
   <string name="close">Zatvori</string>
+  <string name="common_applying">Postavljanje…</string>
+  <string name="common_downloading">Preuzimanje…</string>
+  <string name="common_format_date_no_year">dd/MM</string>
+  <string name="common_skip">Preskoči</string>
   <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
   <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
   <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>
@@ -121,6 +130,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="count_down_tip">%ds preostalo</string>
   <string name="current_using_desktop_wallpaper_text">Početni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zaklj. zaslon</string>
+  <string name="current_version">Trenutna verzija: %1$s</string>
   <string name="current_version_incompatible">Ova je tema nekompatibilna</string>
   <string name="deleting">Brisanje…</string>
   <string name="description_author">Autor</string>
@@ -221,6 +231,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="gift_use_fail_dlg_title">Nešto nije u redu</string>
   <string name="gift_used">Poslano</string>
   <string name="go_accessibility_setting">Odaberi</string>
+  <string name="goto_purchased_list">Pogledajte povijest kupnje</string>
+  <string name="goto_wechat">WeChat račun kopiran \"%1$s\" u međuspremnik. Otvoriti WeChat?</string>
   <string name="hide_free">Sakrij besplatne teme</string>
   <string name="hide_incompatible">Sakrij nekompatibilne teme</string>
   <string name="hide_pull_down_message">Sakriti?</string>
@@ -260,10 +272,11 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="loading_resource_detail_info">Samo trenutak…</string>
   <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
-  <string name="lockscreen_apply_failured">"Ne mogu postaviti pozadinu zaklj. zaslona"</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika pozadine Poč. zaslona postavljena. Ne mogu postaviti sliku pozadine zaklj. zaslona."</string>
-  <string name="lockscreen_apply_success">Slika pozadine zaklj. zaslona postavljena</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika pozadine zaklj. zaslona postavljena. Ne mogu postaviti sliku pozadine Poč. zaslona."</string>
+  <string name="lock_screen_apply">Postavi za Zaklj. zaslona</string>
+  <string name="lockscreen_apply_failured">"Ne mogu postaviti pozadinu Zaklj. zaslona"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika pozadine Poč. zaslona postavljena. Ne mogu postaviti sliku pozadine Zaklj. zaslona."</string>
+  <string name="lockscreen_apply_success">Slika pozadine Zaklj. zaslona postavljena</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika pozadine Zaklj. zaslona postavljena. Ne mogu postaviti sliku pozadine Poč. zaslona."</string>
   <string name="lockscreen_magazine_subscribe">%1$s sljedbenika</string>
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slika pozadine</string>
@@ -300,6 +313,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="mix_icons_option_des">Ikonw Poč. zaslona. Odznačite ovaj okvir da koristite zadane opcije.</string>
   <string name="mix_lockscreen_option_des">Slika pozadine i sat. Odznačite ovaj okvir da koristite zadane opcije.</string>
   <string name="mix_tip">Komponente teme</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Ova melodija zvona bit će postavljena za obje SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvona je postavljena za obje SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumijem</string>
@@ -308,6 +322,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="my_gifts">Pokloni</string>
   <string name="my_gifts_purchased">Kupljeni</string>
   <string name="my_gifts_received">Primljeni</string>
+  <string name="network_exception">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="no_data">"Ne mogu se povezati na mrežu"</string>
   <string name="no_net_work_connection">Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
@@ -327,7 +342,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="online_precust_scenery">Pejzaži</string>
   <string name="online_precust_tiny">Tiny</string>
   <string name="online_search_hint">Pretraživanje za online resursima</string>
-  <string name="password_toggle_content_description">Vidljivost zaporke prečaca</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="playing_ringtone">Reproducira se</string>
   <string name="pref_privacy_policy">Pravila o Privatnosti</string>
   <string name="present_local_fonts">Moji fontovi</string>
@@ -477,6 +492,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="resource_import_successful">Dovršeno</string>
   <string name="resource_importing">Uvoz teme…</string>
   <string name="resource_is_off_shelf">Nije dostupno</string>
+  <string name="resource_is_off_shelf_can_not_share">"Ne mogu dijeliti. Ova stavka više nije dostupna."</string>
   <string name="resource_list_title">Nedavno odabrano</string>
   <string name="resource_local_picker">Odaberi melodiju zvona</string>
   <string name="resource_menu_refresh">Osvježi</string>
@@ -617,6 +633,9 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="theme_changed_failed_message">"Ne mogu postaviti temu"</string>
   <string name="theme_changed_message">Tema postavljena</string>
   <string name="theme_changing_dialog_title">Postavljanje teme…</string>
+  <string name="theme_comment_dialog_cancel">Ne sada</string>
+  <string name="theme_comment_dialog_message">"Sviđa li vam se tema koju sada koristite? Cijenimo vaše povratne informacije!"</string>
+  <string name="theme_comment_dialog_ok">Recenzija</string>
   <string name="theme_comment_dialog_message">Ocijenite ovu aplikaciju i recite nam što mislite.</string>
   <string name="theme_comment_dialog_ok">Ocijeni</string>
   <string name="theme_component_title_alarm">Alarm</string>
@@ -735,6 +754,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="using_theme_next_automatic_update">Automatsko ažuriranje</string>
   <string name="using_theme_next_automatic_update_summary">Ažuriraj preuzete teme putem WLAN-a automatski kada je zaslon zaključan</string>
   <string name="using_theme_show_ad">Preporuke</string>
+  <string name="version_update">Provjeri za ažuriranja</string>
   <string name="video_ad_click">Isporobajte sada</string>
   <string name="video_ad_try_for_free">Besplatna probna</string>
   <string name="video_ad_uncomplete_tip">Završite gledanje videozapisa kako biste dobili temu.</string>
@@ -793,6 +813,8 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="wallpaper_settings_desktop_text">Početni zaslon</string>
   <string name="wallpaper_settings_lockscreen_text">Zaklj. zaslon</string>
   <string name="wallpaper_settings_page_title">Slika pozadine</string>
+  <string name="wechat_not_found">Prvo instalirajte WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="wifi_check_cancel">Odustani</string>
   <string name="wifi_check_confirm">Potvrdi</string>
   <string name="wifi_check_message">Koristiti mob. podatke za preuzimanje ažuriranja?</string>
@@ -800,4 +822,11 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="xiaoai_speech_not_installed_download">Preuzmi</string>
   <string name="xiaoai_speech_not_installed_message">Preuzmite i instalirajte Mi AI glasovni pomoćnik za nastavak.</string>
   <string name="xiaoai_speech_not_installed_title">"Mi AI glasovni pomoćnik nije instaliran."</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
+Veličina: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina Delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
 </resources>
