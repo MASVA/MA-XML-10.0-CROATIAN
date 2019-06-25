@@ -101,18 +101,21 @@
   <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
   <string name="authorize_title">Autorizacija</string>
   <string name="barcode_add_account_prompt">Da dodate račun, skenirajte QR kôd ponovno nakon što se prijavite.</string>
-  <string name="bind_facebook">Dodaj Facebook račun</string>
+  <string name="bind_facebook">Povežite svoj Facebook račun</string>
+  <string name="bind_google">Povežite svoj Google račun</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Dodajte broj telefona za sljedeću prijavu u vaš Mi Račun.</string>
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
   <string name="bind_sns_description">Prijavite se s %s.</string>
   <string name="bind_weibo_description">"Dodaj svoje prijatelje s Sina Wiebo</string>
+  <string name="bind_weixin">Povežite svoj WeChat račun</string>
   <string name="binded">Povezano</string>
-  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Račun. Vaš profil je ažuriran sa informacijama iz vašeg %s Računa.</string>
+  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Račun. 
+Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="button_unbind">Prekini vezu</string>
-  <string name="change_activate_email">Promjena adrese e-pošte</string>
-  <string name="change_email_address">Promjena adrese e-pošte</string>
+  <string name="change_activate_email">Promjeni adresu e-pošte</string>
+  <string name="change_email_address">Promjeni adresu e-pošte</string>
   <string name="change_password">Promjena zaporke</string>
   <string name="change_phone_number">Promjena broja telefona</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
@@ -238,6 +241,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
+  <string name="google">Google</string>
   <string name="i_agree">U redu</string>
   <string name="i_agree_continue">Nastavi</string>
   <string name="identity">Identifikacija</string>
@@ -279,6 +283,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
   <string name="my_device_title">Trenutan uređaj</string>
+  <string name="need_install_wechat">Prvo instalirajte WeChat</string>
   <string name="my_favorite">Moj favorit</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
@@ -656,5 +661,6 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Neke stavke nisu bile sinkronizirane"</string>
   <string name="vip_settings_info">VIP postavke</string>
+  <string name="weixin">WeChat</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

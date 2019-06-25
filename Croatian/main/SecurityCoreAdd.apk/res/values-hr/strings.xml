@@ -152,6 +152,8 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="err_volume_not_enough">Nema dovoljno prostora za pohranu</string>
   <string name="exit_private_space">Promjeni</string>
   <string name="experience_more_features">Dodajte uređaj da biste vidjeli sve značajke</string>
+  <string name="facebook_login">Prijavite se pomoću Facebooka</string>
+  <string name="facebook_send">Podijeli na Facebooku</string>
   <string name="finger_print_num">Otisak prsta %d</string>
   <string name="finger_print_of_use">Upotrijebi otisak prsta</string>
   <string name="fingerprint_number_upper_limit">Previše neuspjelih pokušaja otključavanja</string>
@@ -201,12 +203,13 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="import_photo_suc">Uvezene fotografije</string>
   <string name="input_space_finger">Postavi sada</string>
   <string name="input_space_password">Postavi sada</string>
+  <string name="instagram_send">Podijeli na Instagram</string>
   <string name="install">Instaliraj</string>
   <string name="install_error">"Ne mogu instalirati. Pokušajte ponovo."</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
   <string name="kid_mode_label">Dječji prostor</string>
   <string name="list_empty_text">Prazno</string>
-  <string name="list_empty_text_xspace">Instaliraj WeChat/QQ/Weibo, izradi dvojne aplikacije i pokušaj ponovno.</string>
+  <string name="list_empty_text_xspace">Izradite više dvojnih aplikacija i pokušajte ponovno.</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_apps">Učitavanje aplikacija…</string>
   <string name="loading_space">Samo trenutak…</string>
@@ -272,8 +275,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="radio_button_icon_switch_title">Korištenje prečaca</string>
   <string name="radio_button_password_switch_title">Korištenje zaporke</string>
   <string name="removeSuccess">Uspješno izbrisano</string>
-  <string name="remove_button">Ukloni i ponovno pokreni</string>
-  <string name="remove_button_time">Ukloni i ponovno pokreni(%ds)</string>
+  <string name="remove_button">Izbriši</string>
+  <string name="remove_button_time">Izbriši (%ds)</string>
   <string name="remove_second_space_msg">Svi podaci aplikacija Drugog prostora će biti izgubljeni nakon brisanja Drugog prostora. Izbrisati Drugi prostor?</string>
   <string name="remove_user_click_message">"*Ako nemate nijednu važnu stavku u Drugom prostoru, %s"</string>
   <string name="remove_user_click_message_action">možete izbrisati Drugi prostor i ponovo pokrenuti uređaj.</string>
@@ -390,8 +393,8 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="start_new_fingerprint_tips">"Upotrijebite otisak prsta za Drugi prostor 
 za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="start_setting_guide_desc_title">Postoji nekoliko stvari koje treba postaviti</string>
-  <string name="stop_xspace_alert_content">"Sve dvojne aplikacije i njihovi podaci bit će trajno izbrisani. Morat ćete ponovno pokrenuti uređaj za primijenu tu promjenu. Želite li sada izbrisati račune?"</string>
-  <string name="stop_xspace_alert_title">Brisanje računa dvojne aplikacije</string>
+  <string name="stop_xspace_alert_content">"Izbrisati sve dvojne aplikacije zajedno s njihovim računima i podacima o aplikacijama? Vaš će se uređaj ponovno pokrenuti kako bi primijenio ovu promjenu."</string>
+  <string name="stop_xspace_alert_title">Izbriši račune dvojnih aplikacija</string>
   <string name="summary_switch_apps_settings">Odaberite aplikacije korištene u trenutnom prostoru</string>
   <string name="support_desc">Sigurnosne usluge pruža Spaces Mobile</string>
   <string name="sure_to_use">Potvrdi</string>
@@ -439,27 +442,31 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="undo_grant_dialog_message">Xiaomi će prestati prikupljati informacije potrebne za tu značajku (IMEI, ID uređaja, verzija sustava, regija itd.) nakon opoziva autorizacije. Opozvati sada?</string>
   <string name="undo_privacy_menu">Opozovi autorizaciju</string>
   <string name="undo_success">Uspješno opozvano</string>
-  <string name="use_xiaoai_open">Probudi pomoću glasovnog pomoćnika</string>
+  <string name="use_google_open">Probudi pomoću Google pomoćnika</string>
+  <string name="use_xiaoai_open">Probudi pomoću Mi AI</string>
   <string name="wating">Samo trenutak…</string>
   <string name="weibo_send">Pošalji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
   <string name="weixin_share_sign">Prijavite se i podijelite</string>
+  <string name="whatsapp_send">Podijeli na WhatsApp</string>
   <string name="xpsace_guide_button">Izradi</string>
   <string name="xspace_account">Računi dvojne aplikacije</string>
   <string name="xspace_chocie">Podrška za Dvojne aplikacije</string>
   <string name="xspace_creating">Izrada dvojne aplikacije…</string>
-  <string name="xspace_default_app_summary">Postavite zadanu aplikaciju za plaćanja, dijeljenje, favorite i drugo.</string>
-  <string name="xspace_default_app_title">Zadana aplik.</string>
+  <string name="xspace_default_app_summary">Odaberite zadane aplikacije koje se koriste za prijavu, dijeljenje i glasovnog pomoćnika</string>
+  <string name="xspace_default_app_title">Personalizacija</string>
   <string name="xspace_default_guide_notification_content">Dodirnite za promjenu</string>
   <string name="xspace_default_guide_notification_main_title">Upotreba zadane aplikacije</string>
   <string name="xspace_default_guide_notification_xspace_title">Upotreba dvojne aplikacije</string>
   <string name="xspace_default_setting_dialog_title">Zadano</string>
   <string name="xspace_default_setting_label">Zadana aplik.</string>
   <string name="xspace_description">Dvojne aplikacije su kopije aplikacija koje se mogu koristiti zasebno s drugim računom.\n\nNeke dvojne aplikacije zahtijevaju podršku Google Services Framework. U takvim slučajevima stvara se dvojni Google Services Framework.</string>
+  <string name="xspace_facebook_title">Facebook</string>
   <string name="xspace_guide_des">Koristi 2 računa bez mijenjanja</string>
   <string name="xspace_guide_title">Izradi dvojnu aplikaciju</string>
   <string name="xspace_header">Dvojne aplikacije</string>
+  <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_install_completed">Ikona dodana na Početni zaslon</string>
   <string name="xspace_install_completed_global">Ikona dodana na ladicu</string>
   <string name="xspace_install_failed">"Ne mogu napraviti"</string>
@@ -476,4 +483,5 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_uninstalling">Deinstalacija…</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
 </resources>

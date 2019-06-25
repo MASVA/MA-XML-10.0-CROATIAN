@@ -850,6 +850,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="deep_save_memory_clean_summary">Izbriši predmemoriju kada je uređaj zaključan da spriječite aplikacije od korištenja baterije</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Odredite vrijeme za uključivanje i isključivanje uređaja</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_all_sms">Izbriši sve</string>
   <string name="delete_from_manual_item_white_list">Ukloni iz iznimaka</string>
   <string name="delete_input">Izbriši</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
@@ -2688,6 +2689,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sms_blacklist">Lista blokiranih SMS-a</string>
   <string name="sms_cloud_block">Cloud Lista blokiranih</string>
   <string name="sms_contact_block">Blokiraj SMS od kontakata</string>
+  <string name="sms_delete_all_hint">Izbrisati sada sve poruke?</string>
   <string name="sms_delete_hint">Izbrisati sve blokirane poruke s tog broja?</string>
   <string name="sms_delete_title">Izbriši poruke</string>
   <string name="sms_detail_correct_success_text">"Ovo su statistički podaci prethodne kalibracije (%1$s):"</string>

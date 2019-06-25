@@ -154,7 +154,9 @@
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
+  <string name="text_btn_backward_3_seconds">3 sekunde natrag</string>
   <string name="text_btn_complete">Stop</string>
+  <string name="text_btn_forward_3_seconds">3 sekunde naprijed</string>
   <string name="text_btn_list">Snimke</string>
   <string name="text_btn_mark">Označi</string>
   <string name="text_btn_pause">Pauza</string>
@@ -163,6 +165,10 @@
   <string name="text_btn_recording">Snimi</string>
   <string name="text_btn_wave">Val</string>
   <string name="text_finish">Potvrdi</string>
+  <string name="text_play_speed_0_5">Brzina reprodukcije 0.5X</string>
+  <string name="text_play_speed_1_0">Normalna brzina reprodukcije</string>
+  <string name="text_play_speed_1_5">Brzina reprodukcije 1.5X</string>
+  <string name="text_play_speed_2_0">Brzina reprodukcije 2X</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
