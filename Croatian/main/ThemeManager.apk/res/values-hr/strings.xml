@@ -636,8 +636,6 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="theme_comment_dialog_cancel">Ne sada</string>
   <string name="theme_comment_dialog_message">"Sviđa li vam se tema koju sada koristite? Cijenimo vaše povratne informacije!"</string>
   <string name="theme_comment_dialog_ok">Recenzija</string>
-  <string name="theme_comment_dialog_message">Ocijenite ovu aplikaciju i recite nam što mislite.</string>
-  <string name="theme_comment_dialog_ok">Ocijeni</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Stil alarma</string>
   <string name="theme_component_title_all">Teme</string>
