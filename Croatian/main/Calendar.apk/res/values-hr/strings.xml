@@ -93,7 +93,8 @@
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Rođendan je spremljen</string>
-  <string name="birthday_term">rođendan</string>
+  <string name="birthday_term">Rođendan</string>
+  <string name="birthday_term_chinese_calendar">"%1$s ima rođendan (Tradicionalni kineski kalendar)"</string>
   <string name="button_day">Dan</string>
   <string name="button_month">Mjesec</string>
   <string name="button_week">Tjedan</string>
@@ -119,6 +120,7 @@
   <string name="color_swatch_description_selected">Odabrana je %1$d boja</string>
   <string name="copy_db">Pošalji bazu podataka</string>
   <string name="copy_email">Kopiraj adresu e-pošte</string>
+  <string name="content_confirm_close_chinese_calendar">Svi vaši događaji na temelju tradicionalnog kineskog kalendara bit će pretvoreni u gregorijanski kalendar nakon što isključite ovu značajku. Godine i mjeseci Gregorijanskog kalendara koristit će se za ponovljene događaje.</string>
   <string name="copy_number">Kopiraj broj telefona</string>
   <string name="countdown_event_title">Broj dana: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Broj dana: %1$s za 3 dana</string>
@@ -289,6 +291,7 @@
   <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
   <string name="login_failed_toast">"Ne mogu se prijaviti, osvježite i pokušajte ponovno"</string>
   <string name="lunar_date">Mjesečev datum</string>
+  <string name="lunar_to_solar_chinese_calendar">Kinezi na Gregorijanski</string>
   <string name="map_label">Map</string>
   <string name="match_select_activity_label">Odaberi podudaranja</string>
   <string name="menu_about_preferences">O Kalendaru</string>
@@ -483,6 +486,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
   <string name="setting_accounts">Računi kalendara</string>
+  <string name="setting_chinese_calendar">Kineski kalendar</string>
   <string name="setting_daysoff_no_update">Informacije o državnim praznicima su ažurne.</string>
   <string name="setting_daysoff_update">Ažurirajte informacije o državnim praznicima</string>
   <string name="setting_daysoff_update_cta_cancel">Dopusti Kalendaru da se prvo poveže s internetom</string>
@@ -496,11 +500,17 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
   <string name="show_controls">Pokaži kontrole</string>
+  <string name="shortcut_new_event">Dodaj događaj</string>
+  <string name="shortcut_next_agenda">Sljedeći događaj</string>
+  <string name="shortcut_settings">Postavke</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Dodirnite za pregled događaja nakon %1$s</string>
   <string name="show_older_events">Dodirnite za pregled događaja prije %1$s</string>
   <string name="snooze_all_label">Odgodi sve</string>
   <string name="snooze_label">Odgodi</string>
+  <string name="solar_lunar_convert_description">Gregorijanski na tradicionalni kineski</string>
+  <string name="solar_lunar_convert_tab">Pretvori</string>
+  <string name="solar_to_lunar_chinese_calendar">Gregorijanski na kineski</string>
   <string name="start_date_calculate">Izračunaj</string>
   <string name="synced">sinkr.</string>
   <string name="tab_title_agenda">Događaji</string>
@@ -516,6 +526,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="template_week_num">Tjedan %1$s</string>
   <string name="time_zone">Vremenska zona</string>
   <string name="timezone_label">Vremenska zona</string>
+  <string name="title_confirm_close_chinese_calendar">Isključivanje kineskog kalendara</string>
   <string name="today">Danas</string>
   <string name="today_at_time_fmt">Danas u %s</string>
   <string name="today_icon_voice_contentdescription">Natrag na danas</string>

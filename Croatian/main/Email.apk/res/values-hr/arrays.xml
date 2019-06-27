@@ -122,4 +122,8 @@
          <item>Stu</item>
          <item>Pro</item>
      </string-array>
+	 <string-array name="prefEntries_contact_add">
+        <item>Svi</item>
+        <item>Samo primatelji</item>
+    </string-array>
 </resources>
