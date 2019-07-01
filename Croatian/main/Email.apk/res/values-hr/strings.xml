@@ -952,7 +952,6 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="refreshing_done">Završeno</string>
   <string name="release_to_refresh">Pustite za osvježiti</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi trebao biti manji od %sMB</string>
-  <string name="remote_no_mail">"Na poslužitelju više nema poruka e-pošte."</string>
   <string name="remote_search_body_too_large_prompt">"Ova je poruka predugačka.
 Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računalu."</string>
   <string name="remove_account">Ukloni račun</string>

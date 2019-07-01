@@ -102,6 +102,8 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="feedback_overcast">Prognoza</string>
   <string name="feedback_report_privacy_msg">Izvješće sadrži informacije o vašoj lokaciji</string>
   <string name="feedback_result_fail_no_choice">Odaberite vrijeme kakvo vidite</string>
+  <string name="feedback_result_fail_no_reason">Zahvaljujemo na povratnim informacijama!</string>
+  <string name="feedback_result_fail_same_type">"Izgleda da se vaše izvješće ne razlikuje od trenutnog vremena. Pokušajte ponovno."</string>
   <string name="feedback_result_interval_time_too_short">%1$s sek. nakon povratne informacije</string>
   <string name="feedback_result_success">Poslano uspješno, hvala vam na povratnim informacijama</string>
   <string name="feedback_sand">Pijesak</string>

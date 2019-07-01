@@ -1186,6 +1186,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="function_shield_summary_m">Ograničite automatsku svjetlinu i pokrete zaslona</string>
   <string name="function_shield_three_finger">Ograničite geste snimaka zaslona</string>
   <string name="function_shield_title">Poboljšano iskustvo</string>
+  <string name="function_shield_voice_trigger">"Ne budi Mi AI sa glasom"</string>
   <string name="fw_blocked">Lista blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" i "</string>

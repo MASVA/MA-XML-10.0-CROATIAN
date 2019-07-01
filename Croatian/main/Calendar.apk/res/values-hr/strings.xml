@@ -80,7 +80,7 @@
   <string name="birthday_event_description_a_week_later">Tjedan dana kasnije</string>
   <string name="birthday_event_description_day_after_tomorrow">Prekosutra</string>
   <string name="birthday_event_description_day_before_yesterday">Prekjučer</string>
-  <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s ima %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danas</string>
   <string name="birthday_event_description_tomorrow">Sutra</string>

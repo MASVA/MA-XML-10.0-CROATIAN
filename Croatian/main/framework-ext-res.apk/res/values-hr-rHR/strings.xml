@@ -21,6 +21,10 @@
   <string name="auto_start_warning_deny">Odbij</string>
   <string name="auto_start_warning_title">Dopustiti %s autom. pokretanje?</string>
   <string name="autofill">Autom. popuni</string>
+  <string name="autofill_save_message">Dopustiti da MIUI spremi vaše račune i zaporke?</string>
+  <string name="autofill_save_ok">Dopusti</string>
+  <string name="autofill_save_sub_message">"Moći ćete upravljati spremljenim zaporkama Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Upravljanje zaporkama."</string>
+  <string name="autofill_save_title">Spremi zaporke automatski</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_delete">Deinstaliraj</string>
   <string name="button_text_delete_timer">Deinstaliraj (%d)</string>
