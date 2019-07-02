@@ -1278,6 +1278,11 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
+  <string name="gb_first_guide_function_shiled_title">Isključi značajke sustava kada je Game Turbo uključen</string>
+  <string name="gb_first_guide_gamebox_des">Tijekom igranja koristite prečace</string>
+  <string name="gb_first_guide_handsfree_des">Odgovorite na pozive u pozadini</string>
+  <string name="gb_first_guide_shortcut_des">Stvoren je prečac na Poč. zaslonu za Game Turbo</string>
+  <string name="gb_first_guide_title">Povećaj brzinu i performanse na razini sustava</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">Koristi brze odgovore</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Pogledajte tekst na prozirnoj pozadini</string>
   <string name="gb_first_window_antimsg_title">Zgodne obavijesti</string>

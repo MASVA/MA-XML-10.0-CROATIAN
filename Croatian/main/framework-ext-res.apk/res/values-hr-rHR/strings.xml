@@ -101,10 +101,14 @@
   <string name="popup_camera_calibrate_failed">"Nije moguće kalibrirati. Približite svoj uređaj bliže Mi Home-u da dijagnosticirate problem."</string>
   <string name="popup_camera_calibrate_now">Kalibriraj</string>
   <string name="popup_camera_calibrate_success">Uspješno kalibrirano. Sada možete otvoriti prednju kameru.</string>
+  <string name="popup_camera_cancel_popup">Odustani</string>
+  <string name="popup_camera_continue_popup">Otvori Kameru</string>
   <string name="popup_camera_front_failed">"Ne mogu otvoriti prednju kameru. Pokušajte ponovno."</string>
   <string name="popup_camera_front_when_use">Aplikacija Kamera mora ponovno otvoriti prednju kameru. Otvoriti sada?</string>
+  <string name="popup_camera_hid_device_name">Black shark</string>
   <string name="popup_camera_front_falied_times">"Ne mogu otvoriti prednju kameru više puta. Približite svoj uređaj bliže Mi Home-u da dijagnosticirate problem."</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Ne mogu otvoriti prednju kameru više puta. Pokušajte kalibrirati kameru."</string>
+  <string name="popup_camera_remove_hid_device">Izgleda da je vaš uređaj spojen na upravljač za igre. Možda nećete moći otvoriti prednju kameru kad je spojen na upravljač igre.</string>
   <string name="popup_camera_sure">Razumijem</string>
   <string name="popup_camera_sure_wait">Razumijem (%ds)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">"Ne mogu otvoriti prednju kameru više puta. Pokušajte kalibrirati kameru."</string>

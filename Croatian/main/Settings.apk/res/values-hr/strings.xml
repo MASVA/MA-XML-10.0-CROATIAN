@@ -1308,8 +1308,12 @@ Audio"</string>
   <string name="bootloader_status_unlocked">Otključan</string>
   <string name="bootloader_status_unlocked_info">Ovaj uređaj je otključan</string>
   <string name="bootloader_summary">Flashajte uređaj putem USB-a</string>
-  <string name="bootloader_tips">"Nakon što dodate svoj Mi Račun, nemojte se odjaviti, napravite vraćanje na tvorničke postavke ili izbrišite podatke aplikacije sustava. Ako učinite nešto od gore navedenog, ponovno dodajte svoj račun ili nećete moći otključati uređaj."</string>
+  <string name="bootloader_tips">"%s
+  
+  
+  Ako ste već učinili nešto od gore navedenog, ponovno dodajte svoj Mi račun; u suprotnom nećete moći otključati uređaj."</string>
   <string name="bootloader_tips_ok">Razumijem</string>
+  <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Mi računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
   <string name="breathing_light_color_menu_title">Boja LED-a</string>
   <string name="breathing_light_color_summary">Boja LED-a kod primanja nove obavijesti</string>
   <string name="breathing_light_freq_summary">Pulsiraj kada imaš nove obavijesti</string>
@@ -2238,6 +2242,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="disabled_dependent_setting_summary">Ovisi o drugoj postavci</string>
   <string name="disabled_for_user_setting_summary">Postavku ne može promijeniti trenutačni korisnik</string>
   <string name="disabled_low_ram_device">Ova značajka nije dostupna na ovom uređaju</string>
+  <string name="disallow_lock_screen_summary">Prvo dopustite obavijesti u \"Obavijesti aplikacije\"</string>
   <string name="disconnect">prekini vezu</string>
   <string name="disconnected">Veza je prekinuta</string>
   <string name="display_auto_rotate_rotate">Uključi</string>
@@ -3560,7 +3565,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
   <string name="lock_screen_signature_summary">Ova će poruka biti prikazana na Zaklj. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o vlasniku na Zaklj. zaslonu</string>
-  <string name="lock_screen_tip_toast">Omogućite prvo u postavkama obavijesti aplikacije</string>
   <string name="lock_screen_unlock_show">Preskoči Zaklj. zaslon</string>
   <string name="lock_screen_unlock_show_summary">Otvori Poč. zaslon ili izravno unesite zaporku</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Dodirni za promjenu</string>
