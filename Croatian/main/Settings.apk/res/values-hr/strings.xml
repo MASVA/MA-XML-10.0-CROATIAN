@@ -3772,6 +3772,8 @@ kao i PIN za Prvi prostor"</string>
   <string name="manage_notification_access_summary_zero">Aplikacije ne mogu čitati obavijesti</string>
   <string name="manage_notification_access_title">Pristup obavijestima</string>
   <string name="manage_notification_title">Obavijesti aplikacija</string>
+  <string name="manage_password">Upravljaj zaporkama</string>
+  <string name="manage_password_summary">Automatski popuni spremljene račune i zaporke</string>
   <string name="manage_space_text">Upravljaj prostorom</string>
   <string name="manage_trust_agents">Pouzdani predstavnici</string>
   <string name="manage_trust_agents_summary">Prikaz ili deaktivacija pouzdanih predstavnika</string>

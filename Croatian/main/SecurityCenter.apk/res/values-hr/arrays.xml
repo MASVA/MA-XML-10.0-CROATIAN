@@ -21,12 +21,12 @@
          <item>"Ovaj mjesec: "</item>
      </string-array>
      <string-array name="date_of_app_all">
-         <item>Jučer (podaci)</item>
-         <item>Danas (podaci)</item>
-         <item>Ovaj mjesec (podaci)</item>
-         <item>Jučer WLAN</item>
-         <item>Danas WLAN</item>
-         <item>Ovaj mjesec WLAN</item>
+         <item>"Jučer (Mobilni podaci) "</item>
+         <item>"Danas (Mobilni podaci) "</item>
+         <item>"Ovaj mjesec (Mobilni podaci) "</item>
+         <item>"Jučer (WLAN) "</item>
+         <item>"Danas (WLAN) "</item>
+         <item>"Ovaj mjesec (WLAN) "</item>
      </string-array>
      <string-array name="date_of_app">
          <item>Jučer (podaci)</item>
