@@ -166,16 +166,18 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="go_on_import">Nastavi s uvozom</string>
   <string name="gpg_message">Izrada dvojnih aplikacija zahtijeva rad s Google Play igrama. Izraditi dvojnu aplikaciju za Google Play igre?</string>
   <string name="gpg_title">Dvojna aplikacija za Google Play igre</string>
-  <string name="green_guard">Roditeljski nadzor</string>
+  <string name="green_guard">Zaštita obitelji</string>
   <string name="green_guard_des1">Dodajte uređaje da ih možete upravljati na daljinu</string>
   <string name="green_guard_des2">Znajte gdje su točno svi upravljani uređaji</string>
   <string name="green_guard_des3">Upravljajte instaliranim aplikacijama i ograničite upotrebu</string>
   <string name="green_guard_title2">Prikaži informacije o lokaciji</string>
   <string name="green_guard_title3">Upravljaj aplikacijama</string>
-  <string name="greenguard_child_des">Koristite našu aplikaciju da biste ostali povezani​</string>
-  <string name="greenguard_child_des_title">Trebam pomoć mojih prijatelja i obitelji</string>
-  <string name="greenguard_parent_des">"Preuzmite našu aplikaciju i dodajte uređaje drugih osoba"</string>
-  <string name="greenguard_parent_des_title">Trebam pomoći mojim prijateljima i obitelji</string>
+  <string name="greenguard_child_des">Upravljajte uređajima svojih prijatelja i obitelji</string>
+  <string name="greenguard_child_des_title">Skenirajte QR kod za dodavanje uređaja</string>
+  <string name="greenguard_functional_description">"Udaljeno upravljajte uređajima, pogledajte informacije o lokaciji,
+kontrolirajte instalirane aplikacije i ograničavajte korištenje"</string>
+  <string name="greenguard_parent_des">Upravljajte uređajima svojih prijatelja i obitelji</string>
+  <string name="greenguard_parent_des_title">Koristite Kite Guard za dodavanje uređaja</string>
   <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
 Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>

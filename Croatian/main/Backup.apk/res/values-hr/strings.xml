@@ -196,7 +196,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="hsa_send_again_countdown">Pošalji ponovno (%ds)</string>
   <string name="hsa_send_failed">Ne mogu poslati kod za provjeru. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="hsa_sending">Slanje…</string>
-  <string name="hsa_tip_message">"1. Poruka s kontrolnim kodom poslana je na uređaj povezan s vašim Apple ID.\r\n2. Isključite autorizaciju s dva faktora ako kontrolni kôd ne funkcionira."</string>
+  <string name="hsa_tip_message">"1. Ako ne možete primiti kontrolni kôd, provjerite jeste li već prijavljeni na iCloud na vašem Apple uređaju.\r\n2. Ako unos kontrolnog koda ne pomogne, isključite autentifikaciju u dva faktora."</string>
   <string name="hsa_tip_message_shutdown_hsa">Kako isključiti autorizaciju s dva faktora</string>
   <string name="hsa_tip_message_with_device">"1. Poruka s kontrolnim kodom poslana je na "%s" povezan s vašim Apple ID.\r\n2. Isključite autorizaciju s dva faktora ako kontrolni kôd ne funkcionira."</string>
   <string name="hsa_tip_title">Savjeti:</string>
@@ -205,7 +205,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="hsa_verify_failed_message">Autorizacija s dva faktora nije uspjela. Možete ponovno pokušati ili isključiti autentifikaciju s dva faktora.</string>
   <string name="hsa_verify_retry">Pokušaj ponovno</string>
   <string name="hsa_verify_shutdown">Isključi</string>
-  <string name="iCloud_ID_verification_tip">"Unesite kontrolni kôd SMS-a koji je poslan na broj telefona povezan s vašim Apple ID-om. Zanemarite skočni kod prikazan na zaslonu vašeg iPhone uređaja."</string>
+  <string name="iCloud_ID_verification_tip">"Dodirnite \"Dopusti\" na vašem Apple uređaju da se pojavi kontrolni kôd. Ovdje unesite kontrolni kôd."</string>
   <string name="icloud_backup_tip">Prijavite se na iCloud račun sa starog iOS uređaja</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Otvorite Postavke na svom iOS uređaju i odaberite iCloud.\r\n2. Uključite promjenu za kontakte i druge stavke.\r\n3. Odaberite Fotografije i prebacite se na iCloud Foto knjižnica."</string>
   <string name="icloud_how_to_backup_tip_summary">Da biste uvezli podatke iz iOS-a, morate izraditi iCloud Sig. kopiju.</string>

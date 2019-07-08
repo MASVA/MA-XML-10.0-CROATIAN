@@ -249,6 +249,7 @@
   <string name="original_price">Cijena</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
+  <string name="path_not_available">Putanja nije dostupna</string>
   <string name="pause_download">Pauza</string>
   <string name="paused">Pauzirano</string>
   <string name="paused_by_app">Pauzirano</string>

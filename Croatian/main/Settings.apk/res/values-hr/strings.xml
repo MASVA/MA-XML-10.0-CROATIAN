@@ -2658,7 +2658,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="every_day">Svaki dan</string>
   <string name="exchange_account">Promijeni račun</string>
   <string name="expand_button_title">Napredno</string>
-  <string name="expandable_under_keyguard_title">Prikaži na Zaklj. zaslonu</string>
+  <string name="expandable_under_keyguard_title">Proširivo na Zaklj. zaslonu</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Eksperimentalno</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
@@ -2964,7 +2964,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_setting_off">Isključeno</string>
   <string name="gesture_setting_on">Uključeno</string>
   <string name="gesture_w">Uzorak W</string>
-  <string name="gesture_wakeup_title">Dvaput dodirnite zaslon za buđenje</string>
+  <string name="gesture_wakeup_summary">Ova značajka radi kada je postavljena zadana ili klasična tema</string>
+  <string name="gesture_wakeup_title">Dvaput dodirnite za buđenje ili isključivanje zaslona</string>
   <string name="gesture_z">Uzorak Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -3544,6 +3545,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_profile_wipe_warning_content_pin">Ako pri ovom pokušaju unesete netočan PIN za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
   <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_profile_wipe_warning_title">Posljednji pokušaj</string>
+  <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
   <string name="lock_screen_intro_skip_dialog_text">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka ili krađe.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka, krađe ili brisanja podataka s njega.</string>
@@ -4442,12 +4444,12 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
   <string name="notifi_channels">Kategorije obavijesti</string>
   <string name="notifi_channels_other">Ostalo</string>
-  <string name="notifi_importance_default">Reproduciraj zvuk i prikaži na Zaklj. zaslonu.</string>
-  <string name="notifi_importance_high">Reproduciraj zvuk, prikaži na Zaklj. zaslonu, dopusti korištenje prikaza preko cijelog zaslona.</string>
-  <string name="notifi_importance_low">"Ne reproduciraj zvuk"</string>
-  <string name="notifi_importance_min">"Ne prikazuj na Zaklj. zaslonu, ne reproduciraj zvuk"</string>
-  <string name="notifi_importance_none">Isključeno</string>
-  <string name="notifi_importance_unspecified">Neka aplikacija odluči</string>
+  <string name="notifi_importance_default">Reproduciraj zvuk</string>
+  <string name="notifi_importance_high">Reproduciraj zvuk i prikaži na zaslonu</string>
+  <string name="notifi_importance_low">Prikaži tiho</string>
+  <string name="notifi_importance_min">Prikaži tiho i minimiziraj</string>
+  <string name="notifi_importance_none">Nikada ne prikazuj obavijesti</string>
+  <string name="notifi_importance_unspecified">Dopusti zvuk</string>
   <string name="notifi_no_channels">"Ova aplikacija još nije primila nijednu obavijest"</string>
   <string name="notification_app_settings_button">Postavke obavijesti</string>
   <string name="notification_badge_title">Dopusti točku obavijesti</string>
@@ -5344,6 +5346,8 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="quick_launch_title">Brzo pokretanje</string>
   <string name="quick_reply_title">Brzi odgovori</string>
   <string name="quick_settings_developer_tiles">Pločice brzih postavki za razvojne programere</string>
+  <string name="quick_settings_under_keyguard_summary">Omogući pristup brzim postavkama dok je uređaj zaključan</string>
+  <string name="quick_settings_under_keyguard_title">Pristup brzim postavkama</string>
   <string name="quick_settings_label">Prečaci</string>
   <string name="quiet">Ne ometaj</string>
   <string name="quiet_group">Ne ometaj</string>
@@ -5994,7 +5998,7 @@ Za prikvačivanje zaslona:
   <string name="search_status_bar">Obavijesti &amp; traka statusa;Obavijesti;Traka statusa;status;Obavijesti aplikacija;Položaj prečaca;Prečac;Prečaci;Brzina veze;Naziv operatera;Operater;Obavijest snimke zaslona;Snimka zaslona;Zaklj. zaslona</string>
   <string name="search_status_bar_settings">Obavijesti &amp; traka statusa;Obavijesti;Traka statusa</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi naziv operatera;Naziv operatera</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na Zaklj. zaslonu;prikaži na Zaklj. zaslonu</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Proširivo na Zaklj. zaslonu;proširivo na Zaklj. zaslonu</string>
   <string name="search_status_bar_settings_manage_notification">Obavijesti aplikacija;Obavijesti</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži naziv operatera;Naziv operatera</string>
   <string name="search_status_bar_settings_show_network_speed">Prikaži brzinu veze;brzina veze</string>
