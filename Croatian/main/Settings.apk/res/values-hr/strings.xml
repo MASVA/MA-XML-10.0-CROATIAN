@@ -2965,7 +2965,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_setting_on">Uključeno</string>
   <string name="gesture_w">Uzorak W</string>
   <string name="gesture_wakeup_summary">Ova značajka radi kada je postavljena zadana ili klasična tema</string>
-  <string name="gesture_wakeup_title">Dvaput dodirnite za buđenje ili isključivanje zaslona</string>
   <string name="gesture_z">Uzorak Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -3545,7 +3544,6 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_profile_wipe_warning_content_pin">Ako pri ovom pokušaju unesete netočan PIN za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
   <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_profile_wipe_warning_title">Posljednji pokušaj</string>
-  <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
   <string name="lock_screen_intro_skip_dialog_text">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka ili krađe.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka, krađe ili brisanja podataka s njega.</string>
