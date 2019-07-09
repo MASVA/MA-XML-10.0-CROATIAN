@@ -276,6 +276,10 @@
          <item quantity="other">%d fotografija ili videozapisa | Pauzirano</item>
          <item quantity="one">%d fotografija ili videozapis | Pauzirano</item>
      </plurals>
+	 <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
 	 <plurals name="slim_complete_photo_count">
          <item quantity="other">Optimizirano fotografija: %d</item>
          <item quantity="one">Optimizirana je %d fotografija</item>

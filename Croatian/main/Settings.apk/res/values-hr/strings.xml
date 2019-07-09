@@ -2964,7 +2964,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_setting_off">Isključeno</string>
   <string name="gesture_setting_on">Uključeno</string>
   <string name="gesture_w">Uzorak W</string>
-  <string name="gesture_wakeup_summary">Ova značajka radi kada je postavljena zadana ili klasična tema</string>
+  <string name="gesture_wakeup_summary">Možete dvaput dodirnuti za isključivanje zaslona kada se primijeni zadana ili klasična tema</string>
   <string name="gesture_z">Uzorak Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -4408,6 +4408,11 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="notch_force_black_desc">Kada je uključeno, područje ureza zaslona je crno</string>
   <string name="notch_force_black_title">Sakrij urez zaslona</string>
   <string name="notch_settings">Urez</string>
+  <string name="notch_style_mod_description">Mogućnosti prikaza ureza i trake statusa</string>
+  <string name="notch_style_mod_title">Sakrij urez</string>
+  <string name="notch_style_show">"Ne sakrivaj"</string>
+  <string name="notch_style_status_bar_inside">Sakrij bez pomicanja trake statusa</string>
+  <string name="notch_style_status_bar_outside">Sakrij i pomakni traku statusa</string>
   <string name="note_title">Bilješke</string>
   <string name="notes_privacy_password_role_instruction">Vaše privatne bilješke će biti pohranjene ovdje.</string>
   <string name="nothing_searched">Nema rezultata</string>
