@@ -3559,6 +3559,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_notifications_summary_show">Prikaži sve obavijesti i njihov sadržaj</string>
   <string name="lock_screen_notifications_summary_show_profile">Prikaži sav sadržaj obavijesti radnog profila</string>
   <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
+  <string name="lock_screen_settings_title">Zaklj. zaslon</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Nikada ne zahtijevaj zaporku.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebna zaporka za %1$s</string>
@@ -5014,7 +5015,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="pointer_settings_category">Miš/dodirna površina</string>
   <string name="pointer_speed">Brzina pokazivača</string>
-  <string name="popup_gesture_summary">Podignite telefon i pogledajte zaslon kako biste automatski otvorili prednju kameru</string>
+  <string name="popup_gesture_summary">Idi natrag na Početni zaslon, podignite telefon i pogledajte zaslon kako biste automatski otvorili prednju kameru</string>
   <string name="popup_gesture_title">Podignite telefon za otvaranje prednje kamere</string>
   <string name="popup_window">Ograniči plutajuće obavijesti</string>
   <string name="power_apps">Aplikacije</string>
@@ -7002,7 +7003,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="sync_now">Sinkroniziraj</string>
   <string name="sync_one_time_sync">"Dodirnite da biste odmah sinkronizirali %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli u Googleovu sinkronizaciju!&lt;/font&gt;"Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sastancima i drugim stavkama s bilo kojeg mjesta."</string>
-  <string name="sync_settings">Sinkronizacija</string>
+  <string name="sync_settings">Računi &amp; Sinkronizacija</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Samo na WLAN-u</string>
   <string name="system">Sustav</string>
@@ -8746,6 +8747,8 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira kontakte, fotografije i ostale stavke na vašim uređajima. \"Pronađi uređaj\" također zahtijeva da Mi Cloud radi normalno.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
+  <string name="xiaomi_cloud_service_description_contact">kontakti i</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Cloud sinkronizira vaše fotografije %s, radi sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
