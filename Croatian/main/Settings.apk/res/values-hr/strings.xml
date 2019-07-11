@@ -8697,10 +8697,17 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="winscope_trace_quick_settings_title">Winscope praćenje</string>
+  <string name="wireless_button">Bežično napunite druge uređaje</string>
+  <string name="wireless_charging_settings">Bežično napunite druge uređaje</string>
+  <string name="wireless_closed">Isključeno</string>
   <string name="wireless_connected">Povezano</string>
   <string name="wireless_networks_settings_title">Bežično &amp; mreže</string>
   <string name="wireless_off">Isključeno</string>
   <string name="wireless_on">Uključeno</string>
+  <string name="wireless_opened">Uključeno</string>
+  <string name="wireless_tip">"Koristite svoj telefon za bežično punjenje drugih uređaja.
+
+ Ova značajka će se automatski isključiti ako punjenje ne počne u roku od 90 sekundi."</string>
   <string name="wizard_back">Natrag</string>
   <string name="wizard_finish">Završi</string>
   <string name="wizard_next">Dalje</string>
