@@ -1633,11 +1633,13 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="recents_accessibility_split_screen_top">Podijeli zaslon na vrhu</string>
   <string name="recents_app_info_button_label">Informacije o aplikaciji</string>
   <string name="recents_caption_resize">Odaberite novi izgled zadatka</string>
+  <string name="recents_dimiss_task">Izbriši</string>
   <string name="recents_drag_hint_message">Pritisnite i zadržite aplikaciju, a zatim je povucite ovdje</string>
   <string name="recents_empty_message">Nema nedavnih stavki</string>
   <string name="recents_empty_message_dismissed_all">Uklonili ste sve stavke</string>
   <string name="recents_empty_message_multi_window">Otvorite aplikacije s Početnog zaslona</string>
   <string name="recents_exit_multi_window_mode">Izlaz</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">"Ne može se koristiti Podijeljeni zaslon tijekom emitiranja"</string>
   <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
   <string name="recents_launch_disabled_message">%s se ne može pokrenuti u sigurnom načinu rada.</string>
   <string name="recents_launch_error_message">"Ne mogu pokrenuti %s."</string>
@@ -1649,6 +1651,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="recents_quick_scrub_onboarding">Povucite udesno da biste brzo promijenili aplikaciju</string>
   <string name="recents_search_bar_label">Traži</string>
   <string name="recents_stack_action_button_label">Ukloni sve</string>
+  <string name="recents_task_screening">Emitiranje</string>
   <string name="recents_title_app_manager">Upravljaj aplikacijama</string>
   <string name="recents_title_game">Igre</string>
   <string name="recents_title_garbage_cleanup">Čistač</string>

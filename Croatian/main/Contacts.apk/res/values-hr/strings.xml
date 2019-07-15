@@ -264,7 +264,7 @@ Kartice kontakata su isključene"</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Odaberite način uvoza</string>
-  <string name="contact_is_deleted">Kontakt je izbrisan</string>
+  <string name="contact_is_deleted">Ovaj kontakt je izbrisan</string>
   <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
   <string name="contact_list_loading">"Učitavanje…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
@@ -1198,6 +1198,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="shortcutContact">Kontakt</string>
   <string name="shortcutDialContact">Izravan poziv</string>
   <string name="shortcutMessageContact">Izravna poruka</string>
+  <string name="shortcut_new_contact_label">Novi kontakt</string>
+  <string name="shortcut_scan_label">Skeniraj posjetnicu</string>
   <string name="showAllContactsJoinItem">"Prikaži sve kontakte"</string>
   <string name="simContacts_airplaneMode">"Za uvoz kontakata sa SIM kartice prvo isključite Zrakoplovni način."</string>
   <string name="simContacts_empty">"Nema kontakata na SIM kartici"</string>

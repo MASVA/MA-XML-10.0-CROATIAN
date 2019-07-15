@@ -26,6 +26,8 @@
   <string name="ok">U redu</string>
   <string name="save_content_tip">"Spremit će se sljedeće stavke: "</string>
   <string name="search">Traži</string>
+  <string name="settings_clear_data_confirmation_description">"Ako sada izbrišete zaporke, morat ćete ih unijeti ručno sljedeći put kada se prijavite.
+Izbrisati zaporku?"</string>
   <string name="settings_clear_data_confirmation_title">Brisanje zaporki</string>
   <string name="using_miui_autofill_message">Za automatski unos zaporke, MIUI će spremiti podatke o računu i zaporki na vaš uređaj.</string>
 </resources>

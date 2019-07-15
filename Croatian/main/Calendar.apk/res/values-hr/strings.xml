@@ -395,6 +395,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="preferences_home_tz_title">Domaća vremenska zona</string>
   <string name="preferences_notification_ringtone_title">Zvuk</string>
   <string name="preferences_popup_alert_smart_summary">MIUI će automatski odrediti koji su događaji najvažniji</string>
+  <string name="preferences_popup_alert_smart_summary_new">Vremenski osjetljivI događaji su događaji s točnim vremenom</string>
   <string name="preferences_popup_alert_smart_tips">"Zamijenite tradicionalne obavijesti skočnim upozorenjima kako biste izbjegli propuštanje važnih događaja. Skočna upozorenja neće se pojaviti kada igrate igre, gledate videozapise preko cijelog zaslona ili koristite način rada za automobil."</string>
   <string name="preferences_popup_alert_title">Skočna upozorenja</string>
   <string name="preferences_reminder_title">Obavijesti &amp; podsjetnici</string>
@@ -493,12 +494,14 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="setting_daysoff_update_net_err">"Nije moguće provjeriti ažuriranja. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="setting_daysoff_update_schedule">Ažuriranje…</string>
   <string name="setting_daysoff_update_success">Uspješno ažurirano</string>
+  <string name="setting_desc_import_todo">Uvezite raspoređene zadatke iz BilješkI</string>
   <string name="setting_features_title">Istaknute postavke</string>
   <string name="setting_holiday_display_desc">Kartica praznika koja se nalazi na početnoj strani Kalendara</string>
   <string name="setting_holiday_reminder">Podsjetnik praznika</string>
   <string name="setting_others">Dodatno</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
+  <string name="setting_title_import_todo">Uvezi zadatke</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="shortcut_new_event">Dodaj događaj</string>
   <string name="shortcut_next_agenda">Sljedeći događaj</string>
@@ -531,6 +534,8 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="today_at_time_fmt">Danas u %s</string>
   <string name="today_icon_voice_contentdescription">Natrag na danas</string>
   <string name="today_no_events">Nema događaja</string>
+  <string name="todo_audio_event">"[Glasovni zadatak] "</string>
+  <string name="todo_event">Nadolazeći zadaci</string>
   <string name="tomorrow">Sutra</string>
   <string name="tomorrow_at_time_fmt">Sutra u %s</string>
   <string name="too_long_content">Sadržaj je predugačak</string>

@@ -2968,6 +2968,18 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
+  <string name="system_permission_declare_agree">Slažem se</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
+  <string name="system_permission_declare_no_say_no">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći normalno raditi."</string>
+  <string name="system_permission_declare_privacy_declare">"Poštujemo i štitimo vašu privatnost.
+Imajte na umu da %1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja da normalno radi:"</string>
+  <string name="system_permission_declare_revoke_path">Možete deinstalirati tu aplikaciju, odjaviti se s računa ili upravljati svojim dopuštenjima i autorizacijama u Sigurnost &gt; Upravljj aplikacijama &gt; Dopuštenja &gt; Ostala dopuštenja.</string>
+  <string name="system_permission_declare_use_network">Povezivanje s mrežom</string>
+  <string name="system_permission_perm_answer_call">Upućivanje poziva</string>
+  <string name="system_permission_perm_read_mms">Čitanje MMS-a</string>
+  <string name="system_permission_perm_read_numbers">Čitanje telefonskih brojeva</string>
+  <string name="system_permission_perm_send_mms">Slanje MMS-a</string>
   <string name="system_check_content">Rizika %1$d</string>
   <string name="system_check_content_none">Sigurno</string>
   <string name="system_header_title">Čišćenjem %1$d procesa oslobođeno %2$s memorije</string>

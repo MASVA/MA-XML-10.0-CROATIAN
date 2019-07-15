@@ -263,6 +263,11 @@
         <item>Za sve događaje</item>
         <item>Za najvažnije događaje</item>
     </string-array>
+	<string-array name="prefEntries_alerts_popup_new">
+        <item>Isključeno</item>
+        <item>Za sve događaje</item>
+        <item>Za najvažnije događaje</item>
+    </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Uvijek</item>
         <item>Samo kada je zvono utišano</item>
@@ -490,4 +495,13 @@
         <item>svake četvrte srijede</item>
         <item>svake zadnje srijede</item>
      </string-array>
+	 <string-array name="year_view_week_header_name">
+        <item>N</item>
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
 </resources> 
