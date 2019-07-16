@@ -91,7 +91,6 @@
   <string name="printer_busy">Pisač je zauzet</string>
   <string name="printer_error">Pogreška pisača</string>
   <string name="printer_error_msg">Pogreška pisača:…%1$s</string>
-  <string name="printer_unavailable">%1$s – zadatak nije dostupan</string>
   <string name="printer_info_desc">Više informacija o ovom pisaču</string>
   <string name="printer_notification_error_title">"Nije moguće ispisati %1$s"</string>
   <string name="printer_unavailable">"Pisač nije dostupan"</string>
