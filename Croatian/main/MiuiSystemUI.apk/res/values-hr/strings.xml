@@ -876,6 +876,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne mogu promjeniti prostore kada su uključene roditeljske kontrole"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne mogu promjeniti prostore kada je Ultra štednja baterije uključena"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
@@ -1215,7 +1216,7 @@ snimke zaslona"</string>
   <string name="mobile_data">Mobilni podaci</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
-  <string name="mobile_data_disable_message">Nećete imati pristup mobilnim podacima ili internetu putem operatera %s. Internet će biti dostupan samo putem Wi-Fi-ja.</string>
+  <string name="mobile_data_disable_message">Nećete imati pristup mobilnim podacima ili internetu putem operatera %s. Internet će biti dostupan samo putem WLAN-a.</string>
   <string name="mobile_data_disable_message_default_carrier">vaš mobilni operater</string>
   <string name="mobile_data_disable_title">Želite li isključiti mobilne podatke?</string>
   <string name="mobile_data_text_format" formatted="false">%s – %s</string>
@@ -1380,10 +1381,10 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="okay">U redu</string>
   <string name="oldman_airplane_mode_text">Zrakoplov</string>
   <string name="oldman_incall_text">Natrag na poziv</string>
-  <string name="open_camera_hint_text">Povucite lijevo za Kamera</string>
+  <string name="open_camera_hint_text">Povucite ikonu za otvaranje Kamera</string>
   <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
-  <string name="open_lock_screen_magazine_hint_text">Povucite desno za više opcija</string>
-  <string name="open_remote_center_hint_text">Povucite desno za Telefon</string>
+  <string name="open_lock_screen_magazine_hint_text">Povucite ikonu za otvaranje Wallpaper Carousela</string>
+  <string name="open_remote_center_hint_text">Povucite ikonu da biste vidjeli kontrole</string>
   <string name="open_saver_setting_action">Postavke</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="other">Ostalo</string>
@@ -1391,8 +1392,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="output_none_found">Nije pronađen nijedan uređaj</string>
   <string name="output_none_found_service_off">Nije pronađen nijedan uređaj. Pokušajte uključiti uslugu %1$s</string>
   <string name="output_service_bt">Bluetooth</string>
-  <string name="output_service_bt_wifi">Bluetooth i Wi-Fi</string>
-  <string name="output_service_wifi">Wi-Fi</string>
+  <string name="output_service_bt_wifi">Bluetooth i WLAN</string>
+  <string name="output_service_wifi">WLAN</string>
   <string name="output_title">Medijski izlaz</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overview">Pregled</string>

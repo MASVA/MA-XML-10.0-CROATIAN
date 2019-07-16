@@ -379,6 +379,7 @@
   <string name="uninstall_xspace_dialog_title_format">Deinstalirati dvojnu \"%s\"?</string>
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="unnamed_folder_name">Mapa</string>
+  <string name="unstable_dialog_content">"Ovo je testna verzija sustava Android, te je podložna promjenama. Korištenje ove verzije uređena je licencnim ugovorom za pregled SDK za Android. Testna verzija sustava Android nije stabilno izdanje i može sadržavati pogreške i nedostatke koji mogu dovesti do oštećenja računalnih sustava, uređaja ili podataka. Testna verzija sustava Android ne podliježe istom testiranju kao tvornički OS i može uzrokovati prestanak rada ovog uređaja, instaliranih usluga ili aplikacija."</string>
   <string name="use_theme_screen_cells_title">Dopusti temi da poništi izgled zaslona</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>

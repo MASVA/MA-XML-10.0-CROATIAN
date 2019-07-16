@@ -33,6 +33,7 @@
   <string name="check_phone_io_error">"Ne mogu se povezati na mrežu</string>
   <string name="children_education">"Obrazovanje djece"</string>
   <string name="choose_currency">Odaberite valutu</string>
+  <string name="choose_radix">Odaberite brojčani sustav</string>
   <string name="choose_unit">Odaberite jedinicu</string>
   <string name="city">Grad</string>
   <string name="clear_history">Izbriši povijest</string>
@@ -43,6 +44,7 @@
   <string name="convertion_unit">Konverzija jedinica</string>
   <string name="convertion_unit_area">Konverzija površine</string>
   <string name="convertion_unit_length">Konverzija duljine</string>
+  <string name="convertion_unit_radix">Brojčani sustav</string>
   <string name="convertion_unit_temperature">Konverzija temperature</string>
   <string name="convertion_unit_time">Konverzija vremena</string>
   <string name="convertion_unit_velocity">Konverzija brzine</string>
@@ -161,6 +163,7 @@
   <string name="item_title_dress_size">Veličina odjeće</string>
   <string name="item_title_length_conversion">Duljina</string>
   <string name="item_title_mortgage">Kredit</string>
+  <string name="item_title_radix">Brojčani sustav</string>
   <string name="item_title_relationship">Uvjeti srodstva</string>
   <string name="item_title_scientific_calculator">Znanstveni</string>
   <string name="item_title_tax">Porez</string>

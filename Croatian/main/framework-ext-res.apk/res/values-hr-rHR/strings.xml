@@ -225,6 +225,8 @@
   <string name="turn_off">Isključi</string>
   <string name="twohours">1 sat</string>
   <string name="unknown_caller">Nepoznati broj</string>
+  <string name="user_switching_dialog_switch_into_kid_space">Promjena na Dječji prostor…</string>
+  <string name="user_switching_dialog_switch_out_kid_space">Izlaz iz Dječjeg prostora…</string>
   <string name="user_switching_dialog_text">Promjena…</string>
   <string name="voice_assistant_tips">Nadograđen na duži pritisak na tipke Power za uključivanje glasovnog asistenta</string>
   <string name="voice_begin">Što tražite?</string>
