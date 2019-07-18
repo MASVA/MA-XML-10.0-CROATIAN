@@ -322,6 +322,14 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Povezano %1$d osoba</item>
         <item quantity="one">%1$d osoba povezana</item>
      </plurals>
+	 <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Možete upisati do %d znakova</item>
+        <item quantity="one">Možete upisati do %d znak</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Enter at least %d characters</item>
+        <item quantity="one">Enter at least %d character</item>
+    </plurals>
      <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN mora sadržavati %d znamenaka</item>
         <item quantity="one">PIN mora sadržavati %d znamenku</item>

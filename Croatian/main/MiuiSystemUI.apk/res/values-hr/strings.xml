@@ -1206,12 +1206,12 @@ snimke zaslona"</string>
   <string name="miui_ringer_total">DND</string>
   <string name="miui_ringer_total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="miui_screen_rotation_freeze_message">Autom. rotacija onemogućena.</string>
-  <string name="miui_toast_zen_dnd_to_off">Zvukovi i vibracije vraćeni su u normalu</string>
-  <string name="miui_toast_zen_standard_to_off">Melodije zvona vraćene su u normalu</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
-  <string name="miui_toast_zen_to_dnd">Zvukovi utišani i vibracija isključena</string>
-  <string name="miui_toast_zen_to_standard">Melodije zvona za pozive i obavijesti utišane</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Melodije zvona, kao i obavijesti i zvukovi medija, bit će utišani.</string>
+  <string name="miui_toast_zen_dnd_to_off">Ne ometaj je isključeno. Zvukovi i vibracije vraćeni su u normalu.</string>
+  <string name="miui_toast_zen_standard_to_off">Ne ometaj je isključeno. Melodije zvona vraćene su u normalu.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Ne ometaj je isključeno. Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
+  <string name="miui_toast_zen_to_dnd">Ne ometaj je uključeno. Zvukovi su utišani i vibracija je isključena.</string>
+  <string name="miui_toast_zen_to_standard">Ne ometaj je uključeno. Melodije zvona za pozive i obavijesti utišane</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Ne ometaj je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Mobilni podaci</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
@@ -1384,7 +1384,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="open_camera_hint_text">Povucite ikonu za otvaranje Kamera</string>
   <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
   <string name="open_lock_screen_magazine_hint_text">Povucite ikonu za otvaranje Wallpaper Carousela</string>
-  <string name="open_remote_center_hint_text">Povucite ikonu da biste vidjeli kontrole</string>
+  <string name="open_remote_center_hint_text">Povucite ikonu za prikaz prečaca</string>
   <string name="open_saver_setting_action">Postavke</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="other">Ostalo</string>

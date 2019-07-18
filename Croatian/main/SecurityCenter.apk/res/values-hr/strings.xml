@@ -647,6 +647,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="call_blacklist">Lista blokiranih poziva</string>
   <string name="call_cloud_block">Cloud presretanje</string>
   <string name="call_contact_block">Presretanje kontakata</string>
+  <string name="call_delete_all_hint">Izbrisati sve blokirane pozive?</string>
   <string name="call_delete_hint">Izbrisati sve blokirane pozive s tog broja?</string>
   <string name="call_delete_title">Izbriši povijest poziva</string>
   <string name="call_oversea_block">Blokiraj pozive iz inozemstva</string>

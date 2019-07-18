@@ -2965,6 +2965,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_setting_on">Uključeno</string>
   <string name="gesture_w">Uzorak W</string>
   <string name="gesture_wakeup_summary">Možete dvaput dodirnuti za isključivanje zaslona kada se primijeni zadana ili klasična tema</string>
+  <string name="gesture_wakeup_title">Dvaput dodirnite za buđenje ili isključivanje zaslona</string>
   <string name="gesture_z">Uzorak Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -3346,6 +3347,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keywords_wifi_calling">WLAN, wlan, poziv, pozivanje</string>
   <string name="keywords_write_settings">pisanje izmjena postavki sustava</string>
   <string name="keywords_zen_mode_settings">dnd, raspored, obavijesti, blokiranje, tišina, vibracija, mirovanje, rad, fokus, zvuk, utišano, dan, dan u tjednu, vikend, noć tijekom tjedna, događaj</string>
+  <string name="kid_space_settings">Dječji prostor</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="lab_functions_title">Beta značajke</string>
