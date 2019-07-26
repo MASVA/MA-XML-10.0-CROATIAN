@@ -1246,6 +1246,28 @@
         <item>Optimizirano za kvalitetu veze (330 kbps/303 kbps)</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
     </string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Kratka latencija</item>
+        <item>Srednja latencija</item>
+        <item>Duga latencija</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Kratka latencija (50~100ms)</item>
+        <item>Srednja latencija (150~200ms)</item>
+        <item>Duga latencija (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimizirano za kvalitetu veze</item>
+        <item>Uravnotežena kvaliteta audioreprodukcije i veze</item>
+        <item>Optimizirano za kvalitetu audioreprodukcije</item>
+        <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizirano za kvalitetu veze (400kbps)</item>
+        <item>Uravnotežena kvaliteta audioreprodukcije i veze (500/560kbps)</item>
+        <item>Optimizirano za kvalitetu audioreprodukcije (900kbps)</item>
+        <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Upotreba odabira sustava (zadano)</item>
         <item>44,1 kHz</item>
@@ -1267,7 +1289,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptive audio</item>
+		<item>Qualcomm® aptX™ Adaptivni audio</item>
+		<item>LHDC</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
     </string-array>
@@ -1278,6 +1301,7 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+		<item>LHDC</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
     </string-array>

@@ -653,6 +653,8 @@ Audio"</string>
   <string name="chose_product_summary">Nazovite jeftinije</string>
   <string name="chose_product_title">Paket nadoplate</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
+  <string name="clear_all_set_button">Očisti postavke</string>
+  <string name="clear_all_set_title">Ova tipka je za čišćenje svih postavki</string>
   <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM je jednak ili veći od ACMmax</string>
   <string name="clh_callFailed_access_information_discarded_txt">Informacije o pristupu su odbačene</string>
   <string name="clh_callFailed_bearer_capability_not_authorized_txt">Kapacitet nositelja nije odobren</string>
@@ -1024,6 +1026,8 @@ Audio"</string>
   <string name="entertainment_news_settings">Vijesti iz svijeta zabave</string>
   <string name="eo_disable">Onemogućene su Prilike za zapošljavanje</string>
   <string name="eo_enable">Omogućene su Prilike za zapošljavanje</string>
+  <string name="eps_only_set_button">Postavi eps samo</string>
+  <string name="eps_only_set_title">Ova tipka je za postavljanje eps samo</string>
   <string name="error_type_account_201">Nedovoljno sredstava</string>
   <string name="error_type_account_203">"Vrsta broja koji ste birali nije podržan"</string>
   <string name="error_type_account_208">"Ne mogu dovršiti poziv na ovaj broj"</string>
@@ -2399,10 +2403,10 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="volte_provision_title">Aktiviraj VoLTE pozive</string>
   <string name="volte_switch_not_support_summary">"VoLTE pozivi nisu podržani za mobilne podatke SIM kartice."</string>
   <string name="volte_switch_not_support_summary2">"VoLTE pozivi nisu podržani od strane operatera."</string>
-  <string name="volte_switch_summary">Koristite VoLTE kako bi poboljšali kvalitetu glasovnih i videopoziva</string>
+  <string name="volte_switch_summary">Koristite VoLTE za poboljšanje kvalitete govornih poziva</string>
   <string name="volte_switch_summary2">Potvrdite da vaš mobilni operater podržava tu značajku prije uključivanja. Inače može utjecati na redovne pozive.</string>
-  <string name="volte_switch_title">VoLTE omogućen</string>
-  <string name="volte_switch_title_ct">VoLTE omogućen</string>
+  <string name="volte_switch_title">Koristite VoLTE</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Usluge tvrtke China Telecom VoLTE pružaju se samo u područjima s pokrivenošću LTE mreže. VoLTE usluge pruža mobilni operater.</string>
   <string name="vowifi_emergency_notification_channel">WLAN Pozivanje upozorenja u slučaju nužde</string>
   <string name="vowifi_emergency_notification_content">Hitni pozivi dostupni su samo u staničnoj pokrivenosti.</string>

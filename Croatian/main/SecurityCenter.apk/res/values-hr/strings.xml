@@ -35,7 +35,7 @@
   <string name="ac_pre_notification_contentText">Zaštitite svoje osobne podatke</string>
   <string name="ac_pre_notification_contentTitle">Isprobajte Zaklj. aplikacija</string>
   <string name="ac_summaryOff">Isključeno, zaporka nije potrebna za otvaranje aplikacije</string>
-  <string name="ac_summaryOn">Uključeno, potrebna je zaporka za otvaranje aplikacije</string>
+  <string name="ac_summaryOn">Unesite zaporku za otvaranje zaštićenih aplikacija</string>
   <string name="ac_unmask_all_apps">Prikaži za sve aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se pokreće</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Unesite zaporku prije otključavanja novim otiskom prsta</string>
@@ -119,6 +119,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
   <string name="alert_back_diving_mode_summary">Isključiti Interaktivan način?</string>
   <string name="alert_back_diving_mode_title">Interaktivan način</string>
+  <string name="alert_back_milink_hangup_tips_content">"Emitiranje se neće prekinuti dok završite poziv. Možete pritisnuti gumb za napajanje da biste probudili zaslon."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
   <string name="already_close_gamebooster">Ubrzanje brzine igranja je isključeno</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
@@ -1238,6 +1239,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_immersion_tips_content">Interaktivan način ograničava sve funkcionalnosti SIM kartice, osim mobilne podatkovne veze. Nećete biti prekinuti pozivima niti primati obavijesti o propuštenim pozivima. Sve značajke SIM kartice bit će vraćene nakon isključivanja Interaktivnog načina. Uključiti Interaktivan način?</string>
   <string name="gamebox_immersion_tips_title">Pažnja</string>
   <string name="gamebox_immerson_open">"Uključivanje Interaktivnog načina, ne mjenjajte mreže…"</string>
+  <string name="gamebox_milink">Emitiranje</string>
   <string name="gamebox_positive_button_text">U redu (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije koje rade s prečacima nisu instalirane"</string>
@@ -1854,8 +1856,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napunjena.</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
-  <string name="notification_mask_summary">"Sakrij sadržaj obavijesti na Zaklj. zaslonu i Panelu obavijesti"</string>
-  <string name="notification_mask_title">Sakrij sadržaj</string>
+  <string name="notification_mask_summary">"Ne prikazuje sadržaj obavijesti za zaštićene aplikacije"</string>
+  <string name="notification_mask_title">Sakrij sadržaj obavijesti</string>
   <string name="notification_masked_item">Sakrij obavijesti</string>
   <string name="notification_masked_subtitle">Sakrij obavijesti iz aplikacija zaštićenih sa Zaklj. aplikacija</string>
   <string name="notification_open_extreme_mode_text">Ekstremna Štednja baterije je uključena</string>
@@ -2007,6 +2009,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="other">Ostalo</string>
   <string name="other_exception_summary">"Nemate povezivanja s internetom"</string>
   <string name="other_exception_title">Provjera drugih problema</string>
+  <string name="other_milink_connect">"Ne mogu emitirati. Sada se emitira druga značajka."</string>
   <string name="package_change_notification_summary">Dodirnite da saznate više.</string>
   <string name="package_change_notification_title">Postavite ograničenje podataka automatski</string>
   <string name="package_setted_error_notification_summary">Dodirnite za prikaz detalja o uporabi podataka.</string>
@@ -2459,6 +2462,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="preferred_app_entries_messaging">Poruke</string>
   <string name="preferred_app_entries_music">Glazba</string>
   <string name="privacy_apps">Skrivene aplikacije</string>
+  <string name="privacy_apps_begin_use">Start</string>
+  <string name="privacy_apps_button_know">Razumijem</string>
   <string name="privacy_apps_category_title">Skrivene aplikacije</string>
   <string name="privacy_apps_checkbox_remind_choice">"Ne prikazuj ponovno"</string>
   <string name="privacy_apps_close">Zatvori</string>
@@ -2467,7 +2472,11 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_apps_manage">Upravljaj Skrivenim aplikacijama</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
+  <string name="privacy_apps_next_stup">Dalje</string>
+  <string name="privacy_apps_shield_message_summary">"Ne prikazuj obavijesti zaštićenih aplikacija"</string>
+  <string name="privacy_apps_shield_message_title">"Ne prikazuj obavijesti"</string>
   <string name="privacy_apps_tutorial">Tutorijal</string>
+  <string name="privacy_apps_tutorial_dlg_title">Kako pronaći skrivene aplikacije</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Ova značajka omogućuje vam skrivanje ikona aplikacija kako se više ne bi pojavljivale na Početnom zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Nakon unosa zaporke pojavit će se mapa s skrivenim aplikacijama.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Raširite dva prsta na zaslonu. Vidjet ćete poruku koja traži da unesete zaporku za Zaklj. aplikacije."</string>
@@ -2895,6 +2904,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="status_bar_network_flow_setup_data_plan">"   Postavi podatkovni plan &gt;"</string>
   <string name="status_bar_network_flow_today">Danas: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
+  <string name="stop_milink_connect">Emitiranje je zaustavljeno</string>
   <string name="stop_app_button">Zaustavi</string>
   <string name="suffix_pay_risk_count_bottom">rizika</string>
   <string name="suffix_pay_risk_count_top">plaćanje</string>
@@ -2997,13 +3007,20 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_app">Aplikacije sustava</string>
   <string name="system_application">Aplikacije sustava</string>
   <string name="system_permission_declare_agree">Slažem se</string>
+  <string name="system_permission_declare_disagree">Ne slažem se</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Ako odlučite ne dati potrebna dopuštenja ili nam ne dopustite da prikupljamo i koristimo vaše podatke, ova aplikacija neće moći normalno raditi."</string>
   <string name="system_permission_declare_privacy_declare">"Poštujemo i štitimo vašu privatnost.
 Imajte na umu da %1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja da normalno radi:"</string>
-  <string name="system_permission_declare_revoke_path">Možete deinstalirati tu aplikaciju, odjaviti se s računa ili upravljati svojim dopuštenjima i autorizacijama u Sigurnost &gt; Upravljj aplikacijama &gt; Dopuštenja &gt; Ostala dopuštenja.</string>
+  <string name="system_permission_declare_privacy_no_permission">"Imajte na umu da %1s mora prikupiti vaše podatke da normalno radi.
+Poštujemo i štitimo vašu privatnost."</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_revoke_system">Možete izaći iz ove aplikacije.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Možete deinstalirati tu aplikaciju ili upravljati svojim dopuštenjima i autorizacijama u Sigurnost &gt; Upravljaj aplikacijama &gt; Dopuštenja &gt; Ostala dopuštenja.</string>
   <string name="system_permission_declare_use_network">Povezivanje s mrežom</string>
+  <string name="system_permission_declare_use_network_no_permission">Poveži se s mrežom</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Pročitajte i složite se s našim &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; prije korištenja ove značajke.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Upućivanje poziva</string>
   <string name="system_permission_perm_read_mms">Čitanje MMS-a</string>
   <string name="system_permission_perm_read_numbers">Čitanje telefonskih brojeva</string>

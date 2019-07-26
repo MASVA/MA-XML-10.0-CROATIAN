@@ -91,7 +91,9 @@
   <string name="category_photo">Fotografije</string>
   <string name="category_picture">Slike</string>
   <string name="category_recent">Nedavno</string>
+  <string name="category_source">Izvor</string>
   <string name="category_theme">Teme</string>
+  <string name="category_time">Vrijeme</string>
   <string name="category_type_document">Dokumenti</string>
   <string name="category_type_meida">Mediji</string>
   <string name="category_type_other">Ostalo</string>
@@ -160,6 +162,7 @@
   <string name="copy_file_to_midrive">Kopiraj datoteku na Mi Drive</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_to">Kopiraj u…</string>
+  <string name="create_folder">Izradi</string>
   <string name="count_down">Odbrojavanje: %1$s</string>
   <string name="create_shortcut_success">Prečac uspješno dodan</string>
   <string name="daily_clockin">Prijavi se</string>
@@ -219,6 +222,14 @@
   <string name="directory_no_item">Prazno</string>
   <string name="disk_available">Dostupno: </string>
   <string name="disk_total">Ukupno: </string>
+  <string name="doc_all">Sve</string>
+  <string name="doc_epub">EPUB</string>
+  <string name="doc_pdf">PDF</string>
+  <string name="doc_ppt">PPT</string>
+  <string name="doc_txt">TXT</string>
+  <string name="doc_word">DOC</string>
+  <string name="doc_wps">WPS</string>
+  <string name="doc_xls">XLS</string>
   <string name="dislike_toast">"Takvi videozapisi neće biti preporučeni za vas."</string>
   <string name="dislike_video">"Nisam zainteresiran"</string>
   <string name="dlg_error_unmount_text">"Ne mogu ukloniti USB pohranu."</string>
@@ -329,6 +340,7 @@
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
   <string name="home_action_up">Natrag</string>
+  <string name="home_title">Datoteke</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_file_view_phone">Pohrana</string>
@@ -433,6 +445,7 @@
   <string name="message_reply_prefix">Odgovor</string>
   <string name="message_title">Moje poruke</string>
   <string name="mi_router_label">Router</string>
+  <string name="mi_share">MiShare</string>
   <string name="midrive_network_connect_confirm">Mi Drive treba povezivanje s internetom da radi normalno.</string>
   <string name="midrive_space_full">Nema dovoljno prostora na Mi Drive-u.</string>
   <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
@@ -467,7 +480,7 @@
   <string name="mobile_photo">Fotografije</string>
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">"Ne mogu izrezati"</string>
+  <string name="move_failed">"Ne mogu premjestiti stavke"</string>
   <string name="move_failed_retry">"Ne mogu izrezati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="move_icon_to_desktop_hint">Napravi prečac aplik. Datoteke na Poč. zaslonu za učinkovitije upravljanje datotekama.</string>
   <string name="move_icon_to_desktop_success">Prečac dodan na Poč. zaslon</string>
@@ -611,6 +624,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_favorite">Favoriti</string>
   <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
   <string name="operation_info">Detalji</string>
+  <string name="operation_move">Premjesti</string>
   <string name="operation_like">Sviđa mi se</string>
   <string name="operation_move">Izreži</string>
   <string name="operation_moving">Premještanje…</string>
@@ -632,6 +646,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_show_privacy_policy">Prikaži pravila o privatnosti</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Odznači</string>
+  <string name="otg_file_security_confirm">Kopiraj na telefon</string>
+  <string name="otg_file_security_details">Kopiraj na telefon</string>
+  <string name="otg_file_security_note">OTGSigurnost</string>
   <string name="operation_unlike">Odznači</string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
@@ -701,6 +718,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="popup_msg_wb">Cool videozapis? Podijelite ga s vašim Weibo prijateljima!</string>
   <string name="popup_msg_wx">Podijelite ovaj videozapis s vašim WeChat prijateljima.</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
+  <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="pretty_girl">Žena</string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skriveno</string>
@@ -890,6 +908,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="smb_loading">Samo trenutak…</string>
   <string name="sort_size_asc">Manje prema većem</string>
   <string name="sort_size_desc">Veće prema manjem</string>
+  <string name="start_doc">Datoteke</string>
+  <string name="start_phone">Pohrana</string>
   <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
@@ -914,6 +934,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="swap_tip_2">da gledate druge dostupne</string>
   <string name="subtitle_report_video">Šalje %1$s</string>
   <string name="sys_size_enable">" videozapise"</string>
+  <string name="tab_app">Više</string>
   <string name="system_alert">Internet povezivanje</string>
   <string name="system_sticker_control">Prikaži popularne videozapise</string>
   <string name="system_sticker_control_tip">Prikaži popularne naljepnice u Datotekama</string>
@@ -943,6 +964,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="tab_storage">POHRANA</string>
   <string name="tag_weixin_video">Video isječci</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_select_all">Odaberi sve</string>
+  <string name="text_select_nothing">Poništi odabir</string>
   <string name="tip">Pažnja</string>
   <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>

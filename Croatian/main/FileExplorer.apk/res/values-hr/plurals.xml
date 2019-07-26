@@ -348,6 +348,11 @@
          <item quantity="other">Prijavljeni %1$s dana za redom, nastavite tako!</item>
          <item quantity="one">Prijavljen %1$s dan za redom, nastavite tako!</item>
      </plurals>
+	 <plurals name="text_group_count">
+        <item quantity="other">%d stavki</item>
+        <item quantity="zero"> %1$d stavki</item>
+        <item quantity="one">%d stavka</item>
+    </plurals>
      <plurals name="total_topic_num">
          <item quantity="other">Tema: %1$s</item>
          <item quantity="one">%1$s tema</item>

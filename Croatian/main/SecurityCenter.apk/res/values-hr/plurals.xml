@@ -545,12 +545,12 @@
         <item quantity="one">    +%1$d više znak</item>
     </plurals>
 	 <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d aplikacija može biti skriveno</item>
-        <item quantity="one">%d aplikacija može biti skrivena</item>
+        <item quantity="other">Ikona početnog zaslona skrivena za %d aplikacija</item>
+        <item quantity="one">Ikona početnog zaslona skrivena za %d aplikaciju</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d aplikacija je skriveno</item>
-        <item quantity="one">%d aplikacija je skrivena</item>
+        <item quantity="other">"Ikona početnog zaslona nije skrivena za %d aplikacija"</item>
+        <item quantity="one">"Ikona početnog zaslona nije skrivena za %d aplikaciju"</item>
     </plurals>
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d aplikacija se mogu prikazivati na pogrešan način. Ograničite plutajuće obavijesti.</item>

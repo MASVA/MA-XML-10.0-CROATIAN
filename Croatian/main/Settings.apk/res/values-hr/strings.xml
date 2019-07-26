@@ -1044,6 +1044,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su, primjerice, neprihvatljiva glasnoća ili nepostojanje kontrole.</string>
   <string name="bluetooth_disable_inband_ringing">Onemogući in-band zvonjavu</string>
   <string name="bluetooth_disable_inband_ringing_summary">Ne reproduciraj prilagođene melodije zvona za Bluetooth slušalice</string>
+  <string name="bluetooth_disable_mi_fast_connect">Onemogući Mi Fast Connect</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogući značajku Mi Fast Connect</string>
   <string name="bluetooth_disable_profile_message">To će onemogućiti:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na uređaju:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Onemogućiti profil?</string>
   <string name="bluetooth_disabled">Onemogućeno</string>
@@ -1201,6 +1203,12 @@ Audio: način kanala"</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Kodek za Bluetooth Audio LDAC: kvaliteta reprodukcije</string>
   <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Pokreni odabir kodeka za Bluetooth Audio
 LDAC: kvaliteta reprodukcije"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Kodek za Bluetooth Audio LHDC: Latencija</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Pokreni odabir kodeka za Bluetooth Audio LHDC:
+Latencija"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Kodek za Bluetooth Audio LHDC: Kvaliteta reprodukcije</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Pokreni odabir kodeka za Bluetooth Audio LHDC:
+Kvaliteta reprodukcije"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Brzina uzorka za Bluetooth Audio</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Pokreni odabir kodeka za Bluetooth
 Audio: brzina uzorkovanja"</string>
@@ -1344,6 +1352,14 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="bt_ldac_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Značajke</string>
+  <string name="bt_lhdc_declaration">Kada Bluetooth uređaj podržava LHDC, bit će povezan prema zadanim postavkama. LHDC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera..</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije
+Ova se značajka može isključiti u [Postavke]"</string>
+  <string name="bt_lhdc_dialog_title">Trenutni uređaj podržava LHDC, koji je povezan po standardnom:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera.</string>
+  <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Značajke</string>
   <string name="bt_ldac_remember_choice">Zapamti izbor</string>
   <string name="bt_ldac_settings">Postavke</string>
   <string name="bt_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
@@ -2983,6 +2999,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="google_wallet">Google novčanik</string>
   <string name="got_it">Shvaćam</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
+  <string name="gxzw_add_fingerprint_area">Skener otiska prsta</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>

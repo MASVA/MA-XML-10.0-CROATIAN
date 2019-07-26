@@ -171,7 +171,6 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
   <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
   <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>
-  <string name="recover_from_micloud">Vrati Sig. kopiju iz Mi Clouda</string>
   <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
   <string name="recover_miui_settings">Vrati postavke sustava</string>
   <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
@@ -213,6 +212,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">"Ne mogu vratiti"</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
+  <string name="restoring_data">Vraćanje podataka…</string>
   <string name="restoring_file_title_no_progress">Vraćanje datoteka…</string>
   <string name="restoring_settings">Vraćanje postavki…</string>
   <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>

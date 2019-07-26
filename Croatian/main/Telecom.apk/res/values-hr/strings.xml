@@ -325,6 +325,7 @@ Audio"</string>
   <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke za sigurnosnu kopiju</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="media_category">Mediji</string>
+  <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
   <string name="mock_location_app">Odabir aplikacije za lažnu lokaciju</string>
