@@ -1044,8 +1044,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su, primjerice, neprihvatljiva glasnoća ili nepostojanje kontrole.</string>
   <string name="bluetooth_disable_inband_ringing">Onemogući in-band zvonjavu</string>
   <string name="bluetooth_disable_inband_ringing_summary">Ne reproduciraj prilagođene melodije zvona za Bluetooth slušalice</string>
-  <string name="bluetooth_disable_mi_fast_connect">Onemogući Mi Fast Connect</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogući značajku Mi Fast Connect</string>
+  <string name="bluetooth_disable_mi_fast_connect">Onemogući Mi Link</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogući značajku Mi Link</string>
   <string name="bluetooth_disable_profile_message">To će onemogućiti:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na uređaju:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Onemogućiti profil?</string>
   <string name="bluetooth_disabled">Onemogućeno</string>
@@ -3953,6 +3953,7 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="mi_service">Mi Usluga</string>
   <string name="mi_service_app_detail">Pojedinosti uporabe podataka</string>
   <string name="mi_shopping_mall">Mi Store</string>
+  <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>

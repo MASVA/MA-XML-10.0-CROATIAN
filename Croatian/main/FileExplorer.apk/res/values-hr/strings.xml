@@ -13,6 +13,7 @@
   <string name="add_follow">Prati</string>
   <string name="add_private">Sakrij datoteke sada</string>
   <string name="add_private_files">Dodaj datoteke</string>
+  <string name="app_function">Upravljanje datotekama na vašem uređaju</string>
   <string name="add_task">Dodaj zadatak</string>
   <string name="all_topic">Sve teme</string>
   <string name="apk_installing">Instaliranje…</string>
@@ -259,6 +260,7 @@
   <string name="error_create_dir">"Ne mogu napraviti mapu"</string>
   <string name="error_create_file">"Ne mogu napraviti datoteku"</string>
   <string name="error_delete_failed">"Ne mogu izbrisati datoteku"</string>
+  <string name="error_file_already_exists">Ova datoteka već postoji</string>
   <string name="error_filename_too_long">Naziv je predugačak.</string>
   <string name="error_folder_already_exists">Ova datoteka već postoji</string>
   <string name="error_info_cant_send_folder">"Ne mogu slati ovu vrstu datoteke."</string>
@@ -323,6 +325,9 @@
   <string name="ftp_transfer_secure">Sigurnost</string>
   <string name="ftp_username_and_passworld">Prijavi se</string>
   <string name="ftp_username_hint">Korisničko ime</string>
+  <string name="function_file_operation">"Za pristup i otvaranje datoteka; "</string>
+  <string name="function_set_private">"Za pregled i šifriranje datoteka; "</string>
+  <string name="function_use_imei">"Za pristup IMEI i šifriranje datoteka; "</string>
   <string name="full_gems">Razmijenite svoje dragulje</string>
   <string name="gbk_summary">Pojednostavljeni kineski Windows zadano kodiranje</string>
   <string name="gbk_title">GBK</string>
@@ -340,7 +345,7 @@
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
   <string name="home_action_up">Natrag</string>
-  <string name="home_title">Datoteke</string>
+  <string name="home_title">Upravitelj datoteka</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pohrana</string>
   <string name="homepage_tab_file_view_phone">Pohrana</string>
