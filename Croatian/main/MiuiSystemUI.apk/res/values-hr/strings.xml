@@ -1383,8 +1383,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="oldman_incall_text">Natrag na poziv</string>
   <string name="open_camera_hint_text">Povucite ikonu za otvaranje Kamera</string>
   <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
-  <string name="open_lock_screen_magazine_hint_text">Povucite ikonu za otvaranje Wallpaper Carousela</string>
-  <string name="open_remote_center_hint_text">Povucite ikonu za prikaz prečaca</string>
+  <string name="open_lock_screen_magazine_hint_text">Povucite udesno za otvaranje prečaca</string>
+  <string name="open_remote_center_hint_text">Povucite udesno za više opcija</string>
   <string name="open_saver_setting_action">Postavke</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="other">Ostalo</string>
