@@ -258,6 +258,7 @@
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje.</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="no_space_toast">Nema dovoljno prostora</string>
+  <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
   <string name="normal_wallpaper">Slika pozadine</string>
   <string name="notification_installed">Uspješno instalirano</string>
   <string name="notification_open_button">Otvori</string>

@@ -1353,8 +1353,8 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Značajke</string>
   <string name="bt_lhdc_declaration">Kada Bluetooth uređaj podržava LHDC, bit će povezan prema zadanim postavkama. LHDC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera..</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC pruža visoko kvalitetno audio iskustvo i također donosi veću potrošnju energije
-Ova se značajka može isključiti u [Postavke]"</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC pruža visoko kvalitetno audio iskustvo, ali također povećava potrošnju energije.
+Ova se značajka može isključiti u Postavkama"</string>
   <string name="bt_lhdc_dialog_title">Trenutni uređaj podržava LHDC, koji je povezan po standardnom:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera.</string>
   <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
@@ -2935,6 +2935,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="fsg_mistake_touch_summary">U nekim prizorima, kao što su igre i videozapisi na cijelom zaslonu, geste moraju biti dvostrukim povlačenjem da imaju efekat</string>
   <string name="fsg_mistake_touch_title">Dvaput provjeri za geste</string>
   <string name="full_screen_display">Cijeli zaslon</string>
+  <string name="full_screen_keyboard_optimization">Poboljšajte tipkovnicu</string>
   <string name="full_transparent_smarrcover_title">Prozirni prednji poklopac</string>
   <string name="fullbackup_data_summary">"Daljinski pokrenite automatsku izradu sigurnosne kopije podataka uređaja (kao što su zaporke WLAN-a i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
 
@@ -3176,6 +3177,16 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_assistance">Pomoć pri unosu</string>
   <string name="input_hint_prefix">Unesi %1$s</string>
   <string name="input_method">Tipkovnica</string>
+  <string name="input_method_function_clipboard">Međuspremnik i česte fraze</string>
+  <string name="input_method_function_clipboard_des">Dodirnite za pregled sadržaja međuspremnika i čestih fraza</string>
+  <string name="input_method_function_no_function">Ništa</string>
+  <string name="input_method_function_no_function_des">"Ne prikazuj nikakve prečace"</string>
+  <string name="input_method_function_switch">Promjeni tipkovnice</string>
+  <string name="input_method_function_switch_des">Dodirnite za prelazak na drugu tipkovnicu</string>
+  <string name="input_method_function_voice">Glasovni unos</string>
+  <string name="input_method_function_voice_des">Dodirnite za upotrebu glasovnog unosa</string>
+  <string name="input_method_function_xiaoai">Mi AI Glasovni unos</string>
+  <string name="input_method_function_xiaoai_des">Dodirnite za upotrebu Mi AI glasovnog unosa</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
   <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
@@ -3429,6 +3440,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="led_frequence_summary">Postavite interval treptaja</string>
   <string name="led_pulse_summary">Pulsno svjetlo obavijesti pri primanju nove obavijesti</string>
   <string name="led_settings">Svjetlo obavijesti</string>
+  <string name="left_function_key">Lijevi prečac</string>
   <string name="legacy_dhcp_client">Upotrebljavaj stari DHCP klijent</string>
   <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
   <string name="legal_information">Pravne informacije</string>
@@ -4425,6 +4437,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="noise_suppression">Utišavanje okolne buke</string>
   <string name="none">Ništa</string>
   <string name="normal">Normalna</string>
+  <string name="normal_bottom_height_of_keyboard">Normalno</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_info">Svi zvukovi će raditi normalno</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
@@ -5111,6 +5124,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_usage_old_debug">%1$s lijevo (Old est)</string>
   <string name="power_usage_summary">Što troši bateriju</string>
   <string name="power_usage_summary_title">Baterija &amp; performanse</string>
+  <string name="power_usage_summary_title_new">Baterija &amp; performanse</string>
   <string name="power_user">Korisnik</string>
   <string name="power_wifi">WLAN</string>
   <string name="pre_installed_application">Predinstalirane aplikacije</string>
@@ -5464,6 +5478,9 @@ UT sučelje: %5$s"</string>
   <string name="radio_info_toggle_dns_check_label">Sažmi DNS provjeru</string>
   <string name="radio_info_ul_kbps">UL propusnost (kbps):</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovne mreže:</string>
+  <string name="raise_bottom_height_of_keyboard">Poboljšano</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Traka s prilagodljivim prečacima pojavit će se ispod tipkovnice ako pređete na poboljšani način rada</string>
+  <string name="raise_bottom_height_of_keyboard_title">Prilagodite tipkovnicu za prikaz na cijelom zaslonu</string>
   <string name="rank_title">Poredak</string>
   <string name="rarely_running">Rijetko se izvodi (%s)</string>
   <string name="read_encrypt_fail">"Ne mogu pročitati šifriranu Sig. kopiju"</string>
@@ -5608,6 +5625,7 @@ UT sučelje: %5$s"</string>
   <string name="retry">"Pokušajte ponovno"</string>
   <string name="reverse_all">Poništi odabir</string>
   <string name="rgb_manage_facerecoginition_text">Upravljaj podacima 2D lica</string>
+  <string name="right_function_key">Desni prečac</string>
   <string name="ring_volume_option_title">Glasnoća zvona</string>
   <string name="ring_volume_title">Glasnoća zvona</string>
   <string name="ringtone_mute">Utišano</string>
@@ -8779,10 +8797,9 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="wrong_pin_code_pukked">Netočan PIN kôd SIM kartice; sada morate kontaktirati svog operatera da vam otključa vaš uređaj.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira kontakte, fotografije i ostale stavke na vašim uređajima. \"Pronađi uređaj\" također zahtijeva da Mi Cloud radi normalno.</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira vaše kontakte i fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Mi Cloud sinkronizira vaše fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
-  <string name="xiaomi_cloud_service_description_contact">kontakti i</string>
-  <string name="xiaomi_cloud_service_description_format">Mi Cloud sinkronizira vaše fotografije %s, radi sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>

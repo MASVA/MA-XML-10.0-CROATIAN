@@ -76,6 +76,8 @@
   <string name="fastboot_unlock_web_title">Idite na službenu MIUI web stranicu da preuzmete alat za otključavanje.</string>
   <string name="function_close">Isključi</string>
   <string name="game_booster">Ubrzaj igre</string>
+  <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže na internet kako bi se koristile sve značajke uređaja za Game speed booster?</string>
+  <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_no_network_btn">Učitaj ponovno</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_title">Ubrzanje</string>
@@ -92,6 +94,7 @@
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gb_alipays_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
   <string name="gb_weixinpay_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
+  <string name="gdpr_msg">&lt;Data&gt;"U cilju korištenja osnovnih značajki aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našIm &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gs_anto_clean_memory_whitelist">Iznimke</string>
   <string name="gs_app_back_self_start">Ušteda baterije</string>
@@ -173,6 +176,7 @@
   <string name="superpower_date">EEE,dd.MM</string>
   <string name="superpower_dialog_app_select_content">Aplikacije treće strane obično troše više energije od sistemskih aplikacija. Dodati svejedno?</string>
   <string name="superpower_dialog_app_select_title">Pažnja</string>
+  <string name="superpower_exit_hint">Isključivanje Ultra štednje baterije…</string>
   <string name="superpower_incharging">Punjenje</string>
   <string name="superpower_progress_battery_last">%s preostalo</string>
   <string name="superpower_progress_left_time">%1$dh %2$dm</string>

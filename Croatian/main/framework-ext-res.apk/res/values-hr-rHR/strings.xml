@@ -71,6 +71,11 @@
   <string name="handy_mode_summary">Da zatvorite, dodirnite tamno područje zaslona</string>
   <string name="handy_mode_title">Rad jednom rukom</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Stavite vaš prst na tipku Početna</string>
+  <string name="input_method_edit_phrase_text">Uredite česte izraze</string>
+  <string name="input_method_no_content_text">Nema još stavki</string>
+  <string name="input_method_switch_settings_text">Postavke tipkovnice</string>
+  <string name="input_method_tab_clipboard_text">Međuspremnik</string>
+  <string name="input_method_tab_phrase_text">Česti izrazi</string>
   <string name="internal_livetalk_enable">Koristite nadoplatu paketa za domaće pozive</string>
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
   <string name="key_btn_ok">U redu</string>
@@ -168,6 +173,10 @@
   <string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
   <string name="sim_lock_non_ais_msg">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodavala proizvode."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
+  <string name="slavewifi">Dvopojasni WLAN</string>
+  <string name="slavewifi_disconnect">Prekini vezu</string>
+  <string name="slavewifi_notification_title">Korištenje dvopojasne WLAN mreže</string>
+  <string name="slavewifi_settings">Dodirnite za promjenu postavki</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
   <string name="standard">Bešumno</string>
@@ -177,7 +186,7 @@
   <string name="start_security_permission_verify_text">Provjerite dopuštenja sa svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zaklj. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svjetlina</string>
-  <string name="status_bar_toggle_battery_saver">Ušteda baterije</string>
+  <string name="status_bar_toggle_battery_saver">Štednja baterije</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svjetlina</string>
   <string name="status_bar_toggle_cast">Emitiraj</string>

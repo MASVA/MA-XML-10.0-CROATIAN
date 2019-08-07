@@ -848,6 +848,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_skinToneEnhancement_title">Istakni tonove kože</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Isključeno</string>
+  <string name="pref_camera_snap_entry_summary">Pritisnite i držite tipku \"Glasnoća -\" kad je zaslon isključen za fotografiranje</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap način (videozapis)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap način (fotografija)</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>

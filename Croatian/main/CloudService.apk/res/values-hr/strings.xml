@@ -49,8 +49,12 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_back_up_title">Napravi Sig. kopiju uređaja</string>
   <string name="cloud_backup_dialog_title">Napravi Sig. kopiju s Mi Cloudom</string>
   <string name="cloud_find_device">Pronađi Uređaj</string>
-  <string name="cloud_find_device_off">Isključi</string>
-  <string name="cloud_find_device_on">Uključi</string>
+  <string name="cloud_find_device_off">Isključeno</string>
+  <string name="cloud_find_device_on">Uključeno</string>
+  <string name="cloud_lab_title">Cloud Lab</string>
+  <string name="cloud_storage_already_used">Iskorišteno: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">Ostalo</string>
+  <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
@@ -62,6 +66,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="confirm_save">Zadrži</string>
   <string name="connect_network">Povežite se na WLAN ili umetnite SIM karticu</string>
   <string name="connect_wlan">Povežite se na WLAN</string>
+  <string name="data_protection_title">Zaštita podataka</string>
   <string name="contact">Kontakti</string>
   <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
   <string name="detect_sim_card">Traži SIM karticu</string>
@@ -77,7 +82,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="enable_sync">Sinkr.</string>
   <string name="enable_sync_dspt">"Nemoj sinkr."</string>
   <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
-  <string name="error_data_in_transfer_title">Mi Cloud je nedostupan.</string>
+  <string name="error_data_in_transfer_title">Mi Cloud nije dostupan.</string>
   <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
@@ -444,7 +449,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_sync_alert_dialog_positive">U redu</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
   <string name="micloud_sync_off">Sinkr. sa Mi Cloud je isključena</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Kontakti, Kalendar i Bilješke se automatski sinkroniziraju. Idite na postavke Mi Cloud da biste sinkronizirali više stavki.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sinkroniziraj samo kontakte, događaje kalendara i bilješke. Da biste sinkronizirali više stavki, idite na Mi Cloud postavke.</string>
   <string name="micloud_sync_result_already_in_progress">Obrada prethodne sinkronizacije…</string>
   <string name="micloud_sync_result_auth_exception">Pogreška računa</string>
   <string name="micloud_sync_result_cancel">Sinkr. je prekinuta</string>
@@ -570,7 +575,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_dspt_entrance_provision">"Sinkronizirajte svoje fotografije, kontakte, povijest poziva i poruke na svim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijama je Mi Cloud potreban za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"Aplikacijama MIUI sustava potreban je Mi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_network">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje WLAN-a.</string>
@@ -589,6 +594,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_item_title">Sinkr. podatke aplikacije</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
+  <string name="sync_setting_title">Postavke sinkronizacije</string>
   <string name="sync_resend_sms_dspt_provision">" Ako promijenite SIM kartice, vaš mobilni operater će vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
   <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Vaš mobilni operater će vam naplatiti te poruke.</string>
   <string name="sync_sub_1_sms">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
