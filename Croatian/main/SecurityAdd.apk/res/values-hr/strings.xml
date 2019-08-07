@@ -77,7 +77,6 @@
   <string name="function_close">Isključi</string>
   <string name="game_booster">Ubrzaj igre</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže na internet kako bi se koristile sve značajke uređaja za Game speed booster?</string>
-  <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_no_network_btn">Učitaj ponovno</string>
   <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
   <string name="game_booster_title">Ubrzanje</string>
@@ -90,7 +89,6 @@
   <string name="game_net_text2">Povećajte brzinu veze mrežne igre ograničavajući brzinu preuzimanja u pozadini da smanjite mrežno kašnjenje</string>
   <string name="game_net_title">Optimiziraj brzinu veze</string>
   <string name="game_setting">Postavke igre</string>
-  <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost povezivanje na internet?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gb_alipays_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
   <string name="gb_weixinpay_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
