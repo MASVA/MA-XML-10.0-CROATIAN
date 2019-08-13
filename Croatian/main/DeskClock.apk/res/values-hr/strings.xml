@@ -37,6 +37,7 @@
   <string name="alarm_notify_snooze_label">%s odgođeno</string>
   <string name="alarm_notify_text">Odgodite ili obustavite alarm.</string>
   <string name="alarm_repeat">Ponovi</string>
+  <string name="alarm_ringtone">Melodije zvona alarma</string>
   <string name="alarm_screen">Zaslon i zvuk Alarma</string>
   <string name="alarm_settings">Postavke Alarma</string>
   <string name="alarm_settings_category_title">Postavke Alarma</string>
@@ -146,7 +147,7 @@
   <string name="life_post_weather_invalid">Dodirnite kako biste dobili informacije o vremenu</string>
   <string name="life_post_weather_no_network">Povežite se s mrežom da biste ažurirali informacije o vremenu</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
-  <string name="listen_news_privacy">&lt;Data&gt;U cilju pružanja personaliziranih usluga i uključivanja jutarnjih vijesti u vaše alarme, Sat se treba povezati na internet. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="listen_news_privacy">&lt;Data&gt;U cilju pružanja personaliziranih usluga i uključivanja jutarnjih vijesti u vaše alarme, Sat se treba povezati na internet. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="loading_ringtone">Učitavam zvuk alarma…</string>
   <string name="menu_add_worldclock">Dodaj sat</string>
   <string name="menu_desk_clock">Sat</string>
@@ -176,29 +177,29 @@
   <string name="module_update_success">Ažurirani audio za MIUI pametne alarme uspješno je preuzet. Možete postaviti MIUI pametne alarme u postavkama sata.</string>
   <string name="module_update_success_control">Razumijem</string>
   <string name="module_weather_ringtone_download_data">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_download_wifi">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti audio datoteke da bi to radilo. Preuzeti sada?</string>
-  <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se treba povezati na internet za preuzimanje audio datoteke. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se treba povezati na internet za preuzimanje audio datoteke. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="module_weather_ringtone_introduce">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Također vam omogućuje slušanje trenutnih informacija o vremenu ujutro.</string>
   <string name="module_weather_ringtone_introduce_global">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu.</string>
   <string name="module_weather_ringtone_update_data">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_weather_ringtone_update_success">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Ovu značajku možete uključiti u postavkama Sata.</string>
+  <string name="module_weather_ringtone_update_success">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
   <string name="module_week_ringtone_download_data">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje &amp;#8776;30MB audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="module_week_ringtone_download_wifi">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti audio audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat se treba povezati na internet za preuzimanje audio datoteka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="module_week_ringtone_introduce">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode.</string>
   <string name="module_week_ringtone_update_data">Tjedni alarm svakog dana u tjednu svira različite zvukove prirode. Sat treba preuzeti ≈30MB audio datoteka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_week_ringtone_update_success">Tjedni alarm dolazi s pozadinskom glazbom za svaki dan u tjednu. Ovu značajku možete uključiti u postavkama Sata.</string>
+  <string name="module_week_ringtone_update_success">Tjedni alarm dolazi s pozadinskom glazbom za svaki dan u tjednu. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
   <string name="module_white_noise_download_data">Sat treba preuzeti audio datoteke za timere buke okoline. ≈30MB vaših mobilnih podataka bit će potrebni za ovo preuzimanje. Preuzeti sada?</string>
-  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Da biste preuzeli audio datoteke za timere buke okoline (&amp;#8776;30MB) i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. You're using mobile data now. Slažete li se?"&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Da biste preuzeli audio datoteke za timere buke okoline (&amp;#8776;30MB) i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. You're using mobile data now. Slažete li se?"&lt;/Data&gt;</string>
   <string name="module_white_noise_download_wifi">Sat treba preuzeti audio datoteke za timere buke okoline. Preuzeti sada?</string>
-  <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Da biste preuzeli audio datoteke za timere buke okoline i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; Slažete li se?&lt;/Data&gt;</string>
+  <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Da biste preuzeli audio datoteke za timere buke okoline i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; Slažete li se?&lt;/Data&gt;</string>
   <string name="monday_to_friday">Pon - Pet</string>
   <string name="more_setting">Više postavki</string>
   <string name="more_settings">Postavke</string>
-  <string name="network_privacy">&lt;Data&gt;U cilju pružanja relevantnih informacija o lokalnim praznicima, prilagođavanju alarma i prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
-  <string name="network_privacy_global">&lt;Data&gt;U cilju pružanja personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="network_privacy">&lt;Data&gt;U cilju pružanja relevantnih informacija o lokalnim praznicima i prilagođavanju alarma, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
+  <string name="network_privacy_global">&lt;Data&gt;U cilju pružanja personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href= %1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Slažete li se?&lt;/Data&gt;</string>
   <string name="never">Jednom</string>
   <string name="no_alarm_setting">Nema alarma</string>
   <string name="no_worldclock">Nema satova</string>
@@ -213,16 +214,22 @@
   <string name="repeat_count">X</string>
   <string name="reset">Resetiraj</string>
   <string name="revert">Obnovi</string>
+  <string name="ringtone_all">Sve melodije zvona</string>
+  <string name="ringtone_dew">Jutarnja rosa</string>
+  <string name="ringtone_dream">Sanjarenje</string>
+  <string name="ringtone_firefly">Krijesnice</string>
   <string name="ringtone_other">Više melodija zvona</string>
-  <string name="ringtone_weather">Melodije zvona vremenskog alarma</string>
-  <string name="ringtone_week">Melodije zvona tjednog alarma</string>
+  <string name="ringtone_weather">Vremenski alarm</string>
+  <string name="ringtone_week">Tjedni alarm</string>
   <string name="search_alarm_clock_keywords">Alarm;Budilica;</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_stopwatch_keywords">Štoperica</string>
   <string name="search_timer_keywords">Kronometar</string>
   <string name="search_worldclock_keywords">Vrijeme;Svjetski sat;Sat</string>
   <string name="set_alarm">Postavi alarm</string>
+  <string name="set_alarm_choose_ringtone">Odaberite melodiju zvona</string>
   <string name="set_alarm_done">Gotovo</string>
+  <string name="set_alarm_other">Ostalo</string>
   <string name="setting_alarm_arriving_subtitle">Prikaži obavijesti prije nego što se alarmi isključe</string>
   <string name="setting_alarm_arriving_summary">Pošalji obavijest prije zvonjave</string>
   <string name="setting_alarm_arriving_title">Obavijesti prije zvonjave</string>
@@ -309,8 +316,8 @@
   <string name="tomorrow">Sutra</string>
   <string name="turn_off_a_repeat_alarm">Isključi ponavljajući alarm</string>
   <string name="turn_off_this_repeat_alarm">Isključi ovaj ponavljajući alarm</string>
-  <string name="upcoming_alarm">%s nadolazeći alarm</string>
-  <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm unaprijed</string>
+  <string name="upcoming_alarm">Nadolazeći alarm: %s</string>
+  <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm sada</string>
   <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
   <string name="user_agreement">Korisnički Sporazum</string>
   <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>

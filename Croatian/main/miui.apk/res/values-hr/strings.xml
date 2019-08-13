@@ -129,6 +129,7 @@ idite na: %s."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_action_mode_cancel">Odustani</string>
   <string name="search_input_description">Traži</string>
   <string name="search_mode_button_back_description">Natrag</string>
   <string name="select_all">Odaberi sve</string>

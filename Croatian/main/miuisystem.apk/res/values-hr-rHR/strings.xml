@@ -110,7 +110,8 @@
   <string name="national_day"/>
   <string name="national_father_day"/>
   <string name="new_years_day"/>
-  <string name="no_notification_tips">Bez obavijesti</string>
+  <string name="no_notification_tips">Nema obavijesti</string>
+  <string name="notice_audition">Zvukovi prirode</string>
   <string name="notificationxylophone">Obavijest (Xylophone)</string>
   <string name="partys_day"/>
   <string name="passionflower">Strast</string>

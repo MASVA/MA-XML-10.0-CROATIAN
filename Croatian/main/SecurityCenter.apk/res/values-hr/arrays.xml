@@ -140,4 +140,12 @@
         <item>Dnevni plan podataka</item>
         <item>Neograničeni plan podataka</item>
     </string-array>
+	<string-array name="pc_settings_thermal_entries">
+        <item>Zadano</item>
+        <item>Prioritet imaju performanse</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Korištenje zadanog načina kontrole temperature</item>
+        <item>Davanje prioriteta performansama</item>
+    </string-array>
 </resources>

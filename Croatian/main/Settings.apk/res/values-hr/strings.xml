@@ -5225,7 +5225,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Mi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
   <string name="privacy_authorize_dialog_agree">Slažem se</string>
   <string name="privacy_authorize_dialog_exit">Izlaz</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke usluga Mi Cloud, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Slažem se\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privila o Privatnosti&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke ove usluge, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša Pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Slažem se\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Povežite se s mrežom i pokušajte ponovo.</string>
   <string name="privacy_authorize_privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_authorize_revoke">Opozovi</string>
@@ -5737,7 +5737,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_optimize_disabled">"Ne mogu podesiti kontrast kada je uključen Način čitanja"</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
-  <string name="screen_paper_mode_apps_loading">Učitavanje…</string>
+  <string name="screen_paper_mode_apps_loading">Samo trenutak…</string>
   <string name="screen_paper_mode_apps_title">Koristi Način čitanja</string>
   <string name="screen_paper_mode_global_summary">Koristi Način čitanja za sve aplikacije</string>
   <string name="screen_paper_mode_global_title">Sve aplikacije</string>

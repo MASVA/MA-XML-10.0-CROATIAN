@@ -1502,7 +1502,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="qs_dnd_replace">Zamijeni</string>
   <string name="qs_dnd_until">Do %s</string>
   <string name="qs_edit">Uredi</string>
-  <string name="qs_paging">Koristi nove Brze postavke Quick settings</string>
+  <string name="qs_open_night_mode_alert_summary">"Određene postavke zaslona nisu kompatibilne s Tamnim načinom. Međutim, one će se vratiti kada isključite Tamni način."</string>
+  <string name="qs_paging">Koristi nove Brze postavke</string>
   <string name="qs_rearrange">Promijeni raspored Brzih postavki</string>
   <string name="qs_status_phone_muted">Na telefonu je isključen zvuk</string>
   <string name="qs_status_phone_vibrate">Telefon je postavljen na vibriranje</string>
@@ -1582,6 +1583,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_night_secondary_label_on_at">U %s</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Od izlaska sunca</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Do zalaska sunca</string>
+  <string name="quick_settings_nightmode_label">Tamni način</string>
   <string name="quick_settings_notifications_label">Obavijesti</string>
   <string name="quick_settings_papermode_label">Način čitanja</string>
   <string name="quick_settings_powermode_label">Performanse</string>

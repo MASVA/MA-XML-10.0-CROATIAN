@@ -519,11 +519,14 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="password">Unesite zaporku</string>
   <string name="phone_number_may_required_dspt_provision">"Ova usluga može zahtijevati vaš broj telefona."</string>
   <string name="phone_number_required_dspt_provision">"Ova usluga zahtijeva vaš broj telefona."</string>
+  <string name="pre_privacy_policy">Pravila o Privatnosti</string>
+  <string name="pre_user_agreement">Korisnički Sporazum</string>
   <string name="photo">Fotografije</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkr. slike kontakata samo kada je povezano na WLAN mrežu"</string>
   <string name="pref_summary_sync_video_on_wifi_only">"Sinkr. videozapise profila kontakata samo kada je povezano na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
+  <string name="privacy_and_agreement">Privatnost i Sporazum</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="provision_sync_items_loading">Priprema za sinkronizaciju stavki</string>
@@ -592,6 +595,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS poruke na ovaj telefon</string>
   <string name="sync_item_sms_title">Sinkroniziraj SMS</string>
   <string name="sync_item_title">Sinkr. podatke aplikacije</string>
+  <string name="sync_normal_summary">"Neke stavke s popisa u nastavku nije moguće sinkronizirati"</string>
+  <string name="sync_normal_title">"Ne mogu dovršiti sinkronizaciju"</string>
   <string name="sync_off">Isključeno</string>
   <string name="sync_on">Uključeno</string>
   <string name="sync_setting_title">Postavke sinkronizacije</string>
@@ -627,8 +632,6 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="user_agreement_p7">"Mi Cloud Uvjeti pružanja usluge"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud Uvjeti pružanja usluge"</string>
-  <string name="user_detail_agreement">Uvjeti pružanja usluge</string>
-  <string name="user_detail_privacy_policy">Pravila o Privatnosti</string>
   <string name="user_storage_info_available_text_prefix">%s dostupno</string>
   <string name="waiting_for_sync">Čekanje…</string>
   <string name="warning_bar_action_add_short_cut">Dodaj</string>

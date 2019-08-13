@@ -79,10 +79,8 @@
   <string name="accessibility_skin_beautify_closed">Istakni tonove kože isklj.</string>
   <string name="accessibility_skin_beautify_opened">Istakni tonove kože uklj.</string>
   <string name="accessibility_stereo_button">Podešavanje fokusa</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_off">32MP isklj.</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_on">32MP uklj.</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_off">48MP isklj.</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_on">48MP uklj.</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD je isklj.</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD je uklj.</string>
   <string name="accessibility_ultra_wide_off">Ultra široki kut je isklj.</string>
   <string name="accessibility_ultra_wide_on">Ultra široki kut je uklj.</string>
   <string name="accessibility_video_btn_play">Reproduciraj videozapis</string>
@@ -892,6 +890,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_whitebalance_entry_measure">Mjerenje</string>
   <string name="pref_camera_whitebalance_title">Balans bijele</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
   <string name="pref_camera_zoom_mode_title">LEĆE</string>
@@ -921,6 +920,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_hdr_indicator_entry_off">Isklj.</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
+  <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Možete snimati samo 720P videozapise s 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Možete snimati samo 720p videozapise s 960FPS</string>
   <string name="pref_priority_storage_title">Spremi na SD karticu</string>
@@ -1080,10 +1080,14 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
-  <string name="ultra_pixel_photography_32mp_close_tip">32MP je isklj.</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-  <string name="ultra_pixel_photography_48mp_close_tip">48MP je isklj.</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_pixel_32mp">32MP</string>
+  <string name="ultra_pixel_48mp">48MP</string>
+  <string name="ultra_pixel_64mp">64MP</string>
+  <string name="ultra_pixel_device">64MP</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD je isklj.</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD je uklj.</string>
+  <string name="ultra_pixel_portrait_hint">Ultra-clear portret</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Zumiranje ne radi u %s Ultra HD načinu"</string>
   <string name="ultra_wide_bokeh_close_tip">Način cijelog tijela je isklj.</string>
   <string name="ultra_wide_bokeh_open_tip">Način cijelog tijela</string>
   <string name="ultra_wide_close_tip">Ultra široki kut je isklj.</string>
@@ -1144,6 +1148,4 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Prije povezivanja, provjerite je li mreža koju upotrebljavate sigurna."</string>
-  <string name="zoom_no_support_tip_48M">"Zumiranje ne radi u 48MP načinu"</string>
-  <string name="zoom_no_support_tip_64M">Zumiranje ne radi u 64MP načinu</string>
 </resources>
