@@ -24,6 +24,10 @@
          <item quantity="other">%d brojeva</item>
          <item quantity="one">%d broj</item>
      </plurals>
+	 <plurals name="ew_alert_second_after">
+        <item quantity="other">Za %d sek.</item>
+        <item quantity="one">Za %d sekundu</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Ne prati uporabu podataka za ovoliko (%d) aplikacija</item>
         <item quantity="one">Ne prati uporabu podataka za %d aplikaciju</item>

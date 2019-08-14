@@ -170,7 +170,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_hint">Učitavanje</string>
-  <string name="master_alert_notif_content">"Ne mogu sinkronizirati"</string>
+  <string name="master_alert_notif_content">"Redovito stvarajte sigurnosne kopije da ne izgubite ništa važno"</string>
   <string name="master_alert_notif_dspt_add">Stavke čekaju na sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="master_alert_notif_title">Uključi sinkr. sa Mi Cloudom</string>
@@ -249,7 +249,8 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
   <string name="micloud_detail_not_syncable">Ne može se sinkr.</string>
   <string name="micloud_detail_query_error">"Stanje sinkronizacije nije moguće"</string>
-  <string name="micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj,</string>
+  <string name="micloud_dspt">Sinkronizirajte kontakte, poruke, povijest poziva i druge stavke na svim uređajima.
+Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_dspt_provision_xms">Koristite Mi Cloud za sinkronizaciju podataka.</string>
   <string name="micloud_find_device_close_alert_content">"Ako isključite Pronađi uređaj, nećete moći pronaći telefon koristeći ovu značajku. Ako vaš telefon podržava NFC funkcionalnost, sve vaše bankovne kartice i kartice bit će izbrisane iz usluge Mi Pay."</string>
@@ -418,7 +419,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_request_permission_content">Mi Cloud treba dopuštenja za sinkronizaciju podataka. Dopustite Mi Cloudu pristup Kalendaru, Kontaktima, Mi Računu, statusu SIM kartice, povijesti poziva i porukama.</string>
   <string name="micloud_request_permission_title">Mi Cloud treba dopuštenja</string>
   <string name="micloud_request_sync_too_frequent">Previše zahtjeva. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-  <string name="micloud_sec_dspt">i podijelite stvari sa svojim prijateljima.</string>
   <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
   <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>

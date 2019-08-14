@@ -66,6 +66,11 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
   <string name="audition_ringtone">Reproduciraj</string>
+  <string name="author_attention">Prati</string>
+  <string name="author_attention_success">Pratim</string>
+  <string name="author_dialog_message">Prestati pratiti ovaj račun?</string>
+  <string name="author_dynamic">Status</string>
+  <string name="author_dynamic_no_resource">"Ne mogu naći rezultate"</string>
   <string name="automatically_update_using_theme_tips">Ažuriraj automatski sljedeći put</string>
   <string name="backup_theme_dialog_message">"Pohraniti vašu trenutnu temu?"</string>
   <string name="backup_theme_dialog_ok">Pohrani</string>
@@ -143,6 +148,9 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="description_version_szie">Verzija: %1$s Veličina: %2$s</string>
   <string name="desktop_effects">Efekti Poč. zaslona</string>
   <string name="desktop_wallpaper">Početni zaslon</string>
+  <string name="detail_author_attention_head">Pratite neke od naših najistaknutijih dizajnera</string>
+  <string name="detail_author_fans">"Pratitelji: "</string>
+  <string name="detail_author_works">"Stavke: "</string>
   <string name="detail_recommend_title">Možda će vam se ovo svidjeti</string>
   <string name="dev_options">DEV OPCIJE</string>
   <string name="dev_options_summary">Web izvor</string>
@@ -380,6 +388,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Prikaži izvore</string>
   <string name="resource_apply">Postavi</string>
+  <string name="resource_apply_trial">Postavi</string>
   <string name="resource_apply_trial">Pokušaj sad</string>
   <string name="resource_back">Natrag</string>
   <string name="resource_buy">Kupi</string>
@@ -454,6 +463,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="resource_download">Preuzimanje</string>
   <string name="resource_download_notification_title_many">Preuzeto tema: %1$s</string>
   <string name="resource_download_notification_title_one">Tema preuzeta</string>
+  <string name="resource_download_trial">Isprobajte</string>
   <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti elementi</string>
   <string name="resource_downloading">Preuzimanje…</string>
@@ -796,6 +806,8 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="wallpaper_loop_title">Dijaprojekcija pozadina</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Dijaprojekcija pozadina Poč. zaslona</string>
   <string name="wallpaper_loop_title_lock_walpaper">Dijaprojekcija pozadina Zaklj. zaslona</string>
+  <string name="wallpaper_no_favorite">Ovdje još nema stavki.</string>
+  <string name="wallpaper_no_record">Ovdje još nema stavki.</string>
   <string name="wallpaper_personal_dialog_agree">Prilagodi</string>
   <string name="wallpaper_personal_dialog_content">Koristite ovu značajku da biste mogli vidjeti izbor pozadina prilagođenih vašim interesima. Ovu značajku možete uključiti i isključiti u postavkama. Prilagoditi pozadine sada?</string>
   <string name="wallpaper_personal_dialog_disagree">Ne hvala</string>

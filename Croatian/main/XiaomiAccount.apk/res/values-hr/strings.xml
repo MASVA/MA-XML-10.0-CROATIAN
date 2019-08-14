@@ -635,6 +635,13 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="trusted_browsers_prompt">Preglednik više neće biti pouzdan ako izbrišete kolačiće.</string>
   <string name="turn_off_find_device_failed_title">"Ne mogu isključiti Pronađi uređaj"</string>
   <string name="turning_off_find_device">Isključivanje Pronađi uređaj…</string>
+  <string name="two_factor_auth">Autentičnost u dva faktora</string>
+  <string name="two_factor_auth_click_confirm">Potvrdite za prijavu</string>
+  <string name="two_factor_auth_click_confirm_summary">"Vidjet ćete obavijest na ostalim povezanim Mi uređajima. Dodirnite obavijest da biste omogućili prijavu na novom uređaju."</string>
+  <string name="two_factor_auth_method">Način provjere autentičnosti</string>
+  <string name="two_factor_auth_need_code">Unesite kod</string>
+  <string name="two_factor_auth_need_code_summary">"Vidjet ćete kôd na ostalim povezanim Mi uređajima. Unesite ovaj kôd na novi uređaj za prijavu."</string>
+  <string name="two_factor_auth_summary">"Kada se pokušate prijaviti na novom uređaju ili na novoj lokaciji, o tome ćete biti obaviješteni na ostalim povezanim uređajima. Morate potvrditi da li ste vi takve pokušaje prijave odobrili."</string>
   <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
   <string name="unbind_weibo_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti sinkronizirati vaše kontakte iz Sina Weibo, ili koristiti Sina Weibo Račun za prijavu."</string>
   <string name="unlock_help_notice">"Pomoć:

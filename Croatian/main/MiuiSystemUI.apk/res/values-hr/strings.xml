@@ -595,6 +595,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="description_direction_left">Kliznite lijevo za %s.</string>
   <string name="description_direction_up">Kliznite prema gore za %s.</string>
   <string name="description_image_button_answer">Odgovori</string>
+  <string name="description_image_button_bubble_answer">Zvučnik</string>
   <string name="description_image_button_reject">Odbij</string>
   <string name="description_image_icon_sim_card">SIM Kartica %1$d</string>
   <string name="description_target_search">Pretraživanje</string>

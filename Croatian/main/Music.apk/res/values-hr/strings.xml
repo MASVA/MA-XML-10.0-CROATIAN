@@ -283,6 +283,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="delete_downloads_records">Izbriši preuzimanja</string>
   <string name="delete_file_as_well">Trajno izbriši ovu pjesmu</string>
   <string name="delete_file_end">Izbriši u potpunosti</string>
+  <string name="delete_file_error">"Ne mogu izbrisati datoteku"</string>
   <string name="delete_file_start">Izbriši odabrane datoteke</string>
   <string name="delete_the_downloaded_file">Preuzete datoteke biti će izbrisane.</string>
   <string name="desc_online_personal_radio">Samo za tebe</string>
@@ -470,6 +471,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="eq_preset_select">Odaberi podešenje</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
+  <string name="error_not_support">Nije podržano</string>
   <string name="err_media_handle">Nažalost, nismo uspjeli dohvatiti medij. Pokušajte ponovno.</string>
   <string name="err_offline_on_playback">Nažalost, morate biti na mreži kako biste reproducirali ovaj medij.</string>
   <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Mi Računom.</string>
@@ -510,6 +512,8 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="facebook_not_installed">Instalirajte prvo Facebook.</string>
   <string name="fail_to_fetch_payment_page_url">"Ne mogu dobiti podatke o plaćanju"</string>
   <string name="fail_to_play">"Ne mogu reproducirati pjesmu"</string>
+  <string name="failed_not_access_sd_card">Prvo odobrite pristup SD kartici</string>
+  <string name="failed_obtain_permissions">"Ne mogu dobiti dopuštenje"</string>
   <string name="fav_login_msg">Prijavite se na svoj Mi Račun za preuzimanje pjesama</string>
   <string name="favorite_canceled">Uklonjeno iz favorita</string>
   <string name="favorite_playlist">Favoriti</string>
@@ -537,6 +541,10 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="filter_by_size_prefix">"Sakrij datoteke manje od "</string>
   <string name="filter_by_size_summary">Sakrij male audio datoteke"</string>
   <string name="find_music">Traži pjesme</string>
+  <string name="floating_view_dialog_desc">Glazba će se prestati reproducirati ako napustite ovu stranicu. Napustiti svejedno?</string>
+  <string name="floating_view_dialog_leave">Napusti</string>
+  <string name="floating_view_dialog_stay">Ostani</string>
+  <string name="floating_view_dialog_title">Napustiti ovu stranicu?</string>
   <string name="follow">Prati</string>
   <string name="followed">Pratim</string>
   <string name="force_touch_audio_picker">Prepoznaj pjesmu</string>
@@ -594,8 +602,12 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="hide_lyric">Sakrij tekst</string>
   <string name="higher_quality_music">Visoka kvaliteta zvuka</string>
   <string name="higher_quality_music_summary">Stream i preuzimanje datoteka veće brzine prijenosa</string>
+  <string name="home_tab_home">Početna</string>
   <string name="home_tab_local">Moja glazba</string>
+  <string name="home_tab_more_music">Još glazbe</string>
   <string name="home_tab_online">Otkrijte</string>
+  <string name="home_tab_search">Traži</string>
+  <string name="home_tab_yandex">Yandex.Music</string>
   <string name="hungama">Hungama</string>
   <string name="hungama_subscribe_message">Trebali biste platiti tu pjesmu da je preuzmete</string>
   <string name="hungama_subscribe_positive_button">Kupi</string>
@@ -809,6 +821,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_now">Ne sada</string>
   <string name="not_selected">Odaberi pjesmu</string>
+  <string name="not_support_documentui">"Aplikacija DocumentUI nije podržana na ovom uređaju"</string>
   <string name="nothing_changed_toast">"Još ništa niste promijenili."</string>
   <string name="notif_text_engine_off">Xunlei accelerator je isključen.</string>
   <string name="notif_text_engine_on">Ubrzavanje preuzimanja…</string>
@@ -1042,10 +1055,11 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="search_hint_online">Traži izvođače, pjesme, popis pjesama, i videozapise online</string>
   <string name="search_hint_not_support_online">Traži izvođače, pjesme i albume</string>
   <string name="search_history_clear_all">Izbriši</string>
-   <string name="search_history_delete_all_dialog_titile">Izbrisati povijest pretraživanja?</string>
+  <string name="search_history_delete_all_dialog_titile">Izbrisati povijest pretraživanja?</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_lyric">Traži tekst online</string>
   <string name="search_menu_title">Traži</string>
+  <string name="search_more">Više</string>
   <string name="search_result_local_songs">Lokalno</string>
   <string name="search_result_online_songs">Online</string>
   <string name="search_songs">Traži pjesme</string>
@@ -1119,8 +1133,10 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
   <string name="sleep_mode_summary">Zaustavi reprodukciju nakon određenog vremena</string>
   <string name="sleep_mode_title">Sleep timer</string>
+  <string name="song_already_in_playlist">Ova pjesma je već na redu čekanja</string>
   <string name="song_exist_in_playlist">Ova pjesma je već na redu čekanja</string>
   <string name="song_info">Detalji pjesme</string>
+  <string name="song_is_added_to_playlist">Dodano na red čekanja</string>
   <string name="song_is_empty">Naziv pjesme ne može biti prazan.</string>
   <string name="song_name">Pjesma</string>
   <string name="song_not_find">"Ova pjesma nije dostupna."</string>
@@ -1143,6 +1159,7 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="start_update">Ažurirajte Mi Glazbu na najnoviju verziju.</string>
   <string name="stop">Zaustavi</string>
   <string name="stop_backup">Zaustavi</string>
+  <string name="storage_cloned_app">Pohrana za dvojne aplikacije</string>
   <string name="storage_internal">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>

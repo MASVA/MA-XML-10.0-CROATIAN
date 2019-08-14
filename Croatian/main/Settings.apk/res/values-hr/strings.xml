@@ -4025,6 +4025,8 @@ Na ovom uređaju postoje i drugi korisnici.
   <string name="miui_lab_ai_cloud_closed">"AI pred-učitavanje još nije dostupno."</string>
   <string name="miui_lab_ai_preload_desc">AI pred-učitavanje povećava brzinu pokretanja aplikacije</string>
   <string name="miui_lab_ai_preload_title">AI pred-učitavanje</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Poveži se s Tips</string>
+  <string name="miui_lab_aiasst_call_screen_title">Tips poziv</string>
   <string name="miui_lab_drive_mode_desc">Upotrijebite glasovne kontrole &amp; slušajte WeChat poruke</string>
   <string name="miui_lab_drive_mode_title">Autombil. način</string>
   <string name="miui_lab_feature_applied">Postavljeno</string>

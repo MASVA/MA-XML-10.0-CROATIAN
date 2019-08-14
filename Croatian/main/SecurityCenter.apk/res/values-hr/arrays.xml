@@ -148,4 +148,14 @@
         <item>Korištenje zadanog načina kontrole temperature</item>
         <item>Davanje prioriteta performansama</item>
     </string-array>
+	<string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
 </resources>
