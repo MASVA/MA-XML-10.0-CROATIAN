@@ -389,7 +389,6 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="resource_app_name">Prikaži izvore</string>
   <string name="resource_apply">Postavi</string>
   <string name="resource_apply_trial">Postavi</string>
-  <string name="resource_apply_trial">Pokušaj sad</string>
   <string name="resource_back">Natrag</string>
   <string name="resource_buy">Kupi</string>
   <string name="resource_can_not_selected">"%1$s ne može biti odabran!"</string>
@@ -464,7 +463,6 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="resource_download_notification_title_many">Preuzeto tema: %1$s</string>
   <string name="resource_download_notification_title_one">Tema preuzeta</string>
   <string name="resource_download_trial">Isprobajte</string>
-  <string name="resource_download_trial">Isprobajte besplatno</string>
   <string name="resource_downloaded_title">Preuzeti elementi</string>
   <string name="resource_downloading">Preuzimanje…</string>
   <string name="resource_exchange">Kupi temu</string>
