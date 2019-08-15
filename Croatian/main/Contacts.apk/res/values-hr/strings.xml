@@ -1137,6 +1137,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="scan_bussiness_card_merge_tip">Konfliktirajući podaci su zamijenjeni</string>
   <string name="scan_duplicate_message">Broj kontakata s identičnim informacijama: %1$d</string>
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
+  <string name="scan_not_installed">Instalirajte prvo aplikaciju Skaner</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>

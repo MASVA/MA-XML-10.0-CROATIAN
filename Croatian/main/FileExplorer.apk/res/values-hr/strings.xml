@@ -337,6 +337,7 @@
   <string name="get_user_info_err">"Ne mogu dobiti iformacije o korisniku"</string>
   <string name="get_verification_code_fail">"Ne mogu dobiti kôd za provjeru"</string>
   <string name="gigabyteShort">GB</string>
+  <string name="grid_mode">Rešetka</string>
   <string name="good_tip">Bravo!</string>
   <string name="group_title">%2$s od %1$s</string>
   <string name="group_title_extra_backup">Sig. kopije</string>
@@ -373,6 +374,7 @@
   <string name="join_activity">Sudjeluj</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
+  <string name="list_mode">Popis</string>
   <string name="kp_category_all">Kategorija</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
@@ -935,6 +937,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="storage_usb">USB pohrana</string>
   <string name="storage_usb_description">USB pohrana</string>
   <string name="storage_warning">"Ne mogu koristiti vanjsku pohranu"</string>
+  <string name="switch_doc_type">Odaberite format</string>
   <string name="support_mtp">MTP će uskoro biti podržan </string>
   <string name="swap_tip_1">Povucite lijevo ili desno</string>
   <string name="swap_tip_2">da gledate druge dostupne</string>
