@@ -22,6 +22,7 @@
   <string name="accessibility_battery_level">Baterija %d posto.</string>
   <string name="accessibility_battery_level_charging">Punjenje, baterija %d posto.</string>
   <string name="always_style">Uvijek</string>
+  <string name="animation_clock_panel">Valno biranje</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
@@ -34,13 +35,34 @@
   <string name="aod_mode_time_title">Raspored</string>
   <string name="aod_mode_title">Uvijek uključeno</string>
   <string name="aod_to_close">Isključi</string>
+  <string name="apply">Primjeni</string>
+  <string name="background_icon">Pozadina</string>
+  <string name="black_white_clock_panel">Sat</string>
   <string name="cancel">Odustani</string>
+  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="choose_aod_style">Odaberi temu</string>
+  <string name="clock_panel_icon">Izgled sata</string>
+  <string name="color_change_with_time_description">Promijeni boju teksta automatski tijekom vremena</string>
+  <string name="color_change_with_time_title">Promijeni boju automatski</string>
+  <string name="deep_space_planet">Doba dana</string>
+  <string name="deep_space_planet_des">\"Doba dana\" se odražava na svjetlosne promjene koje se događaju oko vas tokom dana. Izlasci i zalasci sunca u ovoj temi sinkroniziraju se s vašom lokacijom.</string>
+  <string name="large_time">Veliki sat</string>
+  <string name="mini_time">Mali sat</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="only_show_bg_description">"Ne prikazuj vrijeme, datum i druge stavke"</string>
+  <string name="only_show_bg_title">Prikaži samo pozadinu</string>
   <string name="paper_mode_end_time_title">Isključi</string>
   <string name="paper_mode_start_time_title">Uključi</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="search_menu_title">Traži</string>
+  <string name="show_battery_status">Prikaži status baterije</string>
+  <string name="show_notification">Prikaži obavijesti</string>
+  <string name="standard_style">Standard</string>
   <string name="scheduled_style">Raspored</string>
-  <string name="summary">"Da biste smanjili potrošnju energije, stavke neće biti prikazane u sljedećim situacijama:
+  <string name="summary">"Da smanjite potrošnju energije, stavke neće biti prikazane u sljedećim situacijama:
 1. Kada vaš uređaj dugo stoji u mraku.
 2. Kada je uključen DND način rada."</string>
   <string name="temporary_style">Za 10 sekundi nakon što dodirnete</string>
+  <string name="text_color">Boja teksta</string>
 </resources>
