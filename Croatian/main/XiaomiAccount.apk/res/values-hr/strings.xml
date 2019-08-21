@@ -202,6 +202,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
+  <string name="ep_unsupported">Vaš uređaj ne podržava prijavu na Mi Račun</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
   <string name="error_duplicate_answers">"Nemojte koristiti duplicirane odgovore iz sigurnosnih razloga"</string>
   <string name="error_incomplete_question_or_answer">Odaberite 4 pitanja i ponudite odgovore</string>

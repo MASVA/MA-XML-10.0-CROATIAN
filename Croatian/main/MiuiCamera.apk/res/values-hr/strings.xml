@@ -435,6 +435,9 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="lying_direct_hint">Trenutna orijentacija</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Udaljenost između objektiva i predmeta ne smije prelaziti 10 cm"</string>
+  <string name="macro_mode_use_hint_text_body">"Koristite Macro način da mali predmeti
+izgledaju veće na fotografijama"</string>
+  <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="maker">Autor</string>
   <string name="makeup_reset_toast">Efekti šminke izbrisani</string>
   <string name="manual">Ručno</string>
@@ -679,6 +682,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
   <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Meko svjetlo</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
   <string name="pref_camera_flashmode_entry_torch">Bljeskalica</string>
@@ -795,6 +799,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_picturesize_title">Veličina slike</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretni način rada isključen</string>
@@ -991,6 +996,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="qq_details">QQ datalji:</string>
   <string name="qr_code_details">Detalji QQ koda:</string>
   <string name="raw_data_exit_button_text">Izlaz iz RAW načina</string>
+  <string name="recommend_soft_light_tip">Koristite bljeskalicu u načinu mekog svjetla</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
   <string name="resume_playing_message">Nastaviti s reprodukcijom od %s?</string>
   <string name="resume_playing_restart">Počni ispočetka</string>

@@ -7,5 +7,10 @@
         <item>Visoka</item>
         <item>Jako visoka</item>
     </string-array>
+	<string-array name="feedback_tag_list">
+        <item>Greška</item>
+        <item>Prijedlog</item>
+        <item>Ostalo</item>
+    </string-array>
 </resources>
 

@@ -1751,6 +1751,7 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="connected_via_wfa">Povezani putem pomoćnika za WLAN</string>
   <string name="connected_wifi">Povezano</string>
   <string name="connecting_to_vpn">Povezivanje na VPN</string>
+  <string name="connection_and_sharing">Povezivanje &amp; dijeljenje</string>
   <string name="contact_title">Kontakti</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="continue_all_caps">NASTAVI</string>
@@ -2501,6 +2502,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_multi_window_summary">Više istovremenih aktivnosti na zaslonu.</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_quick_setting">Prikaži u Brzim postavkama</string>
+  <string name="enable_screen_projection_summary">Sadržaj zaslona prebacite na vanjski monitor</string>
   <string name="enable_quickboot_summary">Stavite uređaj u QuickBoot način, umjesto normalnog isključivanja</string>
   <string name="enable_quickboot_title">Omogući QuickBoot način</string>
   <string name="enable_service_encryption_warning">Ako uključite %1$s, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
@@ -4668,6 +4670,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="open_dark_mode_dialog_title">Kompatibilnost s tamnim načinom rada</string>
   <string name="open_demo_mode">Uključi</string>
   <string name="open_demo_mode_warning_message">Kada je Demo način uključen, sat u traci stanja će se zaustaviti, baterija i ikone signala prikazat će se kao pune. Možete isključiti Demo način rada ili ponovo pokrenuti uređaj da biste to promijenili.</string>
+  <string name="open_game_accelerate">Uključi Game Turbo</string>
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_optimization_message">Uključite optimizaciju da biste uživali u uglađenom i bržem UI.</string>
   <string name="open_optimization_option">Uključi</string>
@@ -5712,6 +5715,8 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija možda nije dizajnirana za vaš zaslon. Ovdje možete provjeriti kako se prilagođava vašem zaslonu.</string>
   <string name="screen_confirm">Uključi</string>
+  <string name="screen_dark_mode_select_time_error_summary">"Vrijeme početka i završetka ne mogu biti isti"</string>
+  <string name="screen_dark_mode_time_title">Raspored</string>
   <string name="screen_effect">Kontrast &amp; boje</string>
   <string name="screen_key_long_press">Dugi pritisak na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Pokreni funkciju</string>
@@ -5778,6 +5783,24 @@ Za prikvačivanje zaslona:
   <string name="screen_pinning_unlock_password">Traži zaporku radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pin">Traži PIN radi otkvačivanja</string>
+  <string name="screen_projection">Emitiraj</string>
+  <string name="screen_projection_characteristics">Posebne značajke</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Možete nastaviti emitirati kada je ekran vašeg uređaja isključen. Ova značajka smanjuje potrošnju energije.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Emitiranje s isključenim zaslonom</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Ne prikazuj plutajuće obavijesti, dolazne pozive i druge privatne stavke na vanjskim monitorima."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Sakrij privatne stavke</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Smanji prozor koji se emitirate kako bi se mogle koristiti druge značajke vašeg telefona."</string>
+  <string name="screen_projection_characteristics_small_window_title">Smanji prozor</string>
+  <string name="screen_projection_example_document_summary">Prikaži prezentacije na vanjskom monitoru dok telefonom prelazite s dijapozitiva i pregledavate bilješke. Idite na Upravitelj datoteka &gt; Dokumenti da isprobate ovu značajku.</string>
+  <string name="screen_projection_example_document_title">Dokumenti</string>
+  <string name="screen_projection_example_gallery_summary">Dodirnite tipku Dijeli ispod stavke u aplikaciji Galerija da biste je prikazali na vanjskom monitoru.</string>
+  <string name="screen_projection_example_gallery_title">Fotografije &amp; videozapisi</string>
+  <string name="screen_projection_example_game_summary">Game Turbo omogućuje vam da igre emitirate na vanjski monitor. Pomoću prečaca u alatnom okviru Game Turbo uključite ovu značajku.</string>
+  <string name="screen_projection_example_game_title">Igre</string>
+  <string name="screen_projection_help">Pomoć</string>
+  <string name="screen_projection_sample_summary">Emitiranje dokumenata, igara, fotografija i videozapisa</string>
+  <string name="screen_projection_sample_title">Demos</string>
+  <string name="screen_projection_title">Emitiraj</string>
   <string name="screen_reader_category_title">Čitači zaslona</string>
   <string name="screen_recorder">Snimač zaslona</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
@@ -5918,8 +5941,9 @@ Za prikvačivanje zaslona:
   <string name="search_choose_timezone">Odaberi vremensku zonu;Vremensku zona;Vremenske zone</string>
   <string name="search_cloud_backup_settings_section_title">Postavke Sig. kopije;Sig. kopija;Sig. kopija;Sig. kopije</string>
   <string name="search_cloud_restore_section_title">Vrati iz Mi Clouda;Mi Cloud;Mi Cloud Sig. kopije</string>
+  <string name="search_connection_and_sharing">Više;Bežično</string>
   <string name="search_copyright">Autorsko pravo</string>
-  <string name="search_copyright_title">Copyright</string>
+  <string name="search_copyright_title">Autorsko pravo</string>
   <string name="search_credentials_install">Instaliraj iz pohrane;Izravna instalacija;Instaliraj APK</string>
   <string name="search_date_and_time_settings_title">Datum &amp; vrijeme;Datum i vrijeme;Datum;Vrijeme</string>
   <string name="search_date_time">Datum &amp; vrijeme;Datum i vrijeme;Datum;Vrijeme</string>
@@ -6010,7 +6034,6 @@ Za prikvačivanje zaslona:
   <string name="search_privacy">Sig. kopija &amp; poništi;Sig. kopija i poništi;Sig. kopija;Reset;Izradi Sig. kopiju</string>
   <string name="search_privacy_policy">Prvila o Privatnosti</string>
   <string name="search_privacy_settings">Sig. kopija &amp; poništi;Sig. kopija i poništi;Sig. kopija;reset;Izradi Sig. kopiju</string>
-  <string name="search_radio_controls_title">Više;Bežično</string>
   <string name="search_recents_queries_label">Nedavna pretraživanja</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Rezultati</string>
@@ -6582,6 +6605,7 @@ Ova značajka treba dopuštenja za pristup vašoj lokaciji, upotrebu mobilnih mr
   <string name="sound_title">Zvuk</string>
   <string name="sound_vibrate_settings">Zvuk &amp; vibracija</string>
   <string name="sound_work_settings">Zvukovi radnog profila</string>
+  <string name="speaker">Zvučnik</string>
   <string name="special_access">Poseban pristup</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
@@ -7070,6 +7094,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="system_dashboard_summary">Jezici, vrijeme, Sig. kopija, ažuriranja</string>
   <string name="system_default_app">(Zadano sustavom)</string>
   <string name="system_package">Ažuriranja sustava nije moguće instalirati na vanjskom mediju.</string>
+  <string name="system_print_service_help">O ispisu</string>
   <string name="system_shortcut_wake">Probudi sa prečacima tipki</string>
   <string name="system_storage">Unutarnja pohrana</string>
   <string name="system_ui_settings">Prikaži Prijamnik kor. suč.</string>
@@ -8812,6 +8837,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_router_notif_summary">Obavijesti me kada je Mi Router dostupan</string>
   <string name="xiaomi_router_notif_title">Mi Router obavijesti</string>
+  <string name="xiaomi_transfer">Mi Share</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
  Veličina: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 

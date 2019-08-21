@@ -39,8 +39,10 @@
   <string name="alert_dialog_download_progress">"Preuzimanje: "</string>
   <string name="app_name">Mi Video</string>
   <string name="bind_sign_in_title">Poveži sa Mi Računom</string>
+  <string name="before_yestoday">Prije 2 dana</string>
   <string name="browser_error">Privremeno nedostupno, pokušajte ponovo kasnije</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_choose">Poništi odabir</string>
   <string name="canceled">Otkazano</string>
   <string name="cast_ad_label">Oglas</string>
   <string name="cast_casting_to_device">Emitiranje na %1$s</string>
@@ -82,6 +84,8 @@
   <string name="cast_tracks_chooser_dialog_subtitles">Titlovi</string>
   <string name="cast_unmute">Uključi zvuk</string>
   <string name="choose_to_signin">Da</string>
+  <string name="check_nothing">"Još niste odabrali nijednu stavku"</string>
+  <string name="choose">Odaberi</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
   <string name="click_to_reload_more">Dodirni za učitati više</string>
   <string name="click_to_retry">Pokušaj ponovo</string>
@@ -114,6 +118,7 @@
   <string name="com_mixpanel_android_notification_image">Slika se ne prikazuje</string>
   <string name="com_permission_desc">"Mi Video ne može pristupiti videozapisima na vašem uređaju. Omogućite pristup u Postavkama."</string>
   <string name="com_permission_title">Potrebno je dopuštenje</string>
+  <string name="common_cancel">Odustani</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
   <string name="common_google_play_services_enable_text">"%1$s neće funkcionirati ako ne omogućite Google Play usluge."</string>
   <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>
@@ -132,7 +137,8 @@
   <string name="common_open_on_phone">Otvaranje na telefonu</string>
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava uslugom Google</string>
-  <string name="data_empty">No items here</string>
+  <string name="data_empty">Nema stavki</string>
+  <string name="day">dan</string>
   <string name="dialog_privacy_info_new2">"Da biste mogli koristiti te usluge, morate to prihvatiti %1$s što prikupljamo, obrađujemo, i koristimo vaše osobne podatke. Smatramo da ste pročitali i prihvatili naše &lt;a href=%2$s&gt;Pravila o Privatnosti&lt;/a&gt; kada dodirnete \"Slažem se\"."</string>
   <string name="dialog_privacy_title">Autorizacija</string>
   <string name="dialog_revoke_privacy_info_new2">Nakon opoziva autorizacije, aplikacija će zaustaviti prikupljanje podataka, a svi povezani podaci bit će izbrisani s naših poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Opozvati autorizaciju?</string>
@@ -163,6 +169,7 @@
   <string name="exo_controls_stop_description">Stop</string>
   <string name="explore_On">Istražite</string>
   <string name="explore_on_mi_video">Pronađite više u Mi Video</string>
+  <string name="do_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="failed_to_fetch_data">"Ne mogu učitati informacije."</string>
   <string name="find_psw">Zaboravljena zaporka</string>
   <string name="finish">Done</string>
@@ -173,6 +180,7 @@
   <string name="get_ph_ticket">Dobijte kod</string>
   <string name="goto_sign_up">Izradi račun</string>
   <string name="grant_write_settings_permission">Odobrite dopuštenje za kontrolu osvjetljenja playera</string>
+  <string name="have_learned">Razumijem</string>
   <string name="isornot_your_mi_account">Je li ovo vaš Mi račun?</string>
   <string name="language_select_tips">Koje su vaše jezične postavke videozapisa? Možete odabrati više jezika.</string>
   <string name="language_setting_tips">Uspješno spremljeno. Postavke jezika možete promijeniti u postavkama.</string>
@@ -291,12 +299,26 @@
   <string name="lv_subtitle_track">Titlovi</string>
   <string name="lv_unhide_prompt">Uspješno postavljeno. Sada možete vidjeti skrivene stavke.</string>
   <string name="lv_updating">Ažuriranje…</string>
+  <string name="lv_use_notch">Prikaži urez</string>
   <string name="lv_videoView_error_text_invalid_progressive_playback">"Ovaj videozapis nije moguće reproducirati na uređaju."</string>
   <string name="lv_videoView_error_text_unknown">"Ne mogu reproducirati ovaj videozapis."</string>
   <string name="lv_videoView_error_title">"Ne mogu reproducirati videozapis"</string>
   <string name="lv_video_null">Nema videozapisa</string>
   <string name="lv_volume">Glasnoća</string>
   <string name="mi_video">Mi Video</string>
+  <string name="moment_guide_desc">Koristite geste za povećavanje i smanjivanje</string>
+  <string name="moment_tab_all">Sve</string>
+  <string name="moment_tab_facebook">Facebook</string>
+  <string name="moment_tab_image">Slike</string>
+  <string name="moment_tab_instagram">Instagram</string>
+  <string name="moment_tab_qq">QQ</string>
+  <string name="moment_tab_sina_weibo">Weibo</string>
+  <string name="moment_tab_video">Snimljeno</string>
+  <string name="moment_tab_wechat">WeChat</string>
+  <string name="moment_tab_whatsapp">WhatsApp</string>
+  <string name="moment_title_my_videos">Moji videozapisi</string>
+  <string name="monday">Ponedjeljak</string>
+  <string name="month">mjesec</string>
   <string name="more">Više</string>
   <string name="mr_button_content_description">Tipka emitiraj</string>
   <string name="mr_cast_button_connected">Tipka emitiraj. POvezan</string>
@@ -324,6 +346,7 @@
   <string name="network_failed">"Ne mogu se povezati na mrežu"</string>
   <string name="next">Dalje</string>
   <string name="nick_name">Ime</string>
+  <string name="no_network_tips">"Ne mogu koristiti ovu značajku. Pristup mreži je ograničen."</string>
   <string name="no_recommend_data">Nema preporučenih videozapisa</string>
   <string name="not_show">"Ne prikazuj ponovno"</string>
   <string name="notify_apk_installed">Uspješno preuzeto</string>
@@ -433,6 +456,11 @@
   <string name="passport_wechat_not_install">WeChat nije isntaliran</string>
   <string name="password_toggle_content_description">Vidljivost prečaca zaporke</string>
   <string name="permission_continue">Nastavi</string>
+  <string name="permission_content">Odobrite aplikaciji Mi Video potrebna dopuštenja kako bi se omogućilo da radi normalno.</string>
+  <string name="permission_content2">"Idite u Postavke &gt; Aplikacije &gt; Mi Video &gt; Dopuštenja, i odobrite aplikaciji Mi Video sljedeća dopuštenja:
+
+1. Pristup pohrani
+2. Pristup podacima o uređaju"</string>
   <string name="permission_info">"Mi Video mora pristupiti IMEI broju vašeg uređaja za sljedeće:
  
 Bolja prilagodba njegovih usluga za vaš uređaj;
@@ -440,7 +468,12 @@ Povećati sigurnost vašeg računa."</string>
   <string name="permission_info1">Mi Video mora pristupiti IMEI broju vašeg uređaja za sljedeće:</string>
   <string name="permission_info2">Bolja prilagodba njegovih usluga za vaš uređaj;</string>
   <string name="permission_info3">Povećati sigurnost vašeg računa.​</string>
-  <string name="permission_title">Pottrebno je dopuštenje</string>
+  <string name="permission_open_settings">Postavke</string>
+  <string name="permission_phone">Telefon</string>
+  <string name="permission_phone_desc">Za pristup statusu uređaja i zaustavljanje reprodukcije tijekom poziva</string>
+  <string name="permission_refuse">Ne hvala</string>
+  <string name="permission_retry">U redu</string>
+  <string name="permission_title">Potrebno je dopuštenje</string>
   <string name="phone_bind_too_many">Ovaj telefon je povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
   <string name="phone_hint">Broj telefona</string>
   <string name="phone_number">Broj telefona</string>

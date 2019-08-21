@@ -55,6 +55,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_storage_already_used">Iskorišteno: %1$s/%2$s</string>
   <string name="cloud_storage_info_type_others">Ostalo</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
+  <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
@@ -514,6 +515,9 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="next">Dalje</string>
   <string name="noRemind">"Ne podsjećaj me"</string>
   <string name="no_sim">"Ne mogu pronaći SIM karticu"</string>
+  <string name="pay_info_dialog_confirm_to_pay">Plati %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Upotrijebi preostale Mi kredite: %s</string>
+  <string name="pay_info_dialog_title">Odaberite način plaćanja</string>
   <string name="open_micloud_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="other_settings">Ostale postavke</string>
   <string name="password">Unesite zaporku</string>
