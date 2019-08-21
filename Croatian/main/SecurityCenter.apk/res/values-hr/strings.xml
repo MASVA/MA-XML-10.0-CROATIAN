@@ -763,11 +763,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
   <string name="cta_checkbox_title">"Ne prikazuj ponovno"</string>
-  <string name="cta_dialog_msg">Morate se složiti sa našim &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja aplikacije Sigurnost. Aplikacija se također mora povezati s internetom i pristupiti vašoj lokaciji kako bi normalno radila i ažurirala antivirusne definicije. Slažete li se?</string>
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_settings">Dopusti povezivanje s internetom</string>
+  <string name="cta_main_purpose">Dobrodošli u Sigurnost! Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama i još mnogo toga.</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
@@ -1319,7 +1319,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_network_status_bad">Došlo je do pogreške u vezi.</string>
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
-  <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke."</string>
+  <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>

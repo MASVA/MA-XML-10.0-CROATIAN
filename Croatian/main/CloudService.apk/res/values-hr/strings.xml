@@ -53,7 +53,10 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_find_device_on">Uključeno</string>
   <string name="cloud_lab_title">Cloud Lab</string>
   <string name="cloud_storage_already_used">Iskorišteno: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_drive">Mi Drive</string>
+  <string name="cloud_storage_info_type_duokan">Duokan</string>
   <string name="cloud_storage_info_type_others">Ostalo</string>
+  <string name="cloud_storage_info_type_pdc">Postavke sustava</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
@@ -310,6 +313,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_main_battery_low">Baterija preslaba za sinkr.</string>
   <string name="micloud_main_battery_message">"Priključite punjač da sinkronizirate"</string>
   <string name="micloud_main_head_menu_cloud_backup">Sig. kopija Poč. zaslona</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Izgled početnog zaslona, aplikacije i postavke sustava</string>
+  <string name="micloud_main_head_menu_finddevice_summary">"Pronađite i zaključajte uređaj ako se izgubi"</string>
   <string name="micloud_last_sync_canceled">Sinkronizacija je otkazana. Pokušajte ponovno.</string>
   <string name="micloud_main_button_set_internet">Postavke</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Pronađi uređaj nije dostupan u Drugom prostoru, možete ga koristiti u Prvom prostoru.</string>
@@ -337,7 +342,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_manaul_sync_success_time_prefix">Zadnja sinkr.: %s</string>
   <string name="micloud_manaul_sync_success_title">Sinkronizirano</string>
   <string name="micloud_manual_activating">Aktiviranje…</string>
-  <string name="micloud_manual_all_sync_off_button_text">Uključi sinkr.</string>
+  <string name="micloud_manual_all_sync_off_button_text">Uključi</string>
   <string name="micloud_manual_all_sync_off_summary">Vrati sinkronizirane podatke na nove uređaje pomoću Mi Clouda</string>
   <string name="micloud_manual_all_sync_off_title">Sinkr. je isključena</string>
   <string name="micloud_manual_buy_vip">Dobijte više prostora za pohranu</string>
@@ -423,9 +428,16 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
   <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>
+  <string name="micloud_setting_calendar_summary">Događaji</string>
+  <string name="micloud_setting_calllog_summary">Povijest poziva</string>
+  <string name="micloud_setting_contact_summary">Kontakti i slike profila</string>
   <string name="micloud_setting_deskclock_summary">Vremenska zona i postavke alarma</string>
   <string name="micloud_setting_gallery_summary">Fotografije i videozapisi</string>
   <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
+  <string name="micloud_setting_notes_summary">Bilješke</string>
+  <string name="micloud_setting_personal_assistant_summary">Kartice i značajke Zaklj. aplikacija</string>
+  <string name="micloud_setting_phrase_summary">Česti izrazi</string>
+  <string name="micloud_setting_recorder_summary">Zvuk i snimljemi pozivi</string>
   <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
   <string name="micloud_setting_wifi_summary">WLAN postavke</string>
   <string name="micloud_single_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari sa prijateljima.</string>
@@ -566,6 +578,11 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="soundrecorder_sync_only_in_wifi">Koristi samo WLAN za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>
+  <string name="storage_manage_expansion">Nabavite više</string>
+  <string name="storage_manage_list_title">Cloud podaci</string>
+  <string name="storage_manage_list_title_action">Prikaži još</string>
+  <string name="storage_manage_renewal">Obnovi</string>
+  <string name="storage_manage_upgrade">Nadogradi</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Prostor za pohranu</string>
   <string name="sub_alert_notif_content">Uključite sinkr. sa Mi Cloudom za pohranu vaših podataka</string>
@@ -645,7 +662,7 @@ Korištenjem ove usluge, slažete se s "</string>
   <string name="warning_bar_action_upgrade_vip">Nadogradi Mi Cloud plan</string>
   <string name="warning_bar_add_short_cut_success">Uspješno dodano</string>
   <string name="warning_bar_title_cloud_space_already_full">Mi Cloud pohrani ponestaje prostora. Vaše fotografije možda neće biti sinkronizirane.</string>
-  <string name="warning_bar_title_cloud_space_full">Mi Cloud pohrana je puna. Sinkr. je pauzirana.</string>
+  <string name="warning_bar_title_cloud_space_full">"Mi Cloud pohrana je puna. Ne mogu se sinkronizirati fotografije, povijest poziva i druge stavke."</string>
   <string name="warning_bar_title_master_sync_off">Autom. sinkr. je isključena</string>
   <string name="warning_bar_title_network_unconnected">"Ne mogu e povezati na mrežu"</string>
   <string name="warning_bar_title_short_cut">Dodati prečac početnog zaslona za Mi Cloud?</string>
