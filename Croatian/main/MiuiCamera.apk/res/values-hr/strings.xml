@@ -799,7 +799,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
   <string name="pref_camera_picturesize_title">Veličina slike</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
   <string name="pref_camera_portrait_mode_entry_off">Portretni način rada isključen</string>
