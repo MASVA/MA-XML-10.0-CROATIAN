@@ -306,6 +306,7 @@
   <string name="privacy_thumbnail_blur_title">Zamućivanje pregleda aplikacija</string>
   <string name="process"/>
   <string name="quick_app">Brze aplik.</string>
+  <string name="recent_apps">Nedavno</string>
   <string name="recents_config_title">Nedavno</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
