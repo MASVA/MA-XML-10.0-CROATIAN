@@ -427,7 +427,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_request_sync_too_frequent">Previše zahtjeva. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
-  <string name="micloud_setting_contact_summary">Podaci o kontaktima i fotografije profila</string>
   <string name="micloud_setting_calendar_summary">Događaji</string>
   <string name="micloud_setting_calllog_summary">Povijest poziva</string>
   <string name="micloud_setting_contact_summary">Kontakti i slike profila</string>
