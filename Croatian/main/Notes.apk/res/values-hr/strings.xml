@@ -273,6 +273,7 @@ Dopustite aplikaciji Bilješke čitanje sadržaja SD kartice."</string>
 Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
 Dopustite aplikaciji Bilješke snimanje zvuka."</string>
+  <string name="toast_pic_is_not_really">Spremanje slike…</string>
   <string name="todo_alert_title_delete">Izbrišite dovršene zadatke</string>
   <string name="todo_audio_default_content">"[Glasovni zadatak] "</string>
   <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>

@@ -390,8 +390,6 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="anti_spam">Lista blokiranih</string>
   <string name="aod_and_lock_screen_settings_title">Ambijentalni zaslon &amp; Zaklj. zaslon</string>
   <string name="aod_clock_style_title">Stil sata</string>
-  <string name="aod_settings_category_name">Ambijentalni zaslon</string>
-  <string name="aod_settings_title">Ambijentalni zaslon</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_dual_togother">HH:MM</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
@@ -412,6 +410,8 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_sample_hour_vertical">02</string>
   <string name="aod_sample_minute">38</string>
   <string name="aod_sample_time">2:38</string>
+  <string name="aod_settings_category_name">Ambijentalni zaslon</string>
+  <string name="aod_settings_title">Ambijentalni zaslon</string>
   <string name="aod_to_close">Isključi</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta provjere autentičnosti</string>
@@ -1352,6 +1352,8 @@ Ova se značajka može isključiti u [Postavke]"</string>
   <string name="bt_ldac_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Značajke</string>
+  <string name="bt_ldac_remember_choice">Zapamti izbor</string>
+  <string name="bt_ldac_settings">Postavke</string>
   <string name="bt_lhdc_declaration">Kada Bluetooth uređaj podržava LHDC, bit će povezan prema zadanim postavkama. LHDC pruža visoko kvalitetno audio iskustvo ali također donosi i veću potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera..</string>
   <string name="bt_lhdc_dialog_summary">"LHDC pruža visoko kvalitetno audio iskustvo, ali također povećava potrošnju energije.
 Ova se značajka može isključiti u Postavkama"</string>
@@ -1360,8 +1362,6 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="bt_lhdc_open_dialog_title">Uključiti LHDC?</string>
   <string name="bt_lhdc_pre_title">LHDC</string>
   <string name="bt_lhdc_property">Značajke</string>
-  <string name="bt_ldac_remember_choice">Zapamti izbor</string>
-  <string name="bt_ldac_settings">Postavke</string>
   <string name="bt_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_rarely_used_device_title">Rijetko korišteni uređaji (%d)</string>
   <string name="bt_trace_log">Bluetooth Trace zapisnik</string>
@@ -1702,11 +1702,11 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="confirm_erase">U redu</string>
-  <string name="confirm_fingerprint">Potvrdite svoj otisak prsta</string>
   <string name="confirm_exit_link">Napusti</string>
   <string name="confirm_exit_link_cancel">"Ne napuštaj"</string>
   <string name="confirm_exit_link_msg">"Napuštanje aplikacije će prekinuti trenutni prijenos. Ponovno ćete morati uspostaviti vezu između dva uređaja. Svejedno napustiti aplikaciju?"</string>
   <string name="confirm_exit_link_title">Prekidanje prijenosa</string>
+  <string name="confirm_fingerprint">Potvrdite svoj otisak prsta</string>
   <string name="confirm_fingerprint_icon_content_description">Nastavite pomoću otiska prsta.</string>
   <string name="confirm_fingerprint_msg">Stavite prst na čitač otisaka prstiju</string>
   <string name="confirm_frp_credential_message">Uređaj je vraćen na tvorničke postavke. Možete ga otključati pomoću prethodne zaporke.</string>
@@ -1872,6 +1872,8 @@ Ova se značajka može isključiti u Postavkama"</string>
   <string name="dangerous_option_switch_title">Obavijesti o visokorizičnim značajkama</string>
   <string name="dark_color_mode">Tamni način</string>
   <string name="dark_color_summary">Koristite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije</string>
+  <string name="dark_color_summary_lcd">"Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada može vam pomoći pri uklanjanju naprezanja očiju dok uređaj koristite u mraku."</string>
+  <string name="dark_color_summary_oled">Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada smanjuje potrošnju energije i pomaže u oslobađanju naprezanja očiju.</string>
   <string name="dark_ui_mode">Noćni način rada</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Sažmi</string>
@@ -2502,9 +2504,9 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_multi_window_summary">Više istovremenih aktivnosti na zaslonu.</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_quick_setting">Prikaži u Brzim postavkama</string>
-  <string name="enable_screen_projection_summary">Sadržaj zaslona prebacite na vanjski monitor</string>
   <string name="enable_quickboot_summary">Stavite uređaj u QuickBoot način, umjesto normalnog isključivanja</string>
   <string name="enable_quickboot_title">Omogući QuickBoot način</string>
+  <string name="enable_screen_projection_summary">Sadržaj zaslona prebacite na vanjski monitor</string>
   <string name="enable_service_encryption_warning">Ako uključite %1$s, vaš uređaj neće upotrebljavati PIN ili zaporku za zaključavanje zaslona za bolje šifriranje podataka.</string>
   <string name="enable_service_password_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi zaporku.</string>
   <string name="enable_service_pattern_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi uzorak.</string>
@@ -3007,10 +3009,10 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="google_wallet">Google novčanik</string>
   <string name="got_it">Shvaćam</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
-  <string name="gxzw_add_fingerprint_area">Skener otiska prsta</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne mogu koristiti Mi Mover u Gost načinu rada."</string>
+  <string name="gxzw_add_fingerprint_area">Skener otiska prsta</string>
   <string name="gxzw_add_fingerprint_continue">Nastavi</string>
   <string name="gxzw_add_fingerprint_edge_message">Pomičite prst da snimite rubove otiska prsta.</string>
   <string name="gxzw_add_fingerprint_edge_title">Podesite dodir</string>
@@ -3074,9 +3076,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="header_category_system">SUSTAV</string>
   <string name="header_category_wireless_networks">Bežično &amp; mreže</string>
   <string name="header_data_and_synchronization">Podaci &amp; sinkronizacija</string>
-  <string name="headset_settings_title">Slušalice</string>
   <string name="heads_up_enabled_title">Skočni za visoki prioritet</string>
   <string name="headset_calibrate">Podešavanje tipki</string>
+  <string name="headset_settings_title">Slušalice</string>
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
   <string name="help_feedback_label">Pomoć &amp; pov. informacije</string>
   <string name="help_label">Pomoć/povratne inf.</string>
@@ -3102,8 +3104,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="home_app">Pokretač</string>
   <string name="home_app_uninstall_button">Deinstaliraj aplikaciju</string>
   <string name="home_key">Početna</string>
-  <string name="home_title">Poč. zaslon</string>
   <string name="home_settings">Početna</string>
+  <string name="home_title">Poč. zaslon</string>
   <string name="home_work_profile_not_supported">Ne podržava radne profile</string>
   <string name="hsa_code_null">Kôd za provjeru ne može biti prazan</string>
   <string name="hsa_input_hint">Unesite kôd za provjeru</string>
@@ -3580,9 +3582,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_profile_wipe_warning_content_password">Ako pri ovom pokušaju unesete netočnu zaporku za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
   <string name="lock_profile_wipe_warning_content_pattern">Ako pri ovom pokušaju unesete netočan uzorak za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
   <string name="lock_profile_wipe_warning_content_pin">Ako pri ovom pokušaju unesete netočan PIN za posao, vaš će se radni profil i povezani podaci ukloniti s uređaja.</string>
-  <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_profile_wipe_warning_title">Posljednji pokušaj</string>
   <string name="lock_screen_cells_title">Zaključaj raspored Poč. zaslona</string>
+  <string name="lock_screen_display_category_name">Zaklj. zaslon</string>
   <string name="lock_screen_intro_skip_dialog_text">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka ili krađe.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Značajke zaštite uređaja neće se aktivirati. Nećete moći blokirati upotrebu telefona u slučaju gubitka, krađe ili brisanja podataka s njega.</string>
   <string name="lock_screen_intro_skip_title">Želite li preskočiti zaključavanje zaslona?</string>
@@ -3597,11 +3599,11 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="lock_screen_notifications_summary_show">Prikaži sve obavijesti i njihov sadržaj</string>
   <string name="lock_screen_notifications_summary_show_profile">Prikaži sav sadržaj obavijesti radnog profila</string>
   <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
-  <string name="lock_screen_settings_title">Zaklj. zaslon</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Nikada ne zahtijevaj zaporku.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Odmah potrebna zaporka</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebna zaporka za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebna zaporka</string>
+  <string name="lock_screen_settings_title">Zaklj. zaslon</string>
   <string name="lock_screen_signature_summary">Ova će poruka biti prikazana na Zaklj. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o vlasniku na Zaklj. zaslonu</string>
   <string name="lock_screen_unlock_show">Preskoči Zaklj. zaslon</string>
@@ -4674,12 +4676,12 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
   <string name="open_optimization_message">Uključite optimizaciju da biste uživali u uglađenom i bržem UI.</string>
   <string name="open_optimization_option">Uključi</string>
-  <string name="open_privacy_thumbnail_blur_title">Pregledi su zamućeni</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
   <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Zaklj. aplikacija i primati njegova ažuriranja. Isključiti sada?"</string>
   <string name="open_personal_assistant_dialog_title">Isključi Zaklj. aplikacija</string>
   <string name="open_personal_assistant_title">Uključi Zaklj. aplikacija</string>
+  <string name="open_privacy_thumbnail_blur_title">Pregledi su zamućeni</string>
   <string name="open_sdcard_optimization_title">Uključi optimiziranje SD kartice</string>
   <string name="open_sdcard_optimization_warning_message">Vaš uređaj će se ponovno pokrenuti radi primjene ove promjene.</string>
   <string name="open_wifi_connect_summary">"Dodirni za upravljanje"</string>
@@ -4698,6 +4700,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="otg_tip">"USB On-The-Go omogućuje USB pogonima i prijenosnim tipkovnicama povezivanje s vašim mobilnim uređajem i razmjenu podataka.
 
  OTG automatski se isključuje nakon 10 minuta neaktivnosti."</string>
+  <string name="other">Ostalo</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_device_info">Ostalo</string>
   <string name="other_personal_settings">Osobne postavke</string>
@@ -4795,8 +4798,8 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_entrance_title">Postavi Zaklj. zaslona</string>
   <string name="password_guard">Zaporka</string>
-  <string name="password_security_settings_title">Zaporka &amp; sigurnost</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
+  <string name="password_security_settings_title">Zaporka &amp; sigurnost</string>
   <string name="password_turned_off_text">Zaporka je isključena</string>
   <string name="password_turned_on_text">Zaporka je uključena</string>
   <string name="password_unlock_title">Zaporka</string>
@@ -5060,6 +5063,17 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="pointer_speed">Brzina pokazivača</string>
   <string name="popup_gesture_summary">Idi natrag na Početni zaslon, podignite telefon i pogledajte zaslon kako biste automatski otvorili prednju kameru</string>
   <string name="popup_gesture_title">Podignite telefon za otvaranje prednje kamere</string>
+  <string name="popup_led_summary">Prikaži animaciju kada se prednja kamera pojavi i povuče</string>
+  <string name="popup_led_title">Vizualni efekt</string>
+  <string name="popup_title">Efekti prednje kamere</string>
+  <string name="popup_title_cangmen">Cabin door</string>
+  <string name="popup_title_chilun">Gearwheel</string>
+  <string name="popup_title_jijia">Mecha</string>
+  <string name="popup_title_mofa">Magic</string>
+  <string name="popup_title_muqin">Xylophone</string>
+  <string name="popup_title_yingyan">Condor</string>
+  <string name="popup_voice_summary">Reproduciraj zvuk kada se prednja kamera pojavi i povuče</string>
+  <string name="popup_voice_title">Zvučni efekt</string>
   <string name="popup_window">Ograniči plutajuće obavijesti</string>
   <string name="power_apps">Aplikacije</string>
   <string name="power_autorun_apps_empty">Prazno</string>
@@ -5395,9 +5409,9 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="quick_launch_title">Brzo pokretanje</string>
   <string name="quick_reply_title">Brzi odgovori</string>
   <string name="quick_settings_developer_tiles">Pločice brzih postavki za razvojne programere</string>
+  <string name="quick_settings_label">Prečaci</string>
   <string name="quick_settings_under_keyguard_summary">Omogući pristup brzim postavkama dok je uređaj zaključan</string>
   <string name="quick_settings_under_keyguard_title">Pristup brzim postavkama</string>
-  <string name="quick_settings_label">Prečaci</string>
   <string name="quiet">Ne ometaj</string>
   <string name="quiet_group">Ne ometaj</string>
   <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
@@ -6704,16 +6718,15 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_show_keyguard_notification">Obavijesti Zaklj. zaslona</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Dopusti važne obavijesti na Zaklj. zaslonu</string>
   <string name="status_bar_settings_show_lte_for_4g">Prikaži LTE ikonu za 4G</string>
-  <string name="status_bar_settings_show_weather">Prikaži vremensku prognozu u Panelu obavijesti</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Prikaži kao popis</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Obavijest se na kratko pojavljuje na vrhu zaslona</string>
+  <string name="status_bar_settings_show_weather">Prikaži vremensku prognozu u Panelu obavijesti</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WLAN</string>
   <string name="status_bar_settings_status_bar">Traka statusa</string>
-  <string name="status_bar_title">Traka statusa</string>
   <string name="status_bar_settings_style">Obavijesti &amp; raspored prečaca</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked"> Umanji nakon dodira</string>
   <string name="status_bar_settings_toggle_layout_style">Uključi/isključi stil izgleda</string>
@@ -6731,6 +6744,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Odvojeno</string>
   <string name="status_bar_style_settings">Obavijesti</string>
+  <string name="status_bar_title">Traka statusa</string>
   <string name="status_bar_toggle_arrangement">Raspored prečaca</string>
   <string name="status_bt_address">Bluetooth adresa</string>
   <string name="status_data_network_type">Vrsta mobilne podatkovne mreže</string>
@@ -7027,13 +7041,13 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="support_escalation_title">Rado ćemo vam pomoći</string>
   <string name="support_escalation_unavailable_summary">Potražite pomoć ili istražite savjete i trikove</string>
   <string name="support_estimated_wait_time">~%1$s čekanja</string>
+  <string name="support_gesture_title">3D uzorci</string>
   <string name="support_help_feedback_title">Pretraži pomoć i pošalji povratne informacije</string>
   <string name="support_international_phone_summary">Mogu se primjenjivati međunarodne naknade</string>
   <string name="support_international_phone_title">Putujete u inozemstvo?</string>
   <string name="support_sign_in_button_text">Prijava</string>
   <string name="support_sign_in_required_help">Ne možete se prijaviti?</string>
   <string name="support_sign_in_required_title">Obratite se podršci</string>
-  <string name="support_gesture_title">3D uzorci</string>
   <string name="support_summary">Članci pomoći, podrška telefonom i chatom</string>
   <string name="support_system_information_title">Informacije o sustavu</string>
   <string name="support_tips_and_tricks_title">Istraži savjete i trikove</string>
@@ -7665,6 +7679,21 @@ i Mi Mover uključen"</string>
   <string name="usage_access">Pristup upotrebi</string>
   <string name="usage_access_description">Pristup upotrebi omogućuje aplikaciji praćenje drugih aplikacija koje upotrebljavate i učestalosti njihove upotrebe, kao i praćenje mobilnog operatera, postavki jezika i ostalih pojedinosti.</string>
   <string name="usage_access_title">Apl. s pristupom pod. o upot.</string>
+  <string name="usage_app_get_it">Razumijem</string>
+  <string name="usage_app_limit_alter_summary">"Čini se da je ovo vremensko ograničenje kraće od vremena koje danas koristite ovu aplikaciju. Postaviti ograničenje svejedno?"</string>
+  <string name="usage_app_limit_alter_title">Provjeri vremensko ograničenje zaslona</string>
+  <string name="usage_app_limit_prelong">Produži vrijeme</string>
+  <string name="usage_app_limit_reach_summay">%s preostalo</string>
+  <string name="usage_app_limit_reach_title">%s doseže svoje vremensko ograničenje zaslona</string>
+  <string name="usage_app_limit_summary">"Odabrane aplikacije neće biti dostupne kada se dosegne ograničenje"</string>
+  <string name="usage_app_limit_title">Ograniči vrijeme zaslona</string>
+  <string name="usage_app_other_settings">Dodatne postavke</string>
+  <string name="usage_app_over_content">"Već ste koristili ovu aplikaciju danas %s."</string>
+  <string name="usage_app_over_summary">"Dosegli ste svoje ograničenje. Vrijeme je isteklo!"</string>
+  <string name="usage_app_set_limit_time">Postavi ograničenje</string>
+  <string name="usage_app_system_app_summary">"Ne mogu ograničiti vrijeme zaslona za aplikacije sustava"</string>
+  <string name="usage_app_weekday_limit">Radni dani</string>
+  <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_log">Statistika korištenja aplikacija</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>
   <string name="usage_state_app_timer">Vrijeme zaslona</string>
@@ -8147,12 +8176,12 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="vt_provisioned_switch_string">Pružena usluga videopoziva</string>
   <string name="wait_for_debugger">Čeka se program za uklanjanje pogrešaka</string>
   <string name="wait_for_debugger_summary">Aplikacija čeka priključivanje programa za uklanjanje pogrešaka prije pokretanja</string>
-  <string name="wakeup_and_sleep_settings_category_name">Postavke Zaklj. zaslona</string>
   <string name="wait_link">"Otvorite Mi Mover na starom uređaju,
 Nemojte napustiti ovu stranicu dok se veza ne uspostavi. "
 Dodirnite \"Ja sam pošiljatelj\" i odaberite Hotspot za povezivanje.
 Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="waiting">Samo trenutak…</string>
+  <string name="wakeup_and_sleep_settings_category_name">Postavke Zaklj. zaslona</string>
   <string name="wakeup_for_keyguard_notification_title">Uključi Zaklj. zaslon kod obavijesti</string>
   <string name="wallpaper_attributions">Slike pozadine</string>
   <string name="wallpaper_attributions_values">"Satellite imagery providers:

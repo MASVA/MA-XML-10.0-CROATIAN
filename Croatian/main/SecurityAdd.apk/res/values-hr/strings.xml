@@ -148,6 +148,7 @@
   <string name="open_browser">Otvori u pregledniku</string>
   <string name="open_game">Otvori</string>
   <string name="other">Ostale postavke</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pc_activity_title">Optimiziraj bateriju</string>
   <string name="pm_lable_name">O ROOT pristupu</string>
   <string name="power_autorun_apps_empty">Nema aplik. sa autom. pokretanjem</string>
