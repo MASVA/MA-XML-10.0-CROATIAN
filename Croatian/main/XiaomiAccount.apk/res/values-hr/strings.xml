@@ -202,7 +202,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
-  <string name="ep_unsupported">Vaš uređaj ne podržava prijavu na Mi Račun</string>
+  <string name="ep_unsupported">Vaš uređaj ne podržava prijavu na Xiaomi račun</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
   <string name="error_duplicate_answers">"Nemojte koristiti duplicirane odgovore iz sigurnosnih razloga"</string>
   <string name="error_incomplete_question_or_answer">Odaberite 4 pitanja i ponudite odgovore</string>
@@ -522,13 +522,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
-  <string name="passport_user_agreement_p1">Suglasni ste s </string>
-  <string name="passport_user_agreement_p2">Korisnički Sporazum</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;"Pročitao sam i pristajem na Xiaomi &amp;lt;a href=%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>  
   <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Zemlja/Regija</string>
   <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
-  <string name="passport_user_agreement_p3">i</string>
-  <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_user_agreement_required">Korisnički sporazum (obavezno)</string>
   <string name="passport_vcode_notice">Kod</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
@@ -628,6 +625,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
+  <string name="system_ad">Oglasi u sistemskim aplikacijama</string>
+  <string name="system_ad_list">Pogledajte povezane aplikacije.</string>
+  <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u sistemskim aplikacijama. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku. Hvala na podršci! "</string>
+  <string name="system_ad_switch">Oglasi u sistemskim aplikacijama</string>
   <string name="talkback_scan_barcode">Skeniraj QR kod</string>
   <string name="temporary_not_available">"Ova značajka još nije dostupna."</string>
   <string name="submit_answers">Pošalji</string>

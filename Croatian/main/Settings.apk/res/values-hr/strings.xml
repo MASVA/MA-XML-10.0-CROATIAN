@@ -2940,6 +2940,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="fsg_mistake_touch_title">Dvaput provjeri za geste</string>
   <string name="full_screen_display">Cijeli zaslon</string>
   <string name="full_screen_keyboard_optimization">Poboljšajte tipkovnicu</string>
+  <string name="full_screen_keyboard_settings">Postavke tipkovnice za prikaz na cijelom zaslonu</string>
   <string name="full_transparent_smarrcover_title">Prozirni prednji poklopac</string>
   <string name="fullbackup_data_summary">"Daljinski pokrenite automatsku izradu sigurnosne kopije podataka uređaja (kao što su zaporke WLAN-a i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
 
@@ -3181,8 +3182,10 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_assistance">Pomoć pri unosu</string>
   <string name="input_hint_prefix">Unesi %1$s</string>
   <string name="input_method">Tipkovnica</string>
-  <string name="input_method_function_clipboard">Međuspremnik i česte fraze</string>
-  <string name="input_method_function_clipboard_des">Dodirnite za pregled sadržaja međuspremnika i čestih fraza</string>
+  <string name="input_method_bottom_close">Isključi</string>
+  <string name="input_method_bottom_open">Uključi</string>
+  <string name="input_method_function_clipboard">Međuspremnik i česti izrazi</string>
+  <string name="input_method_function_clipboard_des">Dodirnite za pregled sadržaja međuspremnika i čestih izraza</string>
   <string name="input_method_function_no_function">Ništa</string>
   <string name="input_method_function_no_function_des">"Ne prikazuj nikakve prečace"</string>
   <string name="input_method_function_switch">Promjeni tipkovnice</string>
@@ -3191,12 +3194,14 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="input_method_function_voice_des">Dodirnite za upotrebu glasovnog unosa</string>
   <string name="input_method_function_xiaoai">Mi AI Glasovni unos</string>
   <string name="input_method_function_xiaoai_des">Dodirnite za upotrebu Mi AI glasovnog unosa</string>
+  <string name="input_method_manage">Upravljanje tipkovnicama</string>
   <string name="input_method_selector">Odaberi načina unosa</string>
   <string name="input_method_selector_always_hide_title">Uvijek sakrij</string>
   <string name="input_method_selector_always_show_title">Uvijek prikaži</string>
   <string name="input_method_selector_show_automatically_title">"Automatski"</string>
   <string name="input_method_settings">Postavke</string>
   <string name="input_method_settings_button">Postavke</string>
+  <string name="input_method_settings_text">Postavke</string>
   <string name="input_methods_and_subtype_enabler_title">Odabir aktivnih načina unosa</string>
   <string name="input_methods_settings_label_format">%1$s postavke</string>
   <string name="input_methods_settings_title">Unos teksta</string>
@@ -3278,6 +3283,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu.</string>
   <string name="keyboard_layout_dialog_title">Odaberite izgled tipkovnice</string>
   <string name="keyboard_layout_picker_title">Izgledi tipkovnice</string>
+  <string name="keyboard_mouse_touch">Tipkovnica, miš i dodirna površina</string>
   <string name="keyboard_settings_category">Tipkovnica i načini unosa</string>
   <string name="keyboard_settings_title">Android tipkovnica</string>
   <string name="keyboard_shortcuts_helper">Pomoć za tipkovne prečace</string>
@@ -3458,6 +3464,13 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
   <string name="link_speed_label">Brzina veze:</string>
+  <string name="link_turbo_prompt">"Statistika na ovoj stranici prikazuje samo količinu podataka koja se koristi za pojačavanje brzine WLAN veze. Ove statistike ne odražavaju stvarnu upotrebu mobilnih podataka."</string>
+  <string name="link_turbo_settings_all_app_display_loading">Samo trenutak…</string>
+  <string name="link_turbo_settings_all_app_reach_max">Možete odabrati do 15 aplikacija</string>
+  <string name="link_turbo_usage_state_month">Ovaj mjesec</string>
+  <string name="link_turbo_usage_state_month_total">Ovaj mjesec</string>
+  <string name="link_turbo_usage_state_today">Danas</string>
+  <string name="link_turbo_usage_state_today_total">Danas</string>
   <string name="list_bg_header_text">"Ako ograničite pozadinsku vezu, nove aplikacije se neće moći povezati s internetom u pozadini nakon što ih instalirate. Nakon toga neće biti u mogućnosti primati poruke ili preuzeti sadržaj."</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_footer_tip_title">Savjeti:</string>
@@ -4703,6 +4716,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="other">Ostalo</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_device_info">Ostalo</string>
+  <string name="other_input_settings">Dodatne postavke tipkovnice</string>
   <string name="other_personal_settings">Osobne postavke</string>
   <string name="other_relative">Ostalo</string>
   <string name="other_settings_sync_settings">Sinkr.</string>
@@ -8490,6 +8504,13 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_ip_settings_menu_cancel">Odustani</string>
   <string name="wifi_ip_settings_menu_save">"Spremi"</string>
   <string name="wifi_limit_optimizations_summary">Ograniči bateriju korištenjem WLAN-a</string>
+  <string name="wifi_link_turbo">Koristite mobilne podatke za povećanje brzine</string>
+  <string name="wifi_link_turbo_app_settings_summary">Odaberite aplikacije koje će upotrebljavati ovu značajku</string>
+  <string name="wifi_link_turbo_app_settings_title">Odaberite aplikacije</string>
+  <string name="wifi_link_turbo_no_app">Ovdje još nema aplikacija.</string>
+  <string name="wifi_link_turbo_off">Isključi</string>
+  <string name="wifi_link_turbo_on">Uključi</string>
+  <string name="wifi_link_turbo_summary">Povećajte brzinu veze za odababrane aplikacije koje koriste mobilne podatke kada je WLAN veza loša</string>
   <string name="wifi_master_key_dialog_content_master_key">WLAN Master ključ</string>
   <string name="wifi_master_key_dialog_content_password">Zaporka</string>
   <string name="wifi_master_key_dialog_title">Poveži koristeći</string>

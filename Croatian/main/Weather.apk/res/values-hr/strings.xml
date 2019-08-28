@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">O aplikaciji Vrijeme</string>
+  <string name="about_weather_setting_feedback">Povratne inf.</string>
+  <string name="abrupt_weather_settings_summary_type">Primite upozorenja o očekivanim količinama oborina, promjenama kvalitete zraka i drugim značajnim promjenama</string>
   <string name="abrupt_weather_settings_summary_type_a">Promjena vremenskih upozorenja</string>
   <string name="abrupt_weather_settings_summary_type_b">Promjena vremenskih upozorenja</string>
   <string name="abrupt_weather_settings_title">Neobična vremenska upozorenja</string>
@@ -33,6 +36,8 @@
   <string name="add_city">Dodaj</string>
   <string name="alert_detail_title">Pojedinosti upozorenja</string>
   <string name="alert_warning">Upozorenja vremena</string>
+  <string name="alert_weather_enable_settings_summary">Primanje službenih upozorenja o vremenu</string>
+  <string name="alert_weather_enable_settings_title">Upozorenja o vremenu</string>
   <string name="already_voted">Glasano</string>
   <string name="app_name">Vrijeme</string>
   <string name="aqi_data_source">Powered by Colorful Clouds</string>
@@ -176,7 +181,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="more_details">Detalji</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
-  <string name="night_not_disturb_settings_summary">Utišaj upozorenja između 23:00 i 07:00</string>
+  <string name="night_not_disturb_settings_summary">Blokiraj upozorenja između 23:00 i 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne ometaj noću"</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
@@ -244,6 +249,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="some_where_on_earth">Negdje na Zemlji</string>
   <string name="sunrise">Izlazak sunca</string>
   <string name="sunset">Zalazak sunca</string>
+  <string name="temperature_normal_unit">%1$s°</string>
   <string name="title_share_link">Podijeli URL</string>
   <string name="translate_notification_info">Prevođenje u pozadini…</string>
   <string name="tts_best_aqi">Najbolja kvaliteta zraka</string>
@@ -262,6 +268,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="view_forecast_item_yesterday">Jučer</string>
   <string name="view_indexes_item_today">Danas</string>
   <string name="view_indexes_item_tommorrow">Sutra</string>
+  <string name="warning_weather_day_and_night_settings_summary">Primanje dnevnih sažetaka koji sadrže informacije o vremenu u 7:00 i 19:00</string>
+  <string name="warning_weather_day_and_night_settings_title">Dnevni sažeci</string>
   <string name="weather_alert_channel_name">Upozorenja</string>
   <string name="weather_introduce">Uvijek s vama.</string>
   <string name="weather_permission_agree">Prihvaćam</string>

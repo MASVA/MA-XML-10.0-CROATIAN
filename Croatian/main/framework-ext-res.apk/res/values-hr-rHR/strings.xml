@@ -36,6 +36,7 @@
   <string name="call_record_or">" Ili "</string>
   <string name="call_record_sample_prefix_miui">Poziv</string>
   <string name="caller_info_name_delimiter">" ili "</string>
+  <string name="can_not_transfer_when_screening">"Ne mogu emitirati tijekom prijenosa"</string>
   <string name="cancel_action">Odustani</string>
   <string name="close">Isključi</string>
   <string name="configure_input_methods">Odaberite tipkovnicu</string>

@@ -147,6 +147,7 @@
   <string name="fraud_call_decline">Odbij</string>
   <string name="fraud_call_waring">Budite oprezni: Uvijek provjerite identitet osobe s kojom razgovarate putem telefona ili videopoziva prije odgovora na bilo kakva pitanja koja uključuju vaše osobne informacije.</string>
   <string name="inCallLabel">Telefon</string>
+  <string name="incall_bubble_hangup_click_hint">Dodirnite ponovo da se vratte na poziv</string>
   <string name="incall_call_type_label_sip">Internetski poziv</string>
   <string name="incall_error_supp_service_conference">"Ne mogu koristiti konferencijski poziv."</string>
   <string name="incall_error_supp_service_hangup">"Ne mogu prekinuti poziv."</string>
