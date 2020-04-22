@@ -50,7 +50,7 @@
   <string name="account_none_binded_info">Ništa</string>
   <string name="account_none_binded_secure_phone">Nema broja telefona</string>
   <string name="account_none_user_name">Ništa</string>
-  <string name="account_notification_message">&gt;Sesija je istekla. Ponovno se prijavite.</string>
+  <string name="account_notification_message">Sesija je istekla. Ponovno se prijavite.</string>
   <string name="account_protection">Zaštita računa</string>
   <string name="account_protection_off">Isklj.</string>
   <string name="account_protection_on">Uklj.</string>
@@ -62,8 +62,8 @@
   <string name="account_token_expired_msg">"Kôd za potvrdu je istekao, započnite ispočetka ili se odjavite\n ID vašeg računa: %s"</string>
   <string name="account_token_expired_title">Provjera autentičnosti nije uspjela</string>
   <string name="account_user_avatar">Fotografija profila</string>
-  <string name="account_user_avatar_from_album">Odaberi fotografiju</string>
-  <string name="account_user_avatar_from_camera">Snimi fotografiju</string>
+  <string name="account_user_avatar_from_album">Galerija</string>
+  <string name="account_user_avatar_from_camera">Kamera</string>
   <string name="account_user_base_info">Osobni podaci</string>
   <string name="account_user_birthday">Rođendan</string>
   <string name="account_user_details">Osobni podaci</string>
@@ -79,7 +79,7 @@
   <string name="account_user_location_title">Odaberite trenutnu lokaciju</string>
   <string name="account_user_name">Ime</string>
   <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
-  <string name="account_user_other_info">Više izvora</string>
+  <string name="account_user_other_info">Informacije</string>
   <string name="account_user_phone">Telefon</string>
   <string name="account_user_recovery_phone">Telefon za oporavak</string>
   <string name="account_user_region">Regija</string>
@@ -90,7 +90,7 @@
   <string name="account_vip_achievements">Postignuća</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Usluge</string>
-  <string name="action_add_phone">Poveži broj telefona</string>
+  <string name="action_add_phone">Dodaj broj telefona</string>
   <string name="action_update_phone">Promjeni broj telefona</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
@@ -116,7 +116,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="button_unbind">Prekini vezu</string>
   <string name="change_activate_email">Promjeni adresu e-pošte</string>
   <string name="change_email_address">Promjeni adresu e-pošte</string>
-  <string name="change_password">Promjena zaporke</string>
+  <string name="change_password">Promjeni zaporku</string>
   <string name="change_phone_number">Promjena broja telefona</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
   <string name="cloud_service">Mi Cloud</string>
@@ -164,7 +164,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="completed">Sve je postavljeno!</string>
   <string name="confirm_activate_email">Potvrđeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potvrdi povezan broj telefona</string>
-  <string name="confirm_new_pwd">Potvrdi novu zaporke</string>
+  <string name="confirm_new_pwd">Potvrdi novu zaporku</string>
   <string name="confirm_delete_app_message">Nakon brisanja ove aplikacije, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Nakon brisanja ovog preglednika, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Nakon brisanja ovog uređaja, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
